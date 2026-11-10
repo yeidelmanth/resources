@@ -1,5 +1,3 @@
-# Features: each one is a series with its own look. Spreads name their feature by id.
-# Edited by hand or in the browser editor (see v2/README.md).
 - id: orders-from-our-general
   name: Orders from Our General
   campaign: hiskashrus
@@ -20,34 +18,27 @@
   color: teal
   kick: Niggunim
   ribbon: Niggun of the Week
-  mission: "Share this week's niggun at your Shabbos table"
+  mission: Share this week's niggun at your Shabbos table
 - id: chassidishe-frames
   name: Chassidishe Frames
   campaign: yama-depagra
   color: cyan
   kick: Yoma Depagra · Comics
   ribbon: Chassidishe Frames
-  mission: "Read this week's Chassidishe Frames"
+  mission: Read this week's Chassidishe Frames
 - id: squad-drills
   name: Squad Drills
   campaign: vehalachta-bedrachav
   color: gold
   kick: Campaign · VeHolachta Bidrochov
   ribbon: Squad Drills
-  mission: "Worked on this week's middah with your squad"
+  mission: Worked on this week's middah with your squad
 - id: mivtzoim-mania
   name: Mivtzoim Mania
   campaign: mivtzoim
   color: blue
   ribbon: Mivtzoim Mania
   mission: Went out on mivtzoim and reported back
-- id: roots
-  name: Roots
-  campaign: hiskashrus
-  color: green
-  kick: Hiskashrus · Roots
-  ribbon: Roots
-  mission: Share a story of our roots
 - id: mivtzoim-memoirs
   name: Mivtzoim Memoirs
   campaign: mivtzoim
@@ -73,16 +64,16 @@
   ribbon: Yom Tov Seasons
   mission: Lived this Yom Tov like a chayol
 - id: estys-entries
-  name: "Esty's Entries"
+  name: Esty's Entries
   campaign: yom-tov
   color: orange
-  ribbon: "Esty's Entries"
+  ribbon: Esty's Entries
   mission: Lived this Yom Tov like a chayol
 - id: senders-adventures
-  name: "Sender's Adventures"
+  name: Sender's Adventures
   campaign: yom-tov
   color: gold
-  ribbon: "Sender's Adventures"
+  ribbon: Sender's Adventures
   mission: Lived this Yom Tov like a chayol
 - id: a-tale-in-time
   name: A Tale in Time
@@ -161,11 +152,11 @@
   kick: Yom Tov · Pirkei Avos
   ribbon: Stories
 - id: mishnah-biyun
-  name: "Mishnah B'Iyun"
+  name: Mishnah B'Iyun
   campaign: yom-tov
   color: cyan
   kick: Yom Tov · Pirkei Avos
-  ribbon: "Mishnah B'Iyun"
+  ribbon: Mishnah B'Iyun
 - id: parshafier-1
   name: Parshafier 1
   campaign: hiskashrus
