@@ -1,0 +1,32 @@
+---
+// "Find this in…" box: the spread's issue, feature, campaign entries, and the
+// previous/next spread of the same feature.
+import { site, url, count } from "../lib/site";
+import type { Spread } from "../lib/site";
+interface Props { spread: Spread }
+const { spread } = Astro.props;
+const S = await site();
+const f = S.feat(spread);
+const i = spread.data.issue != null ? S.issueByNo.get(spread.data.issue) : undefined;
+const same = S.spreads.filter((s) => s.data.feature === spread.data.feature);
+const k = same.indexOf(spread);
+const prev = same[k - 1], next = same[k + 1];
+const inIssue = i ? S.spreadsInIssue(i.data.number).length : 0;
+const entries = S.entriesOf(spread);
+---
+<aside class="findin">
+  <div class="fi-h">Find this in</div>
+  <div class="fi-grid">
+    {i && <a href={url(`issues/${i.data.number}/`)}><small>Hachayol issue</small><b>#{i.data.number}{i.data.week ? ` · ${i.data.week}` : ""}</b><span>{count(inIssue, "spread")}</span></a>}
+    <a href={url(`features/${f.id}/`)}><small>Feature</small><b>{f.data.name}</b><span>{count(same.length, "spread")}</span></a>
+    {entries.map(({ campaign, section, entry }) => (
+      <a href={S.entryUrl(campaign, entry)}><small>{campaign.data.name} · {section}</small><b>{S.entryName(entry, section)}</b><span>{entry.grade}</span></a>
+    ))}
+  </div>
+  {(prev || next) && (
+    <div class="pn">
+      {prev ? <a href={S.spreadUrl(prev)}><small>← Previous {f.data.name}</small><b set:html={prev.data.title} /></a> : <span />}
+      {next && <a class="nx" href={S.spreadUrl(next)}><small>Next {f.data.name} →</small><b set:html={next.data.title} /></a>}
+    </div>
+  )}
+</aside>

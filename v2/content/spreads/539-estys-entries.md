@@ -1,0 +1,70 @@
+---
+title: Carried Away - Not!
+feature: estys-entries
+issue: 539
+kick: Yom Tov · Sukkos
+chips:
+  - Sukkos
+source: "Source: Yom Tov Campaign · Sichos - Stories - Esty's Entries"
+tags:
+  - Sukkos
+  - "Esty's Entries"
+pages:
+  - https://mashpia.com/resources/assets/img/2122d1ec58ca165c.jpg
+  - https://mashpia.com/resources/assets/img/5889d6427a049dc5.jpg
+pdf: https://mashpia.com/resources/yomtov/539%20Sukkos%2008.pdf
+sichos:
+  - label: Sicha 1
+    href: https://mashpia.com/resources/sichos/DRRTK%20vol%202%20-%20p%20112-113.pdf
+  - label: Sicha 2
+    href: https://mashpia.com/resources/sichos/TRSTC%20vol.%202%2C%20p.%20189-190.pdf
+v1: yt539sukkos08pdf
+---
+
+On Yom Tov, Tatty came home from shul singing and dancing (as usual) to the tune of “V’samachta b’chagecha…You must be happy, very, very happy…”
+
+But this time I actually thought about it. “What do you mean,” I asked Tatty, “do we really have to be happy?”
+
+“Yes!” Tatty said. “On Sukkos, being happy is a mitzvah. We are happy because we are so close to Hashem, doing the special mitzvos of sukkah, lulav, and davening, and Hashem is happy with us. That’s why Sukkos is called זמן שמחתינו—the time of our happinesses; us Yidden, and Hashem!”
+
+I wasn’t so sure, though. Mitzvos aren’t always easy for me to do. Hachnasas orchim can be pretty tough…( Is it really possible to feel happy just because you’re doing a mitzvah?
+
+Last night I learned what it means to be happy for real.
+
+After dinner, we all went to the Simchas Beis Hasho’eva at a big shul. It was the funnest in the world! We stayed up three hours past our bedtime, the music was blasting, and there were cotton candy, ices, sour belts and soda. After the clown show, everyone started dancing and hyper kids were running around everywhere. My friends, cousins, and I were all laughing and spinning in a big circle, faster and faster, until I was fainting from the dizziness and sweat.
+
+I was so relieved when my sister Mushky saved the day and brought me a bottle of water.
+
+“Thank youuu!” I said, and put it right to my mouth.
+
+Just then, in the middle of the blasting music and spinning dancing circles, I remembered what Tatty had said: “We are happy because we are doing Hashem’s mitzvos.”
+
+We’re not just dancing for no reason; we’re dancing to celebrate our mitzvos. And making a bracha is a very important mitzvah.
+
+So I stopped right there, in the middle of all the excitement, and I said the bracha carefully. Then I drank and drank and drank.
+
+A funny thing happened. Instead of being annoyed that I had to stop and say a bracha, I actually felt happier.
+
+I know what the Yetzer Hara tries to do. He tries to get kids all wild
+
+and carried away and forget to do the right thing. But the best kind of being happy is when I remember Who is in charge, and the super-fantabulous power that He gave me to do His mitzvos—even when it’s hard.
+
+Because that’s what a chayol needs to do: Be happy, really happy, and at the same time be smart and strong and do the right thing.
+
+As I was thinking all this, I saw my new neighbor, Ruthie, standing on the side all alone. I ran over to her and danced her into the circle with all my cousins and friends. Her face lit up, and I knew she felt simcha shel mitzvah too.
+
+This morning, Pesha and Freidel woke me up at six o’clock!! They wanted to play Circle Three outside.
+
+of bed, rubbed my tired eyes, and said birchos hashachar. Soon we were all running around outside, trying to circle the house without Pesha catching us. I started to forget about my cramped bedroom and trouble-making cousins.
+
+In the middle of the game, I found a big cardboard box. I turned it upside-down over myself so I was completely hidden. I could walk around the yard without anyone seeing me. I was almost done with
+
+ten more minutes, but Pesha and Freidel had already started heading inside. I dragged my feet after them with a loud sigh. We took half an hour to daven, and then we ate some scrambled eggs and toast.
+
+“You know, Esty,” said Freidel, “It was annoying to stop our game in the middle. But I’m happy that we did the right thing and came inside when it was time to daven.”
+
+“Yeah,” said Pesha, “Sometimes it’s hard to do a mitzvah. But doing mitzvos doesn’t make life less happy. Actually, when I do the right thing, I’m pretty sure it makes me even happier. It’s called simcha shel mitzvah.”
+
+Now breakfast is over, and we’re gonna go finish our game. Plus, Pesha said she’ll teach me how to double-dutch jump rope.
+
+It’s Erev Sukkos, and our cousins, the Schwartzes from South Carolina, came for Yom Tov. Pesha and Freidel are staying in my bedroom, and there’s not an inch to walk with all the mattresses on the floor. Plus, I could hardly find my clothes because of the suitcases piled on top of my dresser and dresses stuffed in my closet.

@@ -1,0 +1,67 @@
+---
+title: Shavuos
+feature: celebrate-like-a-chayol
+issue: 655
+kick: Yom Tov · Shavuos
+chips:
+  - Shavuos
+source: "Source: Yom Tov Campaign · Minhagim - Celebrate Like A Chayol"
+tags:
+  - Shavuos
+  - Celebrate Like A Chayol
+pages:
+  - https://mashpia.com/resources/assets/img/c47d071bf1ff3b42.jpg
+  - https://mashpia.com/resources/assets/img/fdf597ed792a9cda.jpg
+  - https://mashpia.com/resources/assets/img/52d3326567def52a.jpg
+  - https://mashpia.com/resources/assets/img/8cd646d0c665195f.jpg
+pdf: https://mashpia.com/resources/yomtov/08%20655-656%20Bamidbar.pdf
+v1: yt08655656bamidbarpdf
+---
+
+It was the day before Shavuos in )1885( תרמ”ה, when the Frierdiker Rebbe was still a four- year-old boy in cheder. His teacher gathered the children and said: “The Torah tells us that Moshe gathered the Yidden and took them to Har Sinai to get the Torah. Come with me! I will take you to Matan Torah!”
+
+All 30–35 students followed the melamed to the shul. There, he told them, “Tomorrow is Shavuos. I want you all to come to shul a whole hour early to be ready to get the Torah.”
+
+The next morning, the Frierdiker Rebbe woke up at 7 am. His mother, Rebbetzin Shterna Sara, tried offering him something to eat, but he refused, saying that he wouldn’t eat before getting the Torah. The young Frierdiker Rebbe went to shul and found the rest of his classmates there. After davening, their melamed took them on a walk.
+
+As we see, even in the times of the Frierdiker Rebbe, young children would come to shul on Shavuos, to hear the Aseres Hadibros!
+
+Every year, we receive the Torah on Shavuos just like the Yidden in the midbar! We learn from them how to prepare and celebrate properly. Do you know what hachanos they did?
+
+For three days before Matan Torah, they made sure not to get tamei, they cleaned their clothes, and a fence was put up around Har Sinai so they would make sure not to go on the mountain.
+
+Because of that, the three days before Shavuos are called the “ׁשְֹלׁשֶת יְמֵי הַגְּבָלָה— three days of limitation”, when the Yidden limited their weekday activities and increased their kedusha. Since we are also getting the Torah, this is a time to start making ourselves more holy, too.
+
+The Rebbe teaches us how: First, we need to put up a “fence” in our own lives. We do this by focusing on the fact that Hashem chose us as His nation—we are “fenced” in to be connected to Him. This will block the Yetzer Hara from being able to tell us what to do.
+
+Next, we take actual steps to become more holy. This includes being careful to say Modeh Ani and wash our hands every morning, as soon as we wake up. We must also make sure not to touch anything before we wash negel vasser.
+
+When we are careful to start our day with a mitzvah, then our whole day becomes holy! And when we do this every day of the Shloshes Yemei Hagbala, we are surely ready to get the Torah!
+
+Further Reading: Der Rebbe Redt Tzu Kinder, vol. 3, pp. 243–245; Likkutei Sichos, vol. 23, pp. 250–259; Ibid., vol. 28, p. 315; Sefer Hasichos 5705, pp. 100–101; Toras Menachem, vol. 8, pp. 210–211; Toras Menachem, vol. 43 p. 378; Shulchan Aruch, Orach Chaim, 494:16.
+
+continue exploring our Shavuos minhagim in Part Two next week. Stay tuned!
+
+Shavuos is a special time to eat milchigs. Do you know why? There are actually many different reasons. Some say the reason is because the Torah was given on Shabbos. From the moment the Yidden got the Torah, they had to follow the halachos of shechting animals in order to eat meat. And since they couldn’t shecht on Shabbos, they could only eat milchigs. But the Rebbe says this reason cannot be correct. Why not? It’s because there’s a mitzvah to eat meat each Yom Tov, including Shavuos. Certainly, Hashem wouldn’t give the Yidden a mitzvah without a way to fulfill it! Additionally, the Rebbe explains, the Yidden were already shechting meat before Matan Torah, so they could have eaten that meat. The Rebbe says that it must have been for other reasons. One reason is because the Torah is compared to milk, which we see in a passuk describing the Torah as “דְבַׁש וְחָלָב ּתַחַת לְׁשֹונְֵך—honey and milk are under your tongue.” Learning Torah fills us with a geshmak, like delicious foods made with milk and honey. Therefore, it’s fitting that we celebrate the Torah with milchigs.
+
+When Hashem prepared for Matan Torah, He wanted to find “guarantors”, meaning people who could absolutely make sure that the Torah would be kept, no matter what. The Yidden suggested all sorts of ideas for guarantors—big tzaddikim like the Avos and the Nevi’im—but Hashem wasn’t satisfied.
+
+But when they finally suggested the children, Hashem agreed. That’s right: Hashem gave the Torah to the entire Yiddishe nation only because He trusted that we children would learn it, keep it, and teach it to others!
+
+Because of this, the Rebbe said that we children are the “main guests” in shul every Shavuos. In תש”מ )1980(, the Rebbe started a new mivtza. He instructed that every child, even young babies just one month old (!), should come to shul to hear the Aseres Hadibros.
+
+The Rebbe emphasized that just like every single Yid was there at Har Sinai, we must try to make sure that every Yid comes to hear the Torah on Shavuos.
+
+We can see how important it is, even for little babies, from the story of Rabi Yehoshua ben Chananya. When this great tanna was very young, his mother would bring his cradle to the beis midrash. He grew up hearing people study Torah, and that helped him grow into one of the greatest talmidei chachamim.
+
+The Rebbe said that if this is true about listening to people discuss how they understand the Torah, how much more so is it true about hearing Krias HaTorah—pure words of Torah—in shul. When we children, even very young ones, are brought to shul to hear the Aseres Hadibros, it affects us and awakens our neshamos.
+
+Let’s make sure to be in shul for the Aseres Hadibros, and bring our parents, siblings, and friends along with us! Stand quietly, face the bima, and do your best to hear every word of the Aseres Hadibros. After all, Hashem is giving you the Torah again—right at that moment!
+
+learn some of our special minhagim: how a Chassid prepares for Shavuos, hears the Aseres Hadibros, eats milchigs, and more.
+
+Reb Peretz Beshenkovitzer was a Chassid of the Rebbe Maharash. His grandfather had been a great Chassid of the Tzemach Tzedek, so the Rebbe Maharash would often show Reb Peretz a special closeness. But Reb Peretz was a poor melamed, and didn’t think of himself as an important person.
+
+For many years, Reb Peretz would travel to Lubavitch for Shavuos. One year, as Reb Peretz was coming into town, the Rebbe Maharash was taking a walk and silently noticed the humble Chassid’s arrival. When Reb Peretz indeed entered the town, he saw that Lubavitch was packed! There were so many visitors that he was sure that he would not be called in for yechidus that year.
+
+However, much to his surprise, it wasn’t long before the Rebbe Maharash’s gabbai, Reb Leivik, walked over to him. “The Rebbe wants to see you for yechidus.”

@@ -1,0 +1,61 @@
+---
+title: A Jew at the Manor
+feature: roots-stories-of-our-lives
+issue: 652
+chips:
+  - Year 5786
+source: "Source: Hiskashrus Campaign · Roots — Stories of our Lives"
+pages:
+  - https://mashpia.com/resources/assets/img/e2522a8a40f1c62d.jpg
+  - https://mashpia.com/resources/assets/img/6263c700d4fd904a.jpg
+pdf: https://mashpia.com/resources/hisk/14%20652%20Acharei%20Kedoshim.pdf
+v1: hk114652achareikedoshim
+---
+
+your problem. They’ll watch the orchard while you’re gone.”
+
+Now Baruch had no choice. There was no way he could refuse without terribly offending the count. And who knew what effects that could have on the Jews under his control?
+
+So Baruch followed Piotr into the carriage, murmuring Tehillim under his breath as they traveled to the manor.
+
+paved stone path to a finely- carved oakwood door, which opened before Boruch and Piotr reached the entrance. The count himself had come out to greet them.
+
+come,” the count said graciously. “I told Piotr and Katarzyna that
+
+it’s such a shame we only met you now. I’m glad we get to host you before you leave.”
+
+up a steady banter with Baruch as they walked inside. At the end of a long corridor, a group
+
+of servants came to take their jackets and hats, after which they went further inside.
+
+Baruch dutifully let the servants take his jacket, but kept a hand firmly on his cap.
+
+reasons,” said Baruch. “It’s a verse in the Bible—the part that you read, as well. ‘All with a living soul shall praise G-d.’” 1
+
+Source: Yiddish Memoirs, vol. 1, pp. 73 - 76 / English Memoirs, vol. 1, pp. 66 - 69.
+
+Images are for illustrative purposes only and are not meant to be an accurate depiction of the holy faces of our Tzaddikim.
+
+LAST TIME: During a harvest-time visit, Baruch impresses Count Bninski and his family with his intelligence and perfect Polish. The count’s son Piotr invites Baruch to their manor. Baruch politely declines, saying he must watch the orchard. Piotr leaves briefly, then returns with guards and a dog. A Jew at the Manor
+
+for soul, neshama, is related to the word for breath—neshima. And so, the Jewish sages expound the verse as follows: With each and every breath, every living being shall praise G-d. At every moment, man is to stand in awe and respect before Him. That is why I keep my hat on; it
+
+reminds me, always, that there is Someone above me.”
+
+look on his face. “Do come,” he said, beckoning with his hand. “The rest of the family is eager to
+
+room. The room was nearly as bright as daylight, lit up as it was with dozens of torches. The floor was padded with a plush
+
+burgundy carpet, and a long gold- and blue-patterned couch lined the back wall. The countess and Princess Katarzyna, who were already on the couch, smiled and waved at Baruch as he entered the room.
+
+they were all seated. “Is wearing this cap of yours a religious law?”
+
+Baruch shook his head. “It is a custom. But for us Jews, a custom can be as important and valuable as a law. It is these customs which have kept our people connected to our religion for thousands of years.”
+
+for asking, but I’ve always been so curious. You’ve explained the reason for the cap. But what is the reason for the strings sticking out under your shirt?”
+
+to the orchard, the Jew Abram was wearing boxes on his head. And what looked like a white
+
+symbols may seem strange to the outsider. It’s for this reason, by the way, that I believe it is best for one man not to meddle with the religion of another. What may seem strange to one is a deeply important and spiritual act for the other.
+
+of these things—the strings, the boxes, the special shawl— they serve as reminders. Reminders to the Jew that he must remain connected to the spiritual world and not get distracted by the physical. Life for a Jew is not just about eating, drinking, and taking pleasure. Of course, Jews, too, need to eat, drink, and sleep; but it’s not focusing on myself and my own needs. Rather, a Jew does these things to gain energy for a higher purpose; a G-dly purpose.”

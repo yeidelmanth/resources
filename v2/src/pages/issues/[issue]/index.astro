@@ -1,0 +1,35 @@
+---
+import Base from "../../../layouts/Base.astro";
+import SpreadCard from "../../../components/SpreadCard.astro";
+import { site, url, color, count, fileUrl } from "../../../lib/site";
+export async function getStaticPaths() {
+  const S = await site();
+  return S.issues.map((i) => ({ params: { issue: String(i.data.number) } }));
+}
+const S = await site();
+const no = Number(Astro.params.issue);
+const i = S.issueByNo.get(no)!;
+const list = S.spreadsInIssue(no);
+const k = S.issues.indexOf(i);
+const newer = S.issues[k - 1], older = S.issues[k + 1];
+const byCamp = S.campaigns.map((c) => [c, list.filter((s) => S.feat(s).data.campaign === c.id)] as const).filter(([, l]) => l.length);
+---
+<Base title={`Hachayol #${no}`} crumbs={[["Hachayol issues", url("issues/")], [`#${no}`]]}>
+  <div class="ph">
+    <div class="eyebrow">Hachayol</div>
+    <h1 class="pg">Hachayol #{no}</h1>
+    <p class="lede">{[i.data.week, i.data.date, i.data.year && `Year ${i.data.year}`, count(list.length, "spread")].filter(Boolean).join(" · ")}</p>
+    {i.data.note && <p set:html={i.data.note} />}
+  </div>
+  {i.data.pdf && <a class="hbar" href={fileUrl(i.data.pdf)} target="_blank" rel="noopener"><b>Hachayol #{no}</b><span>The whole magazine</span><em>Printable PDF ↗</em></a>}
+  {byCamp.map(([c, l]) => (
+    <section style={`--c:${color(c.data.color)}`}>
+      <h2 class="sh">{c.data.name}</h2>
+      <div class="cards">{l.map((s) => <SpreadCard spread={s} show="feature" />)}</div>
+    </section>
+  ))}
+  <div class="pn">
+    {older ? <a href={url(`issues/${older.data.number}/`)}><small>← Older issue</small><b>Hachayol #{older.data.number}</b></a> : <span />}
+    {newer && <a class="nx" href={url(`issues/${newer.data.number}/`)}><small>Newer issue →</small><b>Hachayol #{newer.data.number}</b></a>}
+  </div>
+</Base>

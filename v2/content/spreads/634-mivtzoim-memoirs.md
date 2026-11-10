@@ -1,0 +1,65 @@
+---
+title: Mivtza Bayis Malei Sefarim
+feature: mivtzoim-memoirs
+issue: 634
+kick: Mivtzoim · Bayis Malei Sefarim
+chips:
+  - Bayis Malei Sefarim
+source: "Source: Mivtzoim Campaign · Mivtzoim Memoirs - How it All Began"
+tags:
+  - Bayis Malei Sefarim
+  - Mivtzoim Memoirs - How it All Began
+pages:
+  - https://mashpia.com/resources/assets/img/ce5180bcaa4ca29c.jpg
+  - https://mashpia.com/resources/assets/img/e90762e777cfbed3.jpg
+pdf: https://mashpia.com/resources/mivtzoim/10%20634%20Mikeitz.pdf
+v1: mv10634mikeitzpdf
+---
+
+If you’re wondering why Mommy and I just got back from Boro Park Furniture Outlet with six new shafehs (bookshelves), I’ll tell you.
+
+At the Yud-Tes Kislev farbrengen yesterday, the Rebbe explained that since it’s not always so easy to go out to the library when you need a sefer, every home should have its own library, too!
+
+Just like every Yiddishe mother wants a table, bed, chair, and lamp in their house, they should also demand that there be sefarim so that we know how to use our table, bed, chair, and lamp in the Torah way!
+
+And yeah, most houses don’t just have a table, bed, chair, and lamp. They have more things, too, because a nice home with nice furniture helps a person think better. It’s the same way with sefarim! They help a person most when they’re set up in a beautiful way and in an important place of the house. And of course, two sefarim are better than one! (I’m planning to buy two hundred sefarim to make my bedroom reaally beautiful.)
+
+You know how Mommy covered all the chairs with plastics so they shouldn’t look like they were ever sat on? The Rebbe said that it’s the opposite with sefarim! The more used and torn a sefer is, the more beautiful it becomes! We should buy our sefarim looking perfect, and then use them very well.
+
+I gotta go, because we are heading to the bookstore now!
+
+P.S And if I have time, I’ll be heading over to the new library—the Levi Yitzchok library—that was just opened in the neighborhood!
+
+Mivtzoim—they feel like they’ve been around forever! Can you even imagine life without them? Yet, unbelievably, before the Rebbe introduced each of the mitzvah campaigns that we know so well, they simply didn’t exist.
+
+Join us as we explore imaginary old diaries that could have belonged to kids just like you— kids who might have lived during the time when the Rebbe first announced many of these mivtzoim.
+
+For a bookworm like Dovid, the mivtza to have a house full of sefarim was especially exciting! Read all about how it came to be. )1972( ו׳ תשרי, תשל"ג
+
+For a guy like me who loves to learn, the farbrengen today might have been the best one yet! The Rebbe said that just like wherever a Yid lives there needs to be a doctor etc., there also must be a library with sefarim. Then people will learn more Torah (which teaches everyone what to do, say, and think), until they themselves become a walking, talking Torah! A Torah on two feet!
+
+P.S. I think I know how I’m gonna dress up this Purim! Cuz by then, I’ll for sure be a walking Torah, inside and out!
+
+The Rebbe just said we need a Mishnayos or Gemara, too! Baruch Hashem, we have those—I checked.
+
+I must catch you up on what’s been happening with this mivtza.
+
+A month ago, on Shabbos Parshas Bamidbar, the Rebbe added another sefer that’s important for every home: a Chumash. And that the five mivtzoim (Mivtza Tefillin, Torah, Mezuza, Tzedaka, and Sefarim) guard and protect all Yidden everywhere. Talk about being powerful!
+
+The next week, Parshas Naso, the Rebbe said that just having sefarim around reminds their owner to use them, plus it reminds Shamayim of his great z’chus that he learned or davened from them!
+
+And what’s really exciting is that yesterday, on Shabbos Parshas Korach, the Rebbe announced the mivtza’s official name: “Bayis Malei Sefarim”!
+
+My 9th birthday is coming up next week, and I’m planning to ask Tatty for 9,000 sefarim as a birthday present. I’m sure he will say yes, because the mivtza isn’t called “Bayis-with-a-Few-Sefarim”. Not even “Bayis-with-a- Lot-of-Sefarim”. It’s “Bayis-Filled-with-Sefarim”!
+
+Overnight camp is awesome! Though my counselor, Shloimy, told me that day-camp campers got to have a rally yesterday. The Rebbe said that every camper should have their own siddur and pushka.
+
+On the first page of the siddur, they should write ”“לַה' הָאָרֶץ ּומְלֹואָה with their name underneath (showing that they’re giving themselves over to Hashem, and reminding them of their Jewish name). I’m doing that right now.
+
+In the Hey Teves sicha today, the Rebbe reviewed all parts of this mivtza, and added new ones, too!
+
+Here’s a summary (my kallah asked me to write it all down):
+
+A. Siddur, Tehillim, and pushka in every home. B. Chassidishe homes: also a Tanya. C. Include basic sefarim of Yiddishkeit (sifrei
+
+halacha, etc.). D. Chosson and kallah should create a bayis

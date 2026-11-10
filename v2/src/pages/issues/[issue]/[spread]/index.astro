@@ -1,0 +1,14 @@
+---
+import { render } from "astro:content";
+import { site } from "../../../../lib/site";
+import { layoutFor } from "../../../../lib/layouts";
+export async function getStaticPaths() {
+  const S = await site();
+  return S.spreads.filter((s) => s.data.issue != null).map((s) => ({ params: { issue: String(s.data.issue), spread: S.slugOf(s) }, props: { id: s.id } }));
+}
+const S = await site();
+const spread = S.spreads.find((s) => s.id === Astro.props.id)!;
+const { Content } = await render(spread);
+const Layout = layoutFor(spread.data.feature);
+---
+<Layout spread={spread} Content={Content} />

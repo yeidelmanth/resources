@@ -1,0 +1,18 @@
+---
+import Base from "../../layouts/Base.astro";
+import { site, url, color, count } from "../../lib/site";
+const S = await site();
+---
+<Base title="Campaigns" crumbs={[["Campaigns"]]}>
+  <h1 class="pg">Campaigns</h1>
+  {S.campaigns.map((c) => (
+    <section class="camp-block" style={`--c:${color(c.data.color)}`}>
+      <h2><a href={url(`campaigns/${c.id}/`)}>{c.data.name}</a></h2>
+      <div class="links compact">
+        {c.data.sections.flatMap((sec) => sec.entries.map((e) => (
+          <a href={S.entryUrl(c, e)}><b>{S.entryName(e, sec.name)}</b><span>{[sec.name, e.grade, count(S.spreadsOf(e).length, "spread")].filter(Boolean).join(" · ")}</span></a>
+        )))}
+      </div>
+    </section>
+  ))}
+</Base>

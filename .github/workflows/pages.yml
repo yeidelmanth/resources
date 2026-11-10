@@ -1,6 +1,8 @@
 # Publishes a test copy of the site to GitHub Pages on every push to main.
 # Old PDFs and images load from mashpia.com; the login check is off because
 # GitHub Pages can't reach checkAuth.php.
+#   /resources/      the current Commander's Resources site
+#   /resources/v2/   Weekly Hachayol v2 (built from v2/)
 name: Publish to GitHub Pages
 on:
   push:
@@ -20,14 +22,21 @@ jobs:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
         with:
-          node-version: 20
+          node-version: 22
           cache: npm
+          cache-dependency-path: |
+            package-lock.json
+            v2/package-lock.json
       - run: npm ci
       - run: npm run check
       - run: node scripts/build.mjs _site
         env:
           SITE_LEGACY_BASE: https://mashpia.com/resources/
           SITE_REQUIRE_LOGIN: "false"
+      - name: Build Weekly Hachayol v2
+        working-directory: v2
+        run: npm ci && npm run build
+      - run: cp -r v2/dist _site/v2
       - run: touch _site/.nojekyll
       - uses: actions/upload-pages-artifact@v3
         with:

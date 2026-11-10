@@ -1,0 +1,70 @@
+---
+title: My Chanukah Adventure
+feature: senders-adventures
+issue: 510
+kick: Yom Tov · Channukah
+chips:
+  - Channukah
+source: "Source: Yom Tov Campaign · Sichos - Stories - Sender's Adventures"
+tags:
+  - Channukah
+  - "Sender's Adventures"
+pages:
+  - https://mashpia.com/resources/assets/img/4a986da56d7a5f2f.jpg
+  - https://mashpia.com/resources/assets/img/d36d3a91fc24cae5.jpg
+pdf: https://mashpia.com/resources/yomtov/510%20Vayeshev%205.pdf
+sichos:
+  - label: Sicha 1
+    href: https://mashpia.com/resources/sichos/DRRTK%20vol%202%20-%20p%20185-187.pdf
+  - label: Sicha 2
+    href: https://mashpia.com/resources/sichos/TRSTC%20vol.%202%2C%20p.%20284-287.pdf
+v1: yt510vayeshev5pdf
+---
+
+Some kids tell me that they aren’t heroes, because heroes do supernatural things. “That’s not the case,” I tell them. “Ordinary kids sure can do extraordinary things—I see it everyday!”
+
+Like that time my cousin’s nephew fought off the Yetzer Hara with the power of his mind alone; a story that began on the fifth night of Chanukah.
+
+We were all sitting around the Chanukah menorah two years ago, telling chassidishe stories and eating my wife’s scrumptious latkes—my family, my extended family, the family of my extended family, and the extended families’ families’ family. The kids were playing a game of dreidel in the living room when my cousin’s nephew Shneur suddenly got up in a huff and marched away, looking angry.
+
+exclaimed, “He makes me so mad. I don't want to play with him anymore."
+
+I spun the dreidel he grabbed it away—just as it was about to land on gimmel! I'm telling you, if not for him, I would have won the game by now," he sniffed. "But that’s not as bad as earlier today, when he smashed the LEGO airplane I spent three hours building, or when he spilled chocolate milk all over my homework, or the time—”
+
+you’re upset. It must be hard to have a little brother who messes up your things.”
+
+arms. “It’s impossible to be nice to someone when you’re angry.”
+
+chayol! Look at the menorah we just lit. Look at the flames. They’re telling you the story of
+
+I took a deep breath, thinking of the sicha I had learned that morning. Those words might just be what Shneur needs to hear. “The Macabees fought the greatest army of that time: the Yevanim (Greeks). Imagine: for every untrained Macabee, there were thousands of strong, professional Yevani soldiers. And
+
+war tactic: they rode on top of elephants that were as tall as houses, in order to scare the Yidden and make them surrender. They hoped to stop the Yidden from keeping Hashem’s Torah and mitzvos, and were sure they would succeed.
+
+scary to the Yidden. But guess what? The Yidden weren’t afraid at all! They didn’t run and hide in their houses, and they didn't fall to the ground and give up. Actually, they didn’t even think twice. They went straight to battle and fought the enemy— and they won.
+
+strong? Nope. They were just a few weak soldiers who didn’t have any experience at war. But they knew that the Yevanim were the enemy of Hashem Himself - so they did whatever they could to fight them off. Once they did their part, Hashem took care of the rest, and the Yidden won the battle with great miracles.
+
+“If they could do it,” I continued, “You could, too.”
+
+army trying to stop us from serving Hashem. But there is a
+
+different enemy inside of each of us: the Yetzer Hara. Just like the Yevanim, he wants to keep us from Torah and mitzvos, and he can be very strong. But when we fight the Yetzer Hara with whatever strength we have, there will be miracles.”
+
+Shneur promised he would do his best. And that would have been the end of the story, except that he called me up a couple of days later.
+
+“Reb Sender,” he exclaimed, “Hashem helped me, and I won
+
+over my Yetzer Hara!” And then he told me what happened.
+
+He had come home from school earlier that day very hungry. You see, the night before, Shneur had gone to a Chanukah party and got a big chocolate donut. He brought it home, and put it in the fridge in a paper bag with his name written in big letters all over. The next day, all he could think about was his donut. He drew pictures of it, told his best friend about it,
+
+and made plans to eat it with a cup of chocolate milk. He barely ate lunch because he was saving room for his donut.
+
+When Shneur got home, he went straight to the fridge to find his treat—but it wasn’t there. He clenched his fists. He knew Pinny must have eaten it. He wanted to run after his little brother and yell at him.
+
+But guess what? Shneur is a smart chayol. He uncovered the Yetzer Hara right away. The Yetzer Hara was fighting very strongly inside of him, trying to get him to be mean to his brother. So Shneur took a deep breath and went back to the kitchen. He took out some bran flakes and milk, and had a bowl of cereal instead. After
+
+eating, he felt much better. First of all, because he wasn’t hungry anymore. And secondly, because he realized he had won the battle with the Yetzer Hara! He didn’t even feel so angry about the donut anymore.
+
+my friends. A chayol who wins the battle with his Yetzer Hara—miraculously.

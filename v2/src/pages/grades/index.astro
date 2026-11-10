@@ -1,0 +1,13 @@
+---
+import Base from "../../layouts/Base.astro";
+import { site, url, count } from "../../lib/site";
+const S = await site();
+const gs = [...S.grades.entries()].sort((a, b) => a[0] - b[0]);
+---
+<Base title="By grade" crumbs={[["By grade"]]}>
+  <h1 class="pg">By grade</h1>
+  <p class="lede">Features assigned to a grade in the campaign list.</p>
+  <div class="grades">
+    {gs.map(([g, v]) => <a href={url(`grades/${g}/`)}><b>{g}</b><span>{v.label}</span><small>{count(v.items.length, "feature")}</small></a>)}
+  </div>
+</Base>

@@ -1,0 +1,84 @@
+---
+// The frame around every page: header, menu, footer.
+import "../styles/site.css";
+import { url } from "../lib/site";
+
+interface Props { title: string; crumbs?: [string, string?][]; wide?: boolean; description?: string }
+const { title, crumbs = [], wide = false, description } = Astro.props;
+const here = Astro.url.pathname;
+const menu: [string, string][] = [
+  ["Campaigns", "campaigns/"], ["Hachayol issues", "issues/"], ["By grade", "grades/"], ["By week", "weeks/"], ["Search", "search/"],
+];
+---
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{title === "Weekly Hachayol" ? title : `${title} · Weekly Hachayol`}</title>
+    {description && <meta name="description" content={description} />}
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Frank+Ruhl+Libre:wght@400;700&family=Poppins:wght@400;500;600&family=Saira+Condensed:wght@600;700&family=Source+Sans+3:ital,wght@0,400;0,600;0,700;1,400&display=swap" rel="stylesheet" />
+    <link rel="icon" href={url("favicon.svg")} type="image/svg+xml" />
+  </head>
+  <body>
+    <header class="top">
+      <div class="wrap bar">
+        <a class="brand" href={url()}>
+          <svg class="star" viewBox="0 0 48 48" aria-hidden="true"><circle cx="24" cy="24" r="23" fill="#F5B715" /><path d="M24 9l4.4 9.6 10.4 1.1-7.8 7 2.2 10.3L24 31.8 14.8 37l2.2-10.3-7.8-7 10.4-1.1z" fill="#14265C" /></svg>
+          <span><b>Weekly Hachayol</b><small>Tzivos Hashem · Commander’s Resources</small></span>
+        </a>
+        <form class="qs" action={url("search/")} role="search">
+          <input name="q" type="search" placeholder="Search spreads…" aria-label="Search spreads" />
+        </form>
+      </div>
+      <nav class="menu" aria-label="Main">
+        <div class="wrap">
+          {menu.map(([label, p]) => <a href={url(p)} aria-current={here.startsWith(url(p)) ? "page" : undefined}>{label}</a>)}
+        </div>
+      </nav>
+    </header>
+    {crumbs.length > 0 && (
+      <div class="crumbs"><div class="wrap">
+        <a href={url()}>Home</a>
+        {crumbs.map(([label, href]) => (<><span class="sep">›</span>{href ? <a href={href} set:html={label} /> : <span set:html={label} />}</>))}
+      </div></div>
+    )}
+    <main class:list={["wrap", { wide }]}>
+      <slot />
+    </main>
+    <footer class="foot">
+      <div class="wrap">
+        <span>Weekly Hachayol · Tzivos Hashem</span>
+        <a href="https://yeidelmanth.github.io/resources/">Full Commander’s Resources site</a>
+      </div>
+    </footer>
+    <div id="lb" class="lb" hidden>
+      <button class="lb-x" aria-label="Close">✕</button>
+      <button class="lb-p" aria-label="Previous">‹</button>
+      <img alt="" />
+      <button class="lb-n" aria-label="Next">›</button>
+    </div>
+    <script>
+      // Lightbox for page scans: click a scan, or "Full screen" to page through all of them.
+      const lb = document.getElementById("lb")!;
+      const im = lb.querySelector("img")!;
+      let list: string[] = [], at = 0;
+      const show = (i: number) => { at = (i + list.length) % list.length; im.src = list[at]; lb.querySelector<HTMLElement>(".lb-p")!.hidden = lb.querySelector<HTMLElement>(".lb-n")!.hidden = list.length < 2; };
+      const open = (l: string[], i = 0) => { list = l; show(i); lb.hidden = false; document.body.style.overflow = "hidden"; };
+      const close = () => { lb.hidden = true; document.body.style.overflow = ""; };
+      document.addEventListener("click", (e) => {
+        const t = e.target as HTMLElement;
+        const z = t.closest<HTMLImageElement>("img.zoom");
+        if (z) { const row = [...(z.closest("[data-scans]")?.querySelectorAll<HTMLImageElement>("img.zoom") || [z])]; open(row.map((x) => x.src), row.indexOf(z)); return; }
+        const f = t.closest<HTMLElement>("[data-full]");
+        if (f) { open(f.dataset.full!.split("|")); return; }
+        if (t.closest(".lb-x") || t === lb) close();
+        if (t.closest(".lb-p")) show(at - 1);
+        if (t.closest(".lb-n")) show(at + 1);
+      });
+      document.addEventListener("keydown", (e) => { if (lb.hidden) return; if (e.key === "Escape") close(); if (e.key === "ArrowLeft") show(at - 1); if (e.key === "ArrowRight") show(at + 1); });
+    </script>
+  </body>
+</html>

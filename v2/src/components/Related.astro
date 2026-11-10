@@ -1,0 +1,20 @@
+---
+// The "related links" box some sichos carry (e.g. the underlying sicha PDFs).
+import { fileUrl } from "../lib/site";
+import type { Spread } from "../lib/site";
+interface Props { spread: Spread }
+const r = Astro.props.spread.data.related;
+---
+{r && (
+  <div class="related">
+    {r.headingEn != null
+      ? <div class="rh"><span class="heb" dir="rtl" set:html={r.headingHeb} /><span set:html={r.headingEn} /></div>
+      : <div class="rh" set:html={r.heading} />}
+    <div class="rlist">
+      {r.items.map((it) => it.href
+        ? <a class="ritem" href={fileUrl(it.href)} target="_blank" rel="noopener"><span class="ric">{it.icon}</span><span><b set:html={it.title} /><small set:html={it.sub} /></span></a>
+        : <span class="ritem soon"><span class="ric">{it.icon}</span><span><b set:html={it.title} /><small set:html={it.sub} /></span></span>)}
+    </div>
+    {r.note && <div class="rnote" set:html={r.note} />}
+  </div>
+)}

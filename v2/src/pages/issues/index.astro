@@ -1,0 +1,20 @@
+---
+import Base from "../../layouts/Base.astro";
+import { site, url, count } from "../../lib/site";
+const S = await site();
+const years = [...new Set(S.issues.map((i) => i.data.year ?? 0))].sort((a, b) => b - a);
+---
+<Base title="Hachayol issues" crumbs={[["Hachayol issues"]]}>
+  <h1 class="pg">Hachayol issues</h1>
+  <p class="lede">{count(S.issues.length, "issue")}, newest first. Each issue page shows every spread printed in it.</p>
+  {years.map((y) => (
+    <section>
+      <h2 class="sh">{y ? `Year ${y}` : "Year not marked"}</h2>
+      <div class="issues">
+        {S.issues.filter((i) => (i.data.year ?? 0) === y).map((i) => (
+          <a href={url(`issues/${i.data.number}/`)}><b>#{i.data.number}</b><span>{i.data.week ?? ""}</span><small>{count(S.spreadsInIssue(i.data.number).length, "spread")}</small></a>
+        ))}
+      </div>
+    </section>
+  ))}
+</Base>

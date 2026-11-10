@@ -1,0 +1,286 @@
+# Browser editor for Weekly Hachayol v2 (Pages CMS: https://app.pagescms.org).
+# Sign in with GitHub, open yeidelmanth/resources, and edit. Saving commits to
+# the repo and the site rebuilds itself. When you add a feature, also add its
+# id to the two "feature"/"features" option lists below.
+media:
+- name: uploads
+  label: Uploads
+  input: v2/public/uploads
+  output: /uploads
+content:
+- name: spreads
+  label: Spreads
+  type: collection
+  path: v2/content/spreads
+  format: yaml-frontmatter
+  filename: '{fields.issue}-{fields.feature}.md'
+  view:
+    fields:
+    - title
+    - feature
+    - issue
+    primary: title
+    sort:
+    - issue
+    - title
+    default:
+      sort: issue
+      order: desc
+  fields:
+  - name: title
+    label: Title
+    type: string
+    required: true
+  - name: feature
+    label: Feature
+    type: select
+    required: true
+    options:
+      values: &id002
+      - orders-from-our-general
+      - rebbe-story
+      - niggun-of-the-week
+      - chassidishe-frames
+      - squad-drills
+      - mivtzoim-mania
+      - roots
+      - mivtzoim-memoirs
+      - celebrate-like-a-chayol
+      - fly-with-me
+      - yom-tov-seasons
+      - estys-entries
+      - senders-adventures
+      - a-tale-in-time
+      - rebbe-will-find-a-way
+      - roots-stories-of-our-lives
+      - parsha-podcast-1
+      - parsha-podcast-2
+      - niggunim-rallies
+      - niggun-mechuvonim
+      - yom-tov-living
+      - yom-tov-with-the-rebbe
+      - yom-tov-game
+      - pirkei-avos-full-art
+      - pirkei-avos-stories
+      - mishnah-biyun
+      - parshafier-1
+      - parshafier-2
+      - maseh-rav-comics
+      - yd-about-the-day
+      - yd-timeline-shine
+      - yd-building-blocks
+      - yd-game
+      - yd-words-of-life
+      - yd-videos
+      - charge-it-cheshbon
+      - charge-it-brias-haguf
+      - yd-soul-expression
+    description: Decides the spread's look and where it is listed. Features are in content/features.yml.
+  - name: issue
+    label: Hachayol issue number
+    type: number
+    description: Groups the spread with its issue. The issue needs a file in Issues.
+  - name: draft
+    label: Draft (hidden from the site)
+    type: boolean
+  - name: pages
+    label: Page scans
+    type: image
+    list: true
+    description: The scanned pages, in order.
+  - name: pdf
+    label: Printable PDF
+    type: file
+  - name: chips
+    label: Tags shown on the spread
+    type: string
+    list: true
+  - name: tags
+    label: Collection tags
+    type: string
+    list: true
+    description: Puts the spread in tag-based campaign entries, e.g. “Niggunei Hashana” or “Mivtzoim Mania - Stories 1”.
+  - name: subtitle
+    label: Subtitle
+    type: string
+  - name: media
+    label: Audio / video
+    type: object
+    list: true
+    fields:
+    - name: label
+      type: string
+    - name: href
+      label: File
+      type: file
+  - name: sichos
+    label: Sichos this piece is built on
+    type: object
+    list: true
+    fields:
+    - name: label
+      type: string
+    - name: href
+      label: PDF
+      type: file
+  - name: mission
+    label: Mission (leave empty to use the feature's)
+    type: string
+  - name: kick
+    label: Kicker (leave empty to use the feature's)
+    type: string
+  - name: ribbon
+    label: Ribbon (leave empty to use the feature's)
+    type: string
+  - name: source
+    label: Source line
+    type: string
+  - name: body
+    label: Text
+    type: text
+    description: Paragraphs separated by a blank line. *Italic* and HTML such as <span class="mc">…</span> are fine.
+- name: issues
+  label: Hachayol issues
+  type: collection
+  path: v2/content/issues
+  format: yaml
+  filename: '{fields.number}.yml'
+  view:
+    fields:
+    - number
+    - week
+    - year
+    primary: number
+    default:
+      sort: number
+      order: desc
+  fields:
+  - name: number
+    label: Issue number
+    type: number
+    required: true
+  - name: week
+    label: Week (e.g. Parshas Vayeira, Sukkos)
+    type: string
+  - name: date
+    label: Date (e.g. 19 Cheshvan 5787)
+    type: string
+  - name: year
+    label: Year (e.g. 5787)
+    type: number
+    description: Used for year-based campaign entries such as Roots Book 3 - 5787.
+  - name: pdf
+    label: Whole-magazine PDF
+    type: file
+  - name: note
+    label: Note
+    type: text
+- name: features
+  label: Features
+  type: file
+  path: v2/content/features.yml
+  format: yaml
+  list: true
+  fields:
+  - name: id
+    label: Id (used by spreads; no spaces)
+    type: string
+    required: true
+    pattern:
+      regex: ^[a-z0-9-]+$
+      message: Lowercase letters, numbers and dashes only
+  - name: name
+    type: string
+    required: true
+  - name: campaign
+    type: select
+    options:
+      values:
+      - niggunim
+      - yom-tov
+      - hiskashrus
+      - mivtzoim
+      - yama-depagra
+      - cheshbon-hanefesh
+      - brias-haguf
+      - vehalachta-bedrachav
+    required: true
+  - name: color
+    type: select
+    options:
+      values: &id001
+      - navy
+      - blue
+      - cyan
+      - red
+      - gold
+      - green
+      - orange
+      - teal
+      - purple
+  - name: kick
+    label: Kicker
+    type: string
+  - name: ribbon
+    type: string
+  - name: mission
+    type: string
+  - name: description
+    type: text
+- name: campaigns
+  label: Campaigns
+  type: file
+  path: v2/content/campaigns.yml
+  format: yaml
+  list: true
+  fields:
+  - name: id
+    type: string
+    required: true
+  - name: name
+    type: string
+    required: true
+  - name: color
+    type: select
+    options:
+      values: *id001
+  - name: description
+    type: text
+  - name: sections
+    type: object
+    list: true
+    fields:
+    - name: name
+      type: string
+      required: true
+    - name: entries
+      type: object
+      list: true
+      fields:
+      - name: id
+        label: Id (part of the address)
+        type: string
+        required: true
+      - name: title
+        type: string
+        required: true
+      - name: grade
+        type: string
+        description: e.g. 3rd Grade
+      - name: part
+        type: string
+      - name: show
+        label: Which spreads to show
+        type: object
+        fields:
+        - name: features
+          type: select
+          list: true
+          options:
+            values: *id002
+        - name: year
+          type: number
+          description: Only spreads from issues of this year
+        - name: tag
+          type: string
+          description: Only spreads with this collection tag

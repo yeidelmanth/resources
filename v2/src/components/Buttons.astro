@@ -1,0 +1,29 @@
+---
+// Full screen, Print PDF, Older PDFs, audio/video and sichos links.
+import { fileUrl } from "../lib/site";
+import type { Spread } from "../lib/site";
+import older from "../../content/older-pdfs.json";
+interface Props { spread: Spread }
+const d = Astro.props.spread.data;
+const pages = d.pages.map(fileUrl);
+const olderList: { label: string; href: string }[] = d.olderPdfs ? (older as any)[d.olderPdfs] || [] : [];
+---
+{(pages.length > 0 || d.pdf) && (
+  <div class="btns" data-pagefind-ignore>
+    {pages.length > 0 && <button class="btn" data-full={pages.join("|")}>Full screen</button>}
+    {d.pdf && <a class="btn" href={fileUrl(d.pdf)} target="_blank" rel="noopener">{d.pdfLabel ?? "Print PDF"}</a>}
+  </div>
+)}
+{olderList.length > 0 && (
+  <details class="older"><summary>Older PDFs</summary>
+    <ul>{olderList.map((o) => <li><a href={fileUrl(o.href)} target="_blank" rel="noopener" set:html={o.label} /></li>)}</ul>
+  </details>
+)}
+{d.media?.length && (
+  <div class="medialinks">{d.media.map((m) => <a class="mlink" href={fileUrl(m.href)} target="_blank" rel="noopener" set:html={m.label} />)}</div>
+)}
+{d.sichos?.length && (
+  <div class="sichos"><span class="lab" set:html={d.sichosLabel ?? "Sichos this piece is built on"} />
+    <div class="btns">{d.sichos.map((x) => <a class="btn ghost" href={fileUrl(x.href)} target="_blank" rel="noopener" set:html={x.label} />)}</div>
+  </div>
+)}

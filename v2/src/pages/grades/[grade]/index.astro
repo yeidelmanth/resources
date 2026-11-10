@@ -1,0 +1,32 @@
+---
+import Base from "../../../layouts/Base.astro";
+import { site, url, color, count } from "../../../lib/site";
+export async function getStaticPaths() {
+  const S = await site();
+  return [...S.grades.keys()].map((g) => ({ params: { grade: String(g) } }));
+}
+const S = await site();
+const g = S.grades.get(Number(Astro.params.grade))!;
+const camps = S.campaigns.map((c) => [c, g.items.filter((x) => x.campaign.id === c.id)] as const).filter(([, l]) => l.length);
+const gs = [...S.grades.keys()].sort((a, b) => a - b);
+const k = gs.indexOf(Number(Astro.params.grade));
+---
+<Base title={g.label} crumbs={[["By grade", url("grades/")], [g.label]]}>
+  <h1 class="pg">{g.label}</h1>
+  <p class="lede">{count(g.items.length, "feature")} in {count(camps.length, "campaign")}</p>
+  {camps.map(([c, l]) => (
+    <section style={`--c:${color(c.data.color)}`}>
+      <h2 class="sh">{c.data.name}</h2>
+      <div class="links">
+        {l.map(({ section, entry }) => {
+          const n = S.spreadsOf(entry).length;
+          return <a href={S.entryUrl(c, entry)} class:list={{ empty: !n }}><b>{S.entryName(entry, section)}</b><span>{section} · {n ? count(n, "spread") : "No spreads yet"}</span></a>;
+        })}
+      </div>
+    </section>
+  ))}
+  <div class="pn">
+    {gs[k - 1] != null ? <a href={url(`grades/${gs[k - 1]}/`)}><small>← Previous grade</small><b>{S.grades.get(gs[k - 1])!.label}</b></a> : <span />}
+    {gs[k + 1] != null && <a class="nx" href={url(`grades/${gs[k + 1]}/`)}><small>Next grade →</small><b>{S.grades.get(gs[k + 1])!.label}</b></a>}
+  </div>
+</Base>

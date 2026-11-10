@@ -1,0 +1,66 @@
+---
+title: The Boy Who Changed the World
+feature: parsha-podcast-1
+issue: 614
+chips:
+  - Emor
+source: "Source: Hiskashrus Campaign · The Parsha Podcast 1"
+pages:
+  - https://mashpia.com/resources/assets/img/52023a3bbaf06781.jpg
+  - https://mashpia.com/resources/assets/img/ee9a76ad62664310.jpg
+pdf: https://mashpia.com/resources/hisk/06%20614%20Emor.pdf
+sichos:
+  - label: Sicha 1
+    href: https://mashpia.com/resources/sichos/DRRTK%20vol.%204%2C%20p.%20166.pdf
+  - label: Sicha 2
+    href: https://mashpia.com/resources/sichos/TRSTC%20vol.%204%2C%20p.%20237-238.pdf
+v1: hk206614emor
+---
+
+chayolim just like you. Welcome to our podcast, where
+
+Chayolim, in what way can this week’s lesson make a difference to you? What changes can you make in your own life?
+
+But … don’t let it stop here! Conduct your own interviews at the Shabbos table. Choose someone
+
+to be the podcast’s guest, and together explore how to live with the messages from the parsha.
+
+So, um any ideas who we can bring to learn about Parshas Emor? Because I have none.
+
+Even I don’t know. Maybe a kohen again? Because Hashem tells Moshe special halachos for kohanim. The parsha begins with: “Speak to the kohanim, and say to them.”
+
+One second. I don't get it. There are a lot of words in that sentence that don’t need to be there. Didn't we learn that Hashem doesn't use extra words in the Torah?
+
+Yeah, Hashem could've just said, “Speak to the kohanim,” but then He also said, “and say to them.” It sounds like He’s talking to two different groups of people.
+
+Hey, I've got smart sisters! You both asked the same question as Rashi! Rashi answers: “לְהַזְהִיר ּגְדֹולִים עַל הַּקְטַּנִים— To warn the adults about the children.”
+
+Oh, I know this one! Hashem is telling Moshe to teach these halachos to the adults, and to tell the adults to teach them to the children.
+
+You got that right, Yossi! “רלְהַזְהִי” means to “warn” the children. But the Rebbe told us that “רלְהַזְהִי” can also mean “to shine light.” This means that light shines to the adults because of the children; the children are the ones who shine the light!
+
+Guys, guys! I know exactly who to bring! But I'm not even going to use the special calling system, because he's not from way back in history. I'm going to use the regular phone line.
+
+Hi Yossi! I’ve always wanted to be on the Parsha Podcast! I’m one of your biggest fans.
+
+Shmuel, I need you to teach us about “לְהַזְהִיר גְּדֹולִים עַל הַקְּטַנִּים.”
+
+I'm so confused. How is your friend going to teach us this?
+
+Because his name used to be Sammy, short for Samuel.
+
+Yossi, it's really quite simple. I met you, and you taught me all about Shabbos. So I started making kiddush Friday night, and keeping Shabbos every week. Then you taught me about kosher, so of course I only wanted to eat kosher from then on!
+
+Oh wow! But your parents didn't know about these mitzvos. What did they do?
+
+I taught my parents everything I knew! I showed them how amazing Torah and mitzvos were! They joined right in with me. Now our house is all kosher, and the whole family keeps Shabbos. My father even puts on the tefillin that he got at his Bar Mitzvah!
+
+“לְהַזְהִיר גְּדֹולִים עַל הַקְּטַנִּים—The children will give light to the adults.” Through Shmuel’s shining example, he brought his whole family to keep Torah and mitzvos!
+
+Oh, yeah, that's what we learned in Tzivos Hashem: That the children will bring the adults closer to Hashem! Everyone will see the children behaving like good soldiers, and they'll all want to do the same.
+
+Then everyone in the world will think and act like good soldiers! And then Moshiach comes! Yay!
+
+So, chayolim, think about it: In what way can you light up the adults in your life?
+
+…and that’s another fabulous episode of the Parsha Podcast. Shmuel, thank you for joining us! We’ll be sure to think the question over. See you all chayolim next week!

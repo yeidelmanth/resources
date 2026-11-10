@@ -1,0 +1,79 @@
+---
+title: "Avraham Avinu, Week 2 - The Prepared Vs Unprepared Battle - Avraham's Way, מעשה אבות סימן לבנים"
+feature: squad-drills
+issue: 670
+chips:
+  - Parshas Toldos
+source: "Source: Parshas Toldos · 3 Kislev 5787"
+pages:
+  - https://mashpia.com/resources/assets/img/4a323a26b295f4a5.jpg
+  - https://mashpia.com/resources/assets/img/6e463bf139b91bb8.jpg
+pdf: https://mashpia.com/resources/pdfs/670.pdf
+v1: i670squad
+---
+
+The only thing I remember from when I first met Sadyon is the hunger, thirst, and heat. I had been traveling on desert roads, on the outskirts of the land of the Plishtim,1 for weeks already. Sadyon, a wanderer like me, was also in desperate need of a decent meal and a comfortable bed to sleep in. He was the first person to tell me the stories about the man who they called Avraham.
+
+“Apparently he’s drawn tens of thousands of people closer to Hashem!”5
+
+“…Avraham, the man of kindness; Avraham, the Prince of Hashem;2 Avraham, the man who would help anyone and everyone…” Sadyon could not stop praising this Avraham.
+
+As we approached Be’er Sheva, we smelled a delicious scent of flowering fruit trees.7 Beautiful orchards with hundreds of trees soon came into view. We found out later that Avraham had planted all of those trees in order to provide his guests with fresh fruit.
+
+The more people we met on our travels, the more we heard about Avraham’s greatness - and the fonder we grew of him.
+
+“They say he’s so generous that the Malach of Chesed has nothing to do when he’s around.”3
+
+After we continued walking, we saw a unique tent in the distance, covered in a cloud atop its roof.8 It looked like the most accessible tent in the world, the only one I had ever seen that allowed entry from all four sides.9 And there
+
+﻿ 1 ﻿Matnas Kehunah on Bereishis Rabbah and Ramban: After the episode with Avimelech, Avraham re-settled in Be’er Sheva which was near the border of the Plishtim. ﻿ 2 Bereishis, 23:6 ﻿ 3 Sefer Habahir ﻿ 4 Sotah, 10A ﻿ 5 Rambam Avodah Zarah, 1:3 ﻿ 6 See note 1 ﻿ 7 See Rashi to Sotah, 10A ﻿ 8 Bereishis Rabbah, 15 ﻿ 9 Bereishis Rabbah, 48:9 ﻿ 10 See Bereishis Rabbah and Mefarshim to Bereishis, 18:1 ﻿ 11 Kli Yakar on “Kechom Hayom(Bereishis, 18:1): Avraham was always looking to do kindness, like the sun looks to give warmth to everyone.
+
+﻿ 12 Midrash Rabbah: “Eshel” can be rearranged to spell “She’al,” literally “Ask.” Whatever one asked for, one received. ﻿ 13 Bereishis Rabbah, 10:5 ﻿ 14 Bereishis Rabbah, 48:9 ﻿ 15 Bereishis, 18:7 and Rashi there ﻿ 16 Abarbanel on ”Vehu Omeid Aleihem.(Bereishis, 18:8) ﻿ 17 Midrash Tanchuma Vayeira, 5 ﻿ 18 Ohr Hachaim and others on “Yukach Nah Me’at Mayim(18:4) ﻿ 19 Rashi on Bereishis, 18:1 ﻿ 20 Zohar, 1:102B. Also mentioned there is a miraculous spring and lake that flowed from the tree, serving a similar purpose: rising up if the guest was in need of a quick purification, and drying up if the guest needed a 7-day period of purity. ﻿ 21 Mincha Belulah on “Over Veshav”: He looked out for those who did aveiros to ‘Veshav’, to do teshuvah. ﻿ 15, page 122 ﻿ 3, pg. 770 ﻿ 24 Bereishis Rabbah, 54:6 ﻿ 25 Sotah, 10A. See note 21 ﻿ 26.Sotah, 10A ﻿ 27 Bereishis Rabbah ﻿ 28 Yevamos, 79A
+
+<span class="mc">Squad Meeting</span>
+
+<span class="mc" style="color:#ba1126">In last week’s recon mission, we got to know what our enemy looks like. The Yetzer Hara tries to catch us off guard, because this improves his chances of success in convincing us to be self centered.This week we are ready to fight! We plan our attack by learning a different way from</span>
+
+Avraham Avinu.
+
+Avraham's Way
+
+<span class="mc" style="color:#d01d30">As told by Yuval</span>
+
+“He operates a hotel in the desert, with free room and board, purely to service others.”4 he was, Avraham himself, standing at the entrance of his tent!10 We stopped in our tracks. We were taken aback and overwhelmed by his impressive appearance. He stood there, scanning the area for guests, eagerly on the lookout to help someone. Like the sun,11 his face shone with warmth and love.
+
+We decided to go to Be’er Sheva to see for ourselves.6 We wanted to meet this extraordinary human being and see if everything that we heard about him was indeed true. But more importantly, we decided to go because we were in desperate need of food.
+
+The moment he spotted Sadyon and me, he ran towards us and begged us to give him the honor of hosting. What followed was probably the most pleasurable experience of my life.
+
+I had never before, and have never since, received such service from anyone. Anything we asked for, we received;12 literally anything. Avraham had huge storehouses filled with all kinds of delicacies, which we received within moments of our requests.13 The bread was made from the finest flour,14 we tasted the most tender cuts of meat,15 and enjoyed the freshest of fruits. Avraham served only the best of the best for every one of his guests.
+
+<span class="mc">Don't forget to include</span>
+
+<span class="mc">Torah, Tefilla, Tzedaka, and Moshiach in your</span>
+
+See you next week to apply these lessons to our lives.
+
+In fact, Avraham himself stood nearby and served us, like a servant attending to his king.16 He did not stop running from the moment we arrived until he had finished taking care of us!17 And we felt so comfortable to be Avraham’s guests - he hosted us in a most respectful manner, ensuring that we never felt embarrassed or ashamed in receiving his kindness.18
+
+However, I must say that I did feel uneasy having an older man run around for me. “I heard that Avraham is over 100 years old!” Sadyon whispered to me at one point when Avraham was out of earshot. Shocked, I was about to approach and ask our host to please stop fussing about us, when Sadyon stopped me. “It pains him when he is unable to help others!”19 he insisted.
+
+I was blown away! I had never dreamt that there could be a person who shows so much care and love for his fellow man. We were total strangers, yet Avraham treated us like honored guests. We truly felt that to Avraham, we are all children of Hashem - and therefore, all part of Avraham’s family.
+
+We ate, and were satisfied. After ensuring that we thanked Hashem for our meal,25 Avraham personally accompanied us on the first leg of our next journey.26
+
+“Does Avraham only help the good people who deserve his kindness?”
+
+<span class="mc">Don't forget to include Torah, tefillah, tzedakah, and Moshiach in your meeting!</span>
+
+forethought. Here he was, living in the middle of the desert. Why does he live here? Just to help others!
+
+I wondered aloud, between bites of red grapes. In answer to my question, Sadyon pointed out a giant, strange looking tree. If a deserving person sat below, it would spread out its leaves to shade him. If, however, the person was undeserving, the tree would hold its leaves back. Avraham would watch attentively to see who did not get shade, and it was to those people that Avraham would show extra care and attention.20 He was always on the lookout to help anyone who had done aveiros, giving them special attention and helping them do teshuvah.21
+
+As we walked away from the storage houses and orchards, and into the vast desert ahead, I realized that while I was with Avraham, I had totally forgotten that I was in the desert at all. I thought in amazement of how much Avraham prepares and goes out of his way. He always has anything his guests might need readily available. Even in a desert.
+
+Whatever he did for others was purely for Hashem. There was no thought of any reward. True, his children would be rewarded later in history,27 but the biggest reward was that his children would always be identified as merciful people, filled with kindness and good deeds.28 They would be known for following the ways of their father, Avraham. Avraham’s way of making sure he’d be prepared to help at a moment’s notice. A soldier ready for any mission. squªd discussion Which 5 acts did Avraham do that shows he was fully prepared? How did this prevent the Yetzer Hara from getting in the way of Avraham’s hachnasas orchim? What’s a hachlata your squad can take on to be more like Avraham Avinu?
+
+You see, Avraham wasn’t satisfied with simply giving us delicious food for our empty stomachs and proper shelter from the harsh desert elements. He taught us about Hashem, taking care of us spiritually as well.22 23 In fact, as we were eating, we noticed something we hadn’t realized on the way in: right next to his tent sat a Sanhedrin, ready to answer any shaalos or disputes that his guests might have!24
+
+While I walked next to him, I

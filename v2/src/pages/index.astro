@@ -1,0 +1,42 @@
+---
+import Base from "../layouts/Base.astro";
+import SpreadCard from "../components/SpreadCard.astro";
+import { site, url, color, count } from "../lib/site";
+const S = await site();
+const latest = S.issues.slice(0, 4);
+const campCount = (id: string) => S.spreads.filter((s) => S.feat(s).data.campaign === id).length;
+---
+<Base title="Weekly Hachayol">
+  <section class="hero">
+    <h1>Weekly Hachayol</h1>
+    <p>Every spread from every issue — {count(S.spreads.length, "spread")} in {count(S.issues.length, "issue")}. Find it by campaign, by issue, by grade or by week.</p>
+  </section>
+
+  <h2 class="sh">Campaigns</h2>
+  <div class="tiles">
+    {S.campaigns.map((c) => (
+      <a class="tile" href={url(`campaigns/${c.id}/`)} style={`--c:${color(c.data.color)}`}>
+        <small>{count(c.data.sections.length, "section")}</small>
+        <b>{c.data.name}</b>
+        <span>{count(c.data.sections.reduce((t, s) => t + s.entries.length, 0), "feature")}{campCount(c.id) ? ` · ${count(campCount(c.id), "spread")}` : ""}</span>
+      </a>
+    ))}
+  </div>
+
+  <h2 class="sh">Latest Hachayol issues</h2>
+  {latest.map((i) => (
+    <div class="issue-strip">
+      <a class="ih" href={url(`issues/${i.data.number}/`)}><b>Hachayol #{i.data.number}</b><span>{S.issueLabel(i)}</span></a>
+      <div class="cards">{S.spreadsInIssue(i.data.number).slice(0, 6).map((s) => <SpreadCard spread={s} show="feature" />)}</div>
+    </div>
+  ))}
+  <p><a class="more" href={url("issues/")}>All {S.issues.length} issues →</a></p>
+
+  <h2 class="sh">Other ways in</h2>
+  <div class="links">
+    <a href={url("grades/")}><b>By grade</b><span>Everything for one class, 1st through 7th grade.</span></a>
+    <a href={url("weeks/")}><b>By week</b><span>Every parsha and Yom Tov, with its issues.</span></a>
+    <a href={url("features/")}><b>All features</b><span>Each series with all of its spreads.</span></a>
+    <a href={url("search/")}><b>Search</b><span>Search the text of every spread.</span></a>
+  </div>
+</Base>

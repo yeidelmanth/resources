@@ -1,0 +1,240 @@
+# Features: each one is a series with its own look. Spreads name their feature by id.
+# Edited by hand or in the browser editor (see v2/README.md).
+- id: orders-from-our-general
+  name: Orders from Our General
+  campaign: hiskashrus
+  color: red
+  kick: Hiskashrus · Sichos
+  ribbon: Orders from Our General
+  mission: Share a sicha of the Rebbe
+- id: rebbe-story
+  name: Rebbe Story
+  campaign: hiskashrus
+  color: orange
+  kick: Hiskashrus · Rebbe Story
+  ribbon: Rebbe Story
+  mission: Share a story of the Rebbe at your Shabbos table
+- id: niggun-of-the-week
+  name: Niggun of the Week
+  campaign: niggunim
+  color: teal
+  kick: Niggunim
+  ribbon: Niggun of the Week
+  mission: "Share this week's niggun at your Shabbos table"
+- id: chassidishe-frames
+  name: Chassidishe Frames
+  campaign: yama-depagra
+  color: cyan
+  kick: Yoma Depagra · Comics
+  ribbon: Chassidishe Frames
+  mission: "Read this week's Chassidishe Frames"
+- id: squad-drills
+  name: Squad Drills
+  campaign: vehalachta-bedrachav
+  color: gold
+  kick: Campaign · VeHolachta Bidrochov
+  ribbon: Squad Drills
+  mission: "Worked on this week's middah with your squad"
+- id: mivtzoim-mania
+  name: Mivtzoim Mania
+  campaign: mivtzoim
+  color: blue
+  ribbon: Mivtzoim Mania
+  mission: Went out on mivtzoim and reported back
+- id: roots
+  name: Roots
+  campaign: hiskashrus
+  color: green
+  kick: Hiskashrus · Roots
+  ribbon: Roots
+  mission: Share a story of our roots
+- id: mivtzoim-memoirs
+  name: Mivtzoim Memoirs
+  campaign: mivtzoim
+  color: blue
+  ribbon: Mivtzoim Memoirs
+  mission: Went out on mivtzoim and reported back
+- id: celebrate-like-a-chayol
+  name: Celebrate Like A Chayol
+  campaign: yom-tov
+  color: teal
+  ribbon: Celebrate Like A Chayol
+  mission: Lived this Yom Tov like a chayol
+- id: fly-with-me
+  name: Fly With Me
+  campaign: yom-tov
+  color: cyan
+  ribbon: Fly With Me
+  mission: Lived this Yom Tov like a chayol
+- id: yom-tov-seasons
+  name: Yom Tov Seasons
+  campaign: yom-tov
+  color: green
+  ribbon: Yom Tov Seasons
+  mission: Lived this Yom Tov like a chayol
+- id: estys-entries
+  name: "Esty's Entries"
+  campaign: yom-tov
+  color: orange
+  ribbon: "Esty's Entries"
+  mission: Lived this Yom Tov like a chayol
+- id: senders-adventures
+  name: "Sender's Adventures"
+  campaign: yom-tov
+  color: gold
+  ribbon: "Sender's Adventures"
+  mission: Lived this Yom Tov like a chayol
+- id: a-tale-in-time
+  name: A Tale in Time
+  campaign: yom-tov
+  color: purple
+  ribbon: A Tale in Time
+  mission: Lived this Yom Tov like a chayol
+- id: rebbe-will-find-a-way
+  name: Rebbe Story (The Rebbe Will Find A Way)
+  campaign: hiskashrus
+  color: purple
+  kick: Hiskashrus · The Rebbe Will Find A Way
+  ribbon: Rebbe Story
+  mission: Strengthened your connection to the Rebbe
+- id: roots-stories-of-our-lives
+  name: Roots — Stories of our Lives
+  campaign: hiskashrus
+  color: gold
+  kick: Hiskashrus · Roots — Stories of our Lives
+  ribbon: Roots
+  mission: Strengthened your connection to the Rebbe
+- id: parsha-podcast-1
+  name: The Parsha Podcast 1
+  campaign: hiskashrus
+  color: cyan
+  kick: Hiskashrus · The Parsha Podcast 1
+  ribbon: Parsha Podcast
+  mission: Strengthened your connection to the Rebbe
+- id: parsha-podcast-2
+  name: The Parsha Podcast 2
+  campaign: hiskashrus
+  color: teal
+  kick: Hiskashrus · The Parsha Podcast 2
+  ribbon: Parsha Podcast
+  mission: Strengthened your connection to the Rebbe
+- id: niggunim-rallies
+  name: Rallies
+  campaign: niggunim
+  color: teal
+  kick: Niggunim · Niggunim
+  ribbon: Rallies
+- id: niggun-mechuvonim
+  name: Niggun Mechuvonim
+  campaign: niggunim
+  color: teal
+  kick: Niggunim · Niggunim
+  ribbon: Niggun Mechuvonim
+- id: yom-tov-living
+  name: Yom Tov Living
+  campaign: yom-tov
+  color: cyan
+  kick: Yom Tov · Sichos
+  ribbon: Yom Tov Living
+- id: yom-tov-with-the-rebbe
+  name: Yom Tov with the Rebbe
+  campaign: yom-tov
+  color: cyan
+  kick: Yom Tov · Stories
+  ribbon: Yom Tov with the Rebbe
+- id: yom-tov-game
+  name: Yom Tov Game
+  campaign: yom-tov
+  color: cyan
+  kick: Yom Tov · Game
+  ribbon: Yom Tov Game
+- id: pirkei-avos-full-art
+  name: Full Art
+  campaign: yom-tov
+  color: cyan
+  kick: Yom Tov · Pirkei Avos
+  ribbon: Full Art
+- id: pirkei-avos-stories
+  name: Pirkei Avos Stories
+  campaign: yom-tov
+  color: cyan
+  kick: Yom Tov · Pirkei Avos
+  ribbon: Stories
+- id: mishnah-biyun
+  name: "Mishnah B'Iyun"
+  campaign: yom-tov
+  color: cyan
+  kick: Yom Tov · Pirkei Avos
+  ribbon: "Mishnah B'Iyun"
+- id: parshafier-1
+  name: Parshafier 1
+  campaign: hiskashrus
+  color: purple
+  kick: Hiskashrus · Parsha Sichos
+  ribbon: Parshafier 1
+- id: parshafier-2
+  name: Parshafier 2
+  campaign: hiskashrus
+  color: purple
+  kick: Hiskashrus · Parsha Sichos
+  ribbon: Parshafier 2
+- id: maseh-rav-comics
+  name: Maseh Rav Comics
+  campaign: hiskashrus
+  color: purple
+  kick: Hiskashrus · Maseh Rav
+  ribbon: Comics
+- id: yd-about-the-day
+  name: About the Day
+  campaign: yama-depagra
+  color: gold
+  kick: Yama Depagra · YD Articles
+  ribbon: About the Day
+- id: yd-timeline-shine
+  name: Timeline - Shine
+  campaign: yama-depagra
+  color: gold
+  kick: Yama Depagra · YD Timelines
+  ribbon: Timeline - Shine
+- id: yd-building-blocks
+  name: Building Blocks
+  campaign: yama-depagra
+  color: gold
+  kick: Yama Depagra · YD Timelines
+  ribbon: Building Blocks
+- id: yd-game
+  name: YD Game
+  campaign: yama-depagra
+  color: gold
+  kick: Yama Depagra · YD Game
+  ribbon: YD Game
+- id: yd-words-of-life
+  name: Words of Life
+  campaign: yama-depagra
+  color: gold
+  kick: Yama Depagra · YD Pisgam
+  ribbon: Words of Life
+- id: yd-videos
+  name: Yama Depagra Videos
+  campaign: yama-depagra
+  color: gold
+  kick: Yama Depagra · Videos
+  ribbon: Videos
+- id: charge-it-cheshbon
+  name: Charge It! (Cheshbon Hanefesh)
+  campaign: cheshbon-hanefesh
+  color: navy
+  kick: Cheshbon Hanefesh · Charge It!
+  ribbon: Charge It!
+- id: charge-it-brias-haguf
+  name: Charge It! (Brias Haguf)
+  campaign: brias-haguf
+  color: green
+  kick: Brias Haguf · Charge It!
+  ribbon: Charge It!
+- id: yd-soul-expression
+  name: Soul Expression
+  campaign: yama-depagra
+  color: gold
+  kick: Yama Depagra · YD Niggunim
+  ribbon: Soul Expression

@@ -1,0 +1,66 @@
+---
+title: "The General's Trick"
+feature: parsha-podcast-1
+issue: 615
+chips:
+  - Behar Bechukosei
+source: "Source: Hiskashrus Campaign · The Parsha Podcast 1"
+pages:
+  - https://mashpia.com/resources/assets/img/7dd783a5ff695397.jpg
+  - https://mashpia.com/resources/assets/img/f21e578712380a7c.jpg
+pdf: https://mashpia.com/resources/hisk/06%20615%20Behar%20Bechukosai.pdf
+sichos:
+  - label: Sicha 1
+    href: https://mashpia.com/resources/sichos/DRRTK%20vol.%204%2C%20p.%20180-181.pdf
+  - label: Sicha 2
+    href: https://mashpia.com/resources/sichos/TRSTC%20vol.%204%2C%20p.%20254-255.pdf
+v1: hk206615beharbechukosai
+---
+
+chayolim just like you. Welcome to our podcast, where
+
+Chayolim, in what way can this week’s lesson make a difference to you? What changes can you make in your own life?
+
+But … don’t let it stop here! Conduct your own interviews at the Shabbos table. Choose someone
+
+to be the podcast’s guest, and together explore how to live with the messages from the parsha.
+
+I wish there weren’t any dangerous people in Eretz Yisroel. I wish all Yidden in Eretz Yisroel could live peacefully without any scary news.
+
+Yeah! I wish Hashem would just pick up all the terrorists and throw them away!
+
+I wonder how they protected Eretz Yisroel in the olden days. Like back when they had a Beis Hamikdash.
+
+Hey, me too. Let’s bring in a general from the army back then. Then we could ask him for tips, and share them with the army now!
+
+Will this have anything to do with Parshas Bechukosai?
+
+Yay! Super General from ancient times, calling now!
+
+Well hello kids! Are you doing your job to protect Eretz Yisroel?
+
+Uh, well, we kinda brought you here to tell us what it is. How did you protect Eretz Yisroel back in the day?
+
+Oh, hmmm. Well, we listened to Hashem when He begged us to keep Torah and mitzvos.
+
+Hashem begged you to keep Torah and mitzvos? Wow. He could’ve just asked! I’d do it right away if Hashem asked me.
+
+Yes, Hashem begged, “קֹתַי ּתֵלֵכּוּאִם ּב ְח ֻ—if only you will go in My ways!” Whenever you see the word “אִם,” you know it’s a request. Hashem is begging us!
+
+Well if He’s begging us, then for sure we’ll do it! No matter what it is.
+
+Um, but what does that have to do with protecting Eretz Yisroel?
+
+Hold on to that question, we’re getting there. First, let me just say that when Hashem begs us to do something, it’s not enough to just do it ourselves! Because we Yidden have Ahavas Yisroel.
+
+Oh, so of course we have to help all other Yidden keep Torah and mitzvos, too. And in the best possible way!
+
+Well, in the beginning of the parsha, Hashem begs us to keep His Torah and mitzvos. If we do, then later in the parsha Hashem promises us, “And you will live securely in your land, and I will make peace in the land.”
+
+Is that how you protected Eretz Yisroel a long long time ago?
+
+Well, whenever all the Yidden kept Torah and mitzvos in the right way, we stayed perfectly safe and no enemy was able to harm us.
+
+Even more so! The next thing Hashem says is: “לְכֶםֻוָאֶשְׁבֹּר מֹטֹת ע—And Hashem will break down the walls of Golus”!
+
+Then all the Yidden, from inside and outside of Eretz Yisroel, will leave Golus and welcome Moshiach! Then there will be no more war!

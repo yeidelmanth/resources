@@ -1,0 +1,30 @@
+---
+// Chassidishe Frames is a comic, so its pages come first, big and stacked,
+// with the "What we can learn" text after, in a box in the feature colour. This file is the shell for every
+// Chassidishe Frames spread; copy it to make another feature's own look.
+import Base from "../Base.astro";
+import { SpreadHead, PageScans, Buttons, Mission, SpreadLinks } from "../../components/parts";
+import { site, url, plain } from "../../lib/site";
+import type { Spread } from "../../lib/site";
+interface Props { spread: Spread; Content: any }
+const { spread, Content } = Astro.props;
+const S = await site();
+const look = S.look(spread);
+---
+<Base title={plain(spread.data.title)} crumbs={[["Hachayol issues", url("issues/")], [`#${spread.data.issue}`, url(`issues/${spread.data.issue}/`)], [plain(spread.data.title)]]}>
+  <article class="spread comic" data-pagefind-body style={`--c:${look.color};--lead:${look.leadColor}`}>
+    <span hidden data-pagefind-filter="feature">{S.feat(spread).data.name}</span>
+    <SpreadHead spread={spread} />
+    <PageScans spread={spread} layout="stack" />
+    <Buttons spread={spread} />
+    <div class="learn"><div class="prose"><Content /></div></div>
+    <Mission spread={spread} />
+    {spread.data.source && <div class="srcline" set:html={spread.data.source} />}
+  </article>
+  <SpreadLinks spread={spread} />
+</Base>
+
+<style>
+  .comic .learn { background: #fff; border: 2px solid var(--c); border-radius: 16px; padding: 18px 22px; margin-top: 22px; }
+  .comic .learn :global(.prose) { margin-top: 0; }
+</style>

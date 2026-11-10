@@ -1,0 +1,70 @@
+---
+title: When the Sea Split for Me
+feature: estys-entries
+issue: 569
+kick: "Yom Tov · Shevi'i Shel Pesach"
+chips:
+  - "Shevi'i Shel Pesach"
+source: "Source: Yom Tov Campaign · Sichos - Stories - Esty's Entries"
+tags:
+  - "Shevi'i Shel Pesach"
+  - "Esty's Entries"
+pages:
+  - https://mashpia.com/resources/assets/img/5e33db5fb84f0e8f.jpg
+  - https://mashpia.com/resources/assets/img/2d2f56e9e082f12d.jpg
+pdf: https://mashpia.com/resources/yomtov/08%20569%20Pesach.pdf
+sichos:
+  - label: Sicha 1
+    href: https://mashpia.com/resources/sichos/DRRTK%20vol%203%20-%20p%209-10.pdf
+  - label: Sicha 2
+    href: https://mashpia.com/resources/sichos/TRSTC%20vol.%203%2C%20p.%2053-55.pdf
+v1: yt08569pesachpdf
+---
+
+Source: Der Rebbe Redt tzu Kinder (New Edition) Vol. 3 p. 9. Sicha of Rosh Chodesh Nissan, 5740.
+
+שביעי של פסח When the Sea Split for Me Secret Journal!
+
+Today I had my own Krias Yam Suf. That’s right, the sea split before my very own eyes.
+
+It happened this morning as the sun's rays peeked through my bedroom curtains. I said Modeh Ani and washed negel vasser, then curled right back up under my blanket. Ahead of me was a big day with lots of missions and I didn’t know how I would do them all. There was shacharis with Hallel and Musaf, helping to cook for Shabbos, and taking a shower with a smile (ugh). Don’t forget Sefiras Ha’Omer! Oh, and continuing to eat lots of matzah to help me stay humble in my YH battle.
+
+I felt like I would drown in the huge pile of to-do’s. I put my head under my pillow, blocking out the sun which was now shining even brighter into my room, and started to doze off to sleep again.
+
+I jumped up, hearing my big sister’s voice calling. “We have six hundred more potatoes to peel. Do you want to have kugel this Shabbos or not?!”
+
+“Six hundred potatoes?” I moaned, “I would rather stay in bed.”
+
+As I said that, I looked over into the negel vasser water sitting there in the bowl. Spilling it out was yet another task on my endless list.
+
+Suddenly, I wasn’t staring at a little bowl of water, but at the deep blue water of the Yam Suf 3,336 years ago. All around me are thousands of Yidden with sheep and donkeys and lots of little kids jumping up and down, excited to leave Mitzrayim once and for all. But the adults are arguing amongst themselves, “The Mitzrim caught up to us! They’re about to attack and shlep us all back to Mitzrayim!”
+
+Moshe Rabbeinu’s voice can be heard, loud and clear: “Hashem has instructed us to keep going! Travel forward to Har Sinai and receive the Torah!”
+
+Then, from within the crowd, a noble-looking man confidently steps forward—and jumps straight into the deep, blue sea of water. Nothing was going to stop Nachshon ben Aminadav. Deeper and deeper he walks until the water is up to his nose.
+
+Suddenly, a massive miracle happens right before our very eyes! The water gushes away to the right and to the left, and then stands frozen in two great walls as high as the sky. We Yidden sing and dance as we walk forward on the dry ground.
+
+Blinking and shaking my head, I was back in my room. Peering into my negel vasser again, I wondered, could I also be like Nachshon?
+
+I jumped out of bed. Nothing could stop me. I have instructions from Hashem, and missions to accomplish. That sneaky Yetzer Hara was the one trying to tie me down with worries and fears.
+
+The day flew by with amazing success. Thanks to all of us working together, we finished preparing for Shabbos early, and even had time to go to the park. Now I’m all ready in my Shabbos clothes an hour before licht bentchen!
+
+And I learned an important lesson: Plunge forward and do great things. With Hashem’s help, it will work out in ways you can’t imagine.
+
+So you see, Krias Yam Suf does happen to us, just in different ways. Like the story that happened a few days ago, on Erev Pesach. But maybe I’ll save that for another day.
+
+I was standing in the kitchen squeezing oranges when I heard Mushky call out from the next room, “We forgot about Mrs. Goldfarb!”
+
+During the past few days, we had brought matzah to all our neighbors who needed it. But Mrs. Goldbarb wasn’t home when we knocked on her door, and we decided we would try again before Pesach.
+
+I looked outside. Good thing we’d finished burning the chametz already, because it was now pouring rain. And from the look of the dark gray sky, it wasn’t going to stop any time soon.
+
+“I’m not sure we should go,” I told Mushky, who was now standing in the kitchen. “Who says she’ll even be home this time? She probably has some machine-made matzah she can use instead. With rain like this, the matzah will get all wet, and so will we.”
+
+Thinking back, that was my Yetzer Hara trying to get me worried instead of moving ahead. I’m glad Mushky never gave me a chance to listen.
+
+“No way,” she said, “Every Yid should have shmurah matzah for the seder.”
+
+matzah and wrapped it in more plastic bags than I could count. “That should do it,” Mushky said, “Let’s go!”

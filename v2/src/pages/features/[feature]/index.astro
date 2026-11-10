@@ -1,0 +1,33 @@
+---
+import Base from "../../../layouts/Base.astro";
+import SpreadCard from "../../../components/SpreadCard.astro";
+import { site, url, color, count } from "../../../lib/site";
+import { hasOwnLayout } from "../../../lib/layouts";
+export async function getStaticPaths() {
+  const S = await site();
+  return S.features.map((f) => ({ params: { feature: f.id } }));
+}
+const S = await site();
+const f = S.featureById.get(Astro.params.feature!)!;
+const c = S.campaignById.get(f.data.campaign);
+const list = S.spreads.filter((s) => s.data.feature === f.id);
+const years = [...new Set(list.map((s) => S.yearOf(s) ?? 0))].sort((a, b) => b - a);
+const entries = S.campaigns.flatMap((cc) => cc.data.sections.flatMap((sec) => sec.entries.filter((e) => e.show.features.includes(f.id)).map((e) => ({ cc, sec, e }))));
+---
+<Base title={f.data.name} crumbs={[["All features", url("features/")], [f.data.name]]}>
+  <div class="ph" style={`--c:${color(f.data.color)}`}>
+    <div class="eyebrow">{c?.data.name ?? "Feature"}</div>
+    <h1 class="pg">{f.data.name}</h1>
+    <p class="lede">{count(list.length, "spread")} · shell: <code>{hasOwnLayout(f.id) ? `src/layouts/features/${f.id}.astro` : "src/layouts/Spread.astro (default)"}</code></p>
+  </div>
+  {entries.length > 0 && (
+    <div class="chips wide">{entries.map(({ cc, sec, e }) => <a class="chip ghost" href={S.entryUrl(cc, e)}>{cc.data.name} · {S.entryName(e, sec.name)}{e.grade ? ` · ${e.grade}` : ""}</a>)}</div>
+  )}
+  {list.length === 0 && <div class="note"><b>No spreads yet.</b> Add one with <code>feature: {f.id}</code>.</div>}
+  {years.map((y) => (
+    <>
+      {years.length > 1 && <h2 class="sh">{y ? `Year ${y}` : "Year not marked"}</h2>}
+      <div class="cards">{list.filter((s) => (S.yearOf(s) ?? 0) === y).map((s) => <SpreadCard spread={s} show="issue" />)}</div>
+    </>
+  ))}
+</Base>

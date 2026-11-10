@@ -1,0 +1,65 @@
+---
+title: The Wheels are Turning
+feature: mivtzoim-mania
+issue: 521
+kick: Mivtzoim · Purim
+chips:
+  - Purim
+source: "Source: Mivtzoim Campaign · Mivtzoim Mania - Fiction"
+tags:
+  - Purim
+  - Mivtzoim Mania - Fiction
+pages:
+  - https://mashpia.com/resources/assets/img/0a168c9f62e5dc63.jpg
+  - https://mashpia.com/resources/assets/img/c3ec633e26cb3b49.jpg
+pdf: https://mashpia.com/resources/mivtzoim/521%20Tetzaveh%207.pdf
+v1: mv521tetzaveh7pdf
+---
+
+It was the middle of the night and Rafi Adler, alav hashalom, was standing at my front door. “What are your plans for Purim?” he asked me urgently.
+
+Hearing the screams, my parents raced downstairs. “Sruli, what happened?!”
+
+Didn’t they see him standing there? My mother held my arms and started shaking me.
+
+“Huh, what…?” I was back in my bedroom again. “Um…ohhhhhh.” I sank back onto my pillow. “It was all so real, Mommy!”
+
+“You were yelling pretty loudly,” she said in a worried mommy- voice. “What were you dreaming about?”
+
+“Rafi Adler, alav hashalom. He was standing at our front door asking me about my Purim mivtzoyim plans. It was terrifying.”
+
+“I bet it was! But don’t worry Sruli, it’s just a dream,” my father reassured me. “Sometimes, what we think
+
+Rebbe at a Tzivos Hashem rally soon before Purim, on 10 Adar 5744. The Rebbe was instructing the chayolim: “We now stand in the days before Purim. Each one of you must get together and prepare to celebrate Purim in a good and joyous way.”
+
+My mind jumped from one thought to another: the incredible mivtzoyim adventures ever since that fateful day in Tishrei, the frightening dream I had a few weeks back, the Rebbe’s instructions on this video…and then the perfect idea for this year’s Purim mivtzoyim hit me!
+
+The next day after Yeshiva, with my parents’ permission, I ran to Tzivos Hashem headquarters to share my idea with the director.
+
+“Exactly,” I answered. “Like a mitzvah tank specifically for Purim. That way, we can ensure that any Jew walking in any city will be able to do all four mitzvos of Purim in one shot— and in a good and joyous way, just like the Rebbe said.”
+
+“I’ve got it all planned. Look.” I removed a piece of paper from my pocket and unfolded it. My plan was neatly written. It included all my ideas on how to create the perfect Purim Party Bus!
+
+“Each city can adapt this guide for their individual needs,” I explained. The director slid the paper from my side of the desk to his, and leaned forward in his chair.
+
+Here’s what my suggested instruction page looked like:
+
+1\. People are usually in a rush. PPB (Purim Party Bus) experience should take less than an hour to fulfill all 4 mitzvos.
+
+2\. MANPOWER? Chayolim = key 2 making it successful.... Mach Frailach i.e. Wear a costume! Invite Yidden off the streets, offer a gragger, &amp; explain the 4 mitzvos.
+
+3\. We need a super-fast Megillah reader on the PPB’s. Hold try- outs in each city?
+
+4\. Matanos L’evyonim: Heads (or reps) of local tzedakah funds on the buses. Have credit card swiper &amp; change available.
+
+5\. Seudah...Chayolim make sandwiches the day before? Every bus needs a small sink for washing, plus kvart &amp; towels. Drinks (including grape juice) &amp; hamentashen, plates, cups, &amp; napkins.
+
+6\. Mishloach manos: Chayolim prepare bags/packets ahead of time.
+
+7\. One costume for every passenger and chayol. Large colorful hats, funny glasses/ nose/mustache combo?
+
+“Sruli,” He looked up from his desk. “This is an amazing plan.”
+
+“He agrees!” I thought to myself. “Baruch Hashem. This will be fantastic!”
+
+But his next words burst my bubble. “Organizing this project means renting buses, shipping out materials, purchasing food etc. It will cost a small fortune. I’m sorry, Sruli, but Rafi’s money was used up, and there’s very little remaining from the check that Senator Goldberg gave you. We’ve spent it all on previous campaigns.”

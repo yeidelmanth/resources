@@ -3,3 +3,4 @@ dist/
 content/.history/
 *.tmp
 .DS_Store
+.astro/

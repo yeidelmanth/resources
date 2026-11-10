@@ -1,0 +1,66 @@
+---
+title: Hashem In My Heart
+feature: parsha-podcast-2
+issue: 643
+chips:
+  - Terumah
+source: "Source: Hiskashrus Campaign · The Parsha Podcast 2"
+pages:
+  - https://mashpia.com/resources/assets/img/21be78272f6bf123.jpg
+  - https://mashpia.com/resources/assets/img/e928c222d8da2d02.jpg
+pdf: https://mashpia.com/resources/hisk/06%20643%20Terumah.pdf
+sichos:
+  - label: Sicha 1
+    href: https://mashpia.com/resources/sichos/DRRTK%20vol.%204%2C%20p.%20125-126.pdf
+  - label: Sicha 2
+    href: https://mashpia.com/resources/sichos/TRSTC%20vol.%204%2C%20p.%20186-188.pdf
+v1: hk306643terumah
+---
+
+chayolim just like you. Welcome to our podcast, where
+
+Chayolim, in what way can this week’s lesson make a difference to you? What changes can you make in your own life?
+
+But … don’t let it stop here! Conduct your own interviews at the Shabbos table. Choose someone
+
+to be the podcast’s guest, and together explore how to live with the messages from the parsha.
+
+Oh, it's Parshas Teruma! This is the parsha where Hashem says ”!“וְעָׂשּו לִי מִקְּדָׁש וְשָׁכַנְּתִי ּבְתֹוכָם
+
+Yeah! “Make Me a mikdash, and I will rest within them!” We always hear about this one! It’s why we have a Chitas and pushka in our rooms, right?
+
+Yup! You two really know your stuff. Yossi, what are the guest options?
+
+Uhh, let me check. For Parshas Terumait says … Hashem. That’s the only option.
+
+How is that even possible? I guess you should just call, and we’ll see what happens.
+
+Well, of course Hashem can hear us. Hashem is everywhere!
+
+Right, dialing a number doesn’t make Hashem hear us any more or less.
+
+Hmm … Yossi, can I see that number again? And the phone, please.
+
+Well, you know how on a phone, each number also stands for a bunch of letters? This phone number has the letters for P-E-S-U-K-I-M! Like the 12 Pesukim! I think it’s trying to tell us something!
+
+Aha! It means we’re not supposed to just call Hashem; we have to bring Him in!
+
+But Hashem is everywhere. What do you mean "bring Him in"?
+
+Mimi, weren’t you just talking about the parsha? How Hashem said that if we make Him a mikdash, He will dwell in them? Well, Chazal give two explanations of what that means. One is that the Shechina is with us wherever we are. Hashem comes with the Yidden into golus—to cities far away, in the streets, and even in dark, scary rooms.
+
+Okay, you’re right, Chaim. l know Hashem is here with us. But don’t you wish we could actually feel it? I mean, I was kind of excited to talk to Him. Maybe He’d help me be less afraid of the Yetzer Hara.
+
+So, that’s the other explanation that Chazal gives us. Hashem says that He’ll dwell “within them”. That means that Hashem is actually inside us. And, that means that everything we do can have the power of Hashem Himself. Get it? There is nothing stronger than Hashem, so we really don’t need to be afraid of anything!
+
+Okay, okay. The answer to that is to learn more Torah. Torah actually brings Hashem’s Shechina into our hearts. And then, like the heart pumps blood to the whole body, the Shechina will give us lots of energy to serve Hashem!
+
+That’s why the numbers spelled out “pesukim”! We “reach Hashem” through our limmud Torah!
+
+Oh, right! הָ“אֹורַיְיתָא וְקּודְׁשָא ּבְרִיְך הּוא ּכּול חַד— Hashem and the Torah are one.” So it makes sense that learning Torah connects us with Hashem.
+
+And the Torah belongs to every single Yid from the moment we’re born. When we learn Torah, our connection with Hashem is revealed!
+
+Ooh that sounds like the first passuk of Torah that Mommy and Tatty taught us as soon as we were able to speak. What if we all say it together?
+
+”!“ּתֹורָה צִוָּה לָנּו מֹשֶׁה מֹורָשָׁה קְהִּלַת יַעֲקֹב

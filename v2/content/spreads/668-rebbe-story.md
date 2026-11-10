@@ -1,0 +1,152 @@
+---
+title: No Evidence
+feature: rebbe-story
+issue: 668
+leadColor: "#ee931b"
+chips:
+  - Parshas Vayeira
+source: "Source: Parshas Vayeira · 19 Cheshvan 5787"
+pages:
+  - https://mashpia.com/resources/assets/img/f61871fbd3b2bc58.jpg
+  - https://mashpia.com/resources/assets/img/a7af27e1fcdfc0e0.jpg
+pdf: https://mashpia.com/resources/pdfs/668.pdf
+v1: i668rebbe
+---
+
+<p class="lead">The doctors didn’t think that Greg would get better. After davening at the Ohel, his test results shocked everyone.</p>
+
+One evening in (2021), a man from our city named Greg was driving home from work. Suddenly, an extreme pain shot down one side of his body.
+
+He rushed to the hospital, and after many tests, the doctors had frightening news: Greg had a very serious disease.
+
+They began strong treatments right away. But they warned Greg that the illness was already at stage four—the most dangerous stage—and most patients did not recover from it.
+
+Everything in Greg’s life changed. He stopped going to work, sold many of his belongings, and prepared for the end of his life, which the doctors expected to happen very soon, Rachmana litzlan.
+
+But something else changed, too. Gashmiyus things no longer mattered to Greg anymore, and he became thankful for each new day.
+
+One day, Greg’s friend Larry called.
+
+“My daughter is also very sick,” Larry said. “I’m flying to New York with Rabbi Mendy Lipskier, a Chabad rabbi, to daven at the Rebbe’s Ohel. Why don’t you join us?”
+
+Greg wasn’t frum and had never heard of the Rebbe. “I don’t do things like that,” he replied.
+
+Still, Larry encouraged him to at least have lunch with Rabbi Lipskier (our father) before deciding. Greg agreed.
+
+During lunch, Tatty told Greg about the Rebbe, explaining how people go to the Ohel to daven for brachos and ask Hashem for a miracle.
+
+The whole idea seemed very strange to Greg, but finally, he agreed to go.
+
+When they arrived, Tatty encouraged Greg to take on a hachlata as a keili to receive the Rebbe’s brachos. Greg decided to put a mezuza on his door.
+
+Tatty then helped Greg put on tefillin and showed him what to do inside the Ohel. Greg went inside and read his letter, davening for a miracle.
+
+Even though the whole experience felt very new to him, Greg felt deeply moved.
+
+<figure class="handimg inline"><img src="https://mashpia.com/resources/assets/img/402f474226faee81.png" alt="handwritten note"></figure>
+
+After the trip, Greg continued the difficult treatments for many months. At one point, he was so sick that he had to stay in the hospital for a few weeks. Slowly,
+
+Greg got stronger until he was able to go home.
+
+At one point, the doctors told him that they would need to run two important scans to check if the treatments were working.
+
+After the first scan, Greg and his wife went out for lunch. While they were eating, Greg’s phone buzzed with a message from the doctor: No evidence.
+
+This meant that the doctors couldn’t find any signs of the illness!
+
+Greg was amazed and grateful, but there was still another scan left to do. This one would check for an even more dangerous part of the illness which the first scan may not have found.
+
+The next day, he went in for the second scan. Afterward, he and his wife stopped for lunch again, waiting nervously for the results.
+
+His phone buzzed a second time.
+
+Greg’s hands shook as he reached for the phone. Slowly, he looked down at the screen. No evidence.
+
+The doctors couldn’t believe it.
+
+Many specialists had already told
+
+Greg that it was impossible to recover from such a serious illness. But now, the illness was completely gone!
+
+Greg knew with complete certainty that Hashem had given him an open miracle thanks to the Rebbe’s brachos. Years after Gimmel Tammuz, we saw with our own eyes how the Rebbe continues helping Yidden in incredible ways.
+
+<span class="mc" style="color:#e36726">Zali, 12 Sholom, 8 Srolik Lipskier, 6</span>
+
+What’s the Greatest
+
+Type of Kindness?
+
+Orders from our General
+
+Avraham Avinu and Sara Imeinu were always excited about doing gemilus chasadim, and specifically, hachnasas orchim. When a visitor came to their door, they would hurry to prepare a delicious meal. Avraham himself would take care of his guests, ready to serve them anything they needed.
+
+Of course, when the three malachim came, they were treated with the same honor. And do you know what Avraham and Sara were promised while they were busy helping their guests? That a son would be born to them!
+
+From here we see that the birth of the first Yiddishe baby is connected to hachnasas orchim specifically, and to all types of gemilus chasadim, in general.
+
+Gemilus Chasadim Check
+
+Which kind of kindness is the most powerful?
+
+Helping someone in a gashmiyus way.
+
+Helping another Yid’s neshama grow through Torah and mitzvos.
+
+<span class="mc">Redt Tzu Kinder,</span>
+
+And Avraham rushed to the tent and said to Sara, "Quickly … \[prepare flour;\] knead and make cakes."
+
+This teaches us an important lesson: We Yiddishe children have a special connection to gemilus chasadim.
+
+This special mitzvah has different levels. One type of kindness is doing a favor for others—sharing a snack or toys, befriending someone who’s lonely, or letting another child go first. (Boys helping boys and girls helping girls.)
+
+There’s also another kind of gemilus chasadim: doing a favor for our own neshama by acting in the Yiddishe way, learning Torah, and doing mitzvos. This is also a wonderful type of chessed.
+
+This shows that the greatest kind of gemilus chasadim is when we combine both types by helping someone else’s neshama!
+
+The lesson for us chayolim is to do all three types of gemilus chasadim. And when we do, we will help and inspire the people who we meet, until the whole world is lit up with the knowledge of Hashem!
+
+Elite Exercise
+
+What's the difference between a good host and a really good host?
+
+Share one nice thing you did for someone else this week.
+
+Is there someone you can think of who is in need of your kindness?
+
+<span class="mc">Training Tactics</span>
+
+Would You Rather - Hachnasas Orchim Edition
+
+Avraham and Sara took this mitzvah to the next level—and we can too! Go around the table asking these questions, and you might just end up with a new appreciation for welcoming guests!
+
+<span class="mc" style="color:#570f29">...be served yummy food in a shack or spoiled food in a castle?</span>
+
+<span class="mc" style="color:#570f29">...sleep on the floor at your best friend’s house or sleep in a queen-sized bed at a stranger’s house?</span>
+
+<span class="mc" style="color:#570f29">...come an hour late to a friend’s Shabbos meal or an hour early?</span>
+
+...run out of food or drinks while hosting a farbrengen?
+
+...be the host or be the guest?
+
+...never get invited or everyone you invite always says no?
+
+The Rebbe taught us that we can go beyond the usual chessed by doing a favor for another Yid’s neshama. Can you name the ten mivtzoyim?
+
+Doing a favor for our neshama—with Torah and mitzvos—is a special type of gemilus chassadim. Can you figure out these three mitzvos?
+
+Mem + 4 blanks. Look around and you’ll spot a few.
+
+Mem + 3 blanks. Ask for it at least
+
+Mem + 2 blanks.
+
+Eat it at least twice a year
+
+<span class="mc">Answer: Help me: Mezuzah, Moshiach, Matzah (in Hebrew) Neshama Favor: Tefilin, Tzedakah, Neshek, Mezuzah, Torah, Taharas Hamishpacha, Chinuch, Ahavas Yisroel, Kosher, Bayis Malei Sefarim</span>
+
+BIRTHDAY OF THE REBBE RASHAB KEDUSHA THAT
+
+What We Can Learn: Places of kedusha have a clear, unblocked connection with Hashem. And just as Hashem exists forever, the kedusha in a physical location never disappears. Like the parchment of a Torah and the wool of tzitzis that have eternal holiness, any item used by a tzadik also becomes absolutely holy, even after the tzadik passes away. The place where the Rebbe Maharash had yechidus was so holy, it was as if his presence was still in the room.

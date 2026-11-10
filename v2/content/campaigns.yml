@@ -1,0 +1,466 @@
+# Campaigns: campaign → section → entries. Each entry shows the spreads of its features, optionally only one year or tag.
+# Edited by hand or in the browser editor (see v2/README.md).
+- id: niggunim
+  name: Niggunim
+  color: teal
+  sections:
+    - name: Niggunim
+      entries:
+        - id: niggunim-rallies
+          title: Rallies
+          grade: "1st Grade"
+          show:
+            features:
+              - niggunim-rallies
+        - id: nigunei-hashona
+          title: Nigunei Hashona
+          grade: "2nd Grade"
+          show:
+            features:
+              - niggun-of-the-week
+            tag: Niggunei Hashana
+        - id: rebbes-niggunim
+          title: The Rebbe’s Niggunim
+          grade: "3rd Grade"
+          show:
+            features:
+              - niggun-of-the-week
+            tag: Niggunim the Rebbe Taught
+        - id: niggun-mechuvonim
+          title: Niggun Mechuvonim
+          grade: "4th Grade"
+          show:
+            features:
+              - niggun-mechuvonim
+        - id: niggunim-shonos
+          title: Niggunim Shonos
+          grade: "5th Grade"
+          show:
+            features:
+              - niggun-of-the-week
+            tag: Niggunim Shonim
+    - name: More Niggunim
+      entries:
+        - id: niggun-of-the-week
+          title: Niggun of the Week
+          show:
+            features:
+              - niggun-of-the-week
+- id: yom-tov
+  name: Yom Tov
+  color: cyan
+  sections:
+    - name: Sichos
+      entries:
+        - id: fly-with-me
+          title: Fly With Me
+          grade: "1st Grade"
+          show:
+            features:
+              - fly-with-me
+        - id: yom-tov-living
+          title: Yom Tov Living
+          grade: "2nd Grade"
+          show:
+            features:
+              - yom-tov-living
+        - id: senders-adventures
+          title: Sender’s Adventures
+          grade: "3rd Grade"
+          show:
+            features:
+              - senders-adventures
+        - id: estys-entries
+          title: Esty’s Entries
+          grade: "4th Grade"
+          show:
+            features:
+              - estys-entries
+    - name: Stories
+      entries:
+        - id: yom-tov-with-the-rebbe
+          title: Yom Tov with the Rebbe
+          show:
+            features:
+              - yom-tov-with-the-rebbe
+        - id: a-tale-in-time
+          title: A Tale in Time
+          show:
+            features:
+              - a-tale-in-time
+    - name: Minhagim
+      entries:
+        - id: celebrate-like-a-chayol
+          title: Celebrate Like a Chayol
+          show:
+            features:
+              - celebrate-like-a-chayol
+    - name: Game
+      entries:
+        - id: yom-tov-game
+          title: Yom Tov Game
+          show:
+            features:
+              - yom-tov-game
+    - name: Pirkei Avos
+      entries:
+        - id: pirkei-avos-full-art
+          title: Full Art
+          show:
+            features:
+              - pirkei-avos-full-art
+        - id: pirkei-avos-stories
+          title: Stories
+          show:
+            features:
+              - pirkei-avos-stories
+        - id: mishnah-biyun
+          title: "Mishnah B'Iyun"
+          show:
+            features:
+              - mishnah-biyun
+    - name: More Yom Tov
+      entries:
+        - id: yom-tov-seasons
+          title: Yom Tov Seasons
+          show:
+            features:
+              - yom-tov-seasons
+- id: hiskashrus
+  name: Hiskashrus
+  color: purple
+  sections:
+    - name: Parsha Sichos
+      entries:
+        - id: parsha-podcast-1
+          title: Parsha Podcast 1
+          part: First Sichos
+          show:
+            features:
+              - parsha-podcast-1
+        - id: parsha-podcast-2
+          title: Parsha Podcast 2
+          part: Second Sichos
+          show:
+            features:
+              - parsha-podcast-2
+        - id: parshafier-1
+          title: Parshafier 1
+          part: First Sichos
+          show:
+            features:
+              - parshafier-1
+        - id: parshafier-2
+          title: Parshafier 2
+          part: Second Sichos
+          show:
+            features:
+              - parshafier-2
+        - id: orders-from-our-general
+          title: Orders from Our General
+          part: Third Sichos
+          show:
+            features:
+              - orders-from-our-general
+    - name: Yom Tov Sichos
+      entries:
+        - id: fly-with-me
+          title: Fly With Me
+          grade: "1st Grade"
+          show:
+            features:
+              - fly-with-me
+        - id: yom-tov-living
+          title: Yom Tov Living
+          grade: "2nd Grade"
+          show:
+            features:
+              - yom-tov-living
+        - id: senders-adventures
+          title: Sender’s Adventures
+          grade: "3rd Grade"
+          show:
+            features:
+              - senders-adventures
+        - id: estys-entries
+          title: Esty’s Entries
+          grade: "4th Grade"
+          show:
+            features:
+              - estys-entries
+    - name: Maseh Rav
+      entries:
+        - id: maseh-rav-comics
+          title: Comics
+          show:
+            features:
+              - maseh-rav-comics
+    - name: Roots
+      entries:
+        - id: roots-book-1
+          title: Book 1 - 5785
+          grade: "2nd Grade"
+          show:
+            features:
+              - roots-stories-of-our-lives
+              - roots
+            year: 5785
+        - id: roots-book-2
+          title: Book 2 - 5786
+          grade: "3rd Grade"
+          show:
+            features:
+              - roots-stories-of-our-lives
+              - roots
+            year: 5786
+        - id: roots-book-3
+          title: Book 3 - 5787
+          grade: "4th Grade"
+          show:
+            features:
+              - roots-stories-of-our-lives
+              - roots
+            year: 5787
+        - id: roots-book-4
+          title: Book 4 - 5788
+          grade: "5th Grade"
+          show:
+            features:
+              - roots-stories-of-our-lives
+              - roots
+            year: 5788
+        - id: roots-book-5
+          title: Book 5 - 5789
+          grade: "6th Grade"
+          show:
+            features:
+              - roots-stories-of-our-lives
+              - roots
+            year: 5789
+        - id: roots-book-6
+          title: Book 6 - 5790
+          grade: "7th Grade"
+          show:
+            features:
+              - roots-stories-of-our-lives
+              - roots
+            year: 5790
+    - name: The Rebbe Will Find a Way
+      entries:
+        - id: rwfaw-5782
+          title: "5782"
+          grade: "1st Grade"
+          show:
+            features:
+              - rebbe-will-find-a-way
+            year: 5782
+        - id: rwfaw-5783
+          title: "5783"
+          grade: "2nd Grade"
+          show:
+            features:
+              - rebbe-will-find-a-way
+            year: 5783
+        - id: rwfaw-5784
+          title: "5784"
+          grade: "3rd Grade"
+          show:
+            features:
+              - rebbe-will-find-a-way
+            year: 5784
+        - id: rwfaw-5785
+          title: "5785"
+          grade: "4th Grade"
+          show:
+            features:
+              - rebbe-will-find-a-way
+            year: 5785
+        - id: rwfaw-5786
+          title: "5786"
+          grade: "5th Grade"
+          show:
+            features:
+              - rebbe-will-find-a-way
+            year: 5786
+        - id: rwfaw-5787
+          title: "5787"
+          grade: "6th Grade"
+          show:
+            features:
+              - rebbe-will-find-a-way
+            year: 5787
+    - name: More Hiskashrus
+      entries:
+        - id: rebbe-story
+          title: Rebbe Story
+          show:
+            features:
+              - rebbe-story
+- id: mivtzoim
+  name: Mivtzoim
+  color: red
+  sections:
+    - name: Mivtzoim Mania
+      entries:
+        - id: mivtzoim-mania-story-1
+          title: Story 1
+          grade: "3rd Grade"
+          show:
+            features:
+              - mivtzoim-mania
+            tag: Mivtzoim Mania - Stories 1
+        - id: mivtzoim-mania-story-2
+          title: Story 2
+          grade: "4th Grade"
+          show:
+            features:
+              - mivtzoim-mania
+            tag: Mivtzoim Mania - Stories 2
+        - id: mivtzoim-mania-fiction
+          title: Fiction Story
+          grade: "5th Grade"
+          show:
+            features:
+              - mivtzoim-mania
+            tag: Mivtzoim Mania - Fiction
+    - name: Mivtzoim Memoirs
+      entries:
+        - id: mivtzoim-memoirs
+          title: How It All Began
+          grade: "6th Grade"
+          show:
+            features:
+              - mivtzoim-memoirs
+- id: yama-depagra
+  name: Yama Depagra
+  color: gold
+  sections:
+    - name: YD Articles
+      entries:
+        - id: yd-about-the-day
+          title: About the Day
+          show:
+            features:
+              - yd-about-the-day
+    - name: YD Timelines
+      entries:
+        - id: yd-timeline-shine
+          title: Timeline - Shine
+          show:
+            features:
+              - yd-timeline-shine
+        - id: yd-building-blocks
+          title: Building Blocks
+          show:
+            features:
+              - yd-building-blocks
+    - name: YD Comics
+      entries:
+        - id: chassidishe-frames-5787
+          title: Chassidishe Frames 5787
+          show:
+            features:
+              - chassidishe-frames
+            year: 5787
+        - id: chassidishe-frames-5788
+          title: Chassidishe Frames 5788
+          show:
+            features:
+              - chassidishe-frames
+            year: 5788
+        - id: chassidishe-frames-5789
+          title: Chassidishe Frames 5789
+          show:
+            features:
+              - chassidishe-frames
+            year: 5789
+        - id: chassidishe-frames-5790
+          title: Chassidishe Frames 5790
+          show:
+            features:
+              - chassidishe-frames
+            year: 5790
+    - name: YD Niggunim
+      entries:
+        - id: yd-soul-expression
+          title: Soul Expression
+          show:
+            features:
+              - yd-soul-expression
+    - name: YD Game
+      entries:
+        - id: yd-game
+          title: YD Game
+          show:
+            features:
+              - yd-game
+    - name: YD Pisgam
+      entries:
+        - id: yd-words-of-life
+          title: Words of Life
+          show:
+            features:
+              - yd-words-of-life
+    - name: Videos
+      entries:
+        - id: yd-videos
+          title: Videos
+          show:
+            features:
+              - yd-videos
+- id: cheshbon-hanefesh
+  name: Cheshbon Hanefesh
+  color: navy
+  sections:
+    - name: Charge It!
+      entries:
+        - id: charge-it-cheshbon
+          title: Charge It!
+          show:
+            features:
+              - charge-it-cheshbon
+- id: brias-haguf
+  name: Brias Haguf
+  color: green
+  sections:
+    - name: Charge It!
+      entries:
+        - id: charge-it-brias-haguf
+          title: Charge It!
+          show:
+            features:
+              - charge-it-brias-haguf
+- id: vehalachta-bedrachav
+  name: Vehalachta Bedrachav
+  color: orange
+  sections:
+    - name: Squad Drills
+      entries:
+        - id: squad-drills-5784
+          title: "5784"
+          grade: "3rd Grade"
+          show:
+            features:
+              - squad-drills
+            year: 5784
+        - id: squad-drills-5785
+          title: "5785"
+          grade: "4th Grade"
+          show:
+            features:
+              - squad-drills
+            year: 5785
+        - id: squad-drills-5786
+          title: "5786"
+          grade: "5th Grade"
+          show:
+            features:
+              - squad-drills
+            year: 5786
+        - id: squad-drills-5787
+          title: "5787"
+          grade: "6th Grade"
+          show:
+            features:
+              - squad-drills
+            year: 5787

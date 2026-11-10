@@ -1,0 +1,46 @@
+---
+title: The Gift of Sight
+feature: rebbe-will-find-a-way
+issue: 629
+chips:
+  - Medical Problem
+  - Ohel
+source: "Source: Hiskashrus Campaign · The Rebbe Will Find A Way"
+pages:
+  - https://mashpia.com/resources/assets/img/8ae16b4b7c791516.jpg
+  - https://mashpia.com/resources/assets/img/5e41ed9f3902d9f4.jpg
+pdf: https://mashpia.com/resources/hisk/04%20629%20Chayei%20Sara.pdf
+v1: hk004629chayeisara
+---
+
+Ask your parents to submit it to tzivoshashem.com/rebbestories
+
+mattered, too, she closed her eyes and whispered, “Rebbe, please ask Hashem to heal my eyes.”
+
+After their trip, they returned home to Brazil. A little while later, something strange happened: Bruna’s glasses didn’t seem to work anymore. Everything looked blurry when she wore them. She told her parents, who became very worried. Were her eyes getting worse?
+
+They took her to the eye doctor, who checked her eyes carefully. “This is unbelievable,” he said in amazement. “Bruna, your eye is better! You don’t need glasses anymore!”
+
+Bruna’s weak eye had become strong, and it didn’t wander anymore. And she could now see clearly without glasses!
+
+at the Ohel, she could finally see clearly on her own!
+
+Wherever she goes, Bruna keeps a picture of the Rebbe with her. It reminds her of the special connection she has with the Rebbe, who gave her a bracha for healthy vision.
+
+None of the doctors could explain how Bruna’s eyes suddenly healed.
+
+Tatty has been teaching Torah classes to a group of Yidden for many years. One of the men who comes to the classes has a daughter named Bruna.
+
+When Bruna was a little girl, she had a big problem with one of her eyes. It was very weak and couldn’t see well. Sometimes, it would wander, making it hard for her to focus.
+
+To make her weak eye stronger, the doctors told her to wear a patch over her good eye. "This will help your weak eye work harder and get stronger," they explained. She also needed glasses to help her see better.
+
+But Bruna didn’t like wearing the patch. It made her feel different from the other kids. "Why do you have that on your eye?" some kids would ask. Even when they didn’t say anything, she noticed them staring at her.
+
+I wish I didn’t have to wear the patch or the glasses, she’d think to herself. Whenever she spoke to Hashem, she whispered the same tefillah: "Please, Hashem, help my eyes get better so I don’t have to wear these things."
+
+But the doctors and specialists continued to tell her that her eye condition was permanent. She would hopefully grow out of the patch, but would always need glasses.
+
+One day, when Bruna was ten years old, her family took a trip to New York. They weren’t frum, but they felt a deep connection to the Rebbe. Whenever they visited New York, they always made sure to go to the Ohel to daven.
+
+This time, Bruna went, too. It was her first time there. She looked around at her parents and all of the adults around her as they poured out their hearts and asked for brachos. Knowing that her tefillos

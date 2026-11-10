@@ -1,0 +1,21 @@
+---
+// Kicker, ribbon, title, subtitle and chips (tags + Hachayol issue link).
+import { site, url } from "../lib/site";
+import type { Spread } from "../lib/site";
+interface Props { spread: Spread }
+const { spread } = Astro.props;
+const S = await site();
+const d = spread.data;
+const look = S.look(spread);
+---
+<div class="shead" style={`--c:${look.color}`}>
+  {look.kick && <div class="kick" data-pagefind-ignore set:html={look.kick} />}
+  <span class="ribbon" data-pagefind-ignore set:html={look.ribbon} />
+  {d.hebbig && <div class="hebbig heb" set:html={d.hebbig} />}
+  <h1 class:list={{ heb: d.titleHeb }} set:html={d.title} />
+  {d.subtitle && <div class="sub" set:html={d.subtitle} />}
+  <div class="chips" data-pagefind-ignore>
+    {(d.chips || []).map((c) => <span class="chip" set:html={c} />)}
+    {d.issue != null && <a class="chip chip-issue" href={url(`issues/${d.issue}/`)}>Hachayol #{d.issue}</a>}
+  </div>
+</div>

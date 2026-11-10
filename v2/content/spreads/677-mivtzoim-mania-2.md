@@ -1,0 +1,65 @@
+---
+title: My Candles!
+feature: mivtzoim-mania
+issue: 677
+kick: Mivtzoim · Neshek
+chips:
+  - Neshek
+source: "Source: Mivtzoim Campaign · Mivtzoim Mania - Stories 2"
+tags:
+  - Neshek
+  - Mivtzoim Mania - Stories 2
+pages:
+  - https://mashpia.com/resources/assets/img/242d1ad4e1c46096.jpg
+  - https://mashpia.com/resources/assets/img/0f0d9efad4dc415f.jpg
+pdf: https://mashpia.com/resources/mivtzoim/10%20677%20Shemos.pdf
+v1: mv10677shemospdf
+---
+
+Malka Bracha’s group got on, and soon enough, they were at their usual mivtzoim spot—a bike path near Prospect Park.
+
+The girls stood near the path with Shabbos candles in their hands. “Excuse me, are you Jewish?” they asked women and girls who passed by.
+
+Bikers zoomed by. Joggers hurried past. Everyone seemed to be in a rush. The girls had just a few seconds to get their attention before they were already gone.
+
+Soon, a little girl came riding by on her scooter with her nanny walking beside her. Instead of rushing past, she came over to say hello.
+
+“Yes, she is,” the nanny said with a smile. “Her name is Noa.”
+
+“I’m four!” Noa added proudly, happy to meet new friends.
+
+The girls gave Noa a special princess-themed package of Shabbos candles.
+
+“These are for Noa,” the girls explained. “She can light Shabbos candles, too!”
+
+own Shabbos candles! And they were princess- themed; her favorite!
+
+Bnos Menachem’s fourth graders headed to the subway station with a bounce in their steps. It was Friday, and that meant one thing: mivtzoim!
+
+Each group was going to a different location with its own madrichos. Our sister Malka Bracha was a madricha for Group 5.
+
+At the station, they made a rally and said pesukim. Soon, the familiar screech of the subway filled the air. Their train sped down the tracks, slowed to a stop, and opened its doors.
+
+From then on, Noa came to that spot every Friday. As soon as she noticed the girls down the path, she would race over on her scooter. “My candles!” Noa would call.
+
+After some time, the girls decided to prepare something special for her. On their way to the subway station, they stopped at Empire Kosher to choose treats for a Shabbos party package.
+
+They packed candy, a picture of the Rebbe, a candlestick, and a pretty candle-lighting guide into a pink drawstring bag. They couldn’t wait to give Noa her gift. They knew she would love it!
+
+At the subway station, they gathered for their usual rally, with Group 8 joining them for pesukim. Soon they were on the train, listening to a story about chassidim who spent Shabbos in a gas station.
+
+One of the first people they met was a jogger, hurrying down the path. She slowed down just long enough to take Shabbos candles and then hurried on.
+
+The girls smiled at each other. “Joggers never stop for long,” one girl said. “They don’t want to slow down!”
+
+“Just like us,” another girl laughed. “We’re always on the move with mivtzoim!”
+
+A few minutes later, they saw Noa heading their way.
+
+Noa’s eyes lit up when she saw the gift. “For me?!” she squealed with delight. “Thank you!”
+
+Noa was about to skip away, but then she stopped. “Can I also have candles for my little sister Ray?” she asked. “She’s two! And wait, also for my grandma. She’s coming today! And you know who else I need for? My cousin Sophie. She likes to do whatever I do!”
+
+“Of course!” the girls exclaimed. They were thrilled that Noa was helping so many others light Shabbos candles.
+
+Noa continued coming every week, and one mitzvah followed the next. The girls signed her up for Ois B’sefer Torah, and they prepared packages to give her before each yom tov. And when her bubby and aunt were coming to visit, Noa made sure to get candles for them, too.

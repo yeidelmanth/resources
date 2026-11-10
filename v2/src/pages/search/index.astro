@@ -1,0 +1,20 @@
+---
+import Base from "../../layouts/Base.astro";
+import { url } from "../../lib/site";
+---
+<Base title="Search" crumbs={[["Search"]]}>
+  <h1 class="pg">Search</h1>
+  <div id="search"></div>
+  <link href={url("pagefind/pagefind-ui.css")} rel="stylesheet" />
+  <script is:inline define:vars={{ base: url("pagefind/") }}>
+    const s = document.createElement("script");
+    s.src = base + "pagefind-ui.js";
+    s.onload = () => {
+      const ui = new PagefindUI({ element: "#search", showSubResults: false, showImages: true, resetStyles: false, translations: { placeholder: "Search every spread…" } });
+      const q = new URLSearchParams(location.search).get("q");
+      if (q) ui.triggerSearch(q);
+    };
+    s.onerror = () => { document.getElementById("search").textContent = "Search is built when the site is published (it isn't available in the local preview)."; };
+    document.head.append(s);
+  </script>
+</Base>

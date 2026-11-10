@@ -1,0 +1,23 @@
+---
+// A link to one spread, with a thumbnail of its first page.
+import { site, plain, fileUrl } from "../lib/site";
+import type { Spread } from "../lib/site";
+interface Props { spread: Spread; show?: "feature" | "issue" | "both" }
+const { spread, show = "both" } = Astro.props;
+const S = await site();
+const f = S.feat(spread).data;
+const i = spread.data.issue != null ? S.issueByNo.get(spread.data.issue) : undefined;
+const look = S.look(spread);
+const thumb = fileUrl(spread.data.pages[0]);
+const meta = [
+  show !== "issue" ? f.name : "",
+  show !== "feature" && i ? `#${i.data.number}${i.data.week ? " · " + i.data.week : ""}` : "",
+].filter(Boolean).join(" · ");
+---
+<a class="scard" href={S.spreadUrl(spread)} style={`--c:${look.color}`}>
+  <span class="thumb">{thumb ? <img src={thumb} alt="" loading="lazy" decoding="async" /> : <span class="nothumb">{plain(look.ribbon)}</span>}</span>
+  <span class="sbody">
+    <span class="smeta">{meta}</span>
+    <b set:html={spread.data.title} />
+  </span>
+</a>

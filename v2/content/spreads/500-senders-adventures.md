@@ -1,0 +1,70 @@
+---
+title: A Sukkos Mystery
+feature: senders-adventures
+issue: 500
+kick: Yom Tov · Sukkos
+chips:
+  - Sukkos
+source: "Source: Yom Tov Campaign · Sichos - Stories - Sender's Adventures"
+tags:
+  - Sukkos
+  - "Sender's Adventures"
+pages:
+  - https://mashpia.com/resources/assets/img/713fbfd31f1d83e5.jpg
+  - https://mashpia.com/resources/assets/img/83f59d1f31b10750.jpg
+pdf: https://mashpia.com/resources/yomtov/500%20Haazinu%206.pdf
+sichos:
+  - label: Sicha 1
+    href: https://mashpia.com/resources/sichos/DRRTK%20vol%202%20-%20p%20135-137.pdf
+  - label: Sicha 2
+    href: https://mashpia.com/resources/sichos/TRSTC%20vol.%202%2C%20p.%20226-229.pdf
+v1: yt500haazinu6pdf
+---
+
+8 500 הּו ני ִז ֲאַ 9 8 500 הּו ני ִז ֲאַ 9
+
+mission to do good...which reminds me of a time when I got a call from a chayol named Yankel Himmelberger.
+
+I was on the back porch polishing my yom tov shoes one Erev Sukkos. “Hello, Reb Sender!” Yankel greeted me, as an image
+
+of him hammering nails into his sukkah wall projected from my wePhone.
+
+the sukkah, but I’ve got a mystery to solve. I’m trying to do both things at once. On my way home from cheder today, I passed by a lot of Yiddishe homes. You know how I can always tell which homes are Yiddishe? Because there are mezuzos on the door. And on Erev Pesach, there are thirty-two bags of garbage on the curb. On Erev Yom Kippur, the lawn is filled with chicken feathers...”
+
+“There’s a sukkah in the yard!” “Good observation, Yankel,” I said.
+
+“Today, Reb Sender, I saw a peculiar sight,” Yankel answered. “It was the
+
+third house on Rocky Avenue. There was a mezuza on the front
+
+Yiddishe home needs a sukkah! Yankel, I want you to find out
+
+It wasn’t long before I received a report from Yankel: a Jewish family whose tatty was on a business trip. There was a mother with three small children, and no one to build a sukkah.
+
+haven’t put together my arba minim, and I have to add some more s’chach to my own sukkah. I stayed up late helping my mother peel carrots, and now
+
+There was no doubt in my mind. A voice like that could
+
+only be coming from the Yetzer Hora h i m s e l f.
+
+“Yankele, you know that Sukkos is Zman Simchaseinu— the time of our rejoicing. On Sukkos it’s a bigmitzva to be happy—very, very happy. We are filled with joy as we rush to prepare for the yom tov and its special mitzvos. But how can our joy be complete when there’s a Yid without a sukkah?”
+
+knows if they have everything else they need for the yom tov? What about arba minim, or honey?”
+
+Before I could answer, Yankel had dropped off the line, but I didn’t worry since I knew that he was up to good.
+
+am I doing to bring the simcha of the yom tov to those in need? I recalled what Zeide Berel once told me in the name of the Mitteler Rebbe: We must scatter tzedoka on Erev Sukkos, without calculations. We shouldn’t give just the ten percent that we give the rest of the year.
+
+Of course chayolim must be responsible and not do baal tashchis with their money. But when it comes to spreading Yom Tov joy to those in need, there’s
+
+Further reading: Der Rebbe Redt tzu Kinder Vol. 2, pg. 107
+
+Besides, any time we give tzedoka, Hashem promises to repay us many times over! And still we must remember that the true reason for tzedoka is simply because it is Hashem’s mitzva.
+
+I headed to my secret workshop in the back of my garage, behind an old Volkswagon, through three truck tires, and on top of five solar panels. In no time at all, I constructed a simple tzedoka- scattering device. I attached it to the back of my kfitza-board and let my wife know that I’d be a little late to give the kids their baths. When my little Rivka’le heard that, she jumped up and down. “Tatty, Tatty, can I come with you on your mission?”
+
+wePhone’s simcha detector. There were some gloomy houses
+
+nearby and some really sad ones farther away. There were some homes that didn’t even have the smell of fresh chicken soup wafting out of the windows! They needed money to buy the
+
+we flew above, tapping the dispense button on the tzedoko- scattering device. There was a big smile on Rivka’s face.

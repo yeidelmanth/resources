@@ -1,0 +1,55 @@
+---
+title: The Simple Men’s Shul
+feature: roots-stories-of-our-lives
+issue: 646
+chips:
+  - Year 5786
+source: "Source: Hiskashrus Campaign · Roots — Stories of our Lives"
+pages:
+  - https://mashpia.com/resources/assets/img/62974e8f8f289799.jpg
+  - https://mashpia.com/resources/assets/img/9b7447cae2a8bda7.jpg
+pdf: https://mashpia.com/resources/hisk/14%20646%20Vayakhel.pdf
+v1: hk114646vayakhel
+---
+
+to take over the shiurim at the village shul was Mordechai’s second son-in-law, Zalman Leib. But while Zalman Leib was just as learned as his older brother- in-law, his middos left much to be desired. He spent most of his time learning alone, and refused to have anything to do with the simple villagers in his father- in-law’s shul. When Mordechai approached Zalman Leib’s table one day (it was at the far corner of the shul, with Zalman Leib nearly hidden by the tall stacks
+
+of sefarim around him) and asked if he’d consider taking over the teaching job, Zalman Leib wrinkled his nose in disgust.
+
+sigh. “In Maseches Brachos, daf mem-daled, amud beis. Bottom of the page. There are six things that are disgraceful for a talmid chacham to do. One of them is associating with amei ha’aretz.
+
+Giving such a class would contradict a clear gemara.”
+
+With that, Zalman Leib turned and buried his nose back in his sefer. Mordechai didn’t even bother responding. He got the message: If he wanted a teacher for his shul, he’d have to hire another one.
+
+Mordechai committed to paying two-thirds of the teacher’s salary; the villagers would pay the remaining bit. With Reb Zalman Chayim’s help, they found someone for the
+
+Source: Yiddish Memoirs, vol. 1, pp. 119–122 / English Memoirs, vol. 1, pp. 116–120.
+
+Images are for illustrative purposes only and are not meant to be an accurate depiction of the holy faces of our Tzaddikim.
+
+LAST TIME: Baruch watches Reb Zalman Chayim inspire the Jews in the marketplace to come his minyan and help them with their various needs. One of the minyan members, Mordechai the Miller, has built a shul in his home village, and is looking for a rabbi. The
+
+job: an older widower named Reb Ber. Reb Ber was a great talmid chacham, quiet and unassuming. Though he could have been a rav in a large city, he preferred a small town, where he would have time and space to himself. For this reason, he was a melamed for many years, and once his children were grown, he spent his time studying alone. Mordechai’s sleepy little village suited Reb Ber perfectly.
+
+Reb Ber was as different from Zalman Leib as can be. Zalman
+
+Leib was proud of his learning, and he showed it—in every conversation he had, he would make sure to reference about half a dozen Torah sources; the more rare, the better. Reb Ber, on the other hand, was humble about his vast knowledge. Unless he was teaching a class, you wouldn’t even know he was a talmid chacham. Zalman Leib would quickly grow impatient if the person he was talking to didn’t understand his scholarly reference, while Reb Ber was the picture of patience. He could explain a simple passuk and Rashi for the hundredth time with the same passion and enthusiasm as the first. Zalman Leib hardly even said hello to the other villagers, whereas Reb Ber spent long hours teaching and talking to each one of them.
+
+One villager with whom Reb Ber spent a lot of time was old Yosseh the Tailor. When he was a boy, Yosseh’s parents had only enough money to send him to cheder for a couple of years. During that time, he learned how to read and daven, and that was it. So now, as an adult, that was still all that Yosseh knew. But he was very honest.
+
+shaky fingers and pronounced hunchback, Yosseh was far from a fast worker. Nonetheless,
+
+everyone still used his tailoring services because they knew that with Yosseh, they’d get exactly what they paid for. Yosseh would return every bit of
+
+string and every scrap of cloth leftover from his work, and he would measure the finished product two or three times to ensure he didn’t overcharge even a groschen.
+
+didn’t have much, but he shared whatever he owned. And he never said a bad word about anyone. Actually, he didn’t say much at all. “If I say nothing, I can be sure I won’t say anything that I shouldn’t,” he once explained. Reb Ber would spend a lot of time speaking and learning with Yosseh, and spoke to the other
+
+villagers about taking a lesson from Yosseh’s honesty and care with his words.
+
+Another villager whom Reb Ber gave a lot of attention to was Shlomo the Orphan. Compared to Shlomo, Yosseh was practically a youngster! No one knew exactly how old this Shlomo was, but Yosseh said that when he was a
+
+child, Shlomo was already close to forty. Despite his current age, Shlomo was called “the Orphan” because he’d lost both his parents when he was just three years old. He was brought up by his uncle, a butcher, who didn’t give Shlomo any Jewish education; he just had the boy work with him in his butcher shop. Even on Rosh Hashana and Yom Kippur, when the butcher’s family traveled to Yanovitch so they could be in shul,
+
+Shlomo was told to stay behind and watch the house. Shlomo picked up just a few bits and pieces of davening over the years—the brachos of hamotzi and shehakol, modeh ani, Shema, and the word “amen”— which Shlomo said as well as he could. Since the only brachos that Shlomo knew were hamotzi and shehakol, all he ate was bread and water. And when it was time to daven, Shlomo would put on his tefillin, say modeh ani and Shema, and then wait. When he heard a pause, he would shout the word “amen!” as loud as his raspy voice could. Sometimes, Shlomo mistook a pause in the middle of a paragraph as the end of a bracha. When he did manage to say amen at the right time, a smile of pure joy would spread across his wrinkled face.

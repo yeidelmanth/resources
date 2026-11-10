@@ -1,0 +1,14 @@
+---
+// The scanned magazine pages, side by side. Click to zoom.
+import { fileUrl, plain } from "../lib/site";
+import type { Spread } from "../lib/site";
+interface Props { spread: Spread; layout?: "row" | "stack" }
+const { spread, layout = "row" } = Astro.props;
+const pages = spread.data.pages.map(fileUrl);
+const alt = spread.data.altBase ?? plain(spread.data.title);
+---
+{pages.length > 0 && (
+  <div class:list={["scans", layout]} data-scans>
+    {pages.map((src, i) => <figure><img class="zoom" src={src} alt={`${alt} — page ${i + 1}`} loading={i ? "lazy" : "eager"} decoding="async" /></figure>)}
+  </div>
+)}

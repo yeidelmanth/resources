@@ -1,0 +1,21 @@
+---
+import Base from "../../layouts/Base.astro";
+import { site, url, color, count } from "../../lib/site";
+import { hasOwnLayout } from "../../lib/layouts";
+const S = await site();
+---
+<Base title="All features" crumbs={[["All features"]]}>
+  <h1 class="pg">All features</h1>
+  <p class="lede">Each feature is a series with its own look. ★ marks a feature with its own shell in <code>src/layouts/features/</code>.</p>
+  {S.campaigns.map((c) => {
+    const fs = S.features.filter((f) => f.data.campaign === c.id);
+    return fs.length > 0 && (
+      <section style={`--c:${color(c.data.color)}`}>
+        <h2 class="sh">{c.data.name}</h2>
+        <div class="links compact">
+          {fs.map((f) => <a href={url(`features/${f.id}/`)}><b>{f.data.name}{hasOwnLayout(f.id) ? " ★" : ""}</b><span>{count(S.spreads.filter((s) => s.data.feature === f.id).length, "spread")}</span></a>)}
+        </div>
+      </section>
+    );
+  })}
+</Base>

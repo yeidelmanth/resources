@@ -1,0 +1,25 @@
+---
+import Base from "../../layouts/Base.astro";
+import { site, url } from "../../lib/site";
+const S = await site();
+// Torah order for parshiyos, then Yamim Tovim alphabetically
+const ORDER = "Bereishis Noach Lech Lecha Vayeira Chayei Sara Toldos Vayeitzei Vayishlach Vayeishev Mikeitz Vayigash Vayechi Shemos Vaeira Bo Beshalach Yisro Mishpatim Terumah Tetzaveh Ki Sisa Vayakhel Pekudei Vayikra Tzav Shmini Tazria Metzora Acharei Kedoshim Emor Behar Bechukosai Bamidbar Naso Behaaloscha Shelach Korach Chukas Balak Pinchas Matos Masei Devarim Vaeschanan Eikev Reeh Shoftim Ki Seitzei Ki Savo Nitzavim Vayeilech Haazinu";
+const pos = (w: string) => {
+  if (!w.startsWith("Parshas ")) return 1e4;
+  const n = w.slice(8), i = ORDER.indexOf(n);
+  return i >= 0 ? i : ORDER.indexOf(n.split(" ")[0]) >= 0 ? ORDER.indexOf(n.split(" ")[0]) : 9e3;
+};
+const weeks = [...S.weeks.entries()].sort((a, b) => pos(a[0]) - pos(b[0]) || a[0].localeCompare(b[0]));
+---
+<Base title="By week" crumbs={[["By week"]]}>
+  <h1 class="pg">By week</h1>
+  <p class="lede">Every parsha and Yom Tov that has a Hachayol issue, in order.</p>
+  <div class="weeks">
+    {weeks.map(([w, is]) => (
+      <div class="wk">
+        <b>{w}</b>
+        <span>{is.map((i) => <a href={url(`issues/${i.data.number}/`)}>#{i.data.number}{i.data.year ? ` (${i.data.year})` : ""}</a>)}</span>
+      </div>
+    ))}
+  </div>
+</Base>

@@ -1,0 +1,55 @@
+---
+title: Ten Minutes a Week
+feature: rebbe-will-find-a-way
+issue: 621
+source: "Source: Hiskashrus Campaign · The Rebbe Will Find A Way"
+pages:
+  - https://mashpia.com/resources/assets/img/4cac2c7e7ef15c6d.jpg
+  - https://mashpia.com/resources/assets/img/e5fc9a5b48571eda.jpg
+pdf: https://mashpia.com/resources/hisk/04%20621%20Nitzavim.pdf
+v1: hk004621nitzavim
+---
+
+Ask your parents to submit it to tzivoshashem.com/rebbestories
+
+Now they just had to renovate it—which meant raising more money to do so. But how?
+
+One Friday, while on mivtzoim, Zeidy met a visitor and got into a conversation with him. He told the visitor about the new Chabad House and all of the good things that he planned to do there. The man was so inspired that he gave a large donation to help with the renovation. Now, they could keep growing!
+
+But the building was huge—should they renovate all of it? The next time they were at the Ohel, they saw a video of the Rebbe encouraging shluchim to build with extra space, which would inspire them to do even more. Taking the message to heart, Bubby and Zeidy decided to renovate fully and make more programs.
+
+They thought of opening a kosher deli in the extra space, but hesitated because it would take a lot of work. Remembering the Rebbe’s message to expand without fear, they decided to do it—and it’s been a big success ever since!
+
+Yidden who wouldn’t normally come for davening or programs feel comfortable stopping by for a kosher sandwich or chicken soup. And once they’re there, many agree to put on tefillin, do a mitzvah, and even join other programs as well.
+
+When our family visited from Florida, we also got to taste the yummy food and connect with Yidden who had stopped by for a bite.
+
+Just as the Rebbe helped Bubby and Zeidy continue forward despite challenges, we know that the Rebbe believes in each one of us, encouraging us to grow and add—even when it’s hard!
+
+The note from the Rebbe had an important message for Zeidy.
+
+Bubby and Zeidy’s Chabad House was packed! Every week, more people came to daven, learn, and join programs. Soon, there just wasn’t enough space for everyone.
+
+“We need to make our Chabad House bigger,” they realized.
+
+A kind couple in the community offered a big donation to expand the Chabad House, so Zeidy hired a contractor and got started. But things kept going wrong before construction even began.
+
+Zeidy began to have doubts. Maybe we shouldn’t rebuild, he thought, feeling heavy inside.
+
+When Yud Shvat came, Zeidy went to the Ohel and wrote a letter to the Rebbe. I don’t know if I should continue with the plans to expand the Chabad House, he wrote. Please help me make the right choice.
+
+The following week was our aunt’s Bas Mitzvah, and Zeidy wanted to give her a special gift: something from the Rebbe. He went to his safe, where he keeps the dollars, letters, and other precious items received from the Rebbe, along with the collection which he had inherited from his father.
+
+As Zeidy opened the safe, a small piece of paper fluttered out.
+
+What’s this? he wondered. He picked it up and realized that it was a note from his father’s collection. Zeidy had never noticed the tiny note until now.
+
+A message was written in the Rebbe’s handwriting, with the words: ּבְמֶרֶץ וְהִתְּפַשְּׁטּות“ לִּבְלִי חֵת—With energy and expansion, without fear!”
+
+Zeidy was stunned. He felt that the Rebbe was answering him and saying, “There’s no need to worry. Continue growing and expanding, without hesitation!”
+
+Encouraged, Bubby and Zeidy decided to go ahead with the expansion. They rented a temporary Chabad House, and even held a big celebration in honor of the construction. The community was very excited.
+
+But things still kept going wrong. It seemed like it just wasn’t going to work out.
+
+One day, b’hashgacha pratis, Bubby came across a huge building in the center of town that had just gone up for sale. It was much, much bigger than the expansion they were planning, and in a much better location. But it was a big leap from their original plans. Still, they remembered the Rebbe’s bracha: “With energy and expansion, without fear!” So they made the leap, and with a lot

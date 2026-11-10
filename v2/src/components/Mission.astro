@@ -1,0 +1,15 @@
+---
+// The mission box at the end of a spread.
+import { site } from "../lib/site";
+import type { Spread } from "../lib/site";
+interface Props { spread: Spread }
+const S = await site();
+const look = S.look(Astro.props.spread);
+---
+{look.mission && (
+  <div class="mission" data-pagefind-ignore style={`--c:${look.missionColor}`}>
+    <div class="mlab">Mission</div>
+    <div class="mtext" set:html={look.mission} />
+    <a class="mmark" href="https://yeidelmanth.github.io/resources/#/marking">Mark missions →</a>
+  </div>
+)}

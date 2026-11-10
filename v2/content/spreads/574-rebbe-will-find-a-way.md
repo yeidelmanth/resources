@@ -1,0 +1,64 @@
+---
+title: A Chof Cheshvan Miracle
+feature: rebbe-will-find-a-way
+issue: 574
+chips:
+  - Travel/ Passport
+  - Shlichus/ Chabad House
+  - Ohel
+  - Mezuzos/ Tefillin
+source: "Source: Hiskashrus Campaign · The Rebbe Will Find A Way"
+pages:
+  - https://mashpia.com/resources/assets/img/d22e880f6c119c34.jpg
+  - https://mashpia.com/resources/assets/img/556e56cfe9fd5f79.jpg
+pdf: https://mashpia.com/resources/hisk/04%20574%20Bechukosai.pdf
+v1: hk004574bechukosai
+---
+
+Ask your parents to submit it to tzivoshashem.com/rebbestories
+
+The young man just laughed. It didn’t seem like he would help.
+
+“Just think about it while you’re in the Ohel. If the Rebbe wants you to help me, he’ll let you know,” Zeidy begged. “Here, take my phone number.”
+
+The man still wasn’t convinced, but he took Zeidy’s number.
+
+At 6:00 a.m., Zeidy’s phone rang. It was the man from the Ohel. “It’s all taken care of! You can get the Torah from the sofer!
+
+continued. “While davening at the Ohel, I remembered that tonight is Chof Cheshvan— the Rebbe Rashab’s birthday. A story of the Rebbe Rashab popped into my head:
+
+mother was expecting, she had a dream of the Alter Rebbe and Mitteler Rebbe. They each wished her mazel tov, and told her she was carrying a very special neshama.
+
+“‘Write a Sefer Torah in honor of this child’s birth,’ the two Rebbeim told her.
+
+“As I left the Ohel, I realized how strange it was that I thought of this story right after you asked me to help with your Sefer Torah. And guess who I saw in the main room just a minute later? The sofer!
+
+“With such a clear sign from the Rebbe, I decided to pay for your Torah’s repairs.”
+
+And that is how the Yidden of Crimea finally got their sefer Torah back, and Zeidy was able to continue his shlichus!
+
+The clock was ticking fast. Would Zeidy be able to save the sefer Torah and his shlichus in time?
+
+When communism was over in תשנ”ב (1992), many Russian Yidden didn’t know a lot about Torah and mitzvos.
+
+A group of thieves decided to trick them. Dressing up as frum Jews, they convinced the Yidden of Crimea to give them their best Sifrei Torah to make sure they were kosher.
+
+The thieves took the Sifrei Torah and never returned. The Yidden were devastated. All they had left were three passul Torahs that couldn’t be used.
+
+A few months later, the Rebbe sent our Zeidy, Rabbi Itche Meyer Lipszyc, on shlichus to Crimea. Zeidy borrowed a Torah from 770 until he would find a sponsor to pay for one of the passul Sifrei Torah to be fixed.
+
+A few years later, he finally found a sponsor. After convincing the worried shul members that he wasn’t tricking them, he brought one Torah to Crown Heights to be fixed.
+
+Six months later, it was ready. But to Zeidy’s dismay, the sponsor couldn’t pay for it anymore. Zeidy was forced to leave the Torah by the sofer until he could find another sponsor.
+
+He was now under a lot of pressure. The sofer was waiting to be paid, and the Yidden
+
+in Crimea were very upset that their Torah wasn’t back yet.
+
+I’m very sorry, but I’ve waited as long as I could. By Chof Cheshvan, I will have to sell the Torah to be paid back. If there’s leftover money, I’ll give it to you.
+
+Zeidy was devastated. If he would chas v’shalom lose the Torah, the Yidden of Crimea would never trust him again and his shlichus would be over!
+
+On the night of Chof Cheshvan, Zeidy still hadn’t found a sponsor. With only a few hours left, he went to the Ohel and poured out his heart to the Rebbe.
+
+Zeidy left the Ohel at 4 a.m. The main room was empty, except for a man who was preparing to go inside the Ohel.

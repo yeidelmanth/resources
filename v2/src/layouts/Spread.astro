@@ -1,0 +1,35 @@
+---
+// The default look of a spread. Every feature uses this one unless it has its
+// own file in src/layouts/features/<feature id>.astro (see the README there).
+//
+// Props every spread layout gets:
+//   spread   the spread: spread.data.title, .pages, .pdf, .chips … plus any field you add
+//   Content  the spread's text, as a component: <Content />
+import Base from "./Base.astro";
+import { SpreadHead, PageScans, Buttons, Mission, Related, SpreadLinks } from "../components/parts";
+import { site, url, plain } from "../lib/site";
+import type { Spread } from "../lib/site";
+interface Props { spread: Spread; Content: any }
+const { spread, Content } = Astro.props;
+const S = await site();
+const f = S.feat(spread);
+const c = S.campaignById.get(f.data.campaign);
+const look = S.look(spread);
+---
+<Base title={plain(spread.data.title)} crumbs={[
+  ...(spread.data.issue != null ? [["Hachayol issues", url("issues/")], [`#${spread.data.issue}`, url(`issues/${spread.data.issue}/`)]] as [string, string][] : []),
+  [plain(spread.data.title)],
+]}>
+  <article class="spread" data-pagefind-body style={`--c:${look.color};--lead:${look.leadColor}`}>
+    <span hidden data-pagefind-filter="feature">{f.data.name}</span>
+    {c && <span hidden data-pagefind-filter="campaign">{c.data.name}</span>}
+    <SpreadHead spread={spread} />
+    <PageScans spread={spread} />
+    <Buttons spread={spread} />
+    <div class="prose"><Content /></div>
+    <Related spread={spread} />
+    <Mission spread={spread} />
+    {spread.data.source && <div class="srcline" set:html={spread.data.source} />}
+  </article>
+  <SpreadLinks spread={spread} />
+</Base>

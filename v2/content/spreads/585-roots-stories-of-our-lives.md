@@ -1,0 +1,61 @@
+---
+title: "The Maharal's Advice"
+feature: roots-stories-of-our-lives
+issue: 585
+chips:
+  - Year 5785
+source: "Source: Hiskashrus Campaign · Roots — Stories of our Lives"
+pages:
+  - https://mashpia.com/resources/assets/img/0ad0a09a569d3539.jpg
+  - https://mashpia.com/resources/assets/img/6936ee6ba1840a98.jpg
+pdf: https://mashpia.com/resources/hisk/14%20585%20Bereishis.pdf
+v1: hk114585bereishis
+---
+
+Perel’s father, Reb Shmuel, was hired by the government to fix the broken walls and fortresses in Prague which had been destroyed by the years of war. Reb Shmuel was happy to once again be able to have influence in the king’s court, and use his power and wealth to help his fellow Jews.
+
+help—desperately. The church was fueling a fresh wave of anti-Jewish hatred across the Holy Roman Empire. Hardly a week passed without a report of another city which
+
+had expelled its Jews; another Jewish community burdened by exorbitant taxes; another priest riling up his followers to attack their Jewish neighbors. Reb Shmuel had to work tirelessly to ensure the safety and wellbeing of his brothers and sisters. But one day, it seemed that even his best efforts weren’t enough.
+
+It was a summer afternoon in the year 5317 (1557). Reb Shmuel, along with several other community leaders, were summoned to come before King Ferdinand.
+
+When the group entered the king’s royal chamber, they found
+
+the king sitting stiffly on his throne, stone-faced.
+
+now on, the Jews will no longer be under protection of the Crown. It is best that the Jews of Prague— and everywhere in my empire— leave immediately, before they are expelled by royal decree.”
+
+Reb Shmuel bowed low towards the king. “Your Highness, if I may humbly request…”
+
+accepted. This decision is final.” King Ferdinand snapped his fingers. “Guards, show these men
+
+Reb Shmuel and his colleagues shuffled silently out of the room, their heads bent. An armed soldier escorted them on either side.
+
+palace and out of earshot, the men began discussing the king’s horrifying statement.
+
+Reb Binyamin Zev\*, spoke first. “Why now, Reb Shmuel? Why
+
+now? The king has always been favorable to the Jews!”
+
+Reb Shmuel sighed. “If you ask me, it’s money. It all comes down to money. It’s no secret that the royal treasury is almost empty, drained after all these years of war. Add to that the pressure from Jew-haters in Rome. Truthfully, it’s a miracle we were safe until now.”
+
+is what will save us as well,” suggested Reb Zelig Chaim\*. “We should try to cut a deal with the king’s advisors. Filip\*—you know, the stubby man who was standing near the door to the king’s chamber?—he owes me a favor, and has influence with the king.”
+
+“Whatever it is!” said Reb Shmuel. “I’m willing to give whatever it
+
+takes to save our brothers and sisters! Aren’t we all?”
+
+Reb Zelig Chaim gave a sad smile. “You know that I am as well, my friend. But we need to think this through carefully. If we offer too much at first, we might drain both of our pockets before making any progress. Too little, and it won’t be enough to prevent them from betraying us
+
+Reb Shmuel nodded thoughtfully. The men agreed to each think
+
+Reb Shmuel’s thoughts were racing the entire way home. This would be no easy plan; the fate of the entire Jewish community was on their shoulders. If anything went wrong—if they ran out of money, if the officer they chose betrayed their trust, or if the king was unwilling to be persuaded— their actions could do more harm than good.
+
+Reb Shmuel decided to consult the wisest man he knew: his son-in-law. It was a good sign from above, thought Reb Shmuel, that the Maharal was visiting his home just that day. He was sure that his son-in-law would know the right thing to do.
+
+When the Maharal heard his father-in-law’s question, he answered with a shake of his head. “The Mishna tells us, ‘'We do not redeem Jewish captives for more than their value.’ This is despite the fact that elsewhere, we are told that there is no mitzvah greater than pidyon shevuyim1! But still, halacha tells us we shouldn’t overpay. This is because this will only encourage
+
+the kidnappers to capture more and more prisoners, putting a heavier and heavier burden on the community.
+
+pay our way out of this decree. It will set a bad example. Rulers of other areas will learn from this that threatening the Jewish community is an easy way to make a profit. They’ll declare terrible decrees just to force us into bribing them out of it, again and again.”

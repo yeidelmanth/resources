@@ -1,0 +1,58 @@
+---
+title: "Next Stop, South Africa!"
+feature: rebbe-will-find-a-way
+issue: 648
+chips:
+  - Indecision
+  - Letter to Rebbe
+  - Video of the Rebbe
+  - Dollar from the Rebbe
+source: "Source: Hiskashrus Campaign · The Rebbe Will Find A Way"
+pages:
+  - https://mashpia.com/resources/assets/img/78a671f61d23e826.jpg
+  - https://mashpia.com/resources/assets/img/d6360dee3cb19363.jpg
+pdf: https://mashpia.com/resources/hisk/04%20648%20Tzav.pdf
+v1: hk004648tzav
+---
+
+Ask your parents to submit it to tzivoshashem.com/rebbestories
+
+Tatty was stunned. Just when he’d been wondering if the Rebbe would want us to go, the Rebbe found a way to send his bracha again, 34 years later, for our trip to South Africa!
+
+Now, Tatty finally felt calm about traveling. He knew that it was the right thing to do, and that they were going with the Rebbe’s bracha.
+
+The very next day, Tatty found out that his good friend from Chayenu, Mr. Louis Pearlman, was making a Bar Mitzvah for his only son just two days after we planned to arrive in South Africa!
+
+would spread the Oneness of Hashem all around the world.
+
+It felt so special to fulfill the Rebbe’s words to “give it in South Africa”, and
+
+Baruch Hashem, the rest of our trip went smoothly. We had a wonderful time with our relatives and came back to Hawaii full of chayus to continue our shlichus, knowing that the Rebbe is with us!
+
+The plane tickets were booked, but Tatty still felt nervous. Was it really the right choice?
+
+Our family lives on shlichus in Hawaii, far, far away from most of our relatives. It’s not easy being so far, but we do our shlichus with joy, knowing that the Rebbe is proud of us.
+
+This past summer, after not seeing our relatives in South Africa for such a long time, Tatty and Mommy began planning a big trip to visit them.
+
+We were all so excited! We couldn’t wait to see Bubbe and Zeide, our aunts, uncles, and so many cousins.
+
+The plan was to leave after camp had finished (in the middle of Menachem- Av), and stay in South Africa until after a family wedding on Chai Elul.
+
+But Tatty began to worry. Can we really leave our shlichus for a whole month? Who will take care of the Yidden here while we’re gone?
+
+Tatty and Mommy spoke about it a lot, thinking and rethinking. Finally, they decided to go ahead with the trip. They wrote a letter to the Rebbe, asking for a bracha and for a sign that they were doing the right thing.
+
+On Friday, Tatty booked the tickets, and it was official: we were going to South Africa!
+
+But even after deciding, Tatty still felt unsure. Was this really what the Rebbe wanted us to do?
+
+Then, on Sunday, just two days later, something amazing happened.
+
+A video of the Rebbe from תנש”א (1991) suddenly began going around. Tatty pressed “play,” and guess what?
+
+There, right in the video, was Tatty himself, walking by the Rebbe to receive a dollar!
+
+As Tatty passed by, Rabbi Groner leaned in and told the Rebbe in Yiddish, “He’s going to South Africa.”
+
+The Rebbe gave a dollar to Tatty and said, “אפגעבן אין דרום אפריקה—give it in South Africa.”

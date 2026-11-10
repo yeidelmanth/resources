@@ -1,0 +1,38 @@
+---
+import Base from "../../../../layouts/Base.astro";
+import SpreadCard from "../../../../components/SpreadCard.astro";
+import { site, url, color, count } from "../../../../lib/site";
+export async function getStaticPaths() {
+  const S = await site();
+  return S.campaigns.flatMap((c) => c.data.sections.flatMap((sec) => sec.entries.map((e) => ({ params: { campaign: c.id, entry: e.id }, props: { section: sec.name } }))));
+}
+const S = await site();
+const c = S.campaignById.get(Astro.params.campaign!)!;
+const sec = c.data.sections.find((x) => x.name === Astro.props.section)!;
+const e = sec.entries.find((x) => x.id === Astro.params.entry)!;
+const list = S.spreadsOf(e);
+const name = S.entryName(e, sec.name);
+const feats = e.show.features.map((id) => S.featureById.get(id)!);
+// group by year when the list spans several
+const years = [...new Set(list.map((s) => S.yearOf(s) ?? 0))];
+const groups = years.length > 1 ? years.sort((a, b) => b - a).map((y) => [y ? `Year ${y}` : "Year not marked", list.filter((s) => (S.yearOf(s) ?? 0) === y)] as const) : [["", list] as const];
+---
+<Base title={name} crumbs={[["Campaigns", url("campaigns/")], [c.data.name, url(`campaigns/${c.id}/`)], [name]]}>
+  <div class="ph" style={`--c:${color(c.data.color)}`}>
+    <div class="eyebrow">{c.data.name} · {sec.name}</div>
+    <h1 class="pg">{name}</h1>
+    <p class="lede">{[e.grade, e.part, count(list.length, "spread")].filter(Boolean).join(" · ")}</p>
+  </div>
+  {list.length === 0 && (
+    <div class="note">
+      <b>No spreads yet.</b> Add a spread with <code>feature: {e.show.features[0]}</code>{e.show.year && <> in an issue from year {e.show.year}</>}{e.show.tag && <> and the tag <code>{e.show.tag}</code></>}, and it appears here.
+    </div>
+  )}
+  {groups.map(([label, ss]) => (
+    <>
+      {label && <h2 class="sh">{label}</h2>}
+      <div class="cards">{ss.map((s) => <SpreadCard spread={s} show={feats.length > 1 ? "both" : "issue"} />)}</div>
+    </>
+  ))}
+  <p class="aside">Drawn with the {feats.map((f, i) => <>{i ? " and " : ""}<a href={url(`features/${f.id}/`)}>{f.data.name}</a></>)} feature{feats.length > 1 ? "s" : ""}{e.show.year ? `, year ${e.show.year}` : ""}{e.show.tag ? `, tag “${e.show.tag}”` : ""}.</p>
+</Base>

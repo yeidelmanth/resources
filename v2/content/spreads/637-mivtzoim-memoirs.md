@@ -1,0 +1,65 @@
+---
+title: Mivtza Neshek
+feature: mivtzoim-memoirs
+issue: 637
+kick: Mivtzoim · Neshek
+chips:
+  - Neshek
+source: "Source: Mivtzoim Campaign · Mivtzoim Memoirs - How it All Began"
+tags:
+  - Neshek
+  - Mivtzoim Memoirs - How it All Began
+pages:
+  - https://mashpia.com/resources/assets/img/5deb4ff1836ba980.jpg
+  - https://mashpia.com/resources/assets/img/e9fccbb51637c8be.jpg
+pdf: https://mashpia.com/resources/mivtzoim/10%20637%20Shemos.pdf
+v1: mv10637shemospdf
+---
+
+Dear Diary, The Rebbe held a surprise farbrengen yesterday! Tatty told me that 770 was packed. The Rebbe again announced the same message—this time, to the men, too: that the solution for ruchniyus darkness around us is the Shabbos candles of young girls. Hashem gave us the power to light up the world! Chassidim must reach out to women and girls around the globe, telling them to light Shabbos candles. The Rebbe ended with a bracha that all of the small flames should join together into a big torch that will burn down the rest of Golus. Amen! It’s only 2 o’clock in the afternoon, but my shiny candlestick is already set up and waiting to be lit tonight for the very first time. I am way too excited! Imagine … My flame can light away the terrible darkness in the world, and it will join the flames of so many other meidelach who will also be lighting for the first time ever! Love, Chaya P.S. Can you guess why the Rebbe said the surprise sicha about this new mivtza yesterday, instead of waiting to speak on Shabbos?
+
+Mivtzoim—they feel like they’ve been around forever! Can you even imagine life without them? Yet, unbelievably, before the Rebbe introduced each of the mitzvah campaigns
+
+could have belonged to kids just like you— kids who might have lived during the time when the Rebbe first announced many of these mivtzoim.
+
+Chaya used to stand and watch as her mother lit candles every Erev Shabbos. Then, one day, the Rebbe said a sicha … and Chaya began to light her own flame, too! Today, her grandchildren can’t believe there was ever a time when
+
+mothers were the only ones who lit candles. Let’s dive right in
+
+and hear about this historic mivtza through Chaya’s eyes.
+
+My 10-year-old sister, Sheina, and I just bought our own Shabbos candlesticks! Are you confused, Diary, because you thought that only mommies light Shabbos candles?
+
+Well, yesterday the Rebbe spoke to N’shei U’bnos Chabad, like he does every year before Rosh Hashana. Sitting in the big shul downstairs with just women and girls already felt special, but I didn’t realize how special I would feel after hearing the Rebbe’s sicha!
+
+The Rebbe spoke about how the world has become darker, and the solution is to create more light. How? With Shabbos licht!
+
+And why do I feel special? Because the Rebbe said that even unmarried girls—even girls under bas mitzvah— should light candles!
+
+So, even though Sheina and I are just 10 and 8, we’re both gonna light with Mommy this Friday!
+
+Something has been making me feel a bit funny inside.
+
+You know how Sheina and I have started lighting Shabbos and Yom Tov candles, even though only Mommy used to light?
+
+Well, at the Yud-Tes Kislev farbrengen last night, the Rebbe said that some frum people are upset about this! They think that lighting is just for married women—not girls. They say that girls bentching licht is a “new thing”, not part of our Yiddishe mesora.
+
+But the Rebbe said they don’t realize that this is actually a very “old thing”! Many years ago, girls also used to light, but this minhag was somehow forgotten. The Rebbe even described how a young girl lighting Shabbos candles has caused her entire family to become frum!
+
+We’ve got to get the message to every Yiddishe meidel! But how?
+
+Maybe I can think of a good idea to tell Mrs. Sternberg…
+
+I forgot to tell you! Mrs. Sternberg and the other Mivtza Neshek organizers created a candlestick for mivtzoim!
+
+Everyone’s excited— thousands have already been given out! I’m proud to say that I gave out twelve candlesticks on the street corner today.
+
+A helicopter flew around the city pulling a banner with candle-lighting times, bochurim traveled with candlesticks to Pesach hotels, and there were announcements on the radio and television—every possible way to reach people!
+
+Every Friday after day camp, my mother, Sheina, and I give out candlesticks and encourage people to light Shabbos candles.
+
+We heard that Mrs. Sternberg would be making the Rebbe a gold-plated candlestick engraved with the total number of candlesticks given out so far, and we wanted that number to be as high as possible!
+
+Just moments before the Yud-Gimmel Tammuz farbrengen yesterday, the number “245,001” was engraved on the candlestick. That last “1” is for a candlestick that I gave it out, I’m sure!
+
+After the farbrengen, the Rebbe walked out with the candlestick. I bet it made the Rebbe proud.

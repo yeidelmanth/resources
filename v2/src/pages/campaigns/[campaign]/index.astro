@@ -1,0 +1,28 @@
+---
+import Base from "../../../layouts/Base.astro";
+import { site, url, color, count } from "../../../lib/site";
+export async function getStaticPaths() {
+  const S = await site();
+  return S.campaigns.map((c) => ({ params: { campaign: c.id } }));
+}
+const S = await site();
+const c = S.campaignById.get(Astro.params.campaign!)!;
+---
+<Base title={c.data.name} crumbs={[["Campaigns", url("campaigns/")], [c.data.name]]}>
+  <div class="ph" style={`--c:${color(c.data.color)}`}>
+    <div class="eyebrow">Campaign</div>
+    <h1 class="pg">{c.data.name}</h1>
+    {c.data.description && <p class="lede">{c.data.description}</p>}
+  </div>
+  {c.data.sections.map((sec) => (
+    <section style={`--c:${color(c.data.color)}`}>
+      <h2 class="sh">{sec.name}</h2>
+      <div class="links">
+        {sec.entries.map((e) => {
+          const k = S.spreadsOf(e).length;
+          return <a href={S.entryUrl(c, e)} class:list={{ empty: !k }}><b>{S.entryName(e, sec.name)}</b><span>{[e.grade, e.part, k ? count(k, "spread") : "No spreads yet"].filter(Boolean).join(" · ")}</span></a>;
+        })}
+      </div>
+    </section>
+  ))}
+</Base>

@@ -1,0 +1,55 @@
+---
+title: A Head Start
+feature: rebbe-will-find-a-way
+issue: 636
+chips:
+  - Legal/ Bureaucracy
+  - Ohel
+  - Video of the Rebbe
+source: "Source: Hiskashrus Campaign · The Rebbe Will Find A Way"
+pages:
+  - https://mashpia.com/resources/assets/img/accdad4b154b681f.jpg
+  - https://mashpia.com/resources/assets/img/62fdc52a0a70e0bf.jpg
+pdf: https://mashpia.com/resources/hisk/04%20636%20Vayechi.pdf
+v1: hk004636vayechi
+---
+
+Ask your parents to submit it to tzivoshashem.com/rebbestories
+
+help her boss, who was working with true mesiras nefesh and Ahavas Yisroel to save the school.
+
+The next day, Bubby went to school and told the teachers, “Don’t worry. Everything will be okay. We have the Rebbe’s bracha!”
+
+When Bubby’s boss heard what the Rebbe had said, he was very thankful. Knowing that he had the Rebbe’s bracha gave him a lot of hope.
+
+Soon after, the city officials had good news to share! They had extra money in their budget that they could choose how to spend.
+
+to Bubby’s school and two other Yiddishe preschools! It was a huge amount of money; enough to fund all of
+
+could keep coming to preschool, and the teachers could continue to teach.
+
+Bubby was so thankful for the Rebbe’s brachos. Even Bubby’s boss, a Vizhnitzer Chossid, felt that the Rebbe was with him!
+
+For many years, Bubby was the director of a Vizhnitzer preschool in New York called Yeshiva Bnos Ahavas Yisroel.
+
+The preschool was paid for by New York City’s Head Start program. That meant that the city paid the teachers, so children could come to school for free.
+
+The city decided that instead of giving Head Start money to every school, they would make a raffle. Only the schools that won the raffle would get the money that year.
+
+This made things very difficult. Now, parents would need to pay a lot of money to send their kids to school. Many families couldn’t afford it, so lots of teachers would lose their jobs, and the ones who stayed would get paid much less.
+
+Bubby’s boss worked very hard to fix the problem. He spoke to important people in the city government and tried everything he could to get the Head Start money back, but nothing worked.
+
+Who will pay for the children’s preschool? Bubby worried. How will the teachers have parnassah?
+
+So, she did what a Chossid does when they need help—she went to the Ohel to ask the Rebbe for a bracha.
+
+After davening at the Ohel, Bubby went to watch the video.
+
+The Rebbe was speaking at a farbrengen, saying, “When someone devotes themselves to a yeshiva with total mesiras nefesh and Ahavas Yisroel, they already have a head start to be successful.”
+
+Bubby was so excited. Her preschool’s name was “Ahavas Yisroel”! And she had asked the Rebbe for a bracha for their Head Start program!
+
+She felt like the Rebbe was speaking directly to her. She was sure that the Rebbe would
+
+Submitted by Menachem Mendel, 7 Avraham Tzvi Landa, 6
