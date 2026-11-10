@@ -1,0 +1,128 @@
+{
+  "id": "rally",
+  "branch": "rally",
+  "parent": "home",
+  "crumbLabel": "TH Rally",
+  "template": "hub",
+  "blocks": [
+    {
+      "type": "heading",
+      "eyebrow": "Browse",
+      "title": "TH Rally"
+    },
+    {
+      "type": "dates",
+      "items": [
+        {
+          "page": "rally",
+          "title": "Elul (month)",
+          "text": "The King is in the Field"
+        },
+        {
+          "page": "rally",
+          "title": "18 Elul",
+          "text": "Chai Elul — Baal Shem Tov &amp; Alter Rebbe"
+        },
+        {
+          "page": "rally",
+          "title": "20 Cheshvan",
+          "text": "Rebbe Rashab"
+        },
+        {
+          "page": "rally",
+          "title": "1 Kislev",
+          "text": "The Rebbe's return, 5738"
+        },
+        {
+          "page": "rally",
+          "title": "14 Kislev",
+          "text": "The Rebbe's wedding",
+          "suggested": true
+        },
+        {
+          "page": "rally",
+          "title": "19 Kislev",
+          "text": "Rosh Hashanah of Chassidus",
+          "suggested": true
+        },
+        {
+          "page": "rally",
+          "title": "Chanukah",
+          "text": "Festival of Lights"
+        },
+        {
+          "page": "rDidan",
+          "title": "5 Teves",
+          "text": "Didan Notzach"
+        },
+        {
+          "page": "rally",
+          "title": "24 Teves",
+          "text": "Alter Rebbe yahrzeit",
+          "suggested": true
+        },
+        {
+          "page": "rally",
+          "title": "10 Shevat",
+          "text": "Yud Shevat"
+        },
+        {
+          "page": "rally",
+          "title": "22 Shevat",
+          "text": "Rebbetzin Chaya Mushka"
+        },
+        {
+          "page": "rally",
+          "title": "Purim Koton",
+          "text": "14 Adar I"
+        },
+        {
+          "page": "rally",
+          "title": "9 Adar",
+          "text": "Frierdiker Rebbe to the US"
+        },
+        {
+          "page": "rally",
+          "title": "27 Adar",
+          "text": "5752"
+        },
+        {
+          "page": "rally",
+          "title": "Purim",
+          "text": "14 Adar",
+          "suggested": true
+        },
+        {
+          "page": "rally",
+          "title": "11 Nissan",
+          "text": "Birthday of the Rebbe — promotions at 770"
+        },
+        {
+          "page": "rally",
+          "title": "Lag B'Omer",
+          "text": "Children's parade",
+          "suggested": true
+        },
+        {
+          "page": "rally",
+          "title": "28 Sivan",
+          "text": "The Rebbe to America"
+        },
+        {
+          "page": "rally",
+          "title": "Gimmel Tammuz",
+          "text": "Rebbe yahrzeit",
+          "suggested": true
+        },
+        {
+          "page": "rally",
+          "title": "12–13 Tammuz",
+          "text": "Frierdiker Rebbe's liberation",
+          "suggested": true
+        }
+      ]
+    }
+  ],
+  "title": "TH Rally",
+  "type": "hub"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "i662frames",
+  "branch": "date",
+  "parent": "dpHaazinu",
+  "crumbLabel": "Chassidishe Frames",
+  "altParent": "cYomaDepagra",
+  "altBranch": "campaign",
+  "template": "article",
+  "title": "The Next Link in the Chain - Yud Gimmel Tishrei, Histalkus of the Rebbe Maharash",
+  "article": {
+    "chips": [
+      "Parshas Haazinu"
+    ],
+    "pages": [
+      "i662frames",
+      "i662frames_p2"
+    ],
+    "pdf": "pdfs/662.pdf",
+    "body": "<p>The Story Lives On: Even though we can't see the Rebbe, there are many ways of connecting to him. We have so many sichos and maamarim we can learn, videos of farbrengens we can mashpia for other ways you can connect to the Rebbe.</p><p><span class=\"mc\">Complete your 13 Tishrei missions</span></p>",
+    "source": "Source: Parshas Haazinu · 7 Tishrei 5787"
+  },
+  "backLabel": "Haazinu",
+  "crumb": {
+    "trail": [
+      {
+        "id": "date",
+        "label": "Date"
+      },
+      {
+        "id": "dParsha",
+        "label": "Parsha"
+      },
+      {
+        "id": "dpHaazinu",
+        "label": "Haazinu"
+      }
+    ]
+  },
+  "type": "chassidishe-frames"
+}

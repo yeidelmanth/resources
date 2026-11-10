@@ -1,0 +1,54 @@
+{
+  "id": "cyd_24teves",
+  "branch": "campaign",
+  "parent": "cYomaDepagra",
+  "crumbLabel": "24 Teves 5573",
+  "template": "hub",
+  "blocks": [
+    {
+      "type": "heading",
+      "eyebrow": "Campaign · Yoma Depagra",
+      "title": "24 Teves 5573",
+      "text": "Histalkus of the Alter Rebbe"
+    },
+    {
+      "type": "tabs",
+      "items": [
+        {
+          "panel": "cyd_24teves-comic",
+          "label": "Comic Story · Chassidishe Frames",
+          "on": true
+        },
+        {
+          "panel": "cyd_24teves-timeline",
+          "label": "Timeline · Building Blocks"
+        }
+      ]
+    },
+    {
+      "type": "gallery",
+      "panel": "cyd_24teves-comic",
+      "images": [
+        {
+          "img": "ydc24teves",
+          "alt": "A Pair Of Slippers"
+        }
+      ],
+      "pdf": "yomadepagra/comic/08-677-Shemos.pdf"
+    },
+    {
+      "type": "gallery",
+      "panel": "cyd_24teves-timeline",
+      "hidden": true,
+      "images": [
+        {
+          "img": "ydt24teves",
+          "alt": "Histalkus of the Alter Rebbe"
+        }
+      ],
+      "pdf": "yomadepagra/timeline/08-637-Shemos.pdf"
+    }
+  ],
+  "title": "24 Teves 5573",
+  "type": "yd-campaign-date"
+}

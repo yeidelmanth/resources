@@ -1,0 +1,106 @@
+{
+  "id": "dpChayeiSara",
+  "branch": "date",
+  "parent": "dParsha",
+  "crumbLabel": "חַיֵּי שָׂרָה",
+  "template": "hub",
+  "blocks": [
+    {
+      "type": "heading",
+      "eyebrow": "Parsha",
+      "title": "חַיֵּי שָׂרָה",
+      "heb": true
+    },
+    {
+      "type": "hachayolbar",
+      "href": "pdfs/669.pdf",
+      "info": "Hachayol #669 · Parshas Chayei Sara · 26 Cheshvan 5787",
+      "action": "Printable PDF ↗"
+    },
+    {
+      "type": "cards",
+      "items": [
+        {
+          "page": "i669orders",
+          "color": "purple",
+          "img": "i669orders",
+          "imgZoom": true,
+          "kick": "Hiskashrus · Sichos",
+          "ribbon": "Orders from Our General",
+          "ribbonColor": "red",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Share a sicha of the Rebbe"
+        },
+        {
+          "page": "i669rebbe",
+          "color": "purple",
+          "img": "i669rebbe",
+          "imgZoom": true,
+          "kick": "Hiskashrus · Rebbe Story",
+          "ribbon": "Rebbe Story",
+          "ribbonColor": "orange",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Share a story of the Rebbe at your Shabbos table"
+        },
+        {
+          "page": "i669roots",
+          "color": "purple",
+          "img": "i669roots",
+          "imgZoom": true,
+          "kick": "Hiskashrus · Roots",
+          "ribbon": "Roots",
+          "ribbonColor": "green",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Share a story of our roots"
+        },
+        {
+          "page": "i669niggun",
+          "color": "teal",
+          "img": "i669niggun",
+          "imgZoom": true,
+          "kick": "Niggunim",
+          "ribbon": "Niggun of the Week",
+          "ribbonColor": "teal",
+          "icon": "/resources/assets/img/aaa22b79c109253d.png",
+          "mission": "Share this week's niggun at your Shabbos table"
+        },
+        {
+          "page": "i669frames",
+          "color": "gold",
+          "img": "i669frames",
+          "imgZoom": true,
+          "kick": "Yoma Depagra · Comics",
+          "ribbon": "Chassidishe Frames",
+          "ribbonColor": "cyan",
+          "icon": "/resources/assets/img/7b5f36a5d9119965.png",
+          "mission": "Read this week's Chassidishe Frames"
+        },
+        {
+          "page": "i669squad",
+          "color": "green",
+          "img": "i669squad",
+          "imgZoom": true,
+          "kick": "Campaign · VeHolachta Bidrochov",
+          "ribbon": "Squad Drills",
+          "ribbonColor": "gold",
+          "icon": "/resources/assets/img/03f3974e50e8e5fd.png",
+          "mission": "Worked on this week's middah with your squad"
+        },
+        {
+          "extraClass": "sect-wait",
+          "color": "red",
+          "kick": "Mivtzoim",
+          "ribbon": "Sales",
+          "ribbonColor": "red",
+          "icon": "/resources/assets/img/f56bf2c628dcc0ad.png",
+          "missionLabel": "In this issue",
+          "mission": "Menorah Sale · pp. 16",
+          "go": "Pages coming soon",
+          "goStyle": "color:var(--muted)"
+        }
+      ]
+    }
+  ],
+  "title": "חַיֵּי שָׂרָה",
+  "type": "parsha-week"
+}

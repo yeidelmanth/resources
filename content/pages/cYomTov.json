@@ -1,0 +1,1306 @@
+{
+  "id": "cYomTov",
+  "branch": "campaign",
+  "parent": "campaign",
+  "crumbLabel": "Yom Tov",
+  "template": "hub",
+  "blocks": [
+    {
+      "type": "heading",
+      "eyebrow": "Campaign",
+      "title": "Yom Tov",
+      "text": "Living each Yom Tov like a chayol."
+    },
+    {
+      "type": "label",
+      "text": "Yom Tov Campaign",
+      "spaced": true
+    },
+    {
+      "type": "tabs",
+      "items": [
+        {
+          "panel": "ytg0",
+          "label": "A Tale in Time",
+          "on": true
+        },
+        {
+          "panel": "ytg1",
+          "label": "Celebrate Like A Chayol"
+        },
+        {
+          "panel": "ytg2",
+          "label": "Yom Tov Seasons"
+        },
+        {
+          "panel": "ytg3",
+          "label": "Fly With Me"
+        },
+        {
+          "panel": "ytg4",
+          "label": "Esty's Entries"
+        },
+        {
+          "panel": "ytg5",
+          "label": "Sender's Adventures"
+        }
+      ]
+    },
+    {
+      "type": "filters",
+      "mode": "mv",
+      "items": [
+        {
+          "key": "elul",
+          "label": "Elul"
+        },
+        {
+          "key": "yamim-tovim",
+          "label": "Yamim Tovim"
+        },
+        {
+          "key": "rosh-hashana",
+          "label": "Rosh Hashana"
+        },
+        {
+          "key": "yom-kippur",
+          "label": "Yom Kippur"
+        },
+        {
+          "key": "sukkos",
+          "label": "Sukkos"
+        },
+        {
+          "key": "shimini-atzeres",
+          "label": "Shimini Atzeres"
+        },
+        {
+          "key": "channukah",
+          "label": "Channukah"
+        },
+        {
+          "key": "asarah-b-teves",
+          "label": "Asarah B'Teves"
+        },
+        {
+          "key": "chamisha-asar-b-shvat",
+          "label": "Chamisha Asar B'shvat"
+        },
+        {
+          "key": "purim",
+          "label": "Purim"
+        },
+        {
+          "key": "pesach",
+          "label": "Pesach"
+        },
+        {
+          "key": "shevi-i-v-acharon-shel-pesach",
+          "label": "Shevi'i V'acharon Shel Pesach"
+        },
+        {
+          "key": "sefiras-haomer",
+          "label": "Sefiras Haomer"
+        },
+        {
+          "key": "pesach-sheini",
+          "label": "Pesach Sheini"
+        },
+        {
+          "key": "lag-baomer",
+          "label": "Lag Baomer"
+        },
+        {
+          "key": "shavuos",
+          "label": "Shavuos"
+        },
+        {
+          "key": "tzom-gedalia",
+          "label": "Tzom Gedalia"
+        },
+        {
+          "key": "chof-teves",
+          "label": "Chof Teves"
+        },
+        {
+          "key": "shevi-i-shel-pesach",
+          "label": "Shevi'i Shel Pesach"
+        },
+        {
+          "key": "aseres-yemei-teshuvah",
+          "label": "Aseres Yemei Teshuvah"
+        },
+        {
+          "key": "purim-katan",
+          "label": "Purim Katan"
+        }
+      ]
+    },
+    {
+      "type": "cards",
+      "extraClass": "mvgrid",
+      "attrs": {
+        "id": "ytg0"
+      },
+      "items": [
+        {
+          "page": "yt10661roshhashanapdf",
+          "extraClass": "mvcard",
+          "attrs": {
+            "data-mv": "rosh-hashana"
+          },
+          "color": "purple",
+          "img": "yt10661roshhashanapdf",
+          "imgZoom": true,
+          "kick": "Yom Tov · Rosh Hashana",
+          "ribbon": "A Tale in Time",
+          "ribbonColor": "purple",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Lived this Yom Tov like a chayol"
+        },
+        {
+          "page": "yt10662haazinupdf",
+          "extraClass": "mvcard",
+          "attrs": {
+            "data-mv": "aseres-yemei-teshuvah"
+          },
+          "color": "purple",
+          "img": "yt10662haazinupdf",
+          "imgZoom": true,
+          "kick": "Yom Tov · Aseres Yemei Teshuvah",
+          "ribbon": "A Tale in Time",
+          "ribbonColor": "purple",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Lived this Yom Tov like a chayol"
+        },
+        {
+          "page": "yt10663sukkospdf",
+          "extraClass": "mvcard",
+          "attrs": {
+            "data-mv": "sukkos"
+          },
+          "color": "purple",
+          "img": "yt10663sukkospdf",
+          "imgZoom": true,
+          "kick": "Yom Tov · Sukkos",
+          "ribbon": "A Tale in Time",
+          "ribbonColor": "purple",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Lived this Yom Tov like a chayol"
+        },
+        {
+          "page": "yt10664shminiatzerespdf",
+          "extraClass": "mvcard",
+          "attrs": {
+            "data-mv": "shimini-atzeres"
+          },
+          "color": "purple",
+          "img": "yt10664shminiatzerespdf",
+          "imgZoom": true,
+          "kick": "Yom Tov · Shimini Atzeres",
+          "ribbon": "A Tale in Time",
+          "ribbonColor": "purple",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Lived this Yom Tov like a chayol"
+        },
+        {
+          "page": "yt10673vayeishevpdf",
+          "extraClass": "mvcard",
+          "attrs": {
+            "data-mv": "channukah"
+          },
+          "color": "purple",
+          "img": "yt10673vayeishevpdf",
+          "imgZoom": true,
+          "kick": "Yom Tov · Channukah",
+          "ribbon": "A Tale in Time",
+          "ribbonColor": "purple",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Lived this Yom Tov like a chayol"
+        },
+        {
+          "page": "yt10675vayigashpdf",
+          "extraClass": "mvcard",
+          "attrs": {
+            "data-mv": "asarah-b-teves"
+          },
+          "color": "purple",
+          "img": "yt10675vayigashpdf",
+          "imgZoom": true,
+          "kick": "Yom Tov · Asarah B'Teves",
+          "ribbon": "A Tale in Time",
+          "ribbonColor": "purple",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Lived this Yom Tov like a chayol"
+        },
+        {
+          "page": "yt10676vayechipdf",
+          "extraClass": "mvcard",
+          "attrs": {
+            "data-mv": "chof-teves"
+          },
+          "color": "purple",
+          "img": "yt10676vayechipdf",
+          "imgZoom": true,
+          "kick": "Yom Tov · Chof Teves",
+          "ribbon": "A Tale in Time",
+          "ribbonColor": "purple",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Lived this Yom Tov like a chayol"
+        },
+        {
+          "page": "yt10680beshalachpdf",
+          "extraClass": "mvcard",
+          "attrs": {
+            "data-mv": "chamisha-asar-b-shvat"
+          },
+          "color": "purple",
+          "img": "yt10680beshalachpdf",
+          "imgZoom": true,
+          "kick": "Yom Tov · Chamisha Asar B'shvat",
+          "ribbon": "A Tale in Time",
+          "ribbonColor": "purple",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Lived this Yom Tov like a chayol"
+        }
+      ]
+    },
+    {
+      "type": "cards",
+      "extraClass": "mvgrid off",
+      "attrs": {
+        "id": "ytg1"
+      },
+      "items": [
+        {
+          "page": "yt08619kiseiseipdf",
+          "extraClass": "mvcard",
+          "attrs": {
+            "data-mv": "elul"
+          },
+          "color": "purple",
+          "img": "yt08619kiseiseipdf",
+          "imgZoom": true,
+          "kick": "Yom Tov · Elul",
+          "ribbon": "Celebrate Like A Chayol",
+          "ribbonColor": "teal",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Lived this Yom Tov like a chayol"
+        },
+        {
+          "page": "yt08620kisavopdf",
+          "extraClass": "mvcard",
+          "attrs": {
+            "data-mv": "yamim-tovim"
+          },
+          "color": "purple",
+          "img": "yt08620kisavopdf",
+          "imgZoom": true,
+          "kick": "Yom Tov · Yamim Tovim",
+          "ribbon": "Celebrate Like A Chayol",
+          "ribbonColor": "teal",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Lived this Yom Tov like a chayol"
+        },
+        {
+          "page": "yt10621nitzavimpdf",
+          "extraClass": "mvcard",
+          "attrs": {
+            "data-mv": "rosh-hashana"
+          },
+          "color": "purple",
+          "img": "yt10621nitzavimpdf",
+          "imgZoom": true,
+          "kick": "Yom Tov · Rosh Hashana",
+          "ribbon": "Celebrate Like A Chayol",
+          "ribbonColor": "teal",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Lived this Yom Tov like a chayol"
+        },
+        {
+          "page": "yt08622vayelechpdf",
+          "extraClass": "mvcard",
+          "attrs": {
+            "data-mv": "yom-kippur"
+          },
+          "color": "purple",
+          "img": "yt08622vayelechpdf",
+          "imgZoom": true,
+          "kick": "Yom Tov · Yom Kippur",
+          "ribbon": "Celebrate Like A Chayol",
+          "ribbonColor": "teal",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Lived this Yom Tov like a chayol"
+        },
+        {
+          "page": "yt1012623haazinupdf",
+          "extraClass": "mvcard",
+          "attrs": {
+            "data-mv": "sukkos"
+          },
+          "color": "purple",
+          "img": "yt1012623haazinupdf",
+          "imgZoom": true,
+          "kick": "Yom Tov · Sukkos",
+          "ribbon": "Celebrate Like A Chayol",
+          "ribbonColor": "teal",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Lived this Yom Tov like a chayol"
+        },
+        {
+          "page": "yt08624sukkospdf",
+          "extraClass": "mvcard",
+          "attrs": {
+            "data-mv": "shimini-atzeres"
+          },
+          "color": "purple",
+          "img": "yt08624sukkospdf",
+          "imgZoom": true,
+          "kick": "Yom Tov · Shimini Atzeres",
+          "ribbon": "Celebrate Like A Chayol",
+          "ribbonColor": "teal",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Lived this Yom Tov like a chayol"
+        },
+        {
+          "page": "yt0810633vayeshevpdf",
+          "extraClass": "mvcard",
+          "attrs": {
+            "data-mv": "channukah"
+          },
+          "color": "purple",
+          "img": "yt0810633vayeshevpdf",
+          "imgZoom": true,
+          "kick": "Yom Tov · Channukah",
+          "ribbon": "Celebrate Like A Chayol",
+          "ribbonColor": "teal",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Lived this Yom Tov like a chayol"
+        },
+        {
+          "page": "yt08635vayigashpdf",
+          "extraClass": "mvcard",
+          "attrs": {
+            "data-mv": "asarah-b-teves"
+          },
+          "color": "purple",
+          "img": "yt08635vayigashpdf",
+          "imgZoom": true,
+          "kick": "Yom Tov · Asarah B'Teves",
+          "ribbon": "Celebrate Like A Chayol",
+          "ribbonColor": "teal",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Lived this Yom Tov like a chayol"
+        },
+        {
+          "page": "yt10640beshalachpdf",
+          "extraClass": "mvcard",
+          "attrs": {
+            "data-mv": "chamisha-asar-b-shvat"
+          },
+          "color": "purple",
+          "img": "yt10640beshalachpdf",
+          "imgZoom": true,
+          "kick": "Yom Tov · Chamisha Asar B'shvat",
+          "ribbon": "Celebrate Like A Chayol",
+          "ribbonColor": "teal",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Lived this Yom Tov like a chayol"
+        },
+        {
+          "page": "yt1416644tetzavehpdf",
+          "extraClass": "mvcard",
+          "attrs": {
+            "data-mv": "purim"
+          },
+          "color": "purple",
+          "img": "yt1416644tetzavehpdf",
+          "imgZoom": true,
+          "kick": "Yom Tov · Purim",
+          "ribbon": "Celebrate Like A Chayol",
+          "ribbonColor": "teal",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Lived this Yom Tov like a chayol"
+        },
+        {
+          "page": "yt1012648tzavpdf",
+          "extraClass": "mvcard",
+          "attrs": {
+            "data-mv": "pesach"
+          },
+          "color": "purple",
+          "img": "yt1012648tzavpdf",
+          "imgZoom": true,
+          "kick": "Yom Tov · Pesach",
+          "ribbon": "Celebrate Like A Chayol",
+          "ribbonColor": "teal",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Lived this Yom Tov like a chayol"
+        },
+        {
+          "page": "yt10649pesachpdf",
+          "extraClass": "mvcard",
+          "attrs": {
+            "data-mv": "shevi-i-v-acharon-shel-pesach"
+          },
+          "color": "purple",
+          "img": "yt10649pesachpdf",
+          "imgZoom": true,
+          "kick": "Yom Tov · Shevi'i V'acharon Shel Pesach",
+          "ribbon": "Celebrate Like A Chayol",
+          "ribbonColor": "teal",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Lived this Yom Tov like a chayol"
+        },
+        {
+          "page": "yt12649pesachpdf",
+          "extraClass": "mvcard",
+          "attrs": {
+            "data-mv": "sefiras-haomer"
+          },
+          "color": "purple",
+          "img": "yt12649pesachpdf",
+          "imgZoom": true,
+          "kick": "Yom Tov · Sefiras Haomer",
+          "ribbon": "Celebrate Like A Chayol",
+          "ribbonColor": "teal",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Lived this Yom Tov like a chayol"
+        },
+        {
+          "page": "yt08652achareikedoshimpdf",
+          "extraClass": "mvcard",
+          "attrs": {
+            "data-mv": "pesach-sheini"
+          },
+          "color": "purple",
+          "img": "yt08652achareikedoshimpdf",
+          "imgZoom": true,
+          "kick": "Yom Tov · Pesach Sheini",
+          "ribbon": "Celebrate Like A Chayol",
+          "ribbonColor": "teal",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Lived this Yom Tov like a chayol"
+        },
+        {
+          "page": "yt08653emorpdf",
+          "extraClass": "mvcard",
+          "attrs": {
+            "data-mv": "lag-baomer"
+          },
+          "color": "purple",
+          "img": "yt08653emorpdf",
+          "imgZoom": true,
+          "kick": "Yom Tov · Lag Baomer",
+          "ribbon": "Celebrate Like A Chayol",
+          "ribbonColor": "teal",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Lived this Yom Tov like a chayol"
+        },
+        {
+          "page": "yt08655656bamidbarpdf",
+          "extraClass": "mvcard",
+          "attrs": {
+            "data-mv": "shavuos"
+          },
+          "color": "purple",
+          "img": "yt08655656bamidbarpdf",
+          "imgZoom": true,
+          "kick": "Yom Tov · Shavuos",
+          "ribbon": "Celebrate Like A Chayol",
+          "ribbonColor": "teal",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Lived this Yom Tov like a chayol"
+        }
+      ]
+    },
+    {
+      "type": "cards",
+      "extraClass": "mvgrid off",
+      "attrs": {
+        "id": "ytg2"
+      },
+      "items": [
+        {
+          "page": "yt08661roshhashanapdf",
+          "extraClass": "mvcard",
+          "attrs": {
+            "data-mv": "rosh-hashana"
+          },
+          "color": "purple",
+          "img": "yt08661roshhashanapdf",
+          "imgZoom": true,
+          "kick": "Yom Tov · Rosh Hashana",
+          "ribbon": "Yom Tov Seasons",
+          "ribbonColor": "green",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Lived this Yom Tov like a chayol"
+        },
+        {
+          "page": "yt08662haazinupdf",
+          "extraClass": "mvcard",
+          "attrs": {
+            "data-mv": "aseres-yemei-teshuvah"
+          },
+          "color": "purple",
+          "img": "yt08662haazinupdf",
+          "imgZoom": true,
+          "kick": "Yom Tov · Aseres Yemei Teshuvah",
+          "ribbon": "Yom Tov Seasons",
+          "ribbonColor": "green",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Lived this Yom Tov like a chayol"
+        },
+        {
+          "page": "yt08663sukkospdf",
+          "extraClass": "mvcard",
+          "attrs": {
+            "data-mv": "sukkos"
+          },
+          "color": "purple",
+          "img": "yt08663sukkospdf",
+          "imgZoom": true,
+          "kick": "Yom Tov · Sukkos",
+          "ribbon": "Yom Tov Seasons",
+          "ribbonColor": "green",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Lived this Yom Tov like a chayol"
+        },
+        {
+          "page": "yt08664shminiatzerespdf",
+          "extraClass": "mvcard",
+          "attrs": {
+            "data-mv": "shimini-atzeres"
+          },
+          "color": "purple",
+          "img": "yt08664shminiatzerespdf",
+          "imgZoom": true,
+          "kick": "Yom Tov · Shimini Atzeres",
+          "ribbon": "Yom Tov Seasons",
+          "ribbonColor": "green",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Lived this Yom Tov like a chayol"
+        },
+        {
+          "page": "yt08673vayeishevpdf",
+          "extraClass": "mvcard",
+          "attrs": {
+            "data-mv": "channukah"
+          },
+          "color": "purple",
+          "img": "yt08673vayeishevpdf",
+          "imgZoom": true,
+          "kick": "Yom Tov · Channukah",
+          "ribbon": "Yom Tov Seasons",
+          "ribbonColor": "green",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Lived this Yom Tov like a chayol"
+        },
+        {
+          "page": "yt08675vayigashpdf",
+          "extraClass": "mvcard",
+          "attrs": {
+            "data-mv": "asarah-b-teves"
+          },
+          "color": "purple",
+          "img": "yt08675vayigashpdf",
+          "imgZoom": true,
+          "kick": "Yom Tov · Asarah B'Teves",
+          "ribbon": "Yom Tov Seasons",
+          "ribbonColor": "green",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Lived this Yom Tov like a chayol"
+        },
+        {
+          "page": "yt08676vayechipdf",
+          "extraClass": "mvcard",
+          "attrs": {
+            "data-mv": "chof-teves"
+          },
+          "color": "purple",
+          "img": "yt08676vayechipdf",
+          "imgZoom": true,
+          "kick": "Yom Tov · Chof Teves",
+          "ribbon": "Yom Tov Seasons",
+          "ribbonColor": "green",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Lived this Yom Tov like a chayol"
+        },
+        {
+          "page": "yt08680beshalachpdf",
+          "extraClass": "mvcard",
+          "attrs": {
+            "data-mv": "chamisha-asar-b-shvat"
+          },
+          "color": "purple",
+          "img": "yt08680beshalachpdf",
+          "imgZoom": true,
+          "kick": "Yom Tov · Chamisha Asar B'shvat",
+          "ribbon": "Yom Tov Seasons",
+          "ribbonColor": "green",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Lived this Yom Tov like a chayol"
+        }
+      ]
+    },
+    {
+      "type": "cards",
+      "extraClass": "mvgrid off",
+      "attrs": {
+        "id": "ytg3"
+      },
+      "items": [
+        {
+          "page": "yt08578shoftimpdf",
+          "extraClass": "mvcard",
+          "attrs": {
+            "data-mv": "elul"
+          },
+          "color": "purple",
+          "img": "yt08578shoftimpdf",
+          "imgZoom": true,
+          "kick": "Yom Tov · Elul",
+          "ribbon": "Fly With Me",
+          "ribbonColor": "cyan",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Lived this Yom Tov like a chayol"
+        },
+        {
+          "page": "yt08581nitzavimpdf",
+          "extraClass": "mvcard",
+          "attrs": {
+            "data-mv": "rosh-hashana"
+          },
+          "color": "purple",
+          "img": "yt08581nitzavimpdf",
+          "imgZoom": true,
+          "kick": "Yom Tov · Rosh Hashana",
+          "ribbon": "Fly With Me",
+          "ribbonColor": "cyan",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Lived this Yom Tov like a chayol"
+        },
+        {
+          "page": "yt08582haazinupdf",
+          "extraClass": "mvcard",
+          "attrs": {
+            "data-mv": "tzom-gedalia"
+          },
+          "color": "purple",
+          "img": "yt08582haazinupdf",
+          "imgZoom": true,
+          "kick": "Yom Tov · Tzom Gedalia",
+          "ribbon": "Fly With Me",
+          "ribbonColor": "cyan",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Lived this Yom Tov like a chayol"
+        },
+        {
+          "page": "yt08583yomkippurpdf",
+          "extraClass": "mvcard",
+          "attrs": {
+            "data-mv": "yom-kippur"
+          },
+          "color": "purple",
+          "img": "yt08583yomkippurpdf",
+          "imgZoom": true,
+          "kick": "Yom Tov · Yom Kippur",
+          "ribbon": "Fly With Me",
+          "ribbonColor": "cyan",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Lived this Yom Tov like a chayol"
+        },
+        {
+          "page": "yt08584sukkospdf",
+          "extraClass": "mvcard",
+          "attrs": {
+            "data-mv": "sukkos"
+          },
+          "color": "purple",
+          "img": "yt08584sukkospdf",
+          "imgZoom": true,
+          "kick": "Yom Tov · Sukkos",
+          "ribbon": "Fly With Me",
+          "ribbonColor": "cyan",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Lived this Yom Tov like a chayol"
+        },
+        {
+          "page": "yt08585bereishispdf",
+          "extraClass": "mvcard",
+          "attrs": {
+            "data-mv": "shimini-atzeres"
+          },
+          "color": "purple",
+          "img": "yt08585bereishispdf",
+          "imgZoom": true,
+          "kick": "Yom Tov · Shimini Atzeres",
+          "ribbon": "Fly With Me",
+          "ribbonColor": "cyan",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Lived this Yom Tov like a chayol"
+        },
+        {
+          "page": "yt08593vayeishevpdf",
+          "extraClass": "mvcard",
+          "attrs": {
+            "data-mv": "channukah"
+          },
+          "color": "purple",
+          "img": "yt08593vayeishevpdf",
+          "imgZoom": true,
+          "kick": "Yom Tov · Channukah",
+          "ribbon": "Fly With Me",
+          "ribbonColor": "cyan",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Lived this Yom Tov like a chayol"
+        },
+        {
+          "page": "yt08596vayechipdf",
+          "extraClass": "mvcard",
+          "attrs": {
+            "data-mv": "asarah-b-teves"
+          },
+          "color": "purple",
+          "img": "yt08596vayechipdf",
+          "imgZoom": true,
+          "kick": "Yom Tov · Asarah B'Teves",
+          "ribbon": "Fly With Me",
+          "ribbonColor": "cyan",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Lived this Yom Tov like a chayol"
+        },
+        {
+          "page": "yt08597shemospdf",
+          "extraClass": "mvcard",
+          "attrs": {
+            "data-mv": "chof-teves"
+          },
+          "color": "purple",
+          "img": "yt08597shemospdf",
+          "imgZoom": true,
+          "kick": "Yom Tov · Chof Teves",
+          "ribbon": "Fly With Me",
+          "ribbonColor": "cyan",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Lived this Yom Tov like a chayol"
+        },
+        {
+          "page": "yt10600beshalachpdf",
+          "extraClass": "mvcard",
+          "attrs": {
+            "data-mv": "chamisha-asar-b-shvat"
+          },
+          "color": "purple",
+          "img": "yt10600beshalachpdf",
+          "imgZoom": true,
+          "kick": "Yom Tov · Chamisha Asar B'shvat",
+          "ribbon": "Fly With Me",
+          "ribbonColor": "cyan",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Lived this Yom Tov like a chayol"
+        },
+        {
+          "page": "yt08604tetzavehpdf",
+          "extraClass": "mvcard",
+          "attrs": {
+            "data-mv": "purim"
+          },
+          "color": "purple",
+          "img": "yt08604tetzavehpdf",
+          "imgZoom": true,
+          "kick": "Yom Tov · Purim",
+          "ribbon": "Fly With Me",
+          "ribbonColor": "cyan",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Lived this Yom Tov like a chayol"
+        },
+        {
+          "page": "yt10609tzavpdf",
+          "extraClass": "mvcard",
+          "attrs": {
+            "data-mv": "pesach"
+          },
+          "color": "purple",
+          "img": "yt10609tzavpdf",
+          "imgZoom": true,
+          "kick": "Yom Tov · Pesach",
+          "ribbon": "Fly With Me",
+          "ribbonColor": "cyan",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Lived this Yom Tov like a chayol"
+        },
+        {
+          "page": "yt08610pesachpdf",
+          "extraClass": "mvcard",
+          "attrs": {
+            "data-mv": "shevi-i-shel-pesach"
+          },
+          "color": "purple",
+          "img": "yt08610pesachpdf",
+          "imgZoom": true,
+          "kick": "Yom Tov · Shevi'i Shel Pesach",
+          "ribbon": "Fly With Me",
+          "ribbonColor": "cyan",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Lived this Yom Tov like a chayol"
+        },
+        {
+          "page": "yt12610pesachpdf",
+          "extraClass": "mvcard",
+          "attrs": {
+            "data-mv": "sefiras-haomer"
+          },
+          "color": "purple",
+          "img": "yt12610pesachpdf",
+          "imgZoom": true,
+          "kick": "Yom Tov · Sefiras Haomer",
+          "ribbon": "Fly With Me",
+          "ribbonColor": "cyan",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Lived this Yom Tov like a chayol"
+        },
+        {
+          "page": "yt08613achareimoskedoshimpdf",
+          "extraClass": "mvcard",
+          "attrs": {
+            "data-mv": "pesach-sheini"
+          },
+          "color": "purple",
+          "img": "yt08613achareimoskedoshimpdf",
+          "imgZoom": true,
+          "kick": "Yom Tov · Pesach Sheini",
+          "ribbon": "Fly With Me",
+          "ribbonColor": "cyan",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Lived this Yom Tov like a chayol"
+        },
+        {
+          "page": "yt08614emorpdf",
+          "extraClass": "mvcard",
+          "attrs": {
+            "data-mv": "lag-baomer"
+          },
+          "color": "purple",
+          "img": "yt08614emorpdf",
+          "imgZoom": true,
+          "kick": "Yom Tov · Lag Baomer",
+          "ribbon": "Fly With Me",
+          "ribbonColor": "cyan",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Lived this Yom Tov like a chayol"
+        },
+        {
+          "page": "yt08616bamidbarpdf",
+          "extraClass": "mvcard",
+          "attrs": {
+            "data-mv": "shavuos"
+          },
+          "color": "purple",
+          "img": "yt08616bamidbarpdf",
+          "imgZoom": true,
+          "kick": "Yom Tov · Shavuos",
+          "ribbon": "Fly With Me",
+          "ribbonColor": "cyan",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Lived this Yom Tov like a chayol"
+        }
+      ]
+    },
+    {
+      "type": "cards",
+      "extraClass": "mvgrid off",
+      "attrs": {
+        "id": "ytg4"
+      },
+      "items": [
+        {
+          "page": "yt1416537roshhashanapdf",
+          "extraClass": "mvcard",
+          "attrs": {
+            "data-mv": "rosh-hashana"
+          },
+          "color": "purple",
+          "img": "yt1416537roshhashanapdf",
+          "imgZoom": true,
+          "kick": "Yom Tov · Rosh Hashana",
+          "ribbon": "Esty's Entries",
+          "ribbonColor": "orange",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Lived this Yom Tov like a chayol"
+        },
+        {
+          "page": "yt538haazinu08pdf",
+          "extraClass": "mvcard",
+          "attrs": {
+            "data-mv": "yom-kippur"
+          },
+          "color": "purple",
+          "img": "yt538haazinu08pdf",
+          "imgZoom": true,
+          "kick": "Yom Tov · Yom Kippur",
+          "ribbon": "Esty's Entries",
+          "ribbonColor": "orange",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Lived this Yom Tov like a chayol"
+        },
+        {
+          "page": "yt539sukkos08pdf",
+          "extraClass": "mvcard",
+          "attrs": {
+            "data-mv": "sukkos"
+          },
+          "color": "purple",
+          "img": "yt539sukkos08pdf",
+          "imgZoom": true,
+          "kick": "Yom Tov · Sukkos",
+          "ribbon": "Esty's Entries",
+          "ribbonColor": "orange",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Lived this Yom Tov like a chayol"
+        },
+        {
+          "page": "yt540shminiatzeres06pdf",
+          "extraClass": "mvcard",
+          "attrs": {
+            "data-mv": "shimini-atzeres"
+          },
+          "color": "purple",
+          "img": "yt540shminiatzeres06pdf",
+          "imgZoom": true,
+          "kick": "Yom Tov · Shimini Atzeres",
+          "ribbon": "Esty's Entries",
+          "ribbonColor": "orange",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Lived this Yom Tov like a chayol"
+        },
+        {
+          "page": "yt08549vayeshevpdf",
+          "extraClass": "mvcard",
+          "attrs": {
+            "data-mv": "channukah"
+          },
+          "color": "purple",
+          "img": "yt08549vayeshevpdf",
+          "imgZoom": true,
+          "kick": "Yom Tov · Channukah",
+          "ribbon": "Esty's Entries",
+          "ribbonColor": "orange",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Lived this Yom Tov like a chayol"
+        },
+        {
+          "page": "yt08551vayigashpdf",
+          "extraClass": "mvcard",
+          "attrs": {
+            "data-mv": "asarah-b-teves"
+          },
+          "color": "purple",
+          "img": "yt08551vayigashpdf",
+          "imgZoom": true,
+          "kick": "Yom Tov · Asarah B'Teves",
+          "ribbon": "Esty's Entries",
+          "ribbonColor": "orange",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Lived this Yom Tov like a chayol"
+        },
+        {
+          "page": "yt08552vayechipdf",
+          "extraClass": "mvcard",
+          "attrs": {
+            "data-mv": "chof-teves"
+          },
+          "color": "purple",
+          "img": "yt08552vayechipdf",
+          "imgZoom": true,
+          "kick": "Yom Tov · Chof Teves",
+          "ribbon": "Esty's Entries",
+          "ribbonColor": "orange",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Lived this Yom Tov like a chayol"
+        },
+        {
+          "page": "yt16555bopdf",
+          "extraClass": "mvcard",
+          "attrs": {
+            "data-mv": "chamisha-asar-b-shvat"
+          },
+          "color": "purple",
+          "img": "yt16555bopdf",
+          "imgZoom": true,
+          "kick": "Yom Tov · Chamisha Asar B'shvat",
+          "ribbon": "Esty's Entries",
+          "ribbonColor": "orange",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Lived this Yom Tov like a chayol"
+        },
+        {
+          "page": "yt08560tetzavehpdf",
+          "extraClass": "mvcard",
+          "attrs": {
+            "data-mv": "purim-katan"
+          },
+          "color": "purple",
+          "img": "yt08560tetzavehpdf",
+          "imgZoom": true,
+          "kick": "Yom Tov · Purim Katan",
+          "ribbon": "Esty's Entries",
+          "ribbonColor": "orange",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Lived this Yom Tov like a chayol"
+        },
+        {
+          "page": "yt08564vayikrapdf",
+          "extraClass": "mvcard",
+          "attrs": {
+            "data-mv": "purim"
+          },
+          "color": "purple",
+          "img": "yt08564vayikrapdf",
+          "imgZoom": true,
+          "kick": "Yom Tov · Purim",
+          "ribbon": "Esty's Entries",
+          "ribbonColor": "orange",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Lived this Yom Tov like a chayol"
+        },
+        {
+          "page": "yt08568metzorahpdf",
+          "extraClass": "mvcard",
+          "attrs": {
+            "data-mv": "pesach"
+          },
+          "color": "purple",
+          "img": "yt08568metzorahpdf",
+          "imgZoom": true,
+          "kick": "Yom Tov · Pesach",
+          "ribbon": "Esty's Entries",
+          "ribbonColor": "orange",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Lived this Yom Tov like a chayol"
+        },
+        {
+          "page": "yt08569pesachpdf",
+          "extraClass": "mvcard",
+          "attrs": {
+            "data-mv": "shevi-i-shel-pesach"
+          },
+          "color": "purple",
+          "img": "yt08569pesachpdf",
+          "imgZoom": true,
+          "kick": "Yom Tov · Shevi'i Shel Pesach",
+          "ribbon": "Esty's Entries",
+          "ribbonColor": "orange",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Lived this Yom Tov like a chayol"
+        },
+        {
+          "page": "yt12569pesachpdf",
+          "extraClass": "mvcard",
+          "attrs": {
+            "data-mv": "sefiras-haomer"
+          },
+          "color": "purple",
+          "img": "yt12569pesachpdf",
+          "imgZoom": true,
+          "kick": "Yom Tov · Sefiras Haomer",
+          "ribbon": "Esty's Entries",
+          "ribbonColor": "orange",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Lived this Yom Tov like a chayol"
+        },
+        {
+          "page": "yt08572emorpdf",
+          "extraClass": "mvcard",
+          "attrs": {
+            "data-mv": "pesach-sheini"
+          },
+          "color": "purple",
+          "img": "yt08572emorpdf",
+          "imgZoom": true,
+          "kick": "Yom Tov · Pesach Sheini",
+          "ribbon": "Esty's Entries",
+          "ribbonColor": "orange",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Lived this Yom Tov like a chayol"
+        },
+        {
+          "page": "yt08573beharpdf",
+          "extraClass": "mvcard",
+          "attrs": {
+            "data-mv": "lag-baomer"
+          },
+          "color": "purple",
+          "img": "yt08573beharpdf",
+          "imgZoom": true,
+          "kick": "Yom Tov · Lag Baomer",
+          "ribbon": "Esty's Entries",
+          "ribbonColor": "orange",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Lived this Yom Tov like a chayol"
+        },
+        {
+          "page": "yt12575bamidbarpdf",
+          "extraClass": "mvcard",
+          "attrs": {
+            "data-mv": "shavuos"
+          },
+          "color": "purple",
+          "img": "yt12575bamidbarpdf",
+          "imgZoom": true,
+          "kick": "Yom Tov · Shavuos",
+          "ribbon": "Esty's Entries",
+          "ribbonColor": "orange",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Lived this Yom Tov like a chayol"
+        }
+      ]
+    },
+    {
+      "type": "cards",
+      "extraClass": "mvgrid off",
+      "attrs": {
+        "id": "ytg5"
+      },
+      "items": [
+        {
+          "page": "yt498nitzavim7pdf",
+          "extraClass": "mvcard",
+          "attrs": {
+            "data-mv": "rosh-hashana"
+          },
+          "color": "purple",
+          "img": "yt498nitzavim7pdf",
+          "imgZoom": true,
+          "kick": "Yom Tov · Rosh Hashana",
+          "ribbon": "Sender's Adventures",
+          "ribbonColor": "gold",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Lived this Yom Tov like a chayol"
+        },
+        {
+          "page": "yt499vayelech7pdf",
+          "extraClass": "mvcard",
+          "attrs": {
+            "data-mv": "yom-kippur"
+          },
+          "color": "purple",
+          "img": "yt499vayelech7pdf",
+          "imgZoom": true,
+          "kick": "Yom Tov · Yom Kippur",
+          "ribbon": "Sender's Adventures",
+          "ribbonColor": "gold",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Lived this Yom Tov like a chayol"
+        },
+        {
+          "page": "yt500haazinu6pdf",
+          "extraClass": "mvcard",
+          "attrs": {
+            "data-mv": "sukkos"
+          },
+          "color": "purple",
+          "img": "yt500haazinu6pdf",
+          "imgZoom": true,
+          "kick": "Yom Tov · Sukkos",
+          "ribbon": "Sender's Adventures",
+          "ribbonColor": "gold",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Lived this Yom Tov like a chayol"
+        },
+        {
+          "page": "yt510vayeshev5pdf",
+          "extraClass": "mvcard",
+          "attrs": {
+            "data-mv": "channukah"
+          },
+          "color": "purple",
+          "img": "yt510vayeshev5pdf",
+          "imgZoom": true,
+          "kick": "Yom Tov · Channukah",
+          "ribbon": "Sender's Adventures",
+          "ribbonColor": "gold",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Lived this Yom Tov like a chayol"
+        },
+        {
+          "page": "yt517beshalach7pdf",
+          "extraClass": "mvcard",
+          "attrs": {
+            "data-mv": "chamisha-asar-b-shvat"
+          },
+          "color": "purple",
+          "img": "yt517beshalach7pdf",
+          "imgZoom": true,
+          "kick": "Yom Tov · Chamisha Asar B'shvat",
+          "ribbon": "Sender's Adventures",
+          "ribbonColor": "gold",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Lived this Yom Tov like a chayol"
+        },
+        {
+          "page": "yt521tetzaveh5pdf",
+          "extraClass": "mvcard",
+          "attrs": {
+            "data-mv": "purim"
+          },
+          "color": "purple",
+          "img": "yt521tetzaveh5pdf",
+          "imgZoom": true,
+          "kick": "Yom Tov · Purim",
+          "ribbon": "Sender's Adventures",
+          "ribbonColor": "gold",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Lived this Yom Tov like a chayol"
+        },
+        {
+          "page": "yt525tzav5pdf",
+          "extraClass": "mvcard",
+          "attrs": {
+            "data-mv": "pesach"
+          },
+          "color": "purple",
+          "img": "yt525tzav5pdf",
+          "imgZoom": true,
+          "kick": "Yom Tov · Pesach",
+          "ribbon": "Sender's Adventures",
+          "ribbonColor": "gold",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Lived this Yom Tov like a chayol"
+        },
+        {
+          "page": "yt530emor06pdf",
+          "extraClass": "mvcard",
+          "attrs": {
+            "data-mv": "lag-baomer"
+          },
+          "color": "purple",
+          "img": "yt530emor06pdf",
+          "imgZoom": true,
+          "kick": "Yom Tov · Lag Baomer",
+          "ribbon": "Sender's Adventures",
+          "ribbonColor": "gold",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Lived this Yom Tov like a chayol"
+        },
+        {
+          "page": "yt533spreads06pdf",
+          "extraClass": "mvcard",
+          "attrs": {
+            "data-mv": "shavuos"
+          },
+          "color": "purple",
+          "img": "yt533spreads06pdf",
+          "imgZoom": true,
+          "kick": "Yom Tov · Shavuos",
+          "ribbon": "Sender's Adventures",
+          "ribbonColor": "gold",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Lived this Yom Tov like a chayol"
+        }
+      ]
+    }
+  ],
+  "title": "Yom Tov",
+  "type": "hub"
+}

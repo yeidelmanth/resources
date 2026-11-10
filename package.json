@@ -1,0 +1,19 @@
+{
+  "name": "tzivos-hashem-resources",
+  "version": "1.0.0",
+  "description": "Tzivos Hashem Commander's Resources — content-managed rebuild",
+  "type": "module",
+  "scripts": {
+    "admin": "node server.mjs",
+    "build": "node scripts/build.mjs",
+    "check": "node scripts/check.mjs",
+    "migrate": "node scripts/migrate.mjs"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "multer": "^1.4.5-lts.1"
+  },
+  "devDependencies": {
+    "jsdom": "^24.1.3"
+  }
+}

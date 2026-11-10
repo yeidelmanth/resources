@@ -1,0 +1,40 @@
+{
+  "id": "yt08604tetzavehpdf",
+  "branch": "campaign",
+  "parent": "cYomTov",
+  "crumbLabel": "Fly With Me",
+  "template": "article",
+  "title": "Festive Four",
+  "article": {
+    "kick": "Yom Tov · Purim",
+    "chips": [
+      "Purim"
+    ],
+    "pages": [
+      "yt08604tetzavehpdf",
+      "yt08604tetzavehpdf_p2"
+    ],
+    "pdf": "yomtov/08%20604%20Tetzaveh.pdf",
+    "sichos": [
+      {
+        "label": "Sicha 1",
+        "href": "sichos/DRRTK%20vol%202%20-%20p%20301-302.pdf"
+      },
+      {
+        "label": "Sicha 2",
+        "href": "sichos/DRRTK%20vol%202%20-%20p%20303.pdf"
+      },
+      {
+        "label": "Sicha 3",
+        "href": "sichos/TRSTC%20vol.%202%2C%20p.%20440-442.pdf"
+      },
+      {
+        "label": "Sicha 4",
+        "href": "sichos/TRSTC%20vol.%202%2C%20p.%20443-444.pdf"
+      }
+    ],
+    "body": "<p>“וְעַל הַנִּסִים” to say, important things to get done;</p><p>Four mitzvos today that we hear, give, and ___________.</p><p>With family and friends, we enjoy a grand ____________.</p><p>On Purim our happiness breaks right through the day.</p><p>(Though each Yom Tov’s special and joyful, that’s right.)</p><p>Because today’s nes is limitless simcha and ____________!</p><p>Answers: eat, megillah, need, feast, celebrations, light</p>",
+    "source": "Source: Yom Tov Campaign · Sichos - Poems - Fly With Me"
+  },
+  "type": "fly-with-me"
+}

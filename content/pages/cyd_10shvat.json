@@ -1,0 +1,54 @@
+{
+  "id": "cyd_10shvat",
+  "branch": "campaign",
+  "parent": "cYomaDepagra",
+  "crumbLabel": "10 Shvat 5710",
+  "template": "hub",
+  "blocks": [
+    {
+      "type": "heading",
+      "eyebrow": "Campaign · Yoma Depagra",
+      "title": "10 Shvat 5710",
+      "text": "Histalkus of the Frierdiker Rebbe"
+    },
+    {
+      "type": "tabs",
+      "items": [
+        {
+          "panel": "cyd_10shvat-comic",
+          "label": "Comic Story · Chassidishe Frames",
+          "on": true
+        },
+        {
+          "panel": "cyd_10shvat-timeline",
+          "label": "Timeline · Building Blocks"
+        }
+      ]
+    },
+    {
+      "type": "gallery",
+      "panel": "cyd_10shvat-comic",
+      "images": [
+        {
+          "img": "ydc10shvat",
+          "alt": "Constantly Connected"
+        }
+      ],
+      "pdf": "yomadepagra/comic/08-679-Bo.pdf"
+    },
+    {
+      "type": "gallery",
+      "panel": "cyd_10shvat-timeline",
+      "hidden": true,
+      "images": [
+        {
+          "img": "ydt10shvat",
+          "alt": "Histalkus of the Friediker Rebbe"
+        }
+      ],
+      "pdf": "yomadepagra/timeline/08-639-Bo.pdf"
+    }
+  ],
+  "title": "10 Shvat 5710",
+  "type": "yd-campaign-date"
+}

@@ -1,0 +1,54 @@
+{
+  "id": "cyd_14kislev",
+  "branch": "campaign",
+  "parent": "cYomaDepagra",
+  "crumbLabel": "14 Kislev 5689",
+  "template": "hub",
+  "blocks": [
+    {
+      "type": "heading",
+      "eyebrow": "Campaign · Yoma Depagra",
+      "title": "14 Kislev 5689",
+      "text": "The Chasuna of Our Rebbe &amp; Rebbetzin"
+    },
+    {
+      "type": "tabs",
+      "items": [
+        {
+          "panel": "cyd_14kislev-comic",
+          "label": "Comic Story · Chassidishe Frames",
+          "on": true
+        },
+        {
+          "panel": "cyd_14kislev-timeline",
+          "label": "Timeline · Building Blocks"
+        }
+      ]
+    },
+    {
+      "type": "gallery",
+      "panel": "cyd_14kislev-comic",
+      "images": [
+        {
+          "img": "ydc14kislev",
+          "alt": "Wedding Journey"
+        }
+      ],
+      "pdf": "yomadepagra/comic/08-671-Vayeitzei.pdf"
+    },
+    {
+      "type": "gallery",
+      "panel": "cyd_14kislev-timeline",
+      "hidden": true,
+      "images": [
+        {
+          "img": "ydt14kislev",
+          "alt": "The Chasuna of our Rebbe & Rebbetzin"
+        }
+      ],
+      "pdf": "yomadepagra/timeline/10-631-Vayeitzei.pdf"
+    }
+  ],
+  "title": "14 Kislev 5689",
+  "type": "yd-campaign-date"
+}

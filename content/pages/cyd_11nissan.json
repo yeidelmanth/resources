@@ -1,0 +1,38 @@
+{
+  "id": "cyd_11nissan",
+  "branch": "campaign",
+  "parent": "cYomaDepagra",
+  "crumbLabel": "11 Nissan 5662",
+  "template": "hub",
+  "blocks": [
+    {
+      "type": "heading",
+      "eyebrow": "Campaign · Yoma Depagra",
+      "title": "11 Nissan 5662",
+      "text": "Birthday of the Rebbe"
+    },
+    {
+      "type": "tabs",
+      "items": [
+        {
+          "panel": "cyd_11nissan-timeline",
+          "label": "Timeline · Building Blocks",
+          "on": true
+        }
+      ]
+    },
+    {
+      "type": "gallery",
+      "panel": "cyd_11nissan-timeline",
+      "images": [
+        {
+          "img": "ydt11nissan",
+          "alt": "Birthday of the Rebbe"
+        }
+      ],
+      "pdf": "yomadepagra/timeline/08-648-Tzav.pdf"
+    }
+  ],
+  "title": "11 Nissan 5662",
+  "type": "yd-campaign-date"
+}

@@ -1,0 +1,54 @@
+{
+  "id": "cyd_29elul",
+  "branch": "campaign",
+  "parent": "cYomaDepagra",
+  "crumbLabel": "29 Elul 5549",
+  "template": "hub",
+  "blocks": [
+    {
+      "type": "heading",
+      "eyebrow": "Campaign · Yoma Depagra",
+      "title": "29 Elul 5549",
+      "text": "Birthday of the Tzemach Tzedek"
+    },
+    {
+      "type": "tabs",
+      "items": [
+        {
+          "panel": "cyd_29elul-comic",
+          "label": "Comic Story · Chassidishe Frames",
+          "on": true
+        },
+        {
+          "panel": "cyd_29elul-timeline",
+          "label": "Timeline · Building Blocks"
+        }
+      ]
+    },
+    {
+      "type": "gallery",
+      "panel": "cyd_29elul-comic",
+      "images": [
+        {
+          "img": "ydc29elul",
+          "alt": "Unexpected Gratitude"
+        }
+      ],
+      "pdf": "yomadepagra/comic/08-660-Nitzavim-Vayelech.pdf"
+    },
+    {
+      "type": "gallery",
+      "panel": "cyd_29elul-timeline",
+      "hidden": true,
+      "images": [
+        {
+          "img": "ydt29elul",
+          "alt": "Birthday of the Tzemach Tzedek"
+        }
+      ],
+      "pdf": "yomadepagra/timeline/08-621-Nitzavim.pdf"
+    }
+  ],
+  "title": "29 Elul 5549",
+  "type": "yd-campaign-date"
+}

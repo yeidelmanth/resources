@@ -1,0 +1,73 @@
+{
+  "id": "home",
+  "branch": "home",
+  "template": "hub",
+  "sections": [
+    {
+      "html": "<div class=\"hero\"><div class=\"wrap\"><div class=\"hebbig\" id=\"wkHeb\">פָּרָשַׁת נִצָּבִים־וַיֵּלֶךְ</div><h1><button class=\"h1link\" id=\"wkParsha\" data-go=\"dParsha\">Parshas Nitzavim–Vayeilech</button></h1><div style=\"color:#9DB2DE;font-size:18px\"><bdi id=\"wkDateHeb\">כ״ג אֱלוּל</bdi></div><div class=\"acts\"><button class=\"btn btn-p\" id=\"wkBtn\" data-go=\"dParsha\">Hachayol Resources →</button><button class=\"btn btn-o\" data-go=\"marking\">Missions</button><button class=\"btn btn-o\" data-go=\"calendar\">Calendar</button></div></div></div>"
+    },
+    {
+      "html": "<div class=\"band\"><i></i><i></i><i></i><i></i><i></i></div>"
+    },
+    {
+      "alt": true,
+      "blocks": [
+        {
+          "type": "heading",
+          "eyebrow": "The library",
+          "title": "The library",
+          "text": "Date, Campaign and TH Rally are three ways into the same library. Promotions and Mission Marking are what happens after a soldier reads something."
+        },
+        {
+          "type": "tiles",
+          "items": [
+            {
+              "page": "date",
+              "color": "navy",
+              "kicker": "Browse by when",
+              "title": "Date",
+              "text": "Month · Parsha · Yoma Depagra · Yom Tov"
+            },
+            {
+              "page": "campaign",
+              "color": "blue",
+              "kicker": "The content engine",
+              "title": "Campaign",
+              "text": "Sichos · stories · niggunim · drills"
+            },
+            {
+              "page": "rally",
+              "color": "red",
+              "kicker": "The rally calendar",
+              "title": "TH Rally",
+              "text": "A run-of-show for every date"
+            },
+            {
+              "page": "promotions",
+              "color": "gold",
+              "kicker": "Ranks rise",
+              "title": "Promotions",
+              "text": "This month · last month"
+            },
+            {
+              "page": "marking",
+              "color": "cyan",
+              "kicker": "Your platoon",
+              "title": "Mission Marking",
+              "text": "Reports · point cards · orders"
+            },
+            {
+              "page": "chitas",
+              "color": "teal",
+              "kicker": "Today's learning",
+              "title": "Daily Chitas",
+              "text": "Chumash · Tehillim · Tanya · Sefer Hamitzvos"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Resources",
+  "type": "home"
+}

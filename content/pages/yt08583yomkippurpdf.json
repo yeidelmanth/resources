@@ -1,0 +1,40 @@
+{
+  "id": "yt08583yomkippurpdf",
+  "branch": "campaign",
+  "parent": "cYomTov",
+  "crumbLabel": "Fly With Me",
+  "template": "article",
+  "title": "Unity for the Year",
+  "article": {
+    "kick": "Yom Tov · Yom Kippur",
+    "chips": [
+      "Yom Kippur"
+    ],
+    "pages": [
+      "yt08583yomkippurpdf",
+      "yt08583yomkippurpdf_p2"
+    ],
+    "pdf": "yomtov/08%20583%20Yom%20Kippur.pdf",
+    "sichos": [
+      {
+        "label": "Sicha 1",
+        "href": "sichos/DRRTK%20vol%202%20-%20p%2086-87.pdf"
+      },
+      {
+        "label": "Sicha 2",
+        "href": "sichos/DRRTK%20vol%202%20-%20p%2091-92.pdf"
+      },
+      {
+        "label": "Sicha 3",
+        "href": "sichos/TRSTC%20vol.%202%2C%20p.%20158-160.pdf"
+      },
+      {
+        "label": "Sicha 4",
+        "href": "sichos/TRSTC%20vol.%202%2C%20p.%20162-163.pdf"
+      }
+    ],
+    "body": "<p>אַחַת ּבַּשָׁנָה: This “once-a- year” day makes us all one,</p><p>From _________ _____________ ‘till this final day.</p><p>’מִּמַעֲמַּקִים קְרָאתִיָך ה “From the depths of my heart, I call out to You.”</p><p>During this time, we connect when we _____________,</p><p>We approach Hashem ּבִהְיֹותֹו קָרֹוב—when He’s near,</p><p>Our yetzer hara, our sins are all wiped _____________,</p>",
+    "source": "Source: Yom Tov Campaign · Sichos - Poems - Fly With Me"
+  },
+  "type": "fly-with-me"
+}

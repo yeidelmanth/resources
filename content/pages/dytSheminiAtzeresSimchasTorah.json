@@ -1,0 +1,118 @@
+{
+  "id": "dytSheminiAtzeresSimchasTorah",
+  "branch": "date",
+  "parent": "dYT",
+  "crumbLabel": "Shemini Atzeres &amp; Simchas Torah",
+  "template": "hub",
+  "blocks": [
+    {
+      "type": "heading",
+      "eyebrow": "Yom Tov",
+      "title": "Shemini Atzeres &amp; Simchas Torah",
+      "text": "22–23 Tishrei"
+    },
+    {
+      "type": "hachayolbar",
+      "href": "pdfs/664.pdf",
+      "info": "Hachayol #664 · Shmini Atzeres · 21 Tishrei 5787",
+      "action": "Printable PDF ↗"
+    },
+    {
+      "type": "note",
+      "html": "<b>Issue loaded</b>This yom tov’s Hachayol issue is filed here. Text is machine-read from the scanned magazine — proofread against the PDF before print."
+    },
+    {
+      "type": "cards",
+      "items": [
+        {
+          "page": "i664orders",
+          "color": "purple",
+          "img": "i664orders",
+          "imgZoom": true,
+          "kick": "Hiskashrus · Sichos",
+          "ribbon": "Orders from Our General",
+          "ribbonColor": "red",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Share a sicha of the Rebbe"
+        },
+        {
+          "page": "i664rebbe",
+          "color": "purple",
+          "img": "i664rebbe",
+          "imgZoom": true,
+          "kick": "Hiskashrus · Rebbe Story",
+          "ribbon": "Rebbe Story",
+          "ribbonColor": "orange",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Share a story of the Rebbe at your Shabbos table"
+        },
+        {
+          "page": "i664niggun",
+          "color": "teal",
+          "img": "i664niggun",
+          "imgZoom": true,
+          "kick": "Niggunim",
+          "ribbon": "Niggun of the Week",
+          "ribbonColor": "teal",
+          "icon": "/resources/assets/img/aaa22b79c109253d.png",
+          "mission": "Share this week's niggun at your Shabbos table"
+        },
+        {
+          "page": "i664squad",
+          "color": "green",
+          "img": "i664squad",
+          "imgZoom": true,
+          "kick": "Campaign · VeHolachta Bidrochov",
+          "ribbon": "Squad Drills",
+          "ribbonColor": "gold",
+          "icon": "/resources/assets/img/03f3974e50e8e5fd.png",
+          "mission": "Worked on this week's middah with your squad"
+        },
+        {
+          "extraClass": "sect-wait",
+          "color": "cyan",
+          "kick": "Yom Tov - Sicha",
+          "ribbon": "Yom Tov Living",
+          "ribbonColor": "cyan",
+          "icon": "/resources/assets/img/7b5f36a5d9119965.png",
+          "missionLabel": "In this issue",
+          "mission": "Overflowing Joy · pp. 8-9",
+          "go": "Pages coming soon",
+          "goStyle": "color:var(--muted)"
+        },
+        {
+          "extraClass": "tp-lb",
+          "attrs": {
+            "data-lb": "i664sect05_p1,i664sect05_p2"
+          },
+          "color": "cyan",
+          "img": "i664sect05_p1",
+          "imgZoom": false,
+          "kick": "Yom Tov - Story",
+          "ribbon": "A Tale in Time",
+          "ribbonColor": "cyan",
+          "icon": "/resources/assets/img/7b5f36a5d9119965.png",
+          "missionLabel": "In this issue",
+          "mission": "The Very Stones Were Dancing · pp. 10-11"
+        },
+        {
+          "extraClass": "tp-lb",
+          "attrs": {
+            "data-lb": "i664sect06_p1,i664sect06_p2"
+          },
+          "color": "navy",
+          "img": "i664sect06_p1",
+          "imgZoom": false,
+          "kick": "Sefer Hamitzvos",
+          "ribbon": "Chidon",
+          "ribbonColor": "navy",
+          "icon": "/resources/assets/img/643b909aafb826b2.png",
+          "missionLabel": "In this issue",
+          "mission": "Test 1 · pp. 16"
+        }
+      ]
+    }
+  ],
+  "title": "Shemini Atzeres &amp; Simchas Torah",
+  "type": "yt-date"
+}

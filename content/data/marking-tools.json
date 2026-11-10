@@ -1,0 +1,37 @@
+[
+  {
+    "src": "/new/missions/print",
+    "name": "Print",
+    "desc": "Mission sheets, ready to hand out.",
+    "color": "var(--navy)",
+    "path": "M6 9V3h12v6 M6 18H4a2 2 0 0 1-2-2v-5a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v5a2 2 0 0 1-2 2h-2 M6 14h12v7H6z"
+  },
+  {
+    "src": "/new/missions/mark",
+    "name": "Mark",
+    "desc": "The grid where the platoon gets marked.",
+    "color": "var(--blue)",
+    "path": "M9 11l3 3L22 4 M21 12v7a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h11"
+  },
+  {
+    "src": "/new/missions/personalize",
+    "name": "Personalize",
+    "desc": "Choose which missions a soldier gets.",
+    "color": "var(--purple)",
+    "path": "M4 21v-7M4 10V3M12 21v-9M12 8V3M20 21v-5M20 12V3 M1 14h6M9 8h6M17 16h6"
+  },
+  {
+    "src": "/new/missions/duch",
+    "name": "Duch",
+    "desc": "Prepare and submit a Duch.",
+    "color": "var(--teal)",
+    "path": "M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z M14 2v6h6 M8 13h8M8 17h5"
+  },
+  {
+    "src": "/new/missions/streaks",
+    "name": "Streaks",
+    "desc": "Set up a streak on a task for a soldier.",
+    "color": "var(--green)",
+    "path": "M13 2L3 14h8l-1 8 10-12h-8z"
+  }
+]

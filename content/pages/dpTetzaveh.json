@@ -1,0 +1,21 @@
+{
+  "id": "dpTetzaveh",
+  "branch": "date",
+  "parent": "dParsha",
+  "crumbLabel": "תְּצַוֶּה",
+  "template": "hub",
+  "blocks": [
+    {
+      "type": "heading",
+      "eyebrow": "Parsha",
+      "title": "תְּצַוֶּה",
+      "heb": true
+    },
+    {
+      "type": "note",
+      "html": "<b>Awaiting issue</b>No Hachayol issue for this week is in the library yet — its cards appear as soon as one is added."
+    }
+  ],
+  "title": "תְּצַוֶּה",
+  "type": "parsha-week"
+}

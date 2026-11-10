@@ -1,0 +1,637 @@
+{
+  "id": "hkT2",
+  "branch": "campaign",
+  "parent": "cHiskashrus",
+  "crumbLabel": "The Parsha Podcast 1",
+  "template": "hub",
+  "blocks": [
+    {
+      "type": "heading",
+      "eyebrow": "Hiskashrus",
+      "title": "The Parsha Podcast 1",
+      "text": "The first Parsha Podcast cycle — a sicha for every parsha."
+    },
+    {
+      "type": "cards",
+      "items": [
+        {
+          "page": "hk206578shoftim",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "elul-melech-basodeh"
+          },
+          "color": "purple",
+          "img": "hk206578shoftim",
+          "imgZoom": true,
+          "kick": "Hiskashrus · The Parsha Podcast 1",
+          "ribbon": "Parsha Podcast",
+          "ribbonColor": "cyan",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk206579kisetzei",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "elul-tekias-shofar"
+          },
+          "color": "purple",
+          "img": "hk206579kisetzei",
+          "imgZoom": true,
+          "kick": "Hiskashrus · The Parsha Podcast 1",
+          "ribbon": "Parsha Podcast",
+          "ribbonColor": "cyan",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk206580kisavo",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "elul-kesivah-vechasimah-tovah"
+          },
+          "color": "purple",
+          "img": "hk206580kisavo",
+          "imgZoom": true,
+          "kick": "Hiskashrus · The Parsha Podcast 1",
+          "ribbon": "Parsha Podcast",
+          "ribbonColor": "cyan",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk206581nitzavim",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "vayeilech"
+          },
+          "color": "purple",
+          "img": "hk206581nitzavim",
+          "imgZoom": true,
+          "kick": "Hiskashrus · The Parsha Podcast 1",
+          "ribbon": "Parsha Podcast",
+          "ribbonColor": "cyan",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk206582haazinu",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "haazinu"
+          },
+          "color": "purple",
+          "img": "hk206582haazinu",
+          "imgZoom": true,
+          "kick": "Hiskashrus · The Parsha Podcast 1",
+          "ribbon": "Parsha Podcast",
+          "ribbonColor": "cyan",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk206583yomkippur",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "yom-kippur"
+          },
+          "color": "purple",
+          "img": "hk206583yomkippur",
+          "imgZoom": true,
+          "kick": "Hiskashrus · The Parsha Podcast 1",
+          "ribbon": "Parsha Podcast",
+          "ribbonColor": "cyan",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk206584sukkos",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "sukkos"
+          },
+          "color": "purple",
+          "img": "hk206584sukkos",
+          "imgZoom": true,
+          "kick": "Hiskashrus · The Parsha Podcast 1",
+          "ribbon": "Parsha Podcast",
+          "ribbonColor": "cyan",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk206585bereishis",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "bereishis"
+          },
+          "color": "purple",
+          "img": "hk206585bereishis",
+          "imgZoom": true,
+          "kick": "Hiskashrus · The Parsha Podcast 1",
+          "ribbon": "Parsha Podcast",
+          "ribbonColor": "cyan",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk206586noach",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "noach"
+          },
+          "color": "purple",
+          "img": "hk206586noach",
+          "imgZoom": true,
+          "kick": "Hiskashrus · The Parsha Podcast 1",
+          "ribbon": "Parsha Podcast",
+          "ribbonColor": "cyan",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk206587lechlecha",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "lech-lecha"
+          },
+          "color": "purple",
+          "img": "hk206587lechlecha",
+          "imgZoom": true,
+          "kick": "Hiskashrus · The Parsha Podcast 1",
+          "ribbon": "Parsha Podcast",
+          "ribbonColor": "cyan",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk206588vayeira",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "vayeira"
+          },
+          "color": "purple",
+          "img": "hk206588vayeira",
+          "imgZoom": true,
+          "kick": "Hiskashrus · The Parsha Podcast 1",
+          "ribbon": "Parsha Podcast",
+          "ribbonColor": "cyan",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk206589chayeisara",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "chayei-sara"
+          },
+          "color": "purple",
+          "img": "hk206589chayeisara",
+          "imgZoom": true,
+          "kick": "Hiskashrus · The Parsha Podcast 1",
+          "ribbon": "Parsha Podcast",
+          "ribbonColor": "cyan",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk206590toldos",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "toldos"
+          },
+          "color": "purple",
+          "img": "hk206590toldos",
+          "imgZoom": true,
+          "kick": "Hiskashrus · The Parsha Podcast 1",
+          "ribbon": "Parsha Podcast",
+          "ribbonColor": "cyan",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk206591vayeitzei",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "vayeitzei"
+          },
+          "color": "purple",
+          "img": "hk206591vayeitzei",
+          "imgZoom": true,
+          "kick": "Hiskashrus · The Parsha Podcast 1",
+          "ribbon": "Parsha Podcast",
+          "ribbonColor": "cyan",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk206592vayishlach",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "vayishlach"
+          },
+          "color": "purple",
+          "img": "hk206592vayishlach",
+          "imgZoom": true,
+          "kick": "Hiskashrus · The Parsha Podcast 1",
+          "ribbon": "Parsha Podcast",
+          "ribbonColor": "cyan",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk206593vayeishev",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "vayeishev"
+          },
+          "color": "purple",
+          "img": "hk206593vayeishev",
+          "imgZoom": true,
+          "kick": "Hiskashrus · The Parsha Podcast 1",
+          "ribbon": "Parsha Podcast",
+          "ribbonColor": "cyan",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk206594mikeitz",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "mikeitz"
+          },
+          "color": "purple",
+          "img": "hk206594mikeitz",
+          "imgZoom": true,
+          "kick": "Hiskashrus · The Parsha Podcast 1",
+          "ribbon": "Parsha Podcast",
+          "ribbonColor": "cyan",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk206595vayigash",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "vayigash"
+          },
+          "color": "purple",
+          "img": "hk206595vayigash",
+          "imgZoom": true,
+          "kick": "Hiskashrus · The Parsha Podcast 1",
+          "ribbon": "Parsha Podcast",
+          "ribbonColor": "cyan",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk206596vayechi",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "vayechi"
+          },
+          "color": "purple",
+          "img": "hk206596vayechi",
+          "imgZoom": true,
+          "kick": "Hiskashrus · The Parsha Podcast 1",
+          "ribbon": "Parsha Podcast",
+          "ribbonColor": "cyan",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk206597shemos",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "shemos"
+          },
+          "color": "purple",
+          "img": "hk206597shemos",
+          "imgZoom": true,
+          "kick": "Hiskashrus · The Parsha Podcast 1",
+          "ribbon": "Parsha Podcast",
+          "ribbonColor": "cyan",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk206598vaeira",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "vaera"
+          },
+          "color": "purple",
+          "img": "hk206598vaeira",
+          "imgZoom": true,
+          "kick": "Hiskashrus · The Parsha Podcast 1",
+          "ribbon": "Parsha Podcast",
+          "ribbonColor": "cyan",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk206599bo",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "bo"
+          },
+          "color": "purple",
+          "img": "hk206599bo",
+          "imgZoom": true,
+          "kick": "Hiskashrus · The Parsha Podcast 1",
+          "ribbon": "Parsha Podcast",
+          "ribbonColor": "cyan",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk206600beshalach",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "beshalach"
+          },
+          "color": "purple",
+          "img": "hk206600beshalach",
+          "imgZoom": true,
+          "kick": "Hiskashrus · The Parsha Podcast 1",
+          "ribbon": "Parsha Podcast",
+          "ribbonColor": "cyan",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk206601yisro",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "yisro"
+          },
+          "color": "purple",
+          "img": "hk206601yisro",
+          "imgZoom": true,
+          "kick": "Hiskashrus · The Parsha Podcast 1",
+          "ribbon": "Parsha Podcast",
+          "ribbonColor": "cyan",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk206602mishpotim",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "mishpatim"
+          },
+          "color": "purple",
+          "img": "hk206602mishpotim",
+          "imgZoom": true,
+          "kick": "Hiskashrus · The Parsha Podcast 1",
+          "ribbon": "Parsha Podcast",
+          "ribbonColor": "cyan",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk206603terumah",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "terumah"
+          },
+          "color": "purple",
+          "img": "hk206603terumah",
+          "imgZoom": true,
+          "kick": "Hiskashrus · The Parsha Podcast 1",
+          "ribbon": "Parsha Podcast",
+          "ribbonColor": "cyan",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk206604tetzaveh",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "tzetzave"
+          },
+          "color": "purple",
+          "img": "hk206604tetzaveh",
+          "imgZoom": true,
+          "kick": "Hiskashrus · The Parsha Podcast 1",
+          "ribbon": "Parsha Podcast",
+          "ribbonColor": "cyan",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk206605kisisa",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "ki-sisa"
+          },
+          "color": "purple",
+          "img": "hk206605kisisa",
+          "imgZoom": true,
+          "kick": "Hiskashrus · The Parsha Podcast 1",
+          "ribbon": "Parsha Podcast",
+          "ribbonColor": "cyan",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk206606vayakhel",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "vayakhel"
+          },
+          "color": "purple",
+          "img": "hk206606vayakhel",
+          "imgZoom": true,
+          "kick": "Hiskashrus · The Parsha Podcast 1",
+          "ribbon": "Parsha Podcast",
+          "ribbonColor": "cyan",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk206607pekudei",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "pekudei"
+          },
+          "color": "purple",
+          "img": "hk206607pekudei",
+          "imgZoom": true,
+          "kick": "Hiskashrus · The Parsha Podcast 1",
+          "ribbon": "Parsha Podcast",
+          "ribbonColor": "cyan",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk206608vayikra",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "vayikra"
+          },
+          "color": "purple",
+          "img": "hk206608vayikra",
+          "imgZoom": true,
+          "kick": "Hiskashrus · The Parsha Podcast 1",
+          "ribbon": "Parsha Podcast",
+          "ribbonColor": "cyan",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk206609tzav",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "tzav"
+          },
+          "color": "purple",
+          "img": "hk206609tzav",
+          "imgZoom": true,
+          "kick": "Hiskashrus · The Parsha Podcast 1",
+          "ribbon": "Parsha Podcast",
+          "ribbonColor": "cyan",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk206610pesach",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "pesach"
+          },
+          "color": "purple",
+          "img": "hk206610pesach",
+          "imgZoom": true,
+          "kick": "Hiskashrus · The Parsha Podcast 1",
+          "ribbon": "Parsha Podcast",
+          "ribbonColor": "cyan",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk206611shmini",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "shemini"
+          },
+          "color": "purple",
+          "img": "hk206611shmini",
+          "imgZoom": true,
+          "kick": "Hiskashrus · The Parsha Podcast 1",
+          "ribbon": "Parsha Podcast",
+          "ribbonColor": "cyan",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk206612tazriametzorah",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "tazria-metzora"
+          },
+          "color": "purple",
+          "img": "hk206612tazriametzorah",
+          "imgZoom": true,
+          "kick": "Hiskashrus · The Parsha Podcast 1",
+          "ribbon": "Parsha Podcast",
+          "ribbonColor": "cyan",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk206613achareimoskedoshim",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "acharei-kedoshim"
+          },
+          "color": "purple",
+          "img": "hk206613achareimoskedoshim",
+          "imgZoom": true,
+          "kick": "Hiskashrus · The Parsha Podcast 1",
+          "ribbon": "Parsha Podcast",
+          "ribbonColor": "cyan",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk206614emor",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "emor"
+          },
+          "color": "purple",
+          "img": "hk206614emor",
+          "imgZoom": true,
+          "kick": "Hiskashrus · The Parsha Podcast 1",
+          "ribbon": "Parsha Podcast",
+          "ribbonColor": "cyan",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk206615beharbechukosai",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "behar-bechukosei"
+          },
+          "color": "purple",
+          "img": "hk206615beharbechukosai",
+          "imgZoom": true,
+          "kick": "Hiskashrus · The Parsha Podcast 1",
+          "ribbon": "Parsha Podcast",
+          "ribbonColor": "cyan",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk206616bamidbar",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "bamidbar"
+          },
+          "color": "purple",
+          "img": "hk206616bamidbar",
+          "imgZoom": true,
+          "kick": "Hiskashrus · The Parsha Podcast 1",
+          "ribbon": "Parsha Podcast",
+          "ribbonColor": "cyan",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk206617naso",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "naso"
+          },
+          "color": "purple",
+          "img": "hk206617naso",
+          "imgZoom": true,
+          "kick": "Hiskashrus · The Parsha Podcast 1",
+          "ribbon": "Parsha Podcast",
+          "ribbonColor": "cyan",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk206618behaaloscha",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "behaaloscha"
+          },
+          "color": "purple",
+          "img": "hk206618behaaloscha",
+          "imgZoom": true,
+          "kick": "Hiskashrus · The Parsha Podcast 1",
+          "ribbon": "Parsha Podcast",
+          "ribbonColor": "cyan",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        }
+      ]
+    }
+  ],
+  "title": "The Parsha Podcast 1",
+  "type": "series"
+}

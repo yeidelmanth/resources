@@ -1,0 +1,56 @@
+{
+  "id": "yt08584sukkospdf",
+  "branch": "campaign",
+  "parent": "cYomTov",
+  "crumbLabel": "Fly With Me",
+  "template": "article",
+  "title": "Deep in the Sukkah",
+  "article": {
+    "kick": "Yom Tov · Sukkos",
+    "chips": [
+      "Sukkos"
+    ],
+    "pages": [
+      "yt08584sukkospdf",
+      "yt08584sukkospdf_p2"
+    ],
+    "pdf": "yomtov/08%20584%20Sukkos.pdf",
+    "sichos": [
+      {
+        "label": "Sicha 1",
+        "href": "sichos/DRRTK%20vol%202%20-%20p%2095-97.pdf"
+      },
+      {
+        "label": "Sicha 2",
+        "href": "sichos/DRRTK%20vol%202%20-%20p%2098-100.pdf"
+      },
+      {
+        "label": "Sicha 3",
+        "href": "sichos/DRRTK%20vol%202%20-%20p%20101-102.pdf"
+      },
+      {
+        "label": "Sicha 4",
+        "href": "sichos/DRRTK%20vol%202%20-%20p%20103-104.pdf"
+      },
+      {
+        "label": "Sicha 5",
+        "href": "sichos/TRSTC%20vol.%202%2C%20p.%20166-169.pdf"
+      },
+      {
+        "label": "Sicha 6",
+        "href": "sichos/TRSTC%20vol.%202%2C%20p.%20170-173.pdf"
+      },
+      {
+        "label": "Sicha 7",
+        "href": "sichos/TRSTC%20vol.%202%2C%20p.%20174-175.pdf"
+      },
+      {
+        "label": "Sicha 8",
+        "href": "sichos/TRSTC%20vol.%202%2C%20p.%20176-178.pdf"
+      }
+    ],
+    "body": "<p>Like Tzivos Hashem had clouds on all ____________,</p><p>Bearing our own kinds of weapons—there’s ____________.</p>",
+    "source": "Source: Yom Tov Campaign · Sichos - Poems - Fly With Me"
+  },
+  "type": "fly-with-me"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "i489niggun",
+  "branch": "campaign",
+  "parent": "cNiggunim",
+  "crumbLabel": "Niggun of the Week",
+  "template": "article",
+  "title": "הִנֵּה מַה טּוֹב",
+  "article": {
+    "titleHeb": true,
+    "subtitle": "Hinei Ma Tov",
+    "chips": [],
+    "pages": [
+      "i489niggun"
+    ],
+    "pdf": "niggunim/03-489-Kedoshim.pdf",
+    "body": "<p>A niggun featured in the “Niggun of the Week”. Open the printable page below for the full story, words and meaning.</p>",
+    "mission": "Learn this niggun",
+    "source": "Source: "
+  },
+  "type": "niggun-of-the-week"
+}

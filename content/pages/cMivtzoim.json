@@ -1,0 +1,761 @@
+{
+  "id": "cMivtzoim",
+  "branch": "campaign",
+  "parent": "campaign",
+  "crumbLabel": "Mivtzoim",
+  "template": "hub",
+  "blocks": [
+    {
+      "type": "heading",
+      "eyebrow": "Campaign",
+      "title": "Mivtzoim",
+      "text": "Going out to do the Rebbe’s mitzvah campaigns on others."
+    },
+    {
+      "type": "label",
+      "text": "Mivtzoim Campaign",
+      "spaced": true
+    },
+    {
+      "type": "tabs",
+      "items": [
+        {
+          "panel": "mvg0",
+          "label": "Mivtzoim Memoirs - How it All Began",
+          "on": true
+        },
+        {
+          "panel": "mvg1",
+          "label": "Mivtzoim Mania - Stories 1"
+        },
+        {
+          "panel": "mvg2",
+          "label": "Mivtzoim Mania - Stories 2"
+        },
+        {
+          "panel": "mvg3",
+          "label": "Mivtzoim Mania - Fiction"
+        }
+      ]
+    },
+    {
+      "type": "filters",
+      "mode": "mv",
+      "items": [
+        {
+          "key": "aseres-hadibros",
+          "label": "Aseres Hadibros"
+        },
+        {
+          "key": "bayis-malei-sefarim",
+          "label": "Bayis Malei Sefarim"
+        },
+        {
+          "key": "chanukah",
+          "label": "Chanukah"
+        },
+        {
+          "key": "cheder-tzivos-hashem",
+          "label": "Cheder Tzivos Hashem"
+        },
+        {
+          "key": "lag-ba-omer",
+          "label": "Lag Ba'Omer"
+        },
+        {
+          "key": "lulav",
+          "label": "Lulav"
+        },
+        {
+          "key": "maos-chitim",
+          "label": "Maos Chitim"
+        },
+        {
+          "key": "matzah",
+          "label": "Matzah"
+        },
+        {
+          "key": "neshek",
+          "label": "Neshek"
+        },
+        {
+          "key": "ois-b-sefer-torah",
+          "label": "Ois B'Sefer Torah"
+        },
+        {
+          "key": "purim",
+          "label": "Purim"
+        },
+        {
+          "key": "rambam",
+          "label": "Rambam"
+        },
+        {
+          "key": "shofar",
+          "label": "Shofar"
+        },
+        {
+          "key": "tzivos-hashem",
+          "label": "Tzivos Hashem"
+        },
+        {
+          "key": "yom-huledes",
+          "label": "Yom Huledes"
+        }
+      ]
+    },
+    {
+      "type": "cards",
+      "extraClass": "mvgrid",
+      "attrs": {
+        "id": "mvg0"
+      },
+      "items": [
+        {
+          "page": "mv08636vayechipdf",
+          "extraClass": "mvcard",
+          "attrs": {
+            "data-mv": "rambam"
+          },
+          "color": "purple",
+          "img": "mv08636vayechipdf",
+          "imgZoom": true,
+          "kick": "Mivtzoim · Rambam",
+          "ribbon": "Mivtzoim Memoirs",
+          "ribbonColor": "blue",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Went out on mivtzoim and reported back"
+        },
+        {
+          "page": "mv08654beharbechukosaipdf",
+          "extraClass": "mvcard",
+          "attrs": {
+            "data-mv": "ois-b-sefer-torah"
+          },
+          "color": "purple",
+          "img": "mv08654beharbechukosaipdf",
+          "imgZoom": true,
+          "kick": "Mivtzoim · Ois B'Sefer Torah",
+          "ribbon": "Mivtzoim Memoirs",
+          "ribbonColor": "blue",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Went out on mivtzoim and reported back"
+        },
+        {
+          "page": "mv10620kisavopdf",
+          "extraClass": "mvcard",
+          "attrs": {
+            "data-mv": "shofar"
+          },
+          "color": "purple",
+          "img": "mv10620kisavopdf",
+          "imgZoom": true,
+          "kick": "Mivtzoim · Shofar",
+          "ribbon": "Mivtzoim Memoirs",
+          "ribbonColor": "blue",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Went out on mivtzoim and reported back"
+        },
+        {
+          "page": "mv10632vayishlachpdf",
+          "extraClass": "mvcard",
+          "attrs": {
+            "data-mv": "chanukah"
+          },
+          "color": "purple",
+          "img": "mv10632vayishlachpdf",
+          "imgZoom": true,
+          "kick": "Mivtzoim · Chanukah",
+          "ribbon": "Mivtzoim Memoirs",
+          "ribbonColor": "blue",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Went out on mivtzoim and reported back"
+        },
+        {
+          "page": "mv10634mikeitzpdf",
+          "extraClass": "mvcard",
+          "attrs": {
+            "data-mv": "bayis-malei-sefarim"
+          },
+          "color": "purple",
+          "img": "mv10634mikeitzpdf",
+          "imgZoom": true,
+          "kick": "Mivtzoim · Bayis Malei Sefarim",
+          "ribbon": "Mivtzoim Memoirs",
+          "ribbonColor": "blue",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Went out on mivtzoim and reported back"
+        },
+        {
+          "page": "mv10637shemospdf",
+          "extraClass": "mvcard",
+          "attrs": {
+            "data-mv": "neshek"
+          },
+          "color": "purple",
+          "img": "mv10637shemospdf",
+          "imgZoom": true,
+          "kick": "Mivtzoim · Neshek",
+          "ribbon": "Mivtzoim Memoirs",
+          "ribbonColor": "blue",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Went out on mivtzoim and reported back"
+        },
+        {
+          "page": "mv10639bopdf",
+          "extraClass": "mvcard",
+          "attrs": {
+            "data-mv": "cheder-tzivos-hashem"
+          },
+          "color": "purple",
+          "img": "mv10639bopdf",
+          "imgZoom": true,
+          "kick": "Mivtzoim · Cheder Tzivos Hashem",
+          "ribbon": "Mivtzoim Memoirs",
+          "ribbonColor": "blue",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Went out on mivtzoim and reported back"
+        },
+        {
+          "page": "mv10643terumahpdf",
+          "extraClass": "mvcard",
+          "attrs": {
+            "data-mv": "purim"
+          },
+          "color": "purple",
+          "img": "mv10643terumahpdf",
+          "imgZoom": true,
+          "kick": "Mivtzoim · Purim",
+          "ribbon": "Mivtzoim Memoirs",
+          "ribbonColor": "blue",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Went out on mivtzoim and reported back"
+        },
+        {
+          "page": "mv10645kisisapdf",
+          "extraClass": "mvcard",
+          "attrs": {
+            "data-mv": "yom-huledes"
+          },
+          "color": "purple",
+          "img": "mv10645kisisapdf",
+          "imgZoom": true,
+          "kick": "Mivtzoim · Yom Huledes",
+          "ribbon": "Mivtzoim Memoirs",
+          "ribbonColor": "blue",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Went out on mivtzoim and reported back"
+        },
+        {
+          "page": "mv10647vayikrapdf",
+          "extraClass": "mvcard",
+          "attrs": {
+            "data-mv": "matzah"
+          },
+          "color": "purple",
+          "img": "mv10647vayikrapdf",
+          "imgZoom": true,
+          "kick": "Mivtzoim · Matzah",
+          "ribbon": "Mivtzoim Memoirs",
+          "ribbonColor": "blue",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Went out on mivtzoim and reported back"
+        },
+        {
+          "page": "mv12622vayelechpdf",
+          "extraClass": "mvcard",
+          "attrs": {
+            "data-mv": "lulav"
+          },
+          "color": "purple",
+          "img": "mv12622vayelechpdf",
+          "imgZoom": true,
+          "kick": "Mivtzoim · Lulav",
+          "ribbon": "Mivtzoim Memoirs",
+          "ribbonColor": "blue",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Went out on mivtzoim and reported back"
+        },
+        {
+          "page": "mv14619kiseiseipdf",
+          "extraClass": "mvcard",
+          "attrs": {
+            "data-mv": "tzivos-hashem"
+          },
+          "color": "purple",
+          "img": "mv14619kiseiseipdf",
+          "imgZoom": true,
+          "kick": "Mivtzoim · Tzivos Hashem",
+          "ribbon": "Mivtzoim Memoirs",
+          "ribbonColor": "blue",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Went out on mivtzoim and reported back"
+        }
+      ]
+    },
+    {
+      "type": "cards",
+      "extraClass": "mvgrid off",
+      "attrs": {
+        "id": "mvg1"
+      },
+      "items": [
+        {
+          "page": "mv10536nitzavomvayelechpdf",
+          "extraClass": "mvcard",
+          "attrs": {
+            "data-mv": "shofar"
+          },
+          "color": "red",
+          "img": "mv10536nitzavomvayelechpdf",
+          "imgZoom": true,
+          "kick": "Mivtzoim · Shofar",
+          "ribbon": "Mivtzoim Mania",
+          "ribbonColor": "blue",
+          "icon": "/resources/assets/img/f56bf2c628dcc0ad.png",
+          "mission": "Went out on mivtzoim and reported back"
+        },
+        {
+          "page": "mv539sukkos10pdf",
+          "extraClass": "mvcard",
+          "attrs": {
+            "data-mv": "lulav"
+          },
+          "color": "red",
+          "img": "mv539sukkos10pdf",
+          "imgZoom": true,
+          "kick": "Mivtzoim · Lulav",
+          "ribbon": "Mivtzoim Mania",
+          "ribbonColor": "blue",
+          "icon": "/resources/assets/img/f56bf2c628dcc0ad.png",
+          "mission": "Went out on mivtzoim and reported back"
+        },
+        {
+          "page": "mv541bereishis10pdf",
+          "extraClass": "mvcard",
+          "attrs": {
+            "data-mv": "tzivos-hashem"
+          },
+          "color": "red",
+          "img": "mv541bereishis10pdf",
+          "imgZoom": true,
+          "kick": "Mivtzoim · Tzivos Hashem",
+          "ribbon": "Mivtzoim Mania",
+          "ribbonColor": "blue",
+          "icon": "/resources/assets/img/f56bf2c628dcc0ad.png",
+          "mission": "Went out on mivtzoim and reported back"
+        },
+        {
+          "page": "mv10549vayeshevpdf",
+          "extraClass": "mvcard",
+          "attrs": {
+            "data-mv": "chanukah"
+          },
+          "color": "red",
+          "img": "mv10549vayeshevpdf",
+          "imgZoom": true,
+          "kick": "Mivtzoim · Chanukah",
+          "ribbon": "Mivtzoim Mania",
+          "ribbonColor": "blue",
+          "icon": "/resources/assets/img/f56bf2c628dcc0ad.png",
+          "mission": "Went out on mivtzoim and reported back"
+        },
+        {
+          "page": "mv10551vayigashpdf",
+          "extraClass": "mvcard",
+          "attrs": {
+            "data-mv": "neshek"
+          },
+          "color": "red",
+          "img": "mv10551vayigashpdf",
+          "imgZoom": true,
+          "kick": "Mivtzoim · Neshek",
+          "ribbon": "Mivtzoim Mania",
+          "ribbonColor": "blue",
+          "icon": "/resources/assets/img/f56bf2c628dcc0ad.png",
+          "mission": "Went out on mivtzoim and reported back"
+        },
+        {
+          "page": "mv16558mishpotimpdf",
+          "extraClass": "mvcard",
+          "attrs": {
+            "data-mv": "cheder-tzivos-hashem"
+          },
+          "color": "red",
+          "img": "mv16558mishpotimpdf",
+          "imgZoom": true,
+          "kick": "Mivtzoim · Cheder Tzivos Hashem",
+          "ribbon": "Mivtzoim Mania",
+          "ribbonColor": "blue",
+          "icon": "/resources/assets/img/f56bf2c628dcc0ad.png",
+          "mission": "Went out on mivtzoim and reported back"
+        },
+        {
+          "page": "mv10564vayikrapdf",
+          "extraClass": "mvcard",
+          "attrs": {
+            "data-mv": "purim"
+          },
+          "color": "red",
+          "img": "mv10564vayikrapdf",
+          "imgZoom": true,
+          "kick": "Mivtzoim · Purim",
+          "ribbon": "Mivtzoim Mania",
+          "ribbonColor": "blue",
+          "icon": "/resources/assets/img/f56bf2c628dcc0ad.png",
+          "mission": "Went out on mivtzoim and reported back"
+        },
+        {
+          "page": "mv08567tazriapdf",
+          "extraClass": "mvcard",
+          "attrs": {
+            "data-mv": "maos-chitim"
+          },
+          "color": "red",
+          "img": "mv08567tazriapdf",
+          "imgZoom": true,
+          "kick": "Mivtzoim · Maos Chitim",
+          "ribbon": "Mivtzoim Mania",
+          "ribbonColor": "blue",
+          "icon": "/resources/assets/img/f56bf2c628dcc0ad.png",
+          "mission": "Went out on mivtzoim and reported back"
+        },
+        {
+          "page": "mv12567tazriapdf",
+          "extraClass": "mvcard",
+          "attrs": {
+            "data-mv": "matzah"
+          },
+          "color": "red",
+          "img": "mv12567tazriapdf",
+          "imgZoom": true,
+          "kick": "Mivtzoim · Matzah",
+          "ribbon": "Mivtzoim Mania",
+          "ribbonColor": "blue",
+          "icon": "/resources/assets/img/f56bf2c628dcc0ad.png",
+          "mission": "Went out on mivtzoim and reported back"
+        },
+        {
+          "page": "mv08574bechukosaipdf",
+          "extraClass": "mvcard",
+          "attrs": {
+            "data-mv": "ois-b-sefer-torah"
+          },
+          "color": "red",
+          "img": "mv08574bechukosaipdf",
+          "imgZoom": true,
+          "kick": "Mivtzoim · Ois B'Sefer Torah",
+          "ribbon": "Mivtzoim Mania",
+          "ribbonColor": "blue",
+          "icon": "/resources/assets/img/f56bf2c628dcc0ad.png",
+          "mission": "Went out on mivtzoim and reported back"
+        }
+      ]
+    },
+    {
+      "type": "cards",
+      "extraClass": "mvgrid off",
+      "attrs": {
+        "id": "mvg2"
+      },
+      "items": [
+        {
+          "page": "mv10660nitzavimvayelechpdf",
+          "extraClass": "mvcard",
+          "attrs": {
+            "data-mv": "tzivos-hashem"
+          },
+          "color": "red",
+          "img": "mv10660nitzavimvayelechpdf",
+          "imgZoom": true,
+          "kick": "Mivtzoim · Tzivos Hashem",
+          "ribbon": "Mivtzoim Mania",
+          "ribbonColor": "blue",
+          "icon": "/resources/assets/img/f56bf2c628dcc0ad.png",
+          "mission": "Went out on mivtzoim and reported back"
+        },
+        {
+          "page": "mv10672vayishlachpdf",
+          "extraClass": "mvcard",
+          "attrs": {
+            "data-mv": "chanukah"
+          },
+          "color": "red",
+          "img": "mv10672vayishlachpdf",
+          "imgZoom": true,
+          "kick": "Mivtzoim · Chanukah",
+          "ribbon": "Mivtzoim Mania",
+          "ribbonColor": "blue",
+          "icon": "/resources/assets/img/f56bf2c628dcc0ad.png",
+          "mission": "Went out on mivtzoim and reported back"
+        },
+        {
+          "page": "mv10674mikeitzpdf",
+          "extraClass": "mvcard",
+          "attrs": {
+            "data-mv": "bayis-malei-sefarim"
+          },
+          "color": "red",
+          "img": "mv10674mikeitzpdf",
+          "imgZoom": true,
+          "kick": "Mivtzoim · Bayis Malei Sefarim",
+          "ribbon": "Mivtzoim Mania",
+          "ribbonColor": "blue",
+          "icon": "/resources/assets/img/f56bf2c628dcc0ad.png",
+          "mission": "Went out on mivtzoim and reported back"
+        },
+        {
+          "page": "mv10677shemospdf",
+          "extraClass": "mvcard",
+          "attrs": {
+            "data-mv": "neshek"
+          },
+          "color": "red",
+          "img": "mv10677shemospdf",
+          "imgZoom": true,
+          "kick": "Mivtzoim · Neshek",
+          "ribbon": "Mivtzoim Mania",
+          "ribbonColor": "blue",
+          "icon": "/resources/assets/img/f56bf2c628dcc0ad.png",
+          "mission": "Went out on mivtzoim and reported back"
+        },
+        {
+          "page": "mv12661roshhashanapdf",
+          "extraClass": "mvcard",
+          "attrs": {
+            "data-mv": "shofar"
+          },
+          "color": "red",
+          "img": "mv12661roshhashanapdf",
+          "imgZoom": true,
+          "kick": "Mivtzoim · Shofar",
+          "ribbon": "Mivtzoim Mania",
+          "ribbonColor": "blue",
+          "icon": "/resources/assets/img/f56bf2c628dcc0ad.png",
+          "mission": "Went out on mivtzoim and reported back"
+        },
+        {
+          "page": "mv12663sukkospdf",
+          "extraClass": "mvcard",
+          "attrs": {
+            "data-mv": "lulav"
+          },
+          "color": "red",
+          "img": "mv12663sukkospdf",
+          "imgZoom": true,
+          "kick": "Mivtzoim · Lulav",
+          "ribbon": "Mivtzoim Mania",
+          "ribbonColor": "blue",
+          "icon": "/resources/assets/img/f56bf2c628dcc0ad.png",
+          "mission": "Went out on mivtzoim and reported back"
+        },
+        {
+          "page": "mv16681yisropdf",
+          "extraClass": "mvcard",
+          "attrs": {
+            "data-mv": "cheder-tzivos-hashem"
+          },
+          "color": "red",
+          "img": "mv16681yisropdf",
+          "imgZoom": true,
+          "kick": "Mivtzoim · Cheder Tzivos Hashem",
+          "ribbon": "Mivtzoim Mania",
+          "ribbonColor": "blue",
+          "icon": "/resources/assets/img/f56bf2c628dcc0ad.png",
+          "mission": "Went out on mivtzoim and reported back"
+        }
+      ]
+    },
+    {
+      "type": "cards",
+      "extraClass": "mvgrid off",
+      "attrs": {
+        "id": "mvg3"
+      },
+      "items": [
+        {
+          "page": "mv497kisavo6pdf",
+          "extraClass": "mvcard",
+          "attrs": {
+            "data-mv": "shofar"
+          },
+          "color": "red",
+          "img": "mv497kisavo6pdf",
+          "imgZoom": true,
+          "kick": "Mivtzoim · Shofar",
+          "ribbon": "Mivtzoim Mania",
+          "ribbonColor": "blue",
+          "icon": "/resources/assets/img/f56bf2c628dcc0ad.png",
+          "mission": "Went out on mivtzoim and reported back"
+        },
+        {
+          "page": "mv500haazinu7pdf",
+          "extraClass": "mvcard",
+          "attrs": {
+            "data-mv": "lulav"
+          },
+          "color": "red",
+          "img": "mv500haazinu7pdf",
+          "imgZoom": true,
+          "kick": "Mivtzoim · Lulav",
+          "ribbon": "Mivtzoim Mania",
+          "ribbonColor": "blue",
+          "icon": "/resources/assets/img/f56bf2c628dcc0ad.png",
+          "mission": "Went out on mivtzoim and reported back"
+        },
+        {
+          "page": "mv502bereishis7pdf",
+          "extraClass": "mvcard",
+          "attrs": {
+            "data-mv": "tzivos-hashem"
+          },
+          "color": "red",
+          "img": "mv502bereishis7pdf",
+          "imgZoom": true,
+          "kick": "Mivtzoim · Tzivos Hashem",
+          "ribbon": "Mivtzoim Mania",
+          "ribbonColor": "blue",
+          "icon": "/resources/assets/img/f56bf2c628dcc0ad.png",
+          "mission": "Went out on mivtzoim and reported back"
+        },
+        {
+          "page": "mv509vayishlach7pdf",
+          "extraClass": "mvcard",
+          "attrs": {
+            "data-mv": "chanukah"
+          },
+          "color": "red",
+          "img": "mv509vayishlach7pdf",
+          "imgZoom": true,
+          "kick": "Mivtzoim · Chanukah",
+          "ribbon": "Mivtzoim Mania",
+          "ribbonColor": "blue",
+          "icon": "/resources/assets/img/f56bf2c628dcc0ad.png",
+          "mission": "Went out on mivtzoim and reported back"
+        },
+        {
+          "page": "mv511mikeitz5pdf",
+          "extraClass": "mvcard",
+          "attrs": {
+            "data-mv": "bayis-malei-sefarim"
+          },
+          "color": "red",
+          "img": "mv511mikeitz5pdf",
+          "imgZoom": true,
+          "kick": "Mivtzoim · Bayis Malei Sefarim",
+          "ribbon": "Mivtzoim Mania",
+          "ribbonColor": "blue",
+          "icon": "/resources/assets/img/f56bf2c628dcc0ad.png",
+          "mission": "Went out on mivtzoim and reported back"
+        },
+        {
+          "page": "mv513vayechi7pdf",
+          "extraClass": "mvcard",
+          "attrs": {
+            "data-mv": "neshek"
+          },
+          "color": "red",
+          "img": "mv513vayechi7pdf",
+          "imgZoom": true,
+          "kick": "Mivtzoim · Neshek",
+          "ribbon": "Mivtzoim Mania",
+          "ribbonColor": "blue",
+          "icon": "/resources/assets/img/f56bf2c628dcc0ad.png",
+          "mission": "Went out on mivtzoim and reported back"
+        },
+        {
+          "page": "mv518yisro5pdf",
+          "extraClass": "mvcard",
+          "attrs": {
+            "data-mv": "cheder-tzivos-hashem"
+          },
+          "color": "red",
+          "img": "mv518yisro5pdf",
+          "imgZoom": true,
+          "kick": "Mivtzoim · Cheder Tzivos Hashem",
+          "ribbon": "Mivtzoim Mania",
+          "ribbonColor": "blue",
+          "icon": "/resources/assets/img/f56bf2c628dcc0ad.png",
+          "mission": "Went out on mivtzoim and reported back"
+        },
+        {
+          "page": "mv521tetzaveh7pdf",
+          "extraClass": "mvcard",
+          "attrs": {
+            "data-mv": "purim"
+          },
+          "color": "red",
+          "img": "mv521tetzaveh7pdf",
+          "imgZoom": true,
+          "kick": "Mivtzoim · Purim",
+          "ribbon": "Mivtzoim Mania",
+          "ribbonColor": "blue",
+          "icon": "/resources/assets/img/f56bf2c628dcc0ad.png",
+          "mission": "Went out on mivtzoim and reported back"
+        },
+        {
+          "page": "mv522kisisa5pdf",
+          "extraClass": "mvcard",
+          "attrs": {
+            "data-mv": "maos-chitim"
+          },
+          "color": "red",
+          "img": "mv522kisisa5pdf",
+          "imgZoom": true,
+          "kick": "Mivtzoim · Maos Chitim",
+          "ribbon": "Mivtzoim Mania",
+          "ribbonColor": "blue",
+          "icon": "/resources/assets/img/f56bf2c628dcc0ad.png",
+          "mission": "Went out on mivtzoim and reported back"
+        },
+        {
+          "page": "mv524vayikra7pdf",
+          "extraClass": "mvcard",
+          "attrs": {
+            "data-mv": "matzah"
+          },
+          "color": "red",
+          "img": "mv524vayikra7pdf",
+          "imgZoom": true,
+          "kick": "Mivtzoim · Matzah",
+          "ribbon": "Mivtzoim Mania",
+          "ribbonColor": "blue",
+          "icon": "/resources/assets/img/f56bf2c628dcc0ad.png",
+          "mission": "Went out on mivtzoim and reported back"
+        },
+        {
+          "page": "mv530emor10pdf",
+          "extraClass": "mvcard",
+          "attrs": {
+            "data-mv": "lag-ba-omer"
+          },
+          "color": "red",
+          "img": "mv530emor10pdf",
+          "imgZoom": true,
+          "kick": "Mivtzoim · Lag Ba'Omer",
+          "ribbon": "Mivtzoim Mania",
+          "ribbonColor": "blue",
+          "icon": "/resources/assets/img/f56bf2c628dcc0ad.png",
+          "mission": "Went out on mivtzoim and reported back"
+        },
+        {
+          "page": "mv533spreads10pdf",
+          "extraClass": "mvcard",
+          "attrs": {
+            "data-mv": "aseres-hadibros"
+          },
+          "color": "red",
+          "img": "mv533spreads10pdf",
+          "imgZoom": true,
+          "kick": "Mivtzoim · Aseres Hadibros",
+          "ribbon": "Mivtzoim Mania",
+          "ribbonColor": "blue",
+          "icon": "/resources/assets/img/f56bf2c628dcc0ad.png",
+          "mission": "Went out on mivtzoim and reported back"
+        }
+      ]
+    }
+  ],
+  "title": "Mivtzoim",
+  "type": "hub"
+}

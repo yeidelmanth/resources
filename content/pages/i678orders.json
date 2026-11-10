@@ -1,0 +1,61 @@
+{
+  "id": "i678orders",
+  "branch": "date",
+  "parent": "dpVaeira",
+  "crumbLabel": "Orders from Our General",
+  "altParent": "cHiskashrus",
+  "altBranch": "campaign",
+  "template": "article",
+  "title": "How Can We Do the Impossible?",
+  "article": {
+    "chips": [
+      "Parshas Vaeira"
+    ],
+    "pages": [
+      "i678orders",
+      "i678orders_p2"
+    ],
+    "pdf": "pdfs/678.pdf",
+    "body": "<p class=\"lead\">When was the last time someone asked you to do something and you said, “I can’t”?</p><p>When Hashem commands Moshe Rabbeinu to speak to Paroh, Moshe replies, “I can’t.” He worried that his poor speech would stop him from doing a good job.</p><p>Moshe represents kedusha and Paroh represents kelipa. When Moshe says that he can’t speak to Paroh, Moshe means that he doesn’t think he has the ko’ach to overcome the evil of kelipa.</p><p>That’s why Hashem gives Moshe a special power: “I have made you a master over Paroh.”</p><p>Moshe gets this special power because he is the nasi hador, the leader of the generation. And when the Yidden are connected to Moshe, this special power is passed along to them, too.</p><p>How can a chayol overcome something very hard?</p><p>By trying harder on their own.</p><p>By connecting to the power that Hashem passed down to our “Moshe”, the Rebbe.</p><p>Hashem told Moshe, “Look, I have</p><p>Until Moshiach comes, the Yetzer Tov and the Yetzer Hara battle within each of us. If the Yetzer</p><p>Hara starts to win, the neshama feels more and more distant from Hashem. It can seem like the neshama has no way to succeed. This is where Moshe Rabbeinu’s special power comes in.</p><p>In every generation there is a “Moshe,” a nasi hador. The Rebbe is our nasi. He has that same power from Moshe. When we connect to the Rebbe, this power is given to us, since every Yid has a spark of the nasi inside. Through this we can conquer the Yetzer Hara.</p><p>Armed with this ko’ach from the Rebbe, we can accomplish hard things—even things that seem impossible. And with this ko’ach, we will win over the darkness of Golus once and for all!</p><p>How do we see that the power of Moshe was successful in overcoming the power of Paroh?</p><p>What are some challenges in your avodah that seem impossible to overcome?</p><p>How can you connect to the nasi hador? Give at least five examples.</p><p>With our connection to the Rebbe, anything is possible! Play this with a parent or older sibling. They start by sharing a mitzvah that their Yetzer Hara says they can’t do. (For example, “I can’t give tzedaka because I don’t have a lot of money.) Then, the adult chooses one child to receive an extra hiskashrus boost—the special strength we receive from connecting to our Rebbe.</p><p>That child then gives a hiskashrus-powered response that will fight the Yetzer Hara. (For example, “I have bitachon that Hashem will take care of my needs, so I give tzedaka anyway.)</p><p>Both kids are serving Hashem, but one has a special hiskashrus power. Spot the 6 differences.</p><p><span class=\"mc\">Which kid do you think will have an easier time fighting their Yetzer Hara?</span></p>",
+    "related": {
+      "heading": "More from the General",
+      "items": [
+        {
+          "icon": "📖",
+          "title": "The Rebbe Speaks to Children",
+          "sub": "The sicha, adapted for children · PDF"
+        },
+        {
+          "icon": "🎧",
+          "title": "Audio recording",
+          "sub": "Listen to the sicha"
+        },
+        {
+          "icon": "🎥",
+          "title": "Video recording",
+          "sub": "Watch the sicha"
+        }
+      ],
+      "note": "Links go live when the files are hosted."
+    },
+    "source": "Source: Parshas Vaeira · 29 Teves 5787"
+  },
+  "backLabel": "Vaeira",
+  "crumb": {
+    "trail": [
+      {
+        "id": "date",
+        "label": "Date"
+      },
+      {
+        "id": "dParsha",
+        "label": "Parsha"
+      },
+      {
+        "id": "dpVaeira",
+        "label": "Vaeira"
+      }
+    ]
+  },
+  "type": "orders-from-our-general"
+}

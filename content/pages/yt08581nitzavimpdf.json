@@ -1,0 +1,48 @@
+{
+  "id": "yt08581nitzavimpdf",
+  "branch": "campaign",
+  "parent": "cYomTov",
+  "crumbLabel": "Fly With Me",
+  "template": "article",
+  "title": "Coronation Day",
+  "article": {
+    "kick": "Yom Tov · Rosh Hashana",
+    "chips": [
+      "Rosh Hashana"
+    ],
+    "pages": [
+      "yt08581nitzavimpdf",
+      "yt08581nitzavimpdf_p2"
+    ],
+    "pdf": "yomtov/08%20581%20Nitzavim.pdf",
+    "sichos": [
+      {
+        "label": "Sicha 1",
+        "href": "sichos/DRRTK%20vol%202%20-%20p%2068.pdf"
+      },
+      {
+        "label": "Sicha 2",
+        "href": "sichos/DRRTK%20vol%202%20-%20p%2070.pdf"
+      },
+      {
+        "label": "Sicha 3",
+        "href": "sichos/DRRTK%20vol%202%20-%20p%2072.pdf"
+      },
+      {
+        "label": "Sicha 4",
+        "href": "sichos/TRSTC%20vol.%202%2C%20p.%20133-134.pdf"
+      },
+      {
+        "label": "Sicha 5",
+        "href": "sichos/TRSTC%20vol.%202%2C%20p.%20137-138.pdf"
+      },
+      {
+        "label": "Sicha 6",
+        "href": "sichos/TRSTC%20vol.%202%2C%20p.%20141-142.pdf"
+      }
+    ],
+    "body": "<p>To help others learn to accept ____________ , too.</p>",
+    "source": "Source: Yom Tov Campaign · Sichos - Poems - Fly With Me"
+  },
+  "type": "fly-with-me"
+}

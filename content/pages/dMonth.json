@@ -1,0 +1,143 @@
+{
+  "id": "dMonth",
+  "branch": "date",
+  "parent": "date",
+  "crumbLabel": "Month",
+  "template": "hub",
+  "blocks": [
+    {
+      "type": "heading",
+      "eyebrow": "Date · lens 1",
+      "title": "Month"
+    },
+    {
+      "type": "html",
+      "html": "<div class=\"calbar\" style=\"margin-bottom:14px\"><button class=\"schbtn\" data-go=\"dYear\">View the full year on one page →</button></div>"
+    },
+    {
+      "type": "links",
+      "rtl": true,
+      "items": [
+        {
+          "page": "dmTishrei",
+          "extraClass": "rtl",
+          "attrs": {
+            "data-nk": "Tishrei"
+          },
+          "title": "תִּשְׁרֵי",
+          "text": "רֹאשׁ הַשָּׁנָה · יוֹם כִּפּוּר · סֻכּוֹת · שִׂמְחַת תּוֹרָה"
+        },
+        {
+          "page": "dmCheshvan",
+          "extraClass": "rtl",
+          "attrs": {
+            "data-nk": "Cheshvan"
+          },
+          "title": "חֶשְׁוָן",
+          "text": "כ' חֶשְׁוָן — יוֹם הֻלֶּדֶת הרש״ב"
+        },
+        {
+          "page": "dmKislev",
+          "extraClass": "rtl",
+          "attrs": {
+            "data-nk": "Kislev"
+          },
+          "title": "כִּסְלֵו",
+          "text": "א' כִּסְלֵו · י״ד כִּסְלֵו · י״ט כִּסְלֵו — רֹאשׁ הַשָּׁנָה לַחֲסִידוּת · חֲנֻכָּה"
+        },
+        {
+          "page": "dmTeves",
+          "extraClass": "rtl",
+          "attrs": {
+            "data-nk": "Teves"
+          },
+          "title": "טֵבֵת",
+          "text": "ה' טֵבֵת — דִּידָן נָצַח · כ״ד טֵבֵת — הִסְתַּלְּקוּת אַדְמוֹ״ר הַזָּקֵן"
+        },
+        {
+          "page": "dmShevat",
+          "extraClass": "rtl",
+          "attrs": {
+            "data-nk": "Shevat"
+          },
+          "title": "שְׁבָט",
+          "text": "י' שְׁבָט — יוּד שְׁבָט · כ״ב שְׁבָט"
+        },
+        {
+          "page": "dmAdar I",
+          "extraClass": "rtl",
+          "attrs": {
+            "data-nk": "Adar I"
+          },
+          "title": "אֲדָר א׳",
+          "text": "פּוּרִים קָטָן · כ״ז אֲדָר א׳"
+        },
+        {
+          "page": "dmAdar II",
+          "extraClass": "rtl",
+          "attrs": {
+            "data-nk": "Adar II"
+          },
+          "title": "אֲדָר ב׳",
+          "text": "פּוּרִים · ז' אֲדָר · ט' אֲדָר"
+        },
+        {
+          "page": "dmNissan",
+          "extraClass": "rtl",
+          "attrs": {
+            "data-nk": "Nissan"
+          },
+          "title": "נִיסָן",
+          "text": "י״א נִיסָן — יוֹם הֻלֶּדֶת הָרֶבִּי · פֶּסַח"
+        },
+        {
+          "page": "dmIyar",
+          "extraClass": "rtl",
+          "attrs": {
+            "data-nk": "Iyar"
+          },
+          "title": "אִיָּיר",
+          "text": "ב' אִיָּיר — יוֹם הֻלֶּדֶת הָרֶבִּי מַהַרַ״שׁ · ל״ג בָּעֹמֶר · פֶּסַח שֵׁנִי"
+        },
+        {
+          "page": "dmSivan",
+          "extraClass": "rtl",
+          "attrs": {
+            "data-nk": "Sivan"
+          },
+          "title": "סִיוָן",
+          "text": "שָׁבוּעוֹת · כ״ח סִיוָן"
+        },
+        {
+          "page": "dmTammuz",
+          "extraClass": "rtl",
+          "attrs": {
+            "data-nk": "Tammuz"
+          },
+          "title": "תַּמּוּז",
+          "text": "ג' תַּמּוּז · י״ב–י״ג תַּמּוּז — גְּאֻלַּת אַדְמוֹ״ר הָרַיַּ״צ"
+        },
+        {
+          "page": "dmAv",
+          "extraClass": "rtl",
+          "attrs": {
+            "data-nk": "Av"
+          },
+          "title": "אָב",
+          "text": "ט' בְּאָב · ט״ו בְּאָב · כ' אָב — יָארְצַייט ר' לֵוִי יִצְחָק"
+        },
+        {
+          "page": "dmElul",
+          "extraClass": "rtl",
+          "attrs": {
+            "data-nk": "Elul"
+          },
+          "title": "אֱלוּל",
+          "text": "ח״י אֱלוּל · הַמֶּלֶךְ בַּשָּׂדֶה"
+        }
+      ]
+    }
+  ],
+  "title": "Month",
+  "type": "hub"
+}

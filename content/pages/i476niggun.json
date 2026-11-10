@@ -1,0 +1,21 @@
+{
+  "id": "i476niggun",
+  "branch": "campaign",
+  "parent": "cNiggunim",
+  "crumbLabel": "Niggun of the Week",
+  "template": "article",
+  "title": "עֻצּו עֵצָה",
+  "article": {
+    "titleHeb": true,
+    "subtitle": "Utzu Eitzah",
+    "chips": [],
+    "pages": [
+      "i476niggun"
+    ],
+    "pdf": "niggunim/03-476-Teruma.pdf",
+    "body": "<p>A niggun featured in the “Niggun of the Week”. Open the printable page below for the full story, words and meaning.</p>",
+    "mission": "Learn this niggun",
+    "source": "Source: "
+  },
+  "type": "niggun-of-the-week"
+}

@@ -1,0 +1,119 @@
+{
+  "id": "dpVayishlach",
+  "branch": "date",
+  "parent": "dParsha",
+  "crumbLabel": "וַיִּשְׁלַח",
+  "template": "hub",
+  "blocks": [
+    {
+      "type": "heading",
+      "eyebrow": "Parsha",
+      "title": "וַיִּשְׁלַח",
+      "heb": true
+    },
+    {
+      "type": "hachayolbar",
+      "href": "pdfs/672.pdf",
+      "info": "Hachayol #672 · Parshas Vayishlach · 17 Kislev 5787",
+      "action": "Printable PDF ↗"
+    },
+    {
+      "type": "cards",
+      "items": [
+        {
+          "page": "i672orders",
+          "color": "purple",
+          "img": "i672orders",
+          "imgZoom": true,
+          "kick": "Hiskashrus · Sichos",
+          "ribbon": "Orders from Our General",
+          "ribbonColor": "red",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Share a sicha of the Rebbe"
+        },
+        {
+          "page": "i672rebbe",
+          "color": "purple",
+          "img": "i672rebbe",
+          "imgZoom": true,
+          "kick": "Hiskashrus · Rebbe Story",
+          "ribbon": "Rebbe Story",
+          "ribbonColor": "orange",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Share a story of the Rebbe at your Shabbos table"
+        },
+        {
+          "page": "i672roots",
+          "color": "purple",
+          "img": "i672roots",
+          "imgZoom": true,
+          "kick": "Hiskashrus · Roots",
+          "ribbon": "Roots",
+          "ribbonColor": "green",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Share a story of our roots"
+        },
+        {
+          "page": "i672niggun",
+          "color": "teal",
+          "img": "i672niggun",
+          "imgZoom": true,
+          "kick": "Niggunim",
+          "ribbon": "Niggun of the Week",
+          "ribbonColor": "teal",
+          "icon": "/resources/assets/img/aaa22b79c109253d.png",
+          "mission": "Share this week's niggun at your Shabbos table"
+        },
+        {
+          "page": "i672frames",
+          "color": "gold",
+          "img": "i672frames",
+          "imgZoom": true,
+          "kick": "Yoma Depagra · Comics",
+          "ribbon": "Chassidishe Frames",
+          "ribbonColor": "cyan",
+          "icon": "/resources/assets/img/7b5f36a5d9119965.png",
+          "mission": "Read this week's Chassidishe Frames"
+        },
+        {
+          "page": "i672squad",
+          "color": "green",
+          "img": "i672squad",
+          "imgZoom": true,
+          "kick": "Campaign · VeHolachta Bidrochov",
+          "ribbon": "Squad Drills",
+          "ribbonColor": "gold",
+          "icon": "/resources/assets/img/03f3974e50e8e5fd.png",
+          "mission": "Worked on this week's middah with your squad"
+        },
+        {
+          "page": "i672mivtzoim",
+          "color": "red",
+          "img": "i672mivtzoim",
+          "imgZoom": true,
+          "kick": "Campaign · Mivtzoim",
+          "ribbon": "Mivtzoim Mania",
+          "ribbonColor": "blue",
+          "icon": "/resources/assets/img/f56bf2c628dcc0ad.png",
+          "mission": "Went out on mivtzoim and reported back"
+        },
+        {
+          "extraClass": "tp-lb",
+          "attrs": {
+            "data-lb": "i672sect07_p1"
+          },
+          "color": "gold",
+          "img": "i672sect07_p1",
+          "imgZoom": false,
+          "kick": "Hachayol #672",
+          "ribbon": "Tanya Baal Peh",
+          "ribbonColor": "gold",
+          "missionLabel": "In this issue",
+          "mission": "Tanya Ladders · pp. 16"
+        }
+      ]
+    }
+  ],
+  "title": "וַיִּשְׁלַח",
+  "type": "parsha-week"
+}

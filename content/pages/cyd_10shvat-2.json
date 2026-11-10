@@ -1,0 +1,54 @@
+{
+  "id": "cyd_10shvat-2",
+  "branch": "campaign",
+  "parent": "cYomaDepagra",
+  "crumbLabel": "10 Shvat 5711",
+  "template": "hub",
+  "blocks": [
+    {
+      "type": "heading",
+      "eyebrow": "Campaign · Yoma Depagra",
+      "title": "10 Shvat 5711",
+      "text": "Start of the Rebbe’s Nesius"
+    },
+    {
+      "type": "tabs",
+      "items": [
+        {
+          "panel": "cyd_10shvat-2-comic",
+          "label": "Comic Story · Chassidishe Frames",
+          "on": true
+        },
+        {
+          "panel": "cyd_10shvat-2-timeline",
+          "label": "Timeline · Building Blocks"
+        }
+      ]
+    },
+    {
+      "type": "gallery",
+      "panel": "cyd_10shvat-2-comic",
+      "images": [
+        {
+          "img": "ydc10shvat-2",
+          "alt": "Constantly Connected"
+        }
+      ],
+      "pdf": "yomadepagra/comic/08-679-Bo.pdf"
+    },
+    {
+      "type": "gallery",
+      "panel": "cyd_10shvat-2-timeline",
+      "hidden": true,
+      "images": [
+        {
+          "img": "ydt10shvat-2",
+          "alt": "Histalkus of the Friediker Rebbe"
+        }
+      ],
+      "pdf": "yomadepagra/timeline/08-639-Bo.pdf"
+    }
+  ],
+  "title": "10 Shvat 5711",
+  "type": "yd-campaign-date"
+}

@@ -1,0 +1,35 @@
+{
+  "bad": [],
+  "stats": {
+    "blocks": {
+      "heading": 145,
+      "tiles": 1,
+      "dates": 1,
+      "links": 12,
+      "label": 8,
+      "hachayolbar": 22,
+      "cards": 65,
+      "note": 40,
+      "branches": 1,
+      "tabs": 30,
+      "gallery": 40,
+      "filters": 6
+    },
+    "html": {
+      "div.": 3,
+      "div.pgrid.wide": 1,
+      "div.chfeed": 1,
+      "div.calbar": 15,
+      "div.monthnote": 13,
+      "div.calbar.tgbar": 14,
+      "div.cal": 13,
+      "p.": 14,
+      "div.yjump": 1,
+      "div.ymon": 13,
+      "div.chumnav": 1,
+      "div.btgrid": 1,
+      "div.drill": 1,
+      "div.empty": 1
+    }
+  }
+}

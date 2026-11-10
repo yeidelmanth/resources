@@ -1,0 +1,21 @@
+{
+  "id": "dpReeh",
+  "branch": "date",
+  "parent": "dParsha",
+  "crumbLabel": "רְאֵה",
+  "template": "hub",
+  "blocks": [
+    {
+      "type": "heading",
+      "eyebrow": "Parsha",
+      "title": "רְאֵה",
+      "heb": true
+    },
+    {
+      "type": "note",
+      "html": "<b>Awaiting issue</b>No Hachayol issue for this week is in the library yet — its cards appear as soon as one is added."
+    }
+  ],
+  "title": "רְאֵה",
+  "type": "parsha-week"
+}

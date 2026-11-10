@@ -1,0 +1,54 @@
+{
+  "id": "cyd_9kislev",
+  "branch": "campaign",
+  "parent": "cYomaDepagra",
+  "crumbLabel": "9 Kislev 5534-5588",
+  "template": "hub",
+  "blocks": [
+    {
+      "type": "heading",
+      "eyebrow": "Campaign · Yoma Depagra",
+      "title": "9 Kislev 5534-5588",
+      "text": "Mitteler Rebbe’s Birth, Histalkus &amp; Chag Hageulah"
+    },
+    {
+      "type": "tabs",
+      "items": [
+        {
+          "panel": "cyd_9kislev-comic",
+          "label": "Comic Story · Chassidishe Frames",
+          "on": true
+        },
+        {
+          "panel": "cyd_9kislev-timeline",
+          "label": "Timeline · Building Blocks"
+        }
+      ]
+    },
+    {
+      "type": "gallery",
+      "panel": "cyd_9kislev-comic",
+      "images": [
+        {
+          "img": "ydc9kislev",
+          "alt": "Sweetened Injury"
+        }
+      ],
+      "pdf": "yomadepagra/comic/08-670-Toldos.pdf"
+    },
+    {
+      "type": "gallery",
+      "panel": "cyd_9kislev-timeline",
+      "hidden": true,
+      "images": [
+        {
+          "img": "ydt9kislev",
+          "alt": "Mitteler Rebbe's Birth, Histalkus & Chag Hageulah"
+        }
+      ],
+      "pdf": "yomadepagra/timeline/08-631-Vayeitzei.pdf"
+    }
+  ],
+  "title": "9 Kislev 5534-5588",
+  "type": "yd-campaign-date"
+}

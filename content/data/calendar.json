@@ -1,0 +1,6680 @@
+{
+  "days": {
+    "2026-08-01": {
+      "pe": "Eikev",
+      "ph": "עֵקֶב",
+      "sl": "dpEikev",
+      "hdheb": "י״ח אָב",
+      "hd": "Av-18",
+      "month": "Av"
+    },
+    "2026-08-02": {
+      "pe": "Re'eh",
+      "ph": "",
+      "sl": "dParsha",
+      "hdheb": "י״ט אָב",
+      "hd": "Av-19",
+      "month": "Av"
+    },
+    "2026-08-03": {
+      "pe": "Re'eh",
+      "ph": "",
+      "sl": "dParsha",
+      "hdheb": "כ׳ אָב",
+      "hd": "Av-20",
+      "month": "Av"
+    },
+    "2026-08-04": {
+      "pe": "Re'eh",
+      "ph": "",
+      "sl": "dParsha",
+      "hdheb": "כ״א אָב",
+      "hd": "Av-21",
+      "month": "Av"
+    },
+    "2026-08-05": {
+      "pe": "Re'eh",
+      "ph": "",
+      "sl": "dParsha",
+      "hdheb": "כ״ב אָב",
+      "hd": "Av-22",
+      "month": "Av"
+    },
+    "2026-08-06": {
+      "pe": "Re'eh",
+      "ph": "",
+      "sl": "dParsha",
+      "hdheb": "כ״ג אָב",
+      "hd": "Av-23",
+      "month": "Av"
+    },
+    "2026-08-07": {
+      "pe": "Re'eh",
+      "ph": "",
+      "sl": "dParsha",
+      "hdheb": "כ״ד אָב",
+      "hd": "Av-24",
+      "month": "Av"
+    },
+    "2026-08-08": {
+      "pe": "Re'eh",
+      "ph": "",
+      "sl": "dParsha",
+      "hdheb": "כ״ה אָב",
+      "hd": "Av-25",
+      "month": "Av"
+    },
+    "2026-08-09": {
+      "pe": "Shoftim",
+      "ph": "שׁוֹפְטִים",
+      "sl": "dpShoftim",
+      "hdheb": "כ״ו אָב",
+      "hd": "Av-26",
+      "month": "Av"
+    },
+    "2026-08-10": {
+      "pe": "Shoftim",
+      "ph": "שׁוֹפְטִים",
+      "sl": "dpShoftim",
+      "hdheb": "כ״ז אָב",
+      "hd": "Av-27",
+      "month": "Av"
+    },
+    "2026-08-11": {
+      "pe": "Shoftim",
+      "ph": "שׁוֹפְטִים",
+      "sl": "dpShoftim",
+      "hdheb": "כ״ח אָב",
+      "hd": "Av-28",
+      "month": "Av"
+    },
+    "2026-08-12": {
+      "pe": "Shoftim",
+      "ph": "שׁוֹפְטִים",
+      "sl": "dpShoftim",
+      "hdheb": "כ״ט אָב",
+      "hd": "Av-29",
+      "month": "Av"
+    },
+    "2026-08-13": {
+      "pe": "Shoftim",
+      "ph": "שׁוֹפְטִים",
+      "sl": "dpShoftim",
+      "hdheb": "ל׳ אָב",
+      "hd": "Av-30",
+      "month": "Av"
+    },
+    "2026-08-14": {
+      "pe": "Shoftim",
+      "ph": "שׁוֹפְטִים",
+      "sl": "dpShoftim",
+      "hdheb": "א׳ אֱלוּל",
+      "hd": "Elul-1",
+      "month": "Elul"
+    },
+    "2026-08-15": {
+      "pe": "Shoftim",
+      "ph": "שׁוֹפְטִים",
+      "sl": "dpShoftim",
+      "hdheb": "ב׳ אֱלוּל",
+      "hd": "Elul-2",
+      "month": "Elul"
+    },
+    "2026-08-16": {
+      "pe": "Ki Seitzei",
+      "ph": "כִּי תֵצֵא",
+      "sl": "dpKiSeitzei",
+      "hdheb": "ג׳ אֱלוּל",
+      "hd": "Elul-3",
+      "month": "Elul"
+    },
+    "2026-08-17": {
+      "pe": "Ki Seitzei",
+      "ph": "כִּי תֵצֵא",
+      "sl": "dpKiSeitzei",
+      "hdheb": "ד׳ אֱלוּל",
+      "hd": "Elul-4",
+      "month": "Elul"
+    },
+    "2026-08-18": {
+      "pe": "Ki Seitzei",
+      "ph": "כִּי תֵצֵא",
+      "sl": "dpKiSeitzei",
+      "hdheb": "ה׳ אֱלוּל",
+      "hd": "Elul-5",
+      "month": "Elul"
+    },
+    "2026-08-19": {
+      "pe": "Ki Seitzei",
+      "ph": "כִּי תֵצֵא",
+      "sl": "dpKiSeitzei",
+      "hdheb": "ו׳ אֱלוּל",
+      "hd": "Elul-6",
+      "month": "Elul"
+    },
+    "2026-08-20": {
+      "pe": "Ki Seitzei",
+      "ph": "כִּי תֵצֵא",
+      "sl": "dpKiSeitzei",
+      "hdheb": "ז׳ אֱלוּל",
+      "hd": "Elul-7",
+      "month": "Elul"
+    },
+    "2026-08-21": {
+      "pe": "Ki Seitzei",
+      "ph": "כִּי תֵצֵא",
+      "sl": "dpKiSeitzei",
+      "hdheb": "ח׳ אֱלוּל",
+      "hd": "Elul-8",
+      "month": "Elul"
+    },
+    "2026-08-22": {
+      "pe": "Ki Seitzei",
+      "ph": "כִּי תֵצֵא",
+      "sl": "dpKiSeitzei",
+      "hdheb": "ט׳ אֱלוּל",
+      "hd": "Elul-9",
+      "month": "Elul"
+    },
+    "2026-08-23": {
+      "pe": "Ki Savo",
+      "ph": "כִּי תָבוֹא",
+      "sl": "dpKiSavo",
+      "hdheb": "י׳ אֱלוּל",
+      "hd": "Elul-10",
+      "month": "Elul"
+    },
+    "2026-08-24": {
+      "pe": "Ki Savo",
+      "ph": "כִּי תָבוֹא",
+      "sl": "dpKiSavo",
+      "hdheb": "י״א אֱלוּל",
+      "hd": "Elul-11",
+      "month": "Elul"
+    },
+    "2026-08-25": {
+      "pe": "Ki Savo",
+      "ph": "כִּי תָבוֹא",
+      "sl": "dpKiSavo",
+      "hdheb": "י״ב אֱלוּל",
+      "hd": "Elul-12",
+      "month": "Elul"
+    },
+    "2026-08-26": {
+      "pe": "Ki Savo",
+      "ph": "כִּי תָבוֹא",
+      "sl": "dpKiSavo",
+      "hdheb": "י״ג אֱלוּל",
+      "hd": "Elul-13",
+      "month": "Elul"
+    },
+    "2026-08-27": {
+      "pe": "Ki Savo",
+      "ph": "כִּי תָבוֹא",
+      "sl": "dpKiSavo",
+      "hdheb": "י״ד אֱלוּל",
+      "hd": "Elul-14",
+      "month": "Elul"
+    },
+    "2026-08-28": {
+      "pe": "Ki Savo",
+      "ph": "כִּי תָבוֹא",
+      "sl": "dpKiSavo",
+      "hdheb": "ט״ו אֱלוּל",
+      "hd": "Elul-15",
+      "month": "Elul"
+    },
+    "2026-08-29": {
+      "pe": "Ki Savo",
+      "ph": "כִּי תָבוֹא",
+      "sl": "dpKiSavo",
+      "hdheb": "ט״ז אֱלוּל",
+      "hd": "Elul-16",
+      "month": "Elul"
+    },
+    "2026-08-30": {
+      "pe": "Nitzavim–Vayeilech",
+      "ph": "נִצָּבִים־וַיֵּלֶךְ",
+      "sl": "dpNitzavimVayeilech",
+      "hdheb": "י״ז אֱלוּל",
+      "hd": "Elul-17",
+      "month": "Elul"
+    },
+    "2026-08-31": {
+      "pe": "Nitzavim–Vayeilech",
+      "ph": "נִצָּבִים־וַיֵּלֶךְ",
+      "sl": "dpNitzavimVayeilech",
+      "hdheb": "י״ח אֱלוּל",
+      "hd": "Elul-18",
+      "month": "Elul"
+    },
+    "2026-09-01": {
+      "pe": "Nitzavim–Vayeilech",
+      "ph": "נִצָּבִים־וַיֵּלֶךְ",
+      "sl": "dpNitzavimVayeilech",
+      "hdheb": "י״ט אֱלוּל",
+      "hd": "Elul-19",
+      "month": "Elul"
+    },
+    "2026-09-02": {
+      "pe": "Nitzavim–Vayeilech",
+      "ph": "נִצָּבִים־וַיֵּלֶךְ",
+      "sl": "dpNitzavimVayeilech",
+      "hdheb": "כ׳ אֱלוּל",
+      "hd": "Elul-20",
+      "month": "Elul"
+    },
+    "2026-09-03": {
+      "pe": "Nitzavim–Vayeilech",
+      "ph": "נִצָּבִים־וַיֵּלֶךְ",
+      "sl": "dpNitzavimVayeilech",
+      "hdheb": "כ״א אֱלוּל",
+      "hd": "Elul-21",
+      "month": "Elul"
+    },
+    "2026-09-04": {
+      "pe": "Nitzavim–Vayeilech",
+      "ph": "נִצָּבִים־וַיֵּלֶךְ",
+      "sl": "dpNitzavimVayeilech",
+      "hdheb": "כ״ב אֱלוּל",
+      "hd": "Elul-22",
+      "month": "Elul"
+    },
+    "2026-09-05": {
+      "pe": "Nitzavim–Vayeilech",
+      "ph": "נִצָּבִים־וַיֵּלֶךְ",
+      "sl": "dpNitzavimVayeilech",
+      "hdheb": "כ״ג אֱלוּל",
+      "hd": "Elul-23",
+      "month": "Elul"
+    },
+    "2026-09-06": {
+      "pe": "",
+      "ph": "",
+      "sl": "",
+      "hdheb": "כ״ד אֱלוּל",
+      "hd": "Elul-24",
+      "month": "Elul"
+    },
+    "2026-09-07": {
+      "pe": "",
+      "ph": "",
+      "sl": "",
+      "hdheb": "כ״ה אֱלוּל",
+      "hd": "Elul-25",
+      "month": "Elul"
+    },
+    "2026-09-08": {
+      "pe": "",
+      "ph": "",
+      "sl": "",
+      "hdheb": "כ״ו אֱלוּל",
+      "hd": "Elul-26",
+      "month": "Elul"
+    },
+    "2026-09-09": {
+      "pe": "",
+      "ph": "",
+      "sl": "",
+      "hdheb": "כ״ז אֱלוּל",
+      "hd": "Elul-27",
+      "month": "Elul"
+    },
+    "2026-09-10": {
+      "pe": "",
+      "ph": "",
+      "sl": "",
+      "hdheb": "כ״ח אֱלוּל",
+      "hd": "Elul-28",
+      "month": "Elul"
+    },
+    "2026-09-11": {
+      "pe": "",
+      "ph": "",
+      "sl": "",
+      "hdheb": "כ״ט אֱלוּל",
+      "hd": "Elul-29",
+      "month": "Elul"
+    },
+    "2026-09-12": {
+      "pe": "",
+      "ph": "",
+      "sl": "",
+      "hdheb": "א׳ תִּשְׁרֵי",
+      "hd": "Tishrei-1",
+      "month": "Tishrei"
+    },
+    "2026-09-13": {
+      "pe": "Haazinu",
+      "ph": "",
+      "sl": "dParsha",
+      "hdheb": "ב׳ תִּשְׁרֵי",
+      "hd": "Tishrei-2",
+      "month": "Tishrei"
+    },
+    "2026-09-14": {
+      "pe": "Haazinu",
+      "ph": "",
+      "sl": "dParsha",
+      "hdheb": "ג׳ תִּשְׁרֵי",
+      "hd": "Tishrei-3",
+      "month": "Tishrei"
+    },
+    "2026-09-15": {
+      "pe": "Haazinu",
+      "ph": "",
+      "sl": "dParsha",
+      "hdheb": "ד׳ תִּשְׁרֵי",
+      "hd": "Tishrei-4",
+      "month": "Tishrei"
+    },
+    "2026-09-16": {
+      "pe": "Haazinu",
+      "ph": "",
+      "sl": "dParsha",
+      "hdheb": "ה׳ תִּשְׁרֵי",
+      "hd": "Tishrei-5",
+      "month": "Tishrei"
+    },
+    "2026-09-17": {
+      "pe": "Haazinu",
+      "ph": "",
+      "sl": "dParsha",
+      "hdheb": "ו׳ תִּשְׁרֵי",
+      "hd": "Tishrei-6",
+      "month": "Tishrei"
+    },
+    "2026-09-18": {
+      "pe": "Haazinu",
+      "ph": "",
+      "sl": "dParsha",
+      "hdheb": "ז׳ תִּשְׁרֵי",
+      "hd": "Tishrei-7",
+      "month": "Tishrei"
+    },
+    "2026-09-19": {
+      "pe": "Haazinu",
+      "ph": "",
+      "sl": "dParsha",
+      "hdheb": "ח׳ תִּשְׁרֵי",
+      "hd": "Tishrei-8",
+      "month": "Tishrei"
+    },
+    "2026-09-20": {
+      "pe": "",
+      "ph": "",
+      "sl": "",
+      "hdheb": "ט׳ תִּשְׁרֵי",
+      "hd": "Tishrei-9",
+      "month": "Tishrei"
+    },
+    "2026-09-21": {
+      "pe": "",
+      "ph": "",
+      "sl": "",
+      "hdheb": "י׳ תִּשְׁרֵי",
+      "hd": "Tishrei-10",
+      "month": "Tishrei"
+    },
+    "2026-09-22": {
+      "pe": "",
+      "ph": "",
+      "sl": "",
+      "hdheb": "י״א תִּשְׁרֵי",
+      "hd": "Tishrei-11",
+      "month": "Tishrei"
+    },
+    "2026-09-23": {
+      "pe": "",
+      "ph": "",
+      "sl": "",
+      "hdheb": "י״ב תִּשְׁרֵי",
+      "hd": "Tishrei-12",
+      "month": "Tishrei"
+    },
+    "2026-09-24": {
+      "pe": "",
+      "ph": "",
+      "sl": "",
+      "hdheb": "י״ג תִּשְׁרֵי",
+      "hd": "Tishrei-13",
+      "month": "Tishrei"
+    },
+    "2026-09-25": {
+      "pe": "",
+      "ph": "",
+      "sl": "",
+      "hdheb": "י״ד תִּשְׁרֵי",
+      "hd": "Tishrei-14",
+      "month": "Tishrei"
+    },
+    "2026-09-26": {
+      "pe": "",
+      "ph": "",
+      "sl": "",
+      "hdheb": "ט״ו תִּשְׁרֵי",
+      "hd": "Tishrei-15",
+      "month": "Tishrei"
+    },
+    "2026-09-27": {
+      "pe": "",
+      "ph": "",
+      "sl": "",
+      "hdheb": "ט״ז תִּשְׁרֵי",
+      "hd": "Tishrei-16",
+      "month": "Tishrei"
+    },
+    "2026-09-28": {
+      "pe": "",
+      "ph": "",
+      "sl": "",
+      "hdheb": "י״ז תִּשְׁרֵי",
+      "hd": "Tishrei-17",
+      "month": "Tishrei"
+    },
+    "2026-09-29": {
+      "pe": "",
+      "ph": "",
+      "sl": "",
+      "hdheb": "י״ח תִּשְׁרֵי",
+      "hd": "Tishrei-18",
+      "month": "Tishrei"
+    },
+    "2026-09-30": {
+      "pe": "",
+      "ph": "",
+      "sl": "",
+      "hdheb": "י״ט תִּשְׁרֵי",
+      "hd": "Tishrei-19",
+      "month": "Tishrei"
+    },
+    "2026-10-01": {
+      "pe": "",
+      "ph": "",
+      "sl": "",
+      "hdheb": "כ׳ תִּשְׁרֵי",
+      "hd": "Tishrei-20",
+      "month": "Tishrei"
+    },
+    "2026-10-02": {
+      "pe": "",
+      "ph": "",
+      "sl": "",
+      "hdheb": "כ״א תִּשְׁרֵי",
+      "hd": "Tishrei-21",
+      "month": "Tishrei"
+    },
+    "2026-10-03": {
+      "pe": "",
+      "ph": "",
+      "sl": "",
+      "hdheb": "כ״ב תִּשְׁרֵי",
+      "hd": "Tishrei-22",
+      "month": "Tishrei"
+    },
+    "2026-10-04": {
+      "pe": "Bereishis",
+      "ph": "בְּרֵאשִׁית",
+      "sl": "dpBereishis",
+      "hdheb": "כ״ג תִּשְׁרֵי",
+      "hd": "Tishrei-23",
+      "month": "Tishrei"
+    },
+    "2026-10-05": {
+      "pe": "Bereishis",
+      "ph": "בְּרֵאשִׁית",
+      "sl": "dpBereishis",
+      "hdheb": "כ״ד תִּשְׁרֵי",
+      "hd": "Tishrei-24",
+      "month": "Tishrei"
+    },
+    "2026-10-06": {
+      "pe": "Bereishis",
+      "ph": "בְּרֵאשִׁית",
+      "sl": "dpBereishis",
+      "hdheb": "כ״ה תִּשְׁרֵי",
+      "hd": "Tishrei-25",
+      "month": "Tishrei"
+    },
+    "2026-10-07": {
+      "pe": "Bereishis",
+      "ph": "בְּרֵאשִׁית",
+      "sl": "dpBereishis",
+      "hdheb": "כ״ו תִּשְׁרֵי",
+      "hd": "Tishrei-26",
+      "month": "Tishrei"
+    },
+    "2026-10-08": {
+      "pe": "Bereishis",
+      "ph": "בְּרֵאשִׁית",
+      "sl": "dpBereishis",
+      "hdheb": "כ״ז תִּשְׁרֵי",
+      "hd": "Tishrei-27",
+      "month": "Tishrei"
+    },
+    "2026-10-09": {
+      "pe": "Bereishis",
+      "ph": "בְּרֵאשִׁית",
+      "sl": "dpBereishis",
+      "hdheb": "כ״ח תִּשְׁרֵי",
+      "hd": "Tishrei-28",
+      "month": "Tishrei"
+    },
+    "2026-10-10": {
+      "pe": "Bereishis",
+      "ph": "בְּרֵאשִׁית",
+      "sl": "dpBereishis",
+      "hdheb": "כ״ט תִּשְׁרֵי",
+      "hd": "Tishrei-29",
+      "month": "Tishrei"
+    },
+    "2026-10-11": {
+      "pe": "Noach",
+      "ph": "נֹחַ",
+      "sl": "dpNoach",
+      "hdheb": "ל׳ תִּשְׁרֵי",
+      "hd": "Tishrei-30",
+      "month": "Tishrei"
+    },
+    "2026-10-12": {
+      "pe": "Noach",
+      "ph": "נֹחַ",
+      "sl": "dpNoach",
+      "hdheb": "א׳ חֶשְׁוָן",
+      "hd": "Cheshvan-1",
+      "month": "Cheshvan"
+    },
+    "2026-10-13": {
+      "pe": "Noach",
+      "ph": "נֹחַ",
+      "sl": "dpNoach",
+      "hdheb": "ב׳ חֶשְׁוָן",
+      "hd": "Cheshvan-2",
+      "month": "Cheshvan"
+    },
+    "2026-10-14": {
+      "pe": "Noach",
+      "ph": "נֹחַ",
+      "sl": "dpNoach",
+      "hdheb": "ג׳ חֶשְׁוָן",
+      "hd": "Cheshvan-3",
+      "month": "Cheshvan"
+    },
+    "2026-10-15": {
+      "pe": "Noach",
+      "ph": "נֹחַ",
+      "sl": "dpNoach",
+      "hdheb": "ד׳ חֶשְׁוָן",
+      "hd": "Cheshvan-4",
+      "month": "Cheshvan"
+    },
+    "2026-10-16": {
+      "pe": "Noach",
+      "ph": "נֹחַ",
+      "sl": "dpNoach",
+      "hdheb": "ה׳ חֶשְׁוָן",
+      "hd": "Cheshvan-5",
+      "month": "Cheshvan"
+    },
+    "2026-10-17": {
+      "pe": "Noach",
+      "ph": "נֹחַ",
+      "sl": "dpNoach",
+      "hdheb": "ו׳ חֶשְׁוָן",
+      "hd": "Cheshvan-6",
+      "month": "Cheshvan"
+    },
+    "2026-10-18": {
+      "pe": "Lech Lecha",
+      "ph": "לֶךְ לְךָ",
+      "sl": "dpLechLecha",
+      "hdheb": "ז׳ חֶשְׁוָן",
+      "hd": "Cheshvan-7",
+      "month": "Cheshvan"
+    },
+    "2026-10-19": {
+      "pe": "Lech Lecha",
+      "ph": "לֶךְ לְךָ",
+      "sl": "dpLechLecha",
+      "hdheb": "ח׳ חֶשְׁוָן",
+      "hd": "Cheshvan-8",
+      "month": "Cheshvan"
+    },
+    "2026-10-20": {
+      "pe": "Lech Lecha",
+      "ph": "לֶךְ לְךָ",
+      "sl": "dpLechLecha",
+      "hdheb": "ט׳ חֶשְׁוָן",
+      "hd": "Cheshvan-9",
+      "month": "Cheshvan"
+    },
+    "2026-10-21": {
+      "pe": "Lech Lecha",
+      "ph": "לֶךְ לְךָ",
+      "sl": "dpLechLecha",
+      "hdheb": "י׳ חֶשְׁוָן",
+      "hd": "Cheshvan-10",
+      "month": "Cheshvan"
+    },
+    "2026-10-22": {
+      "pe": "Lech Lecha",
+      "ph": "לֶךְ לְךָ",
+      "sl": "dpLechLecha",
+      "hdheb": "י״א חֶשְׁוָן",
+      "hd": "Cheshvan-11",
+      "month": "Cheshvan"
+    },
+    "2026-10-23": {
+      "pe": "Lech Lecha",
+      "ph": "לֶךְ לְךָ",
+      "sl": "dpLechLecha",
+      "hdheb": "י״ב חֶשְׁוָן",
+      "hd": "Cheshvan-12",
+      "month": "Cheshvan"
+    },
+    "2026-10-24": {
+      "pe": "Lech Lecha",
+      "ph": "לֶךְ לְךָ",
+      "sl": "dpLechLecha",
+      "hdheb": "י״ג חֶשְׁוָן",
+      "hd": "Cheshvan-13",
+      "month": "Cheshvan"
+    },
+    "2026-10-25": {
+      "pe": "Vayeira",
+      "ph": "וַיֵּרָא",
+      "sl": "dpVayeira",
+      "hdheb": "י״ד חֶשְׁוָן",
+      "hd": "Cheshvan-14",
+      "month": "Cheshvan"
+    },
+    "2026-10-26": {
+      "pe": "Vayeira",
+      "ph": "וַיֵּרָא",
+      "sl": "dpVayeira",
+      "hdheb": "ט״ו חֶשְׁוָן",
+      "hd": "Cheshvan-15",
+      "month": "Cheshvan"
+    },
+    "2026-10-27": {
+      "pe": "Vayeira",
+      "ph": "וַיֵּרָא",
+      "sl": "dpVayeira",
+      "hdheb": "ט״ז חֶשְׁוָן",
+      "hd": "Cheshvan-16",
+      "month": "Cheshvan"
+    },
+    "2026-10-28": {
+      "pe": "Vayeira",
+      "ph": "וַיֵּרָא",
+      "sl": "dpVayeira",
+      "hdheb": "י״ז חֶשְׁוָן",
+      "hd": "Cheshvan-17",
+      "month": "Cheshvan"
+    },
+    "2026-10-29": {
+      "pe": "Vayeira",
+      "ph": "וַיֵּרָא",
+      "sl": "dpVayeira",
+      "hdheb": "י״ח חֶשְׁוָן",
+      "hd": "Cheshvan-18",
+      "month": "Cheshvan"
+    },
+    "2026-10-30": {
+      "pe": "Vayeira",
+      "ph": "וַיֵּרָא",
+      "sl": "dpVayeira",
+      "hdheb": "י״ט חֶשְׁוָן",
+      "hd": "Cheshvan-19",
+      "month": "Cheshvan"
+    },
+    "2026-10-31": {
+      "pe": "Vayeira",
+      "ph": "וַיֵּרָא",
+      "sl": "dpVayeira",
+      "hdheb": "כ׳ חֶשְׁוָן",
+      "hd": "Cheshvan-20",
+      "month": "Cheshvan"
+    },
+    "2026-11-01": {
+      "pe": "Chayei Sarah",
+      "ph": "חַיֵּי שָׂרָה",
+      "sl": "dpChayeiSara",
+      "hdheb": "כ״א חֶשְׁוָן",
+      "hd": "Cheshvan-21",
+      "month": "Cheshvan"
+    },
+    "2026-11-02": {
+      "pe": "Chayei Sarah",
+      "ph": "חַיֵּי שָׂרָה",
+      "sl": "dpChayeiSara",
+      "hdheb": "כ״ב חֶשְׁוָן",
+      "hd": "Cheshvan-22",
+      "month": "Cheshvan"
+    },
+    "2026-11-03": {
+      "pe": "Chayei Sarah",
+      "ph": "חַיֵּי שָׂרָה",
+      "sl": "dpChayeiSara",
+      "hdheb": "כ״ג חֶשְׁוָן",
+      "hd": "Cheshvan-23",
+      "month": "Cheshvan"
+    },
+    "2026-11-04": {
+      "pe": "Chayei Sarah",
+      "ph": "חַיֵּי שָׂרָה",
+      "sl": "dpChayeiSara",
+      "hdheb": "כ״ד חֶשְׁוָן",
+      "hd": "Cheshvan-24",
+      "month": "Cheshvan"
+    },
+    "2026-11-05": {
+      "pe": "Chayei Sarah",
+      "ph": "חַיֵּי שָׂרָה",
+      "sl": "dpChayeiSara",
+      "hdheb": "כ״ה חֶשְׁוָן",
+      "hd": "Cheshvan-25",
+      "month": "Cheshvan"
+    },
+    "2026-11-06": {
+      "pe": "Chayei Sarah",
+      "ph": "חַיֵּי שָׂרָה",
+      "sl": "dpChayeiSara",
+      "hdheb": "כ״ו חֶשְׁוָן",
+      "hd": "Cheshvan-26",
+      "month": "Cheshvan"
+    },
+    "2026-11-07": {
+      "pe": "Chayei Sarah",
+      "ph": "חַיֵּי שָׂרָה",
+      "sl": "dpChayeiSara",
+      "hdheb": "כ״ז חֶשְׁוָן",
+      "hd": "Cheshvan-27",
+      "month": "Cheshvan"
+    },
+    "2026-11-08": {
+      "pe": "Toldos",
+      "ph": "תּוֹלְדוֹת",
+      "sl": "dpToldos",
+      "hdheb": "כ״ח חֶשְׁוָן",
+      "hd": "Cheshvan-28",
+      "month": "Cheshvan"
+    },
+    "2026-11-09": {
+      "pe": "Toldos",
+      "ph": "תּוֹלְדוֹת",
+      "sl": "dpToldos",
+      "hdheb": "כ״ט חֶשְׁוָן",
+      "hd": "Cheshvan-29",
+      "month": "Cheshvan"
+    },
+    "2026-11-10": {
+      "pe": "Toldos",
+      "ph": "תּוֹלְדוֹת",
+      "sl": "dpToldos",
+      "hdheb": "ל׳ חֶשְׁוָן",
+      "hd": "Cheshvan-30",
+      "month": "Cheshvan"
+    },
+    "2026-11-11": {
+      "pe": "Toldos",
+      "ph": "תּוֹלְדוֹת",
+      "sl": "dpToldos",
+      "hdheb": "א׳ כִּסְלֵו",
+      "hd": "Kislev-1",
+      "month": "Kislev"
+    },
+    "2026-11-12": {
+      "pe": "Toldos",
+      "ph": "תּוֹלְדוֹת",
+      "sl": "dpToldos",
+      "hdheb": "ב׳ כִּסְלֵו",
+      "hd": "Kislev-2",
+      "month": "Kislev"
+    },
+    "2026-11-13": {
+      "pe": "Toldos",
+      "ph": "תּוֹלְדוֹת",
+      "sl": "dpToldos",
+      "hdheb": "ג׳ כִּסְלֵו",
+      "hd": "Kislev-3",
+      "month": "Kislev"
+    },
+    "2026-11-14": {
+      "pe": "Toldos",
+      "ph": "תּוֹלְדוֹת",
+      "sl": "dpToldos",
+      "hdheb": "ד׳ כִּסְלֵו",
+      "hd": "Kislev-4",
+      "month": "Kislev"
+    },
+    "2026-11-15": {
+      "pe": "Vayeitzei",
+      "ph": "וַיֵּצֵא",
+      "sl": "dpVayeitzei",
+      "hdheb": "ה׳ כִּסְלֵו",
+      "hd": "Kislev-5",
+      "month": "Kislev"
+    },
+    "2026-11-16": {
+      "pe": "Vayeitzei",
+      "ph": "וַיֵּצֵא",
+      "sl": "dpVayeitzei",
+      "hdheb": "ו׳ כִּסְלֵו",
+      "hd": "Kislev-6",
+      "month": "Kislev"
+    },
+    "2026-11-17": {
+      "pe": "Vayeitzei",
+      "ph": "וַיֵּצֵא",
+      "sl": "dpVayeitzei",
+      "hdheb": "ז׳ כִּסְלֵו",
+      "hd": "Kislev-7",
+      "month": "Kislev"
+    },
+    "2026-11-18": {
+      "pe": "Vayeitzei",
+      "ph": "וַיֵּצֵא",
+      "sl": "dpVayeitzei",
+      "hdheb": "ח׳ כִּסְלֵו",
+      "hd": "Kislev-8",
+      "month": "Kislev"
+    },
+    "2026-11-19": {
+      "pe": "Vayeitzei",
+      "ph": "וַיֵּצֵא",
+      "sl": "dpVayeitzei",
+      "hdheb": "ט׳ כִּסְלֵו",
+      "hd": "Kislev-9",
+      "month": "Kislev"
+    },
+    "2026-11-20": {
+      "pe": "Vayeitzei",
+      "ph": "וַיֵּצֵא",
+      "sl": "dpVayeitzei",
+      "hdheb": "י׳ כִּסְלֵו",
+      "hd": "Kislev-10",
+      "month": "Kislev"
+    },
+    "2026-11-21": {
+      "pe": "Vayeitzei",
+      "ph": "וַיֵּצֵא",
+      "sl": "dpVayeitzei",
+      "hdheb": "י״א כִּסְלֵו",
+      "hd": "Kislev-11",
+      "month": "Kislev"
+    },
+    "2026-11-22": {
+      "pe": "Vayishlach",
+      "ph": "וַיִּשְׁלַח",
+      "sl": "dpVayishlach",
+      "hdheb": "י״ב כִּסְלֵו",
+      "hd": "Kislev-12",
+      "month": "Kislev"
+    },
+    "2026-11-23": {
+      "pe": "Vayishlach",
+      "ph": "וַיִּשְׁלַח",
+      "sl": "dpVayishlach",
+      "hdheb": "י״ג כִּסְלֵו",
+      "hd": "Kislev-13",
+      "month": "Kislev"
+    },
+    "2026-11-24": {
+      "pe": "Vayishlach",
+      "ph": "וַיִּשְׁלַח",
+      "sl": "dpVayishlach",
+      "hdheb": "י״ד כִּסְלֵו",
+      "hd": "Kislev-14",
+      "month": "Kislev"
+    },
+    "2026-11-25": {
+      "pe": "Vayishlach",
+      "ph": "וַיִּשְׁלַח",
+      "sl": "dpVayishlach",
+      "hdheb": "ט״ו כִּסְלֵו",
+      "hd": "Kislev-15",
+      "month": "Kislev"
+    },
+    "2026-11-26": {
+      "pe": "Vayishlach",
+      "ph": "וַיִּשְׁלַח",
+      "sl": "dpVayishlach",
+      "hdheb": "ט״ז כִּסְלֵו",
+      "hd": "Kislev-16",
+      "month": "Kislev"
+    },
+    "2026-11-27": {
+      "pe": "Vayishlach",
+      "ph": "וַיִּשְׁלַח",
+      "sl": "dpVayishlach",
+      "hdheb": "י״ז כִּסְלֵו",
+      "hd": "Kislev-17",
+      "month": "Kislev"
+    },
+    "2026-11-28": {
+      "pe": "Vayishlach",
+      "ph": "וַיִּשְׁלַח",
+      "sl": "dpVayishlach",
+      "hdheb": "י״ח כִּסְלֵו",
+      "hd": "Kislev-18",
+      "month": "Kislev"
+    },
+    "2026-11-29": {
+      "pe": "Vayeishev",
+      "ph": "וַיֵּשֶׁב",
+      "sl": "dpVayeishev",
+      "hdheb": "י״ט כִּסְלֵו",
+      "hd": "Kislev-19",
+      "month": "Kislev"
+    },
+    "2026-11-30": {
+      "pe": "Vayeishev",
+      "ph": "וַיֵּשֶׁב",
+      "sl": "dpVayeishev",
+      "hdheb": "כ׳ כִּסְלֵו",
+      "hd": "Kislev-20",
+      "month": "Kislev"
+    },
+    "2026-12-01": {
+      "pe": "Vayeishev",
+      "ph": "וַיֵּשֶׁב",
+      "sl": "dpVayeishev",
+      "hdheb": "כ״א כִּסְלֵו",
+      "hd": "Kislev-21",
+      "month": "Kislev"
+    },
+    "2026-12-02": {
+      "pe": "Vayeishev",
+      "ph": "וַיֵּשֶׁב",
+      "sl": "dpVayeishev",
+      "hdheb": "כ״ב כִּסְלֵו",
+      "hd": "Kislev-22",
+      "month": "Kislev"
+    },
+    "2026-12-03": {
+      "pe": "Vayeishev",
+      "ph": "וַיֵּשֶׁב",
+      "sl": "dpVayeishev",
+      "hdheb": "כ״ג כִּסְלֵו",
+      "hd": "Kislev-23",
+      "month": "Kislev"
+    },
+    "2026-12-04": {
+      "pe": "Vayeishev",
+      "ph": "וַיֵּשֶׁב",
+      "sl": "dpVayeishev",
+      "hdheb": "כ״ד כִּסְלֵו",
+      "hd": "Kislev-24",
+      "month": "Kislev"
+    },
+    "2026-12-05": {
+      "pe": "Vayeishev",
+      "ph": "וַיֵּשֶׁב",
+      "sl": "dpVayeishev",
+      "hdheb": "כ״ה כִּסְלֵו",
+      "hd": "Kislev-25",
+      "month": "Kislev"
+    },
+    "2026-12-06": {
+      "pe": "Mikeitz",
+      "ph": "מִקֵּץ",
+      "sl": "dpMikeitz",
+      "hdheb": "כ״ו כִּסְלֵו",
+      "hd": "Kislev-26",
+      "month": "Kislev"
+    },
+    "2026-12-07": {
+      "pe": "Mikeitz",
+      "ph": "מִקֵּץ",
+      "sl": "dpMikeitz",
+      "hdheb": "כ״ז כִּסְלֵו",
+      "hd": "Kislev-27",
+      "month": "Kislev"
+    },
+    "2026-12-08": {
+      "pe": "Mikeitz",
+      "ph": "מִקֵּץ",
+      "sl": "dpMikeitz",
+      "hdheb": "כ״ח כִּסְלֵו",
+      "hd": "Kislev-28",
+      "month": "Kislev"
+    },
+    "2026-12-09": {
+      "pe": "Mikeitz",
+      "ph": "מִקֵּץ",
+      "sl": "dpMikeitz",
+      "hdheb": "כ״ט כִּסְלֵו",
+      "hd": "Kislev-29",
+      "month": "Kislev"
+    },
+    "2026-12-10": {
+      "pe": "Mikeitz",
+      "ph": "מִקֵּץ",
+      "sl": "dpMikeitz",
+      "hdheb": "ל׳ כִּסְלֵו",
+      "hd": "Kislev-30",
+      "month": "Kislev"
+    },
+    "2026-12-11": {
+      "pe": "Mikeitz",
+      "ph": "מִקֵּץ",
+      "sl": "dpMikeitz",
+      "hdheb": "א׳ טֵבֵת",
+      "hd": "Teves-1",
+      "month": "Teves"
+    },
+    "2026-12-12": {
+      "pe": "Mikeitz",
+      "ph": "מִקֵּץ",
+      "sl": "dpMikeitz",
+      "hdheb": "ב׳ טֵבֵת",
+      "hd": "Teves-2",
+      "month": "Teves"
+    },
+    "2026-12-13": {
+      "pe": "Vayigash",
+      "ph": "וַיִּגַּשׁ",
+      "sl": "dpVayigash",
+      "hdheb": "ג׳ טֵבֵת",
+      "hd": "Teves-3",
+      "month": "Teves"
+    },
+    "2026-12-14": {
+      "pe": "Vayigash",
+      "ph": "וַיִּגַּשׁ",
+      "sl": "dpVayigash",
+      "hdheb": "ד׳ טֵבֵת",
+      "hd": "Teves-4",
+      "month": "Teves"
+    },
+    "2026-12-15": {
+      "pe": "Vayigash",
+      "ph": "וַיִּגַּשׁ",
+      "sl": "dpVayigash",
+      "hdheb": "ה׳ טֵבֵת",
+      "hd": "Teves-5",
+      "month": "Teves"
+    },
+    "2026-12-16": {
+      "pe": "Vayigash",
+      "ph": "וַיִּגַּשׁ",
+      "sl": "dpVayigash",
+      "hdheb": "ו׳ טֵבֵת",
+      "hd": "Teves-6",
+      "month": "Teves"
+    },
+    "2026-12-17": {
+      "pe": "Vayigash",
+      "ph": "וַיִּגַּשׁ",
+      "sl": "dpVayigash",
+      "hdheb": "ז׳ טֵבֵת",
+      "hd": "Teves-7",
+      "month": "Teves"
+    },
+    "2026-12-18": {
+      "pe": "Vayigash",
+      "ph": "וַיִּגַּשׁ",
+      "sl": "dpVayigash",
+      "hdheb": "ח׳ טֵבֵת",
+      "hd": "Teves-8",
+      "month": "Teves"
+    },
+    "2026-12-19": {
+      "pe": "Vayigash",
+      "ph": "וַיִּגַּשׁ",
+      "sl": "dpVayigash",
+      "hdheb": "ט׳ טֵבֵת",
+      "hd": "Teves-9",
+      "month": "Teves"
+    },
+    "2026-12-20": {
+      "pe": "Vayechi",
+      "ph": "וַיְחִי",
+      "sl": "dpVayechi",
+      "hdheb": "י׳ טֵבֵת",
+      "hd": "Teves-10",
+      "month": "Teves"
+    },
+    "2026-12-21": {
+      "pe": "Vayechi",
+      "ph": "וַיְחִי",
+      "sl": "dpVayechi",
+      "hdheb": "י״א טֵבֵת",
+      "hd": "Teves-11",
+      "month": "Teves"
+    },
+    "2026-12-22": {
+      "pe": "Vayechi",
+      "ph": "וַיְחִי",
+      "sl": "dpVayechi",
+      "hdheb": "י״ב טֵבֵת",
+      "hd": "Teves-12",
+      "month": "Teves"
+    },
+    "2026-12-23": {
+      "pe": "Vayechi",
+      "ph": "וַיְחִי",
+      "sl": "dpVayechi",
+      "hdheb": "י״ג טֵבֵת",
+      "hd": "Teves-13",
+      "month": "Teves"
+    },
+    "2026-12-24": {
+      "pe": "Vayechi",
+      "ph": "וַיְחִי",
+      "sl": "dpVayechi",
+      "hdheb": "י״ד טֵבֵת",
+      "hd": "Teves-14",
+      "month": "Teves"
+    },
+    "2026-12-25": {
+      "pe": "Vayechi",
+      "ph": "וַיְחִי",
+      "sl": "dpVayechi",
+      "hdheb": "ט״ו טֵבֵת",
+      "hd": "Teves-15",
+      "month": "Teves"
+    },
+    "2026-12-26": {
+      "pe": "Vayechi",
+      "ph": "וַיְחִי",
+      "sl": "dpVayechi",
+      "hdheb": "ט״ז טֵבֵת",
+      "hd": "Teves-16",
+      "month": "Teves"
+    },
+    "2026-12-27": {
+      "pe": "Shemos",
+      "ph": "שְׁמוֹת",
+      "sl": "dpShemos",
+      "hdheb": "י״ז טֵבֵת",
+      "hd": "Teves-17",
+      "month": "Teves"
+    },
+    "2026-12-28": {
+      "pe": "Shemos",
+      "ph": "שְׁמוֹת",
+      "sl": "dpShemos",
+      "hdheb": "י״ח טֵבֵת",
+      "hd": "Teves-18",
+      "month": "Teves"
+    },
+    "2026-12-29": {
+      "pe": "Shemos",
+      "ph": "שְׁמוֹת",
+      "sl": "dpShemos",
+      "hdheb": "י״ט טֵבֵת",
+      "hd": "Teves-19",
+      "month": "Teves"
+    },
+    "2026-12-30": {
+      "pe": "Shemos",
+      "ph": "שְׁמוֹת",
+      "sl": "dpShemos",
+      "hdheb": "כ׳ טֵבֵת",
+      "hd": "Teves-20",
+      "month": "Teves"
+    },
+    "2026-12-31": {
+      "pe": "Shemos",
+      "ph": "שְׁמוֹת",
+      "sl": "dpShemos",
+      "hdheb": "כ״א טֵבֵת",
+      "hd": "Teves-21",
+      "month": "Teves"
+    },
+    "2027-01-01": {
+      "pe": "Shemos",
+      "ph": "שְׁמוֹת",
+      "sl": "dpShemos",
+      "hdheb": "כ״ב טֵבֵת",
+      "hd": "Teves-22",
+      "month": "Teves"
+    },
+    "2027-01-02": {
+      "pe": "Shemos",
+      "ph": "שְׁמוֹת",
+      "sl": "dpShemos",
+      "hdheb": "כ״ג טֵבֵת",
+      "hd": "Teves-23",
+      "month": "Teves"
+    },
+    "2027-01-03": {
+      "pe": "Va'eira",
+      "ph": "",
+      "sl": "dParsha",
+      "hdheb": "כ״ד טֵבֵת",
+      "hd": "Teves-24",
+      "month": "Teves"
+    },
+    "2027-01-04": {
+      "pe": "Va'eira",
+      "ph": "",
+      "sl": "dParsha",
+      "hdheb": "כ״ה טֵבֵת",
+      "hd": "Teves-25",
+      "month": "Teves"
+    },
+    "2027-01-05": {
+      "pe": "Va'eira",
+      "ph": "",
+      "sl": "dParsha",
+      "hdheb": "כ״ו טֵבֵת",
+      "hd": "Teves-26",
+      "month": "Teves"
+    },
+    "2027-01-06": {
+      "pe": "Va'eira",
+      "ph": "",
+      "sl": "dParsha",
+      "hdheb": "כ״ז טֵבֵת",
+      "hd": "Teves-27",
+      "month": "Teves"
+    },
+    "2027-01-07": {
+      "pe": "Va'eira",
+      "ph": "",
+      "sl": "dParsha",
+      "hdheb": "כ״ח טֵבֵת",
+      "hd": "Teves-28",
+      "month": "Teves"
+    },
+    "2027-01-08": {
+      "pe": "Va'eira",
+      "ph": "",
+      "sl": "dParsha",
+      "hdheb": "כ״ט טֵבֵת",
+      "hd": "Teves-29",
+      "month": "Teves"
+    },
+    "2027-01-09": {
+      "pe": "Va'eira",
+      "ph": "",
+      "sl": "dParsha",
+      "hdheb": "א׳ שְׁבָט",
+      "hd": "Shevat-1",
+      "month": "Shevat"
+    },
+    "2027-01-10": {
+      "pe": "Bo",
+      "ph": "בֹּא",
+      "sl": "dpBo",
+      "hdheb": "ב׳ שְׁבָט",
+      "hd": "Shevat-2",
+      "month": "Shevat"
+    },
+    "2027-01-11": {
+      "pe": "Bo",
+      "ph": "בֹּא",
+      "sl": "dpBo",
+      "hdheb": "ג׳ שְׁבָט",
+      "hd": "Shevat-3",
+      "month": "Shevat"
+    },
+    "2027-01-12": {
+      "pe": "Bo",
+      "ph": "בֹּא",
+      "sl": "dpBo",
+      "hdheb": "ד׳ שְׁבָט",
+      "hd": "Shevat-4",
+      "month": "Shevat"
+    },
+    "2027-01-13": {
+      "pe": "Bo",
+      "ph": "בֹּא",
+      "sl": "dpBo",
+      "hdheb": "ה׳ שְׁבָט",
+      "hd": "Shevat-5",
+      "month": "Shevat"
+    },
+    "2027-01-14": {
+      "pe": "Bo",
+      "ph": "בֹּא",
+      "sl": "dpBo",
+      "hdheb": "ו׳ שְׁבָט",
+      "hd": "Shevat-6",
+      "month": "Shevat"
+    },
+    "2027-01-15": {
+      "pe": "Bo",
+      "ph": "בֹּא",
+      "sl": "dpBo",
+      "hdheb": "ז׳ שְׁבָט",
+      "hd": "Shevat-7",
+      "month": "Shevat"
+    },
+    "2027-01-16": {
+      "pe": "Bo",
+      "ph": "בֹּא",
+      "sl": "dpBo",
+      "hdheb": "ח׳ שְׁבָט",
+      "hd": "Shevat-8",
+      "month": "Shevat"
+    },
+    "2027-01-17": {
+      "pe": "Beshalach",
+      "ph": "בְּשַׁלַּח",
+      "sl": "dpBeshalach",
+      "hdheb": "ט׳ שְׁבָט",
+      "hd": "Shevat-9",
+      "month": "Shevat"
+    },
+    "2027-01-18": {
+      "pe": "Beshalach",
+      "ph": "בְּשַׁלַּח",
+      "sl": "dpBeshalach",
+      "hdheb": "י׳ שְׁבָט",
+      "hd": "Shevat-10",
+      "month": "Shevat"
+    },
+    "2027-01-19": {
+      "pe": "Beshalach",
+      "ph": "בְּשַׁלַּח",
+      "sl": "dpBeshalach",
+      "hdheb": "י״א שְׁבָט",
+      "hd": "Shevat-11",
+      "month": "Shevat"
+    },
+    "2027-01-20": {
+      "pe": "Beshalach",
+      "ph": "בְּשַׁלַּח",
+      "sl": "dpBeshalach",
+      "hdheb": "י״ב שְׁבָט",
+      "hd": "Shevat-12",
+      "month": "Shevat"
+    },
+    "2027-01-21": {
+      "pe": "Beshalach",
+      "ph": "בְּשַׁלַּח",
+      "sl": "dpBeshalach",
+      "hdheb": "י״ג שְׁבָט",
+      "hd": "Shevat-13",
+      "month": "Shevat"
+    },
+    "2027-01-22": {
+      "pe": "Beshalach",
+      "ph": "בְּשַׁלַּח",
+      "sl": "dpBeshalach",
+      "hdheb": "י״ד שְׁבָט",
+      "hd": "Shevat-14",
+      "month": "Shevat"
+    },
+    "2027-01-23": {
+      "pe": "Beshalach",
+      "ph": "בְּשַׁלַּח",
+      "sl": "dpBeshalach",
+      "hdheb": "ט״ו שְׁבָט",
+      "hd": "Shevat-15",
+      "month": "Shevat"
+    },
+    "2027-01-24": {
+      "pe": "Yisro",
+      "ph": "יִתְרוֹ",
+      "sl": "dpYisro",
+      "hdheb": "ט״ז שְׁבָט",
+      "hd": "Shevat-16",
+      "month": "Shevat"
+    },
+    "2027-01-25": {
+      "pe": "Yisro",
+      "ph": "יִתְרוֹ",
+      "sl": "dpYisro",
+      "hdheb": "י״ז שְׁבָט",
+      "hd": "Shevat-17",
+      "month": "Shevat"
+    },
+    "2027-01-26": {
+      "pe": "Yisro",
+      "ph": "יִתְרוֹ",
+      "sl": "dpYisro",
+      "hdheb": "י״ח שְׁבָט",
+      "hd": "Shevat-18",
+      "month": "Shevat"
+    },
+    "2027-01-27": {
+      "pe": "Yisro",
+      "ph": "יִתְרוֹ",
+      "sl": "dpYisro",
+      "hdheb": "י״ט שְׁבָט",
+      "hd": "Shevat-19",
+      "month": "Shevat"
+    },
+    "2027-01-28": {
+      "pe": "Yisro",
+      "ph": "יִתְרוֹ",
+      "sl": "dpYisro",
+      "hdheb": "כ׳ שְׁבָט",
+      "hd": "Shevat-20",
+      "month": "Shevat"
+    },
+    "2027-01-29": {
+      "pe": "Yisro",
+      "ph": "יִתְרוֹ",
+      "sl": "dpYisro",
+      "hdheb": "כ״א שְׁבָט",
+      "hd": "Shevat-21",
+      "month": "Shevat"
+    },
+    "2027-01-30": {
+      "pe": "Yisro",
+      "ph": "יִתְרוֹ",
+      "sl": "dpYisro",
+      "hdheb": "כ״ב שְׁבָט",
+      "hd": "Shevat-22",
+      "month": "Shevat"
+    },
+    "2027-01-31": {
+      "pe": "Mishpatim",
+      "ph": "מִשְׁפָּטִים",
+      "sl": "dpMishpatim",
+      "hdheb": "כ״ג שְׁבָט",
+      "hd": "Shevat-23",
+      "month": "Shevat"
+    },
+    "2027-02-01": {
+      "pe": "Mishpatim",
+      "ph": "מִשְׁפָּטִים",
+      "sl": "dpMishpatim",
+      "hdheb": "כ״ד שְׁבָט",
+      "hd": "Shevat-24",
+      "month": "Shevat"
+    },
+    "2027-02-02": {
+      "pe": "Mishpatim",
+      "ph": "מִשְׁפָּטִים",
+      "sl": "dpMishpatim",
+      "hdheb": "כ״ה שְׁבָט",
+      "hd": "Shevat-25",
+      "month": "Shevat"
+    },
+    "2027-02-03": {
+      "pe": "Mishpatim",
+      "ph": "מִשְׁפָּטִים",
+      "sl": "dpMishpatim",
+      "hdheb": "כ״ו שְׁבָט",
+      "hd": "Shevat-26",
+      "month": "Shevat"
+    },
+    "2027-02-04": {
+      "pe": "Mishpatim",
+      "ph": "מִשְׁפָּטִים",
+      "sl": "dpMishpatim",
+      "hdheb": "כ״ז שְׁבָט",
+      "hd": "Shevat-27",
+      "month": "Shevat"
+    },
+    "2027-02-05": {
+      "pe": "Mishpatim",
+      "ph": "מִשְׁפָּטִים",
+      "sl": "dpMishpatim",
+      "hdheb": "כ״ח שְׁבָט",
+      "hd": "Shevat-28",
+      "month": "Shevat"
+    },
+    "2027-02-06": {
+      "pe": "Mishpatim",
+      "ph": "מִשְׁפָּטִים",
+      "sl": "dpMishpatim",
+      "hdheb": "כ״ט שְׁבָט",
+      "hd": "Shevat-29",
+      "month": "Shevat"
+    },
+    "2027-02-07": {
+      "pe": "Terumah",
+      "ph": "תְּרוּמָה",
+      "sl": "dpTerumah",
+      "hdheb": "ל׳ שְׁבָט",
+      "hd": "Shevat-30",
+      "month": "Shevat"
+    },
+    "2027-02-08": {
+      "pe": "Terumah",
+      "ph": "תְּרוּמָה",
+      "sl": "dpTerumah",
+      "hdheb": "א׳ אֲדָר א׳",
+      "hd": "Adar I-1",
+      "month": "Adar I"
+    },
+    "2027-02-09": {
+      "pe": "Terumah",
+      "ph": "תְּרוּמָה",
+      "sl": "dpTerumah",
+      "hdheb": "ב׳ אֲדָר א׳",
+      "hd": "Adar I-2",
+      "month": "Adar I"
+    },
+    "2027-02-10": {
+      "pe": "Terumah",
+      "ph": "תְּרוּמָה",
+      "sl": "dpTerumah",
+      "hdheb": "ג׳ אֲדָר א׳",
+      "hd": "Adar I-3",
+      "month": "Adar I"
+    },
+    "2027-02-11": {
+      "pe": "Terumah",
+      "ph": "תְּרוּמָה",
+      "sl": "dpTerumah",
+      "hdheb": "ד׳ אֲדָר א׳",
+      "hd": "Adar I-4",
+      "month": "Adar I"
+    },
+    "2027-02-12": {
+      "pe": "Terumah",
+      "ph": "תְּרוּמָה",
+      "sl": "dpTerumah",
+      "hdheb": "ה׳ אֲדָר א׳",
+      "hd": "Adar I-5",
+      "month": "Adar I"
+    },
+    "2027-02-13": {
+      "pe": "Terumah",
+      "ph": "תְּרוּמָה",
+      "sl": "dpTerumah",
+      "hdheb": "ו׳ אֲדָר א׳",
+      "hd": "Adar I-6",
+      "month": "Adar I"
+    },
+    "2027-02-14": {
+      "pe": "Tetzaveh",
+      "ph": "תְּצַוֶּה",
+      "sl": "dpTetzaveh",
+      "hdheb": "ז׳ אֲדָר א׳",
+      "hd": "Adar I-7",
+      "month": "Adar I"
+    },
+    "2027-02-15": {
+      "pe": "Tetzaveh",
+      "ph": "תְּצַוֶּה",
+      "sl": "dpTetzaveh",
+      "hdheb": "ח׳ אֲדָר א׳",
+      "hd": "Adar I-8",
+      "month": "Adar I"
+    },
+    "2027-02-16": {
+      "pe": "Tetzaveh",
+      "ph": "תְּצַוֶּה",
+      "sl": "dpTetzaveh",
+      "hdheb": "ט׳ אֲדָר א׳",
+      "hd": "Adar I-9",
+      "month": "Adar I"
+    },
+    "2027-02-17": {
+      "pe": "Tetzaveh",
+      "ph": "תְּצַוֶּה",
+      "sl": "dpTetzaveh",
+      "hdheb": "י׳ אֲדָר א׳",
+      "hd": "Adar I-10",
+      "month": "Adar I"
+    },
+    "2027-02-18": {
+      "pe": "Tetzaveh",
+      "ph": "תְּצַוֶּה",
+      "sl": "dpTetzaveh",
+      "hdheb": "י״א אֲדָר א׳",
+      "hd": "Adar I-11",
+      "month": "Adar I"
+    },
+    "2027-02-19": {
+      "pe": "Tetzaveh",
+      "ph": "תְּצַוֶּה",
+      "sl": "dpTetzaveh",
+      "hdheb": "י״ב אֲדָר א׳",
+      "hd": "Adar I-12",
+      "month": "Adar I"
+    },
+    "2027-02-20": {
+      "pe": "Tetzaveh",
+      "ph": "תְּצַוֶּה",
+      "sl": "dpTetzaveh",
+      "hdheb": "י״ג אֲדָר א׳",
+      "hd": "Adar I-13",
+      "month": "Adar I"
+    },
+    "2027-02-21": {
+      "pe": "Ki Sisa",
+      "ph": "כִּי תִשָּׂא",
+      "sl": "dpKiSisa",
+      "hdheb": "י״ד אֲדָר א׳",
+      "hd": "Adar I-14",
+      "month": "Adar I"
+    },
+    "2027-02-22": {
+      "pe": "Ki Sisa",
+      "ph": "כִּי תִשָּׂא",
+      "sl": "dpKiSisa",
+      "hdheb": "ט״ו אֲדָר א׳",
+      "hd": "Adar I-15",
+      "month": "Adar I"
+    },
+    "2027-02-23": {
+      "pe": "Ki Sisa",
+      "ph": "כִּי תִשָּׂא",
+      "sl": "dpKiSisa",
+      "hdheb": "ט״ז אֲדָר א׳",
+      "hd": "Adar I-16",
+      "month": "Adar I"
+    },
+    "2027-02-24": {
+      "pe": "Ki Sisa",
+      "ph": "כִּי תִשָּׂא",
+      "sl": "dpKiSisa",
+      "hdheb": "י״ז אֲדָר א׳",
+      "hd": "Adar I-17",
+      "month": "Adar I"
+    },
+    "2027-02-25": {
+      "pe": "Ki Sisa",
+      "ph": "כִּי תִשָּׂא",
+      "sl": "dpKiSisa",
+      "hdheb": "י״ח אֲדָר א׳",
+      "hd": "Adar I-18",
+      "month": "Adar I"
+    },
+    "2027-02-26": {
+      "pe": "Ki Sisa",
+      "ph": "כִּי תִשָּׂא",
+      "sl": "dpKiSisa",
+      "hdheb": "י״ט אֲדָר א׳",
+      "hd": "Adar I-19",
+      "month": "Adar I"
+    },
+    "2027-02-27": {
+      "pe": "Ki Sisa",
+      "ph": "כִּי תִשָּׂא",
+      "sl": "dpKiSisa",
+      "hdheb": "כ׳ אֲדָר א׳",
+      "hd": "Adar I-20",
+      "month": "Adar I"
+    },
+    "2027-02-28": {
+      "pe": "Vayakhel",
+      "ph": "וַיַּקְהֵל",
+      "sl": "dpVayakhel",
+      "hdheb": "כ״א אֲדָר א׳",
+      "hd": "Adar I-21",
+      "month": "Adar I"
+    },
+    "2027-03-01": {
+      "pe": "Vayakhel",
+      "ph": "וַיַּקְהֵל",
+      "sl": "dpVayakhel",
+      "hdheb": "כ״ב אֲדָר א׳",
+      "hd": "Adar I-22",
+      "month": "Adar I"
+    },
+    "2027-03-02": {
+      "pe": "Vayakhel",
+      "ph": "וַיַּקְהֵל",
+      "sl": "dpVayakhel",
+      "hdheb": "כ״ג אֲדָר א׳",
+      "hd": "Adar I-23",
+      "month": "Adar I"
+    },
+    "2027-03-03": {
+      "pe": "Vayakhel",
+      "ph": "וַיַּקְהֵל",
+      "sl": "dpVayakhel",
+      "hdheb": "כ״ד אֲדָר א׳",
+      "hd": "Adar I-24",
+      "month": "Adar I"
+    },
+    "2027-03-04": {
+      "pe": "Vayakhel",
+      "ph": "וַיַּקְהֵל",
+      "sl": "dpVayakhel",
+      "hdheb": "כ״ה אֲדָר א׳",
+      "hd": "Adar I-25",
+      "month": "Adar I"
+    },
+    "2027-03-05": {
+      "pe": "Vayakhel",
+      "ph": "וַיַּקְהֵל",
+      "sl": "dpVayakhel",
+      "hdheb": "כ״ו אֲדָר א׳",
+      "hd": "Adar I-26",
+      "month": "Adar I"
+    },
+    "2027-03-06": {
+      "pe": "Vayakhel",
+      "ph": "וַיַּקְהֵל",
+      "sl": "dpVayakhel",
+      "hdheb": "כ״ז אֲדָר א׳",
+      "hd": "Adar I-27",
+      "month": "Adar I"
+    },
+    "2027-03-07": {
+      "pe": "Pekudei",
+      "ph": "פְקוּדֵי",
+      "sl": "dpPekudei",
+      "hdheb": "כ״ח אֲדָר א׳",
+      "hd": "Adar I-28",
+      "month": "Adar I"
+    },
+    "2027-03-08": {
+      "pe": "Pekudei",
+      "ph": "פְקוּדֵי",
+      "sl": "dpPekudei",
+      "hdheb": "כ״ט אֲדָר א׳",
+      "hd": "Adar I-29",
+      "month": "Adar I"
+    },
+    "2027-03-09": {
+      "pe": "Pekudei",
+      "ph": "פְקוּדֵי",
+      "sl": "dpPekudei",
+      "hdheb": "ל׳ אֲדָר א׳",
+      "hd": "Adar I-30",
+      "month": "Adar I"
+    },
+    "2027-03-10": {
+      "pe": "Pekudei",
+      "ph": "פְקוּדֵי",
+      "sl": "dpPekudei",
+      "hdheb": "א׳ אֲדָר ב׳",
+      "hd": "Adar II-1",
+      "month": "Adar II"
+    },
+    "2027-03-11": {
+      "pe": "Pekudei",
+      "ph": "פְקוּדֵי",
+      "sl": "dpPekudei",
+      "hdheb": "ב׳ אֲדָר ב׳",
+      "hd": "Adar II-2",
+      "month": "Adar II"
+    },
+    "2027-03-12": {
+      "pe": "Pekudei",
+      "ph": "פְקוּדֵי",
+      "sl": "dpPekudei",
+      "hdheb": "ג׳ אֲדָר ב׳",
+      "hd": "Adar II-3",
+      "month": "Adar II"
+    },
+    "2027-03-13": {
+      "pe": "Pekudei",
+      "ph": "פְקוּדֵי",
+      "sl": "dpPekudei",
+      "hdheb": "ד׳ אֲדָר ב׳",
+      "hd": "Adar II-4",
+      "month": "Adar II"
+    },
+    "2027-03-14": {
+      "pe": "Vayikra",
+      "ph": "וַיִּקְרָא",
+      "sl": "dpVayikra",
+      "hdheb": "ה׳ אֲדָר ב׳",
+      "hd": "Adar II-5",
+      "month": "Adar II"
+    },
+    "2027-03-15": {
+      "pe": "Vayikra",
+      "ph": "וַיִּקְרָא",
+      "sl": "dpVayikra",
+      "hdheb": "ו׳ אֲדָר ב׳",
+      "hd": "Adar II-6",
+      "month": "Adar II"
+    },
+    "2027-03-16": {
+      "pe": "Vayikra",
+      "ph": "וַיִּקְרָא",
+      "sl": "dpVayikra",
+      "hdheb": "ז׳ אֲדָר ב׳",
+      "hd": "Adar II-7",
+      "month": "Adar II"
+    },
+    "2027-03-17": {
+      "pe": "Vayikra",
+      "ph": "וַיִּקְרָא",
+      "sl": "dpVayikra",
+      "hdheb": "ח׳ אֲדָר ב׳",
+      "hd": "Adar II-8",
+      "month": "Adar II"
+    },
+    "2027-03-18": {
+      "pe": "Vayikra",
+      "ph": "וַיִּקְרָא",
+      "sl": "dpVayikra",
+      "hdheb": "ט׳ אֲדָר ב׳",
+      "hd": "Adar II-9",
+      "month": "Adar II"
+    },
+    "2027-03-19": {
+      "pe": "Vayikra",
+      "ph": "וַיִּקְרָא",
+      "sl": "dpVayikra",
+      "hdheb": "י׳ אֲדָר ב׳",
+      "hd": "Adar II-10",
+      "month": "Adar II"
+    },
+    "2027-03-20": {
+      "pe": "Vayikra",
+      "ph": "וַיִּקְרָא",
+      "sl": "dpVayikra",
+      "hdheb": "י״א אֲדָר ב׳",
+      "hd": "Adar II-11",
+      "month": "Adar II"
+    },
+    "2027-03-21": {
+      "pe": "Tzav",
+      "ph": "צַו",
+      "sl": "dpTzav",
+      "hdheb": "י״ב אֲדָר ב׳",
+      "hd": "Adar II-12",
+      "month": "Adar II"
+    },
+    "2027-03-22": {
+      "pe": "Tzav",
+      "ph": "צַו",
+      "sl": "dpTzav",
+      "hdheb": "י״ג אֲדָר ב׳",
+      "hd": "Adar II-13",
+      "month": "Adar II"
+    },
+    "2027-03-23": {
+      "pe": "Tzav",
+      "ph": "צַו",
+      "sl": "dpTzav",
+      "hdheb": "י״ד אֲדָר ב׳",
+      "hd": "Adar II-14",
+      "month": "Adar II"
+    },
+    "2027-03-24": {
+      "pe": "Tzav",
+      "ph": "צַו",
+      "sl": "dpTzav",
+      "hdheb": "ט״ו אֲדָר ב׳",
+      "hd": "Adar II-15",
+      "month": "Adar II"
+    },
+    "2027-03-25": {
+      "pe": "Tzav",
+      "ph": "צַו",
+      "sl": "dpTzav",
+      "hdheb": "ט״ז אֲדָר ב׳",
+      "hd": "Adar II-16",
+      "month": "Adar II"
+    },
+    "2027-03-26": {
+      "pe": "Tzav",
+      "ph": "צַו",
+      "sl": "dpTzav",
+      "hdheb": "י״ז אֲדָר ב׳",
+      "hd": "Adar II-17",
+      "month": "Adar II"
+    },
+    "2027-03-27": {
+      "pe": "Tzav",
+      "ph": "צַו",
+      "sl": "dpTzav",
+      "hdheb": "י״ח אֲדָר ב׳",
+      "hd": "Adar II-18",
+      "month": "Adar II"
+    },
+    "2027-03-28": {
+      "pe": "Shemini",
+      "ph": "שְׁמִינִי",
+      "sl": "dpShemini",
+      "hdheb": "י״ט אֲדָר ב׳",
+      "hd": "Adar II-19",
+      "month": "Adar II"
+    },
+    "2027-03-29": {
+      "pe": "Shemini",
+      "ph": "שְׁמִינִי",
+      "sl": "dpShemini",
+      "hdheb": "כ׳ אֲדָר ב׳",
+      "hd": "Adar II-20",
+      "month": "Adar II"
+    },
+    "2027-03-30": {
+      "pe": "Shemini",
+      "ph": "שְׁמִינִי",
+      "sl": "dpShemini",
+      "hdheb": "כ״א אֲדָר ב׳",
+      "hd": "Adar II-21",
+      "month": "Adar II"
+    },
+    "2027-03-31": {
+      "pe": "Shemini",
+      "ph": "שְׁמִינִי",
+      "sl": "dpShemini",
+      "hdheb": "כ״ב אֲדָר ב׳",
+      "hd": "Adar II-22",
+      "month": "Adar II"
+    },
+    "2027-04-01": {
+      "pe": "Shemini",
+      "ph": "שְׁמִינִי",
+      "sl": "dpShemini",
+      "hdheb": "כ״ג אֲדָר ב׳",
+      "hd": "Adar II-23",
+      "month": "Adar II"
+    },
+    "2027-04-02": {
+      "pe": "Shemini",
+      "ph": "שְׁמִינִי",
+      "sl": "dpShemini",
+      "hdheb": "כ״ד אֲדָר ב׳",
+      "hd": "Adar II-24",
+      "month": "Adar II"
+    },
+    "2027-04-03": {
+      "pe": "Shemini",
+      "ph": "שְׁמִינִי",
+      "sl": "dpShemini",
+      "hdheb": "כ״ה אֲדָר ב׳",
+      "hd": "Adar II-25",
+      "month": "Adar II"
+    },
+    "2027-04-04": {
+      "pe": "Tazria",
+      "ph": "תַזְרִיעַ",
+      "sl": "dpTazria",
+      "hdheb": "כ״ו אֲדָר ב׳",
+      "hd": "Adar II-26",
+      "month": "Adar II"
+    },
+    "2027-04-05": {
+      "pe": "Tazria",
+      "ph": "תַזְרִיעַ",
+      "sl": "dpTazria",
+      "hdheb": "כ״ז אֲדָר ב׳",
+      "hd": "Adar II-27",
+      "month": "Adar II"
+    },
+    "2027-04-06": {
+      "pe": "Tazria",
+      "ph": "תַזְרִיעַ",
+      "sl": "dpTazria",
+      "hdheb": "כ״ח אֲדָר ב׳",
+      "hd": "Adar II-28",
+      "month": "Adar II"
+    },
+    "2027-04-07": {
+      "pe": "Tazria",
+      "ph": "תַזְרִיעַ",
+      "sl": "dpTazria",
+      "hdheb": "כ״ט אֲדָר ב׳",
+      "hd": "Adar II-29",
+      "month": "Adar II"
+    },
+    "2027-04-08": {
+      "pe": "Tazria",
+      "ph": "תַזְרִיעַ",
+      "sl": "dpTazria",
+      "hdheb": "א׳ נִיסָן",
+      "hd": "Nissan-1",
+      "month": "Nissan"
+    },
+    "2027-04-09": {
+      "pe": "Tazria",
+      "ph": "תַזְרִיעַ",
+      "sl": "dpTazria",
+      "hdheb": "ב׳ נִיסָן",
+      "hd": "Nissan-2",
+      "month": "Nissan"
+    },
+    "2027-04-10": {
+      "pe": "Tazria",
+      "ph": "תַזְרִיעַ",
+      "sl": "dpTazria",
+      "hdheb": "ג׳ נִיסָן",
+      "hd": "Nissan-3",
+      "month": "Nissan"
+    },
+    "2027-04-11": {
+      "pe": "Metzora",
+      "ph": "מְצֹרָע",
+      "sl": "dpMetzora",
+      "hdheb": "ד׳ נִיסָן",
+      "hd": "Nissan-4",
+      "month": "Nissan"
+    },
+    "2027-04-12": {
+      "pe": "Metzora",
+      "ph": "מְצֹרָע",
+      "sl": "dpMetzora",
+      "hdheb": "ה׳ נִיסָן",
+      "hd": "Nissan-5",
+      "month": "Nissan"
+    },
+    "2027-04-13": {
+      "pe": "Metzora",
+      "ph": "מְצֹרָע",
+      "sl": "dpMetzora",
+      "hdheb": "ו׳ נִיסָן",
+      "hd": "Nissan-6",
+      "month": "Nissan"
+    },
+    "2027-04-14": {
+      "pe": "Metzora",
+      "ph": "מְצֹרָע",
+      "sl": "dpMetzora",
+      "hdheb": "ז׳ נִיסָן",
+      "hd": "Nissan-7",
+      "month": "Nissan"
+    },
+    "2027-04-15": {
+      "pe": "Metzora",
+      "ph": "מְצֹרָע",
+      "sl": "dpMetzora",
+      "hdheb": "ח׳ נִיסָן",
+      "hd": "Nissan-8",
+      "month": "Nissan"
+    },
+    "2027-04-16": {
+      "pe": "Metzora",
+      "ph": "מְצֹרָע",
+      "sl": "dpMetzora",
+      "hdheb": "ט׳ נִיסָן",
+      "hd": "Nissan-9",
+      "month": "Nissan"
+    },
+    "2027-04-17": {
+      "pe": "Metzora",
+      "ph": "מְצֹרָע",
+      "sl": "dpMetzora",
+      "hdheb": "י׳ נִיסָן",
+      "hd": "Nissan-10",
+      "month": "Nissan"
+    },
+    "2027-04-18": {
+      "pe": "",
+      "ph": "",
+      "sl": "",
+      "hdheb": "י״א נִיסָן",
+      "hd": "Nissan-11",
+      "month": "Nissan"
+    },
+    "2027-04-19": {
+      "pe": "",
+      "ph": "",
+      "sl": "",
+      "hdheb": "י״ב נִיסָן",
+      "hd": "Nissan-12",
+      "month": "Nissan"
+    },
+    "2027-04-20": {
+      "pe": "",
+      "ph": "",
+      "sl": "",
+      "hdheb": "י״ג נִיסָן",
+      "hd": "Nissan-13",
+      "month": "Nissan"
+    },
+    "2027-04-21": {
+      "pe": "",
+      "ph": "",
+      "sl": "",
+      "hdheb": "י״ד נִיסָן",
+      "hd": "Nissan-14",
+      "month": "Nissan"
+    },
+    "2027-04-22": {
+      "pe": "",
+      "ph": "",
+      "sl": "",
+      "hdheb": "ט״ו נִיסָן",
+      "hd": "Nissan-15",
+      "month": "Nissan"
+    },
+    "2027-04-23": {
+      "pe": "",
+      "ph": "",
+      "sl": "",
+      "hdheb": "ט״ז נִיסָן",
+      "hd": "Nissan-16",
+      "month": "Nissan"
+    },
+    "2027-04-24": {
+      "pe": "",
+      "ph": "",
+      "sl": "",
+      "hdheb": "י״ז נִיסָן",
+      "hd": "Nissan-17",
+      "month": "Nissan"
+    },
+    "2027-04-25": {
+      "pe": "Acharei Mos",
+      "ph": "אַחֲרֵי מוֹת",
+      "sl": "dpAchareiMos",
+      "hdheb": "י״ח נִיסָן",
+      "hd": "Nissan-18",
+      "month": "Nissan"
+    },
+    "2027-04-26": {
+      "pe": "Acharei Mos",
+      "ph": "אַחֲרֵי מוֹת",
+      "sl": "dpAchareiMos",
+      "hdheb": "י״ט נִיסָן",
+      "hd": "Nissan-19",
+      "month": "Nissan"
+    },
+    "2027-04-27": {
+      "pe": "Acharei Mos",
+      "ph": "אַחֲרֵי מוֹת",
+      "sl": "dpAchareiMos",
+      "hdheb": "כ׳ נִיסָן",
+      "hd": "Nissan-20",
+      "month": "Nissan"
+    },
+    "2027-04-28": {
+      "pe": "Acharei Mos",
+      "ph": "אַחֲרֵי מוֹת",
+      "sl": "dpAchareiMos",
+      "hdheb": "כ״א נִיסָן",
+      "hd": "Nissan-21",
+      "month": "Nissan"
+    },
+    "2027-04-29": {
+      "pe": "Acharei Mos",
+      "ph": "אַחֲרֵי מוֹת",
+      "sl": "dpAchareiMos",
+      "hdheb": "כ״ב נִיסָן",
+      "hd": "Nissan-22",
+      "month": "Nissan"
+    },
+    "2027-04-30": {
+      "pe": "Acharei Mos",
+      "ph": "אַחֲרֵי מוֹת",
+      "sl": "dpAchareiMos",
+      "hdheb": "כ״ג נִיסָן",
+      "hd": "Nissan-23",
+      "month": "Nissan"
+    },
+    "2027-05-01": {
+      "pe": "Acharei Mos",
+      "ph": "אַחֲרֵי מוֹת",
+      "sl": "dpAchareiMos",
+      "hdheb": "כ״ד נִיסָן",
+      "hd": "Nissan-24",
+      "month": "Nissan"
+    },
+    "2027-05-02": {
+      "pe": "Kedoshim",
+      "ph": "קְדוֹשִׁים",
+      "sl": "dpKedoshim",
+      "hdheb": "כ״ה נִיסָן",
+      "hd": "Nissan-25",
+      "month": "Nissan"
+    },
+    "2027-05-03": {
+      "pe": "Kedoshim",
+      "ph": "קְדוֹשִׁים",
+      "sl": "dpKedoshim",
+      "hdheb": "כ״ו נִיסָן",
+      "hd": "Nissan-26",
+      "month": "Nissan"
+    },
+    "2027-05-04": {
+      "pe": "Kedoshim",
+      "ph": "קְדוֹשִׁים",
+      "sl": "dpKedoshim",
+      "hdheb": "כ״ז נִיסָן",
+      "hd": "Nissan-27",
+      "month": "Nissan"
+    },
+    "2027-05-05": {
+      "pe": "Kedoshim",
+      "ph": "קְדוֹשִׁים",
+      "sl": "dpKedoshim",
+      "hdheb": "כ״ח נִיסָן",
+      "hd": "Nissan-28",
+      "month": "Nissan"
+    },
+    "2027-05-06": {
+      "pe": "Kedoshim",
+      "ph": "קְדוֹשִׁים",
+      "sl": "dpKedoshim",
+      "hdheb": "כ״ט נִיסָן",
+      "hd": "Nissan-29",
+      "month": "Nissan"
+    },
+    "2027-05-07": {
+      "pe": "Kedoshim",
+      "ph": "קְדוֹשִׁים",
+      "sl": "dpKedoshim",
+      "hdheb": "ל׳ נִיסָן",
+      "hd": "Nissan-30",
+      "month": "Nissan"
+    },
+    "2027-05-08": {
+      "pe": "Kedoshim",
+      "ph": "קְדוֹשִׁים",
+      "sl": "dpKedoshim",
+      "hdheb": "א׳ אִיָּיר",
+      "hd": "Iyar-1",
+      "month": "Iyar"
+    },
+    "2027-05-09": {
+      "pe": "Emor",
+      "ph": "אֱמוֹר",
+      "sl": "dpEmor",
+      "hdheb": "ב׳ אִיָּיר",
+      "hd": "Iyar-2",
+      "month": "Iyar"
+    },
+    "2027-05-10": {
+      "pe": "Emor",
+      "ph": "אֱמוֹר",
+      "sl": "dpEmor",
+      "hdheb": "ג׳ אִיָּיר",
+      "hd": "Iyar-3",
+      "month": "Iyar"
+    },
+    "2027-05-11": {
+      "pe": "Emor",
+      "ph": "אֱמוֹר",
+      "sl": "dpEmor",
+      "hdheb": "ד׳ אִיָּיר",
+      "hd": "Iyar-4",
+      "month": "Iyar"
+    },
+    "2027-05-12": {
+      "pe": "Emor",
+      "ph": "אֱמוֹר",
+      "sl": "dpEmor",
+      "hdheb": "ה׳ אִיָּיר",
+      "hd": "Iyar-5",
+      "month": "Iyar"
+    },
+    "2027-05-13": {
+      "pe": "Emor",
+      "ph": "אֱמוֹר",
+      "sl": "dpEmor",
+      "hdheb": "ו׳ אִיָּיר",
+      "hd": "Iyar-6",
+      "month": "Iyar"
+    },
+    "2027-05-14": {
+      "pe": "Emor",
+      "ph": "אֱמוֹר",
+      "sl": "dpEmor",
+      "hdheb": "ז׳ אִיָּיר",
+      "hd": "Iyar-7",
+      "month": "Iyar"
+    },
+    "2027-05-15": {
+      "pe": "Emor",
+      "ph": "אֱמוֹר",
+      "sl": "dpEmor",
+      "hdheb": "ח׳ אִיָּיר",
+      "hd": "Iyar-8",
+      "month": "Iyar"
+    },
+    "2027-05-16": {
+      "pe": "Behar",
+      "ph": "בְּהַר",
+      "sl": "dpBehar",
+      "hdheb": "ט׳ אִיָּיר",
+      "hd": "Iyar-9",
+      "month": "Iyar"
+    },
+    "2027-05-17": {
+      "pe": "Behar",
+      "ph": "בְּהַר",
+      "sl": "dpBehar",
+      "hdheb": "י׳ אִיָּיר",
+      "hd": "Iyar-10",
+      "month": "Iyar"
+    },
+    "2027-05-18": {
+      "pe": "Behar",
+      "ph": "בְּהַר",
+      "sl": "dpBehar",
+      "hdheb": "י״א אִיָּיר",
+      "hd": "Iyar-11",
+      "month": "Iyar"
+    },
+    "2027-05-19": {
+      "pe": "Behar",
+      "ph": "בְּהַר",
+      "sl": "dpBehar",
+      "hdheb": "י״ב אִיָּיר",
+      "hd": "Iyar-12",
+      "month": "Iyar"
+    },
+    "2027-05-20": {
+      "pe": "Behar",
+      "ph": "בְּהַר",
+      "sl": "dpBehar",
+      "hdheb": "י״ג אִיָּיר",
+      "hd": "Iyar-13",
+      "month": "Iyar"
+    },
+    "2027-05-21": {
+      "pe": "Behar",
+      "ph": "בְּהַר",
+      "sl": "dpBehar",
+      "hdheb": "י״ד אִיָּיר",
+      "hd": "Iyar-14",
+      "month": "Iyar"
+    },
+    "2027-05-22": {
+      "pe": "Behar",
+      "ph": "בְּהַר",
+      "sl": "dpBehar",
+      "hdheb": "ט״ו אִיָּיר",
+      "hd": "Iyar-15",
+      "month": "Iyar"
+    },
+    "2027-05-23": {
+      "pe": "Bechukosai",
+      "ph": "בְּחֻקֹּתַי",
+      "sl": "dpBechukosai",
+      "hdheb": "ט״ז אִיָּיר",
+      "hd": "Iyar-16",
+      "month": "Iyar"
+    },
+    "2027-05-24": {
+      "pe": "Bechukosai",
+      "ph": "בְּחֻקֹּתַי",
+      "sl": "dpBechukosai",
+      "hdheb": "י״ז אִיָּיר",
+      "hd": "Iyar-17",
+      "month": "Iyar"
+    },
+    "2027-05-25": {
+      "pe": "Bechukosai",
+      "ph": "בְּחֻקֹּתַי",
+      "sl": "dpBechukosai",
+      "hdheb": "י״ח אִיָּיר",
+      "hd": "Iyar-18",
+      "month": "Iyar"
+    },
+    "2027-05-26": {
+      "pe": "Bechukosai",
+      "ph": "בְּחֻקֹּתַי",
+      "sl": "dpBechukosai",
+      "hdheb": "י״ט אִיָּיר",
+      "hd": "Iyar-19",
+      "month": "Iyar"
+    },
+    "2027-05-27": {
+      "pe": "Bechukosai",
+      "ph": "בְּחֻקֹּתַי",
+      "sl": "dpBechukosai",
+      "hdheb": "כ׳ אִיָּיר",
+      "hd": "Iyar-20",
+      "month": "Iyar"
+    },
+    "2027-05-28": {
+      "pe": "Bechukosai",
+      "ph": "בְּחֻקֹּתַי",
+      "sl": "dpBechukosai",
+      "hdheb": "כ״א אִיָּיר",
+      "hd": "Iyar-21",
+      "month": "Iyar"
+    },
+    "2027-05-29": {
+      "pe": "Bechukosai",
+      "ph": "בְּחֻקֹּתַי",
+      "sl": "dpBechukosai",
+      "hdheb": "כ״ב אִיָּיר",
+      "hd": "Iyar-22",
+      "month": "Iyar"
+    },
+    "2027-05-30": {
+      "pe": "Bamidbar",
+      "ph": "בְּמִדְבַּר",
+      "sl": "dpBamidbar",
+      "hdheb": "כ״ג אִיָּיר",
+      "hd": "Iyar-23",
+      "month": "Iyar"
+    },
+    "2027-05-31": {
+      "pe": "Bamidbar",
+      "ph": "בְּמִדְבַּר",
+      "sl": "dpBamidbar",
+      "hdheb": "כ״ד אִיָּיר",
+      "hd": "Iyar-24",
+      "month": "Iyar"
+    },
+    "2027-06-01": {
+      "pe": "Bamidbar",
+      "ph": "בְּמִדְבַּר",
+      "sl": "dpBamidbar",
+      "hdheb": "כ״ה אִיָּיר",
+      "hd": "Iyar-25",
+      "month": "Iyar"
+    },
+    "2027-06-02": {
+      "pe": "Bamidbar",
+      "ph": "בְּמִדְבַּר",
+      "sl": "dpBamidbar",
+      "hdheb": "כ״ו אִיָּיר",
+      "hd": "Iyar-26",
+      "month": "Iyar"
+    },
+    "2027-06-03": {
+      "pe": "Bamidbar",
+      "ph": "בְּמִדְבַּר",
+      "sl": "dpBamidbar",
+      "hdheb": "כ״ז אִיָּיר",
+      "hd": "Iyar-27",
+      "month": "Iyar"
+    },
+    "2027-06-04": {
+      "pe": "Bamidbar",
+      "ph": "בְּמִדְבַּר",
+      "sl": "dpBamidbar",
+      "hdheb": "כ״ח אִיָּיר",
+      "hd": "Iyar-28",
+      "month": "Iyar"
+    },
+    "2027-06-05": {
+      "pe": "Bamidbar",
+      "ph": "בְּמִדְבַּר",
+      "sl": "dpBamidbar",
+      "hdheb": "כ״ט אִיָּיר",
+      "hd": "Iyar-29",
+      "month": "Iyar"
+    },
+    "2027-06-06": {
+      "pe": "",
+      "ph": "",
+      "sl": "",
+      "hdheb": "א׳ סִיוָן",
+      "hd": "Sivan-1",
+      "month": "Sivan"
+    },
+    "2027-06-07": {
+      "pe": "",
+      "ph": "",
+      "sl": "",
+      "hdheb": "ב׳ סִיוָן",
+      "hd": "Sivan-2",
+      "month": "Sivan"
+    },
+    "2027-06-08": {
+      "pe": "",
+      "ph": "",
+      "sl": "",
+      "hdheb": "ג׳ סִיוָן",
+      "hd": "Sivan-3",
+      "month": "Sivan"
+    },
+    "2027-06-09": {
+      "pe": "",
+      "ph": "",
+      "sl": "",
+      "hdheb": "ד׳ סִיוָן",
+      "hd": "Sivan-4",
+      "month": "Sivan"
+    },
+    "2027-06-10": {
+      "pe": "",
+      "ph": "",
+      "sl": "",
+      "hdheb": "ה׳ סִיוָן",
+      "hd": "Sivan-5",
+      "month": "Sivan"
+    },
+    "2027-06-11": {
+      "pe": "",
+      "ph": "",
+      "sl": "",
+      "hdheb": "ו׳ סִיוָן",
+      "hd": "Sivan-6",
+      "month": "Sivan"
+    },
+    "2027-06-12": {
+      "pe": "",
+      "ph": "",
+      "sl": "",
+      "hdheb": "ז׳ סִיוָן",
+      "hd": "Sivan-7",
+      "month": "Sivan"
+    },
+    "2027-06-13": {
+      "pe": "Nasso",
+      "ph": "נָשֹׂא",
+      "sl": "dpNasso",
+      "hdheb": "ח׳ סִיוָן",
+      "hd": "Sivan-8",
+      "month": "Sivan"
+    },
+    "2027-06-14": {
+      "pe": "Nasso",
+      "ph": "נָשֹׂא",
+      "sl": "dpNasso",
+      "hdheb": "ט׳ סִיוָן",
+      "hd": "Sivan-9",
+      "month": "Sivan"
+    },
+    "2027-06-15": {
+      "pe": "Nasso",
+      "ph": "נָשֹׂא",
+      "sl": "dpNasso",
+      "hdheb": "י׳ סִיוָן",
+      "hd": "Sivan-10",
+      "month": "Sivan"
+    },
+    "2027-06-16": {
+      "pe": "Nasso",
+      "ph": "נָשֹׂא",
+      "sl": "dpNasso",
+      "hdheb": "י״א סִיוָן",
+      "hd": "Sivan-11",
+      "month": "Sivan"
+    },
+    "2027-06-17": {
+      "pe": "Nasso",
+      "ph": "נָשֹׂא",
+      "sl": "dpNasso",
+      "hdheb": "י״ב סִיוָן",
+      "hd": "Sivan-12",
+      "month": "Sivan"
+    },
+    "2027-06-18": {
+      "pe": "Nasso",
+      "ph": "נָשֹׂא",
+      "sl": "dpNasso",
+      "hdheb": "י״ג סִיוָן",
+      "hd": "Sivan-13",
+      "month": "Sivan"
+    },
+    "2027-06-19": {
+      "pe": "Nasso",
+      "ph": "נָשֹׂא",
+      "sl": "dpNasso",
+      "hdheb": "י״ד סִיוָן",
+      "hd": "Sivan-14",
+      "month": "Sivan"
+    },
+    "2027-06-20": {
+      "pe": "Beha'aloscha",
+      "ph": "",
+      "sl": "dParsha",
+      "hdheb": "ט״ו סִיוָן",
+      "hd": "Sivan-15",
+      "month": "Sivan"
+    },
+    "2027-06-21": {
+      "pe": "Beha'aloscha",
+      "ph": "",
+      "sl": "dParsha",
+      "hdheb": "ט״ז סִיוָן",
+      "hd": "Sivan-16",
+      "month": "Sivan"
+    },
+    "2027-06-22": {
+      "pe": "Beha'aloscha",
+      "ph": "",
+      "sl": "dParsha",
+      "hdheb": "י״ז סִיוָן",
+      "hd": "Sivan-17",
+      "month": "Sivan"
+    },
+    "2027-06-23": {
+      "pe": "Beha'aloscha",
+      "ph": "",
+      "sl": "dParsha",
+      "hdheb": "י״ח סִיוָן",
+      "hd": "Sivan-18",
+      "month": "Sivan"
+    },
+    "2027-06-24": {
+      "pe": "Beha'aloscha",
+      "ph": "",
+      "sl": "dParsha",
+      "hdheb": "י״ט סִיוָן",
+      "hd": "Sivan-19",
+      "month": "Sivan"
+    },
+    "2027-06-25": {
+      "pe": "Beha'aloscha",
+      "ph": "",
+      "sl": "dParsha",
+      "hdheb": "כ׳ סִיוָן",
+      "hd": "Sivan-20",
+      "month": "Sivan"
+    },
+    "2027-06-26": {
+      "pe": "Beha'aloscha",
+      "ph": "",
+      "sl": "dParsha",
+      "hdheb": "כ״א סִיוָן",
+      "hd": "Sivan-21",
+      "month": "Sivan"
+    },
+    "2027-06-27": {
+      "pe": "Shelach",
+      "ph": "שְׁלַח",
+      "sl": "dpShelach",
+      "hdheb": "כ״ב סִיוָן",
+      "hd": "Sivan-22",
+      "month": "Sivan"
+    },
+    "2027-06-28": {
+      "pe": "Shelach",
+      "ph": "שְׁלַח",
+      "sl": "dpShelach",
+      "hdheb": "כ״ג סִיוָן",
+      "hd": "Sivan-23",
+      "month": "Sivan"
+    },
+    "2027-06-29": {
+      "pe": "Shelach",
+      "ph": "שְׁלַח",
+      "sl": "dpShelach",
+      "hdheb": "כ״ד סִיוָן",
+      "hd": "Sivan-24",
+      "month": "Sivan"
+    },
+    "2027-06-30": {
+      "pe": "Shelach",
+      "ph": "שְׁלַח",
+      "sl": "dpShelach",
+      "hdheb": "כ״ה סִיוָן",
+      "hd": "Sivan-25",
+      "month": "Sivan"
+    },
+    "2027-07-01": {
+      "pe": "Shelach",
+      "ph": "שְׁלַח",
+      "sl": "dpShelach",
+      "hdheb": "כ״ו סִיוָן",
+      "hd": "Sivan-26",
+      "month": "Sivan"
+    },
+    "2027-07-02": {
+      "pe": "Shelach",
+      "ph": "שְׁלַח",
+      "sl": "dpShelach",
+      "hdheb": "כ״ז סִיוָן",
+      "hd": "Sivan-27",
+      "month": "Sivan"
+    },
+    "2027-07-03": {
+      "pe": "Shelach",
+      "ph": "שְׁלַח",
+      "sl": "dpShelach",
+      "hdheb": "כ״ח סִיוָן",
+      "hd": "Sivan-28",
+      "month": "Sivan"
+    },
+    "2027-07-04": {
+      "pe": "Korach",
+      "ph": "קֹרַח",
+      "sl": "dpKorach",
+      "hdheb": "כ״ט סִיוָן",
+      "hd": "Sivan-29",
+      "month": "Sivan"
+    },
+    "2027-07-05": {
+      "pe": "Korach",
+      "ph": "קֹרַח",
+      "sl": "dpKorach",
+      "hdheb": "ל׳ סִיוָן",
+      "hd": "Sivan-30",
+      "month": "Sivan"
+    },
+    "2027-07-06": {
+      "pe": "Korach",
+      "ph": "קֹרַח",
+      "sl": "dpKorach",
+      "hdheb": "א׳ תַּמּוּז",
+      "hd": "Tammuz-1",
+      "month": "Tammuz"
+    },
+    "2027-07-07": {
+      "pe": "Korach",
+      "ph": "קֹרַח",
+      "sl": "dpKorach",
+      "hdheb": "ב׳ תַּמּוּז",
+      "hd": "Tammuz-2",
+      "month": "Tammuz"
+    },
+    "2027-07-08": {
+      "pe": "Korach",
+      "ph": "קֹרַח",
+      "sl": "dpKorach",
+      "hdheb": "ג׳ תַּמּוּז",
+      "hd": "Tammuz-3",
+      "month": "Tammuz"
+    },
+    "2027-07-09": {
+      "pe": "Korach",
+      "ph": "קֹרַח",
+      "sl": "dpKorach",
+      "hdheb": "ד׳ תַּמּוּז",
+      "hd": "Tammuz-4",
+      "month": "Tammuz"
+    },
+    "2027-07-10": {
+      "pe": "Korach",
+      "ph": "קֹרַח",
+      "sl": "dpKorach",
+      "hdheb": "ה׳ תַּמּוּז",
+      "hd": "Tammuz-5",
+      "month": "Tammuz"
+    },
+    "2027-07-11": {
+      "pe": "Chukas–Balak",
+      "ph": "חֻקַּת־בָּלָק",
+      "sl": "dpChukasBalak",
+      "hdheb": "ו׳ תַּמּוּז",
+      "hd": "Tammuz-6",
+      "month": "Tammuz"
+    },
+    "2027-07-12": {
+      "pe": "Chukas–Balak",
+      "ph": "חֻקַּת־בָּלָק",
+      "sl": "dpChukasBalak",
+      "hdheb": "ז׳ תַּמּוּז",
+      "hd": "Tammuz-7",
+      "month": "Tammuz"
+    },
+    "2027-07-13": {
+      "pe": "Chukas–Balak",
+      "ph": "חֻקַּת־בָּלָק",
+      "sl": "dpChukasBalak",
+      "hdheb": "ח׳ תַּמּוּז",
+      "hd": "Tammuz-8",
+      "month": "Tammuz"
+    },
+    "2027-07-14": {
+      "pe": "Chukas–Balak",
+      "ph": "חֻקַּת־בָּלָק",
+      "sl": "dpChukasBalak",
+      "hdheb": "ט׳ תַּמּוּז",
+      "hd": "Tammuz-9",
+      "month": "Tammuz"
+    },
+    "2027-07-15": {
+      "pe": "Chukas–Balak",
+      "ph": "חֻקַּת־בָּלָק",
+      "sl": "dpChukasBalak",
+      "hdheb": "י׳ תַּמּוּז",
+      "hd": "Tammuz-10",
+      "month": "Tammuz"
+    },
+    "2027-07-16": {
+      "pe": "Chukas–Balak",
+      "ph": "חֻקַּת־בָּלָק",
+      "sl": "dpChukasBalak",
+      "hdheb": "י״א תַּמּוּז",
+      "hd": "Tammuz-11",
+      "month": "Tammuz"
+    },
+    "2027-07-17": {
+      "pe": "Chukas–Balak",
+      "ph": "חֻקַּת־בָּלָק",
+      "sl": "dpChukasBalak",
+      "hdheb": "י״ב תַּמּוּז",
+      "hd": "Tammuz-12",
+      "month": "Tammuz"
+    },
+    "2027-07-18": {
+      "pe": "Pinchas",
+      "ph": "פִּינְחָס",
+      "sl": "dpPinchas",
+      "hdheb": "י״ג תַּמּוּז",
+      "hd": "Tammuz-13",
+      "month": "Tammuz"
+    },
+    "2027-07-19": {
+      "pe": "Pinchas",
+      "ph": "פִּינְחָס",
+      "sl": "dpPinchas",
+      "hdheb": "י״ד תַּמּוּז",
+      "hd": "Tammuz-14",
+      "month": "Tammuz"
+    },
+    "2027-07-20": {
+      "pe": "Pinchas",
+      "ph": "פִּינְחָס",
+      "sl": "dpPinchas",
+      "hdheb": "ט״ו תַּמּוּז",
+      "hd": "Tammuz-15",
+      "month": "Tammuz"
+    },
+    "2027-07-21": {
+      "pe": "Pinchas",
+      "ph": "פִּינְחָס",
+      "sl": "dpPinchas",
+      "hdheb": "ט״ז תַּמּוּז",
+      "hd": "Tammuz-16",
+      "month": "Tammuz"
+    },
+    "2027-07-22": {
+      "pe": "Pinchas",
+      "ph": "פִּינְחָס",
+      "sl": "dpPinchas",
+      "hdheb": "י״ז תַּמּוּז",
+      "hd": "Tammuz-17",
+      "month": "Tammuz"
+    },
+    "2027-07-23": {
+      "pe": "Pinchas",
+      "ph": "פִּינְחָס",
+      "sl": "dpPinchas",
+      "hdheb": "י״ח תַּמּוּז",
+      "hd": "Tammuz-18",
+      "month": "Tammuz"
+    },
+    "2027-07-24": {
+      "pe": "Pinchas",
+      "ph": "פִּינְחָס",
+      "sl": "dpPinchas",
+      "hdheb": "י״ט תַּמּוּז",
+      "hd": "Tammuz-19",
+      "month": "Tammuz"
+    },
+    "2027-07-25": {
+      "pe": "Mattos–Masei",
+      "ph": "",
+      "sl": "dpMatosMasei",
+      "hdheb": "כ׳ תַּמּוּז",
+      "hd": "Tammuz-20",
+      "month": "Tammuz"
+    },
+    "2027-07-26": {
+      "pe": "Mattos–Masei",
+      "ph": "",
+      "sl": "dpMatosMasei",
+      "hdheb": "כ״א תַּמּוּז",
+      "hd": "Tammuz-21",
+      "month": "Tammuz"
+    },
+    "2027-07-27": {
+      "pe": "Mattos–Masei",
+      "ph": "",
+      "sl": "dpMatosMasei",
+      "hdheb": "כ״ב תַּמּוּז",
+      "hd": "Tammuz-22",
+      "month": "Tammuz"
+    },
+    "2027-07-28": {
+      "pe": "Mattos–Masei",
+      "ph": "",
+      "sl": "dpMatosMasei",
+      "hdheb": "כ״ג תַּמּוּז",
+      "hd": "Tammuz-23",
+      "month": "Tammuz"
+    },
+    "2027-07-29": {
+      "pe": "Mattos–Masei",
+      "ph": "",
+      "sl": "dpMatosMasei",
+      "hdheb": "כ״ד תַּמּוּז",
+      "hd": "Tammuz-24",
+      "month": "Tammuz"
+    },
+    "2027-07-30": {
+      "pe": "Mattos–Masei",
+      "ph": "",
+      "sl": "dpMatosMasei",
+      "hdheb": "כ״ה תַּמּוּז",
+      "hd": "Tammuz-25",
+      "month": "Tammuz"
+    },
+    "2027-07-31": {
+      "pe": "Mattos–Masei",
+      "ph": "",
+      "sl": "dpMatosMasei",
+      "hdheb": "כ״ו תַּמּוּז",
+      "hd": "Tammuz-26",
+      "month": "Tammuz"
+    },
+    "2027-08-01": {
+      "pe": "Devarim",
+      "ph": "דְּבָרִים",
+      "sl": "dpDevarim",
+      "hdheb": "כ״ז תַּמּוּז",
+      "hd": "Tammuz-27",
+      "month": "Tammuz"
+    },
+    "2027-08-02": {
+      "pe": "Devarim",
+      "ph": "דְּבָרִים",
+      "sl": "dpDevarim",
+      "hdheb": "כ״ח תַּמּוּז",
+      "hd": "Tammuz-28",
+      "month": "Tammuz"
+    },
+    "2027-08-03": {
+      "pe": "Devarim",
+      "ph": "דְּבָרִים",
+      "sl": "dpDevarim",
+      "hdheb": "כ״ט תַּמּוּז",
+      "hd": "Tammuz-29",
+      "month": "Tammuz"
+    },
+    "2027-08-04": {
+      "pe": "Devarim",
+      "ph": "דְּבָרִים",
+      "sl": "dpDevarim",
+      "hdheb": "א׳ אָב",
+      "hd": "Av-1",
+      "month": "Av"
+    },
+    "2027-08-05": {
+      "pe": "Devarim",
+      "ph": "דְּבָרִים",
+      "sl": "dpDevarim",
+      "hdheb": "ב׳ אָב",
+      "hd": "Av-2",
+      "month": "Av"
+    },
+    "2027-08-06": {
+      "pe": "Devarim",
+      "ph": "דְּבָרִים",
+      "sl": "dpDevarim",
+      "hdheb": "ג׳ אָב",
+      "hd": "Av-3",
+      "month": "Av"
+    },
+    "2027-08-07": {
+      "pe": "Devarim",
+      "ph": "דְּבָרִים",
+      "sl": "dpDevarim",
+      "hdheb": "ד׳ אָב",
+      "hd": "Av-4",
+      "month": "Av"
+    },
+    "2027-08-08": {
+      "pe": "Va'eschanan",
+      "ph": "",
+      "sl": "dParsha",
+      "hdheb": "ה׳ אָב",
+      "hd": "Av-5",
+      "month": "Av"
+    },
+    "2027-08-09": {
+      "pe": "Va'eschanan",
+      "ph": "",
+      "sl": "dParsha",
+      "hdheb": "ו׳ אָב",
+      "hd": "Av-6",
+      "month": "Av"
+    },
+    "2027-08-10": {
+      "pe": "Va'eschanan",
+      "ph": "",
+      "sl": "dParsha",
+      "hdheb": "ז׳ אָב",
+      "hd": "Av-7",
+      "month": "Av"
+    },
+    "2027-08-11": {
+      "pe": "Va'eschanan",
+      "ph": "",
+      "sl": "dParsha",
+      "hdheb": "ח׳ אָב",
+      "hd": "Av-8",
+      "month": "Av"
+    },
+    "2027-08-12": {
+      "pe": "Va'eschanan",
+      "ph": "",
+      "sl": "dParsha",
+      "hdheb": "ט׳ אָב",
+      "hd": "Av-9",
+      "month": "Av"
+    },
+    "2027-08-13": {
+      "pe": "Va'eschanan",
+      "ph": "",
+      "sl": "dParsha",
+      "hdheb": "י׳ אָב",
+      "hd": "Av-10",
+      "month": "Av"
+    },
+    "2027-08-14": {
+      "pe": "Va'eschanan",
+      "ph": "",
+      "sl": "dParsha",
+      "hdheb": "י״א אָב",
+      "hd": "Av-11",
+      "month": "Av"
+    },
+    "2027-08-15": {
+      "pe": "Eikev",
+      "ph": "עֵקֶב",
+      "sl": "dpEikev",
+      "hdheb": "י״ב אָב",
+      "hd": "Av-12",
+      "month": "Av"
+    },
+    "2027-08-16": {
+      "pe": "Eikev",
+      "ph": "עֵקֶב",
+      "sl": "dpEikev",
+      "hdheb": "י״ג אָב",
+      "hd": "Av-13",
+      "month": "Av"
+    },
+    "2027-08-17": {
+      "pe": "Eikev",
+      "ph": "עֵקֶב",
+      "sl": "dpEikev",
+      "hdheb": "י״ד אָב",
+      "hd": "Av-14",
+      "month": "Av"
+    },
+    "2027-08-18": {
+      "pe": "Eikev",
+      "ph": "עֵקֶב",
+      "sl": "dpEikev",
+      "hdheb": "ט״ו אָב",
+      "hd": "Av-15",
+      "month": "Av"
+    },
+    "2027-08-19": {
+      "pe": "Eikev",
+      "ph": "עֵקֶב",
+      "sl": "dpEikev",
+      "hdheb": "ט״ז אָב",
+      "hd": "Av-16",
+      "month": "Av"
+    },
+    "2027-08-20": {
+      "pe": "Eikev",
+      "ph": "עֵקֶב",
+      "sl": "dpEikev",
+      "hdheb": "י״ז אָב",
+      "hd": "Av-17",
+      "month": "Av"
+    },
+    "2027-08-21": {
+      "pe": "Eikev",
+      "ph": "עֵקֶב",
+      "sl": "dpEikev",
+      "hdheb": "י״ח אָב",
+      "hd": "Av-18",
+      "month": "Av"
+    },
+    "2027-08-22": {
+      "pe": "Re'eh",
+      "ph": "",
+      "sl": "dParsha",
+      "hdheb": "י״ט אָב",
+      "hd": "Av-19",
+      "month": "Av"
+    },
+    "2027-08-23": {
+      "pe": "Re'eh",
+      "ph": "",
+      "sl": "dParsha",
+      "hdheb": "כ׳ אָב",
+      "hd": "Av-20",
+      "month": "Av"
+    },
+    "2027-08-24": {
+      "pe": "Re'eh",
+      "ph": "",
+      "sl": "dParsha",
+      "hdheb": "כ״א אָב",
+      "hd": "Av-21",
+      "month": "Av"
+    },
+    "2027-08-25": {
+      "pe": "Re'eh",
+      "ph": "",
+      "sl": "dParsha",
+      "hdheb": "כ״ב אָב",
+      "hd": "Av-22",
+      "month": "Av"
+    },
+    "2027-08-26": {
+      "pe": "Re'eh",
+      "ph": "",
+      "sl": "dParsha",
+      "hdheb": "כ״ג אָב",
+      "hd": "Av-23",
+      "month": "Av"
+    },
+    "2027-08-27": {
+      "pe": "Re'eh",
+      "ph": "",
+      "sl": "dParsha",
+      "hdheb": "כ״ד אָב",
+      "hd": "Av-24",
+      "month": "Av"
+    },
+    "2027-08-28": {
+      "pe": "Re'eh",
+      "ph": "",
+      "sl": "dParsha",
+      "hdheb": "כ״ה אָב",
+      "hd": "Av-25",
+      "month": "Av"
+    },
+    "2027-08-29": {
+      "pe": "Shoftim",
+      "ph": "שׁוֹפְטִים",
+      "sl": "dpShoftim",
+      "hdheb": "כ״ו אָב",
+      "hd": "Av-26",
+      "month": "Av"
+    },
+    "2027-08-30": {
+      "pe": "Shoftim",
+      "ph": "שׁוֹפְטִים",
+      "sl": "dpShoftim",
+      "hdheb": "כ״ז אָב",
+      "hd": "Av-27",
+      "month": "Av"
+    },
+    "2027-08-31": {
+      "pe": "Shoftim",
+      "ph": "שׁוֹפְטִים",
+      "sl": "dpShoftim",
+      "hdheb": "כ״ח אָב",
+      "hd": "Av-28",
+      "month": "Av"
+    },
+    "2027-09-01": {
+      "pe": "Shoftim",
+      "ph": "שׁוֹפְטִים",
+      "sl": "dpShoftim",
+      "hdheb": "כ״ט אָב",
+      "hd": "Av-29",
+      "month": "Av"
+    },
+    "2027-09-02": {
+      "pe": "Shoftim",
+      "ph": "שׁוֹפְטִים",
+      "sl": "dpShoftim",
+      "hdheb": "ל׳ אָב",
+      "hd": "Av-30",
+      "month": "Av"
+    },
+    "2027-09-03": {
+      "pe": "Shoftim",
+      "ph": "שׁוֹפְטִים",
+      "sl": "dpShoftim",
+      "hdheb": "א׳ אֱלוּל",
+      "hd": "Elul-1",
+      "month": "Elul"
+    },
+    "2027-09-04": {
+      "pe": "Shoftim",
+      "ph": "שׁוֹפְטִים",
+      "sl": "dpShoftim",
+      "hdheb": "ב׳ אֱלוּל",
+      "hd": "Elul-2",
+      "month": "Elul"
+    },
+    "2027-09-05": {
+      "pe": "Ki Seitzei",
+      "ph": "כִּי תֵצֵא",
+      "sl": "dpKiSeitzei",
+      "hdheb": "ג׳ אֱלוּל",
+      "hd": "Elul-3",
+      "month": "Elul"
+    },
+    "2027-09-06": {
+      "pe": "Ki Seitzei",
+      "ph": "כִּי תֵצֵא",
+      "sl": "dpKiSeitzei",
+      "hdheb": "ד׳ אֱלוּל",
+      "hd": "Elul-4",
+      "month": "Elul"
+    },
+    "2027-09-07": {
+      "pe": "Ki Seitzei",
+      "ph": "כִּי תֵצֵא",
+      "sl": "dpKiSeitzei",
+      "hdheb": "ה׳ אֱלוּל",
+      "hd": "Elul-5",
+      "month": "Elul"
+    },
+    "2027-09-08": {
+      "pe": "Ki Seitzei",
+      "ph": "כִּי תֵצֵא",
+      "sl": "dpKiSeitzei",
+      "hdheb": "ו׳ אֱלוּל",
+      "hd": "Elul-6",
+      "month": "Elul"
+    },
+    "2027-09-09": {
+      "pe": "Ki Seitzei",
+      "ph": "כִּי תֵצֵא",
+      "sl": "dpKiSeitzei",
+      "hdheb": "ז׳ אֱלוּל",
+      "hd": "Elul-7",
+      "month": "Elul"
+    },
+    "2027-09-10": {
+      "pe": "Ki Seitzei",
+      "ph": "כִּי תֵצֵא",
+      "sl": "dpKiSeitzei",
+      "hdheb": "ח׳ אֱלוּל",
+      "hd": "Elul-8",
+      "month": "Elul"
+    },
+    "2027-09-11": {
+      "pe": "Ki Seitzei",
+      "ph": "כִּי תֵצֵא",
+      "sl": "dpKiSeitzei",
+      "hdheb": "ט׳ אֱלוּל",
+      "hd": "Elul-9",
+      "month": "Elul"
+    },
+    "2027-09-12": {
+      "pe": "Ki Savo",
+      "ph": "כִּי תָבוֹא",
+      "sl": "dpKiSavo",
+      "hdheb": "י׳ אֱלוּל",
+      "hd": "Elul-10",
+      "month": "Elul"
+    },
+    "2027-09-13": {
+      "pe": "Ki Savo",
+      "ph": "כִּי תָבוֹא",
+      "sl": "dpKiSavo",
+      "hdheb": "י״א אֱלוּל",
+      "hd": "Elul-11",
+      "month": "Elul"
+    },
+    "2027-09-14": {
+      "pe": "Ki Savo",
+      "ph": "כִּי תָבוֹא",
+      "sl": "dpKiSavo",
+      "hdheb": "י״ב אֱלוּל",
+      "hd": "Elul-12",
+      "month": "Elul"
+    },
+    "2027-09-15": {
+      "pe": "Ki Savo",
+      "ph": "כִּי תָבוֹא",
+      "sl": "dpKiSavo",
+      "hdheb": "י״ג אֱלוּל",
+      "hd": "Elul-13",
+      "month": "Elul"
+    },
+    "2027-09-16": {
+      "pe": "Ki Savo",
+      "ph": "כִּי תָבוֹא",
+      "sl": "dpKiSavo",
+      "hdheb": "י״ד אֱלוּל",
+      "hd": "Elul-14",
+      "month": "Elul"
+    },
+    "2027-09-17": {
+      "pe": "Ki Savo",
+      "ph": "כִּי תָבוֹא",
+      "sl": "dpKiSavo",
+      "hdheb": "ט״ו אֱלוּל",
+      "hd": "Elul-15",
+      "month": "Elul"
+    },
+    "2027-09-18": {
+      "pe": "Ki Savo",
+      "ph": "כִּי תָבוֹא",
+      "sl": "dpKiSavo",
+      "hdheb": "ט״ז אֱלוּל",
+      "hd": "Elul-16",
+      "month": "Elul"
+    },
+    "2027-09-19": {
+      "pe": "Nitzavim–Vayeilech",
+      "ph": "נִצָּבִים־וַיֵּלֶךְ",
+      "sl": "dpNitzavimVayeilech",
+      "hdheb": "י״ז אֱלוּל",
+      "hd": "Elul-17",
+      "month": "Elul"
+    },
+    "2027-09-20": {
+      "pe": "Nitzavim–Vayeilech",
+      "ph": "נִצָּבִים־וַיֵּלֶךְ",
+      "sl": "dpNitzavimVayeilech",
+      "hdheb": "י״ח אֱלוּל",
+      "hd": "Elul-18",
+      "month": "Elul"
+    },
+    "2027-09-21": {
+      "pe": "Nitzavim–Vayeilech",
+      "ph": "נִצָּבִים־וַיֵּלֶךְ",
+      "sl": "dpNitzavimVayeilech",
+      "hdheb": "י״ט אֱלוּל",
+      "hd": "Elul-19",
+      "month": "Elul"
+    },
+    "2027-09-22": {
+      "pe": "Nitzavim–Vayeilech",
+      "ph": "נִצָּבִים־וַיֵּלֶךְ",
+      "sl": "dpNitzavimVayeilech",
+      "hdheb": "כ׳ אֱלוּל",
+      "hd": "Elul-20",
+      "month": "Elul"
+    },
+    "2027-09-23": {
+      "pe": "Nitzavim–Vayeilech",
+      "ph": "נִצָּבִים־וַיֵּלֶךְ",
+      "sl": "dpNitzavimVayeilech",
+      "hdheb": "כ״א אֱלוּל",
+      "hd": "Elul-21",
+      "month": "Elul"
+    },
+    "2027-09-24": {
+      "pe": "Nitzavim–Vayeilech",
+      "ph": "נִצָּבִים־וַיֵּלֶךְ",
+      "sl": "dpNitzavimVayeilech",
+      "hdheb": "כ״ב אֱלוּל",
+      "hd": "Elul-22",
+      "month": "Elul"
+    },
+    "2027-09-25": {
+      "pe": "Nitzavim–Vayeilech",
+      "ph": "נִצָּבִים־וַיֵּלֶךְ",
+      "sl": "dpNitzavimVayeilech",
+      "hdheb": "כ״ג אֱלוּל",
+      "hd": "Elul-23",
+      "month": "Elul"
+    },
+    "2027-09-26": {
+      "pe": "",
+      "ph": "",
+      "sl": "",
+      "hdheb": "כ״ד אֱלוּל",
+      "hd": "Elul-24",
+      "month": "Elul"
+    },
+    "2027-09-27": {
+      "pe": "",
+      "ph": "",
+      "sl": "",
+      "hdheb": "כ״ה אֱלוּל",
+      "hd": "Elul-25",
+      "month": "Elul"
+    },
+    "2027-09-28": {
+      "pe": "",
+      "ph": "",
+      "sl": "",
+      "hdheb": "כ״ו אֱלוּל",
+      "hd": "Elul-26",
+      "month": "Elul"
+    },
+    "2027-09-29": {
+      "pe": "",
+      "ph": "",
+      "sl": "",
+      "hdheb": "כ״ז אֱלוּל",
+      "hd": "Elul-27",
+      "month": "Elul"
+    },
+    "2027-09-30": {
+      "pe": "",
+      "ph": "",
+      "sl": "",
+      "hdheb": "כ״ח אֱלוּל",
+      "hd": "Elul-28",
+      "month": "Elul"
+    },
+    "2027-10-01": {
+      "pe": "",
+      "ph": "",
+      "sl": "",
+      "hdheb": "כ״ט אֱלוּל",
+      "hd": "Elul-29",
+      "month": "Elul"
+    },
+    "2027-10-02": {
+      "pe": "",
+      "ph": "",
+      "sl": "",
+      "hdheb": "א׳ תִּשְׁרֵי",
+      "hd": "Tishrei-1",
+      "month": "Tishrei"
+    },
+    "2027-10-03": {
+      "pe": "Haazinu",
+      "ph": "",
+      "sl": "dParsha",
+      "hdheb": "ב׳ תִּשְׁרֵי",
+      "hd": "Tishrei-2",
+      "month": "Tishrei"
+    },
+    "2027-10-04": {
+      "pe": "Haazinu",
+      "ph": "",
+      "sl": "dParsha",
+      "hdheb": "ג׳ תִּשְׁרֵי",
+      "hd": "Tishrei-3",
+      "month": "Tishrei"
+    },
+    "2027-10-05": {
+      "pe": "Haazinu",
+      "ph": "",
+      "sl": "dParsha",
+      "hdheb": "ד׳ תִּשְׁרֵי",
+      "hd": "Tishrei-4",
+      "month": "Tishrei"
+    },
+    "2027-10-06": {
+      "pe": "Haazinu",
+      "ph": "",
+      "sl": "dParsha",
+      "hdheb": "ה׳ תִּשְׁרֵי",
+      "hd": "Tishrei-5",
+      "month": "Tishrei"
+    },
+    "2027-10-07": {
+      "pe": "Haazinu",
+      "ph": "",
+      "sl": "dParsha",
+      "hdheb": "ו׳ תִּשְׁרֵי",
+      "hd": "Tishrei-6",
+      "month": "Tishrei"
+    },
+    "2027-10-08": {
+      "pe": "Haazinu",
+      "ph": "",
+      "sl": "dParsha",
+      "hdheb": "ז׳ תִּשְׁרֵי",
+      "hd": "Tishrei-7",
+      "month": "Tishrei"
+    },
+    "2027-10-09": {
+      "pe": "Haazinu",
+      "ph": "",
+      "sl": "dParsha",
+      "hdheb": "ח׳ תִּשְׁרֵי",
+      "hd": "Tishrei-8",
+      "month": "Tishrei"
+    },
+    "2027-10-10": {
+      "pe": "",
+      "ph": "",
+      "sl": "",
+      "hdheb": "ט׳ תִּשְׁרֵי",
+      "hd": "Tishrei-9",
+      "month": "Tishrei"
+    },
+    "2027-10-11": {
+      "pe": "",
+      "ph": "",
+      "sl": "",
+      "hdheb": "י׳ תִּשְׁרֵי",
+      "hd": "Tishrei-10",
+      "month": "Tishrei"
+    },
+    "2027-10-12": {
+      "pe": "",
+      "ph": "",
+      "sl": "",
+      "hdheb": "י״א תִּשְׁרֵי",
+      "hd": "Tishrei-11",
+      "month": "Tishrei"
+    },
+    "2027-10-13": {
+      "pe": "",
+      "ph": "",
+      "sl": "",
+      "hdheb": "י״ב תִּשְׁרֵי",
+      "hd": "Tishrei-12",
+      "month": "Tishrei"
+    },
+    "2027-10-14": {
+      "pe": "",
+      "ph": "",
+      "sl": "",
+      "hdheb": "י״ג תִּשְׁרֵי",
+      "hd": "Tishrei-13",
+      "month": "Tishrei"
+    },
+    "2027-10-15": {
+      "pe": "",
+      "ph": "",
+      "sl": "",
+      "hdheb": "י״ד תִּשְׁרֵי",
+      "hd": "Tishrei-14",
+      "month": "Tishrei"
+    },
+    "2027-10-16": {
+      "pe": "",
+      "ph": "",
+      "sl": "",
+      "hdheb": "ט״ו תִּשְׁרֵי",
+      "hd": "Tishrei-15",
+      "month": "Tishrei"
+    },
+    "2027-10-17": {
+      "pe": "",
+      "ph": "",
+      "sl": "",
+      "hdheb": "ט״ז תִּשְׁרֵי",
+      "hd": "Tishrei-16",
+      "month": "Tishrei"
+    },
+    "2027-10-18": {
+      "pe": "",
+      "ph": "",
+      "sl": "",
+      "hdheb": "י״ז תִּשְׁרֵי",
+      "hd": "Tishrei-17",
+      "month": "Tishrei"
+    },
+    "2027-10-19": {
+      "pe": "",
+      "ph": "",
+      "sl": "",
+      "hdheb": "י״ח תִּשְׁרֵי",
+      "hd": "Tishrei-18",
+      "month": "Tishrei"
+    },
+    "2027-10-20": {
+      "pe": "",
+      "ph": "",
+      "sl": "",
+      "hdheb": "י״ט תִּשְׁרֵי",
+      "hd": "Tishrei-19",
+      "month": "Tishrei"
+    },
+    "2027-10-21": {
+      "pe": "",
+      "ph": "",
+      "sl": "",
+      "hdheb": "כ׳ תִּשְׁרֵי",
+      "hd": "Tishrei-20",
+      "month": "Tishrei"
+    },
+    "2027-10-22": {
+      "pe": "",
+      "ph": "",
+      "sl": "",
+      "hdheb": "כ״א תִּשְׁרֵי",
+      "hd": "Tishrei-21",
+      "month": "Tishrei"
+    },
+    "2027-10-23": {
+      "pe": "",
+      "ph": "",
+      "sl": "",
+      "hdheb": "כ״ב תִּשְׁרֵי",
+      "hd": "Tishrei-22",
+      "month": "Tishrei"
+    },
+    "2027-10-24": {
+      "pe": "Bereishis",
+      "ph": "בְּרֵאשִׁית",
+      "sl": "dpBereishis",
+      "hdheb": "כ״ג תִּשְׁרֵי",
+      "hd": "Tishrei-23",
+      "month": "Tishrei"
+    },
+    "2027-10-25": {
+      "pe": "Bereishis",
+      "ph": "בְּרֵאשִׁית",
+      "sl": "dpBereishis",
+      "hdheb": "כ״ד תִּשְׁרֵי",
+      "hd": "Tishrei-24",
+      "month": "Tishrei"
+    },
+    "2027-10-26": {
+      "pe": "Bereishis",
+      "ph": "בְּרֵאשִׁית",
+      "sl": "dpBereishis",
+      "hdheb": "כ״ה תִּשְׁרֵי",
+      "hd": "Tishrei-25",
+      "month": "Tishrei"
+    },
+    "2027-10-27": {
+      "pe": "Bereishis",
+      "ph": "בְּרֵאשִׁית",
+      "sl": "dpBereishis",
+      "hdheb": "כ״ו תִּשְׁרֵי",
+      "hd": "Tishrei-26",
+      "month": "Tishrei"
+    },
+    "2027-10-28": {
+      "pe": "Bereishis",
+      "ph": "בְּרֵאשִׁית",
+      "sl": "dpBereishis",
+      "hdheb": "כ״ז תִּשְׁרֵי",
+      "hd": "Tishrei-27",
+      "month": "Tishrei"
+    },
+    "2027-10-29": {
+      "pe": "Bereishis",
+      "ph": "בְּרֵאשִׁית",
+      "sl": "dpBereishis",
+      "hdheb": "כ״ח תִּשְׁרֵי",
+      "hd": "Tishrei-28",
+      "month": "Tishrei"
+    },
+    "2027-10-30": {
+      "pe": "Bereishis",
+      "ph": "בְּרֵאשִׁית",
+      "sl": "dpBereishis",
+      "hdheb": "כ״ט תִּשְׁרֵי",
+      "hd": "Tishrei-29",
+      "month": "Tishrei"
+    },
+    "2027-10-31": {
+      "pe": "Noach",
+      "ph": "נֹחַ",
+      "sl": "dpNoach",
+      "hdheb": "ל׳ תִּשְׁרֵי",
+      "hd": "Tishrei-30",
+      "month": "Tishrei"
+    },
+    "2027-11-01": {
+      "pe": "Noach",
+      "ph": "נֹחַ",
+      "sl": "dpNoach",
+      "hdheb": "א׳ חֶשְׁוָן",
+      "hd": "Cheshvan-1",
+      "month": "Cheshvan"
+    },
+    "2027-11-02": {
+      "pe": "Noach",
+      "ph": "נֹחַ",
+      "sl": "dpNoach",
+      "hdheb": "ב׳ חֶשְׁוָן",
+      "hd": "Cheshvan-2",
+      "month": "Cheshvan"
+    },
+    "2027-11-03": {
+      "pe": "Noach",
+      "ph": "נֹחַ",
+      "sl": "dpNoach",
+      "hdheb": "ג׳ חֶשְׁוָן",
+      "hd": "Cheshvan-3",
+      "month": "Cheshvan"
+    },
+    "2027-11-04": {
+      "pe": "Noach",
+      "ph": "נֹחַ",
+      "sl": "dpNoach",
+      "hdheb": "ד׳ חֶשְׁוָן",
+      "hd": "Cheshvan-4",
+      "month": "Cheshvan"
+    },
+    "2027-11-05": {
+      "pe": "Noach",
+      "ph": "נֹחַ",
+      "sl": "dpNoach",
+      "hdheb": "ה׳ חֶשְׁוָן",
+      "hd": "Cheshvan-5",
+      "month": "Cheshvan"
+    },
+    "2027-11-06": {
+      "pe": "Noach",
+      "ph": "נֹחַ",
+      "sl": "dpNoach",
+      "hdheb": "ו׳ חֶשְׁוָן",
+      "hd": "Cheshvan-6",
+      "month": "Cheshvan"
+    },
+    "2027-11-07": {
+      "pe": "Lech Lecha",
+      "ph": "לֶךְ לְךָ",
+      "sl": "dpLechLecha",
+      "hdheb": "ז׳ חֶשְׁוָן",
+      "hd": "Cheshvan-7",
+      "month": "Cheshvan"
+    },
+    "2027-11-08": {
+      "pe": "Lech Lecha",
+      "ph": "לֶךְ לְךָ",
+      "sl": "dpLechLecha",
+      "hdheb": "ח׳ חֶשְׁוָן",
+      "hd": "Cheshvan-8",
+      "month": "Cheshvan"
+    },
+    "2027-11-09": {
+      "pe": "Lech Lecha",
+      "ph": "לֶךְ לְךָ",
+      "sl": "dpLechLecha",
+      "hdheb": "ט׳ חֶשְׁוָן",
+      "hd": "Cheshvan-9",
+      "month": "Cheshvan"
+    },
+    "2027-11-10": {
+      "pe": "Lech Lecha",
+      "ph": "לֶךְ לְךָ",
+      "sl": "dpLechLecha",
+      "hdheb": "י׳ חֶשְׁוָן",
+      "hd": "Cheshvan-10",
+      "month": "Cheshvan"
+    },
+    "2027-11-11": {
+      "pe": "Lech Lecha",
+      "ph": "לֶךְ לְךָ",
+      "sl": "dpLechLecha",
+      "hdheb": "י״א חֶשְׁוָן",
+      "hd": "Cheshvan-11",
+      "month": "Cheshvan"
+    },
+    "2027-11-12": {
+      "pe": "Lech Lecha",
+      "ph": "לֶךְ לְךָ",
+      "sl": "dpLechLecha",
+      "hdheb": "י״ב חֶשְׁוָן",
+      "hd": "Cheshvan-12",
+      "month": "Cheshvan"
+    },
+    "2027-11-13": {
+      "pe": "Lech Lecha",
+      "ph": "לֶךְ לְךָ",
+      "sl": "dpLechLecha",
+      "hdheb": "י״ג חֶשְׁוָן",
+      "hd": "Cheshvan-13",
+      "month": "Cheshvan"
+    },
+    "2027-11-14": {
+      "pe": "Vayeira",
+      "ph": "וַיֵּרָא",
+      "sl": "dpVayeira",
+      "hdheb": "י״ד חֶשְׁוָן",
+      "hd": "Cheshvan-14",
+      "month": "Cheshvan"
+    },
+    "2027-11-15": {
+      "pe": "Vayeira",
+      "ph": "וַיֵּרָא",
+      "sl": "dpVayeira",
+      "hdheb": "ט״ו חֶשְׁוָן",
+      "hd": "Cheshvan-15",
+      "month": "Cheshvan"
+    },
+    "2027-11-16": {
+      "pe": "Vayeira",
+      "ph": "וַיֵּרָא",
+      "sl": "dpVayeira",
+      "hdheb": "ט״ז חֶשְׁוָן",
+      "hd": "Cheshvan-16",
+      "month": "Cheshvan"
+    },
+    "2027-11-17": {
+      "pe": "Vayeira",
+      "ph": "וַיֵּרָא",
+      "sl": "dpVayeira",
+      "hdheb": "י״ז חֶשְׁוָן",
+      "hd": "Cheshvan-17",
+      "month": "Cheshvan"
+    },
+    "2027-11-18": {
+      "pe": "Vayeira",
+      "ph": "וַיֵּרָא",
+      "sl": "dpVayeira",
+      "hdheb": "י״ח חֶשְׁוָן",
+      "hd": "Cheshvan-18",
+      "month": "Cheshvan"
+    },
+    "2027-11-19": {
+      "pe": "Vayeira",
+      "ph": "וַיֵּרָא",
+      "sl": "dpVayeira",
+      "hdheb": "י״ט חֶשְׁוָן",
+      "hd": "Cheshvan-19",
+      "month": "Cheshvan"
+    },
+    "2027-11-20": {
+      "pe": "Vayeira",
+      "ph": "וַיֵּרָא",
+      "sl": "dpVayeira",
+      "hdheb": "כ׳ חֶשְׁוָן",
+      "hd": "Cheshvan-20",
+      "month": "Cheshvan"
+    },
+    "2027-11-21": {
+      "pe": "Chayei Sarah",
+      "ph": "חַיֵּי שָׂרָה",
+      "sl": "dpChayeiSara",
+      "hdheb": "כ״א חֶשְׁוָן",
+      "hd": "Cheshvan-21",
+      "month": "Cheshvan"
+    },
+    "2027-11-22": {
+      "pe": "Chayei Sarah",
+      "ph": "חַיֵּי שָׂרָה",
+      "sl": "dpChayeiSara",
+      "hdheb": "כ״ב חֶשְׁוָן",
+      "hd": "Cheshvan-22",
+      "month": "Cheshvan"
+    },
+    "2027-11-23": {
+      "pe": "Chayei Sarah",
+      "ph": "חַיֵּי שָׂרָה",
+      "sl": "dpChayeiSara",
+      "hdheb": "כ״ג חֶשְׁוָן",
+      "hd": "Cheshvan-23",
+      "month": "Cheshvan"
+    },
+    "2027-11-24": {
+      "pe": "Chayei Sarah",
+      "ph": "חַיֵּי שָׂרָה",
+      "sl": "dpChayeiSara",
+      "hdheb": "כ״ד חֶשְׁוָן",
+      "hd": "Cheshvan-24",
+      "month": "Cheshvan"
+    },
+    "2027-11-25": {
+      "pe": "Chayei Sarah",
+      "ph": "חַיֵּי שָׂרָה",
+      "sl": "dpChayeiSara",
+      "hdheb": "כ״ה חֶשְׁוָן",
+      "hd": "Cheshvan-25",
+      "month": "Cheshvan"
+    },
+    "2027-11-26": {
+      "pe": "Chayei Sarah",
+      "ph": "חַיֵּי שָׂרָה",
+      "sl": "dpChayeiSara",
+      "hdheb": "כ״ו חֶשְׁוָן",
+      "hd": "Cheshvan-26",
+      "month": "Cheshvan"
+    },
+    "2027-11-27": {
+      "pe": "Chayei Sarah",
+      "ph": "חַיֵּי שָׂרָה",
+      "sl": "dpChayeiSara",
+      "hdheb": "כ״ז חֶשְׁוָן",
+      "hd": "Cheshvan-27",
+      "month": "Cheshvan"
+    },
+    "2027-11-28": {
+      "pe": "Toldos",
+      "ph": "תּוֹלְדוֹת",
+      "sl": "dpToldos",
+      "hdheb": "כ״ח חֶשְׁוָן",
+      "hd": "Cheshvan-28",
+      "month": "Cheshvan"
+    },
+    "2027-11-29": {
+      "pe": "Toldos",
+      "ph": "תּוֹלְדוֹת",
+      "sl": "dpToldos",
+      "hdheb": "כ״ט חֶשְׁוָן",
+      "hd": "Cheshvan-29",
+      "month": "Cheshvan"
+    },
+    "2027-11-30": {
+      "pe": "Toldos",
+      "ph": "תּוֹלְדוֹת",
+      "sl": "dpToldos",
+      "hdheb": "ל׳ חֶשְׁוָן",
+      "hd": "Cheshvan-30",
+      "month": "Cheshvan"
+    },
+    "2027-12-01": {
+      "pe": "Toldos",
+      "ph": "תּוֹלְדוֹת",
+      "sl": "dpToldos",
+      "hdheb": "א׳ כִּסְלֵו",
+      "hd": "Kislev-1",
+      "month": "Kislev"
+    },
+    "2027-12-02": {
+      "pe": "Toldos",
+      "ph": "תּוֹלְדוֹת",
+      "sl": "dpToldos",
+      "hdheb": "ב׳ כִּסְלֵו",
+      "hd": "Kislev-2",
+      "month": "Kislev"
+    },
+    "2027-12-03": {
+      "pe": "Toldos",
+      "ph": "תּוֹלְדוֹת",
+      "sl": "dpToldos",
+      "hdheb": "ג׳ כִּסְלֵו",
+      "hd": "Kislev-3",
+      "month": "Kislev"
+    },
+    "2027-12-04": {
+      "pe": "Toldos",
+      "ph": "תּוֹלְדוֹת",
+      "sl": "dpToldos",
+      "hdheb": "ד׳ כִּסְלֵו",
+      "hd": "Kislev-4",
+      "month": "Kislev"
+    },
+    "2027-12-05": {
+      "pe": "Vayeitzei",
+      "ph": "וַיֵּצֵא",
+      "sl": "dpVayeitzei",
+      "hdheb": "ה׳ כִּסְלֵו",
+      "hd": "Kislev-5",
+      "month": "Kislev"
+    },
+    "2027-12-06": {
+      "pe": "Vayeitzei",
+      "ph": "וַיֵּצֵא",
+      "sl": "dpVayeitzei",
+      "hdheb": "ו׳ כִּסְלֵו",
+      "hd": "Kislev-6",
+      "month": "Kislev"
+    },
+    "2027-12-07": {
+      "pe": "Vayeitzei",
+      "ph": "וַיֵּצֵא",
+      "sl": "dpVayeitzei",
+      "hdheb": "ז׳ כִּסְלֵו",
+      "hd": "Kislev-7",
+      "month": "Kislev"
+    },
+    "2027-12-08": {
+      "pe": "Vayeitzei",
+      "ph": "וַיֵּצֵא",
+      "sl": "dpVayeitzei",
+      "hdheb": "ח׳ כִּסְלֵו",
+      "hd": "Kislev-8",
+      "month": "Kislev"
+    },
+    "2027-12-09": {
+      "pe": "Vayeitzei",
+      "ph": "וַיֵּצֵא",
+      "sl": "dpVayeitzei",
+      "hdheb": "ט׳ כִּסְלֵו",
+      "hd": "Kislev-9",
+      "month": "Kislev"
+    },
+    "2027-12-10": {
+      "pe": "Vayeitzei",
+      "ph": "וַיֵּצֵא",
+      "sl": "dpVayeitzei",
+      "hdheb": "י׳ כִּסְלֵו",
+      "hd": "Kislev-10",
+      "month": "Kislev"
+    },
+    "2027-12-11": {
+      "pe": "Vayeitzei",
+      "ph": "וַיֵּצֵא",
+      "sl": "dpVayeitzei",
+      "hdheb": "י״א כִּסְלֵו",
+      "hd": "Kislev-11",
+      "month": "Kislev"
+    },
+    "2027-12-12": {
+      "pe": "Vayishlach",
+      "ph": "וַיִּשְׁלַח",
+      "sl": "dpVayishlach",
+      "hdheb": "י״ב כִּסְלֵו",
+      "hd": "Kislev-12",
+      "month": "Kislev"
+    },
+    "2027-12-13": {
+      "pe": "Vayishlach",
+      "ph": "וַיִּשְׁלַח",
+      "sl": "dpVayishlach",
+      "hdheb": "י״ג כִּסְלֵו",
+      "hd": "Kislev-13",
+      "month": "Kislev"
+    },
+    "2027-12-14": {
+      "pe": "Vayishlach",
+      "ph": "וַיִּשְׁלַח",
+      "sl": "dpVayishlach",
+      "hdheb": "י״ד כִּסְלֵו",
+      "hd": "Kislev-14",
+      "month": "Kislev"
+    },
+    "2027-12-15": {
+      "pe": "Vayishlach",
+      "ph": "וַיִּשְׁלַח",
+      "sl": "dpVayishlach",
+      "hdheb": "ט״ו כִּסְלֵו",
+      "hd": "Kislev-15",
+      "month": "Kislev"
+    },
+    "2027-12-16": {
+      "pe": "Vayishlach",
+      "ph": "וַיִּשְׁלַח",
+      "sl": "dpVayishlach",
+      "hdheb": "ט״ז כִּסְלֵו",
+      "hd": "Kislev-16",
+      "month": "Kislev"
+    },
+    "2027-12-17": {
+      "pe": "Vayishlach",
+      "ph": "וַיִּשְׁלַח",
+      "sl": "dpVayishlach",
+      "hdheb": "י״ז כִּסְלֵו",
+      "hd": "Kislev-17",
+      "month": "Kislev"
+    },
+    "2027-12-18": {
+      "pe": "Vayishlach",
+      "ph": "וַיִּשְׁלַח",
+      "sl": "dpVayishlach",
+      "hdheb": "י״ח כִּסְלֵו",
+      "hd": "Kislev-18",
+      "month": "Kislev"
+    },
+    "2027-12-19": {
+      "pe": "Vayeishev",
+      "ph": "וַיֵּשֶׁב",
+      "sl": "dpVayeishev",
+      "hdheb": "י״ט כִּסְלֵו",
+      "hd": "Kislev-19",
+      "month": "Kislev"
+    },
+    "2027-12-20": {
+      "pe": "Vayeishev",
+      "ph": "וַיֵּשֶׁב",
+      "sl": "dpVayeishev",
+      "hdheb": "כ׳ כִּסְלֵו",
+      "hd": "Kislev-20",
+      "month": "Kislev"
+    },
+    "2027-12-21": {
+      "pe": "Vayeishev",
+      "ph": "וַיֵּשֶׁב",
+      "sl": "dpVayeishev",
+      "hdheb": "כ״א כִּסְלֵו",
+      "hd": "Kislev-21",
+      "month": "Kislev"
+    },
+    "2027-12-22": {
+      "pe": "Vayeishev",
+      "ph": "וַיֵּשֶׁב",
+      "sl": "dpVayeishev",
+      "hdheb": "כ״ב כִּסְלֵו",
+      "hd": "Kislev-22",
+      "month": "Kislev"
+    },
+    "2027-12-23": {
+      "pe": "Vayeishev",
+      "ph": "וַיֵּשֶׁב",
+      "sl": "dpVayeishev",
+      "hdheb": "כ״ג כִּסְלֵו",
+      "hd": "Kislev-23",
+      "month": "Kislev"
+    },
+    "2027-12-24": {
+      "pe": "Vayeishev",
+      "ph": "וַיֵּשֶׁב",
+      "sl": "dpVayeishev",
+      "hdheb": "כ״ד כִּסְלֵו",
+      "hd": "Kislev-24",
+      "month": "Kislev"
+    },
+    "2027-12-25": {
+      "pe": "Vayeishev",
+      "ph": "וַיֵּשֶׁב",
+      "sl": "dpVayeishev",
+      "hdheb": "כ״ה כִּסְלֵו",
+      "hd": "Kislev-25",
+      "month": "Kislev"
+    },
+    "2027-12-26": {
+      "pe": "Mikeitz",
+      "ph": "מִקֵּץ",
+      "sl": "dpMikeitz",
+      "hdheb": "כ״ו כִּסְלֵו",
+      "hd": "Kislev-26",
+      "month": "Kislev"
+    },
+    "2027-12-27": {
+      "pe": "Mikeitz",
+      "ph": "מִקֵּץ",
+      "sl": "dpMikeitz",
+      "hdheb": "כ״ז כִּסְלֵו",
+      "hd": "Kislev-27",
+      "month": "Kislev"
+    },
+    "2027-12-28": {
+      "pe": "Mikeitz",
+      "ph": "מִקֵּץ",
+      "sl": "dpMikeitz",
+      "hdheb": "כ״ח כִּסְלֵו",
+      "hd": "Kislev-28",
+      "month": "Kislev"
+    },
+    "2027-12-29": {
+      "pe": "Mikeitz",
+      "ph": "מִקֵּץ",
+      "sl": "dpMikeitz",
+      "hdheb": "כ״ט כִּסְלֵו",
+      "hd": "Kislev-29",
+      "month": "Kislev"
+    },
+    "2027-12-30": {
+      "pe": "Mikeitz",
+      "ph": "מִקֵּץ",
+      "sl": "dpMikeitz",
+      "hdheb": "ל׳ כִּסְלֵו",
+      "hd": "Kislev-30",
+      "month": "Kislev"
+    },
+    "2027-12-31": {
+      "pe": "Mikeitz",
+      "ph": "מִקֵּץ",
+      "sl": "dpMikeitz",
+      "hdheb": "א׳ טֵבֵת",
+      "hd": "Teves-1",
+      "month": "Teves"
+    },
+    "2028-01-01": {
+      "pe": "Mikeitz",
+      "ph": "מִקֵּץ",
+      "sl": "dpMikeitz",
+      "hdheb": "ב׳ טֵבֵת",
+      "hd": "Teves-2",
+      "month": "Teves"
+    },
+    "2028-01-02": {
+      "pe": "Vayigash",
+      "ph": "וַיִּגַּשׁ",
+      "sl": "dpVayigash",
+      "hdheb": "ג׳ טֵבֵת",
+      "hd": "Teves-3",
+      "month": "Teves"
+    },
+    "2028-01-03": {
+      "pe": "Vayigash",
+      "ph": "וַיִּגַּשׁ",
+      "sl": "dpVayigash",
+      "hdheb": "ד׳ טֵבֵת",
+      "hd": "Teves-4",
+      "month": "Teves"
+    },
+    "2028-01-04": {
+      "pe": "Vayigash",
+      "ph": "וַיִּגַּשׁ",
+      "sl": "dpVayigash",
+      "hdheb": "ה׳ טֵבֵת",
+      "hd": "Teves-5",
+      "month": "Teves"
+    },
+    "2028-01-05": {
+      "pe": "Vayigash",
+      "ph": "וַיִּגַּשׁ",
+      "sl": "dpVayigash",
+      "hdheb": "ו׳ טֵבֵת",
+      "hd": "Teves-6",
+      "month": "Teves"
+    },
+    "2028-01-06": {
+      "pe": "Vayigash",
+      "ph": "וַיִּגַּשׁ",
+      "sl": "dpVayigash",
+      "hdheb": "ז׳ טֵבֵת",
+      "hd": "Teves-7",
+      "month": "Teves"
+    },
+    "2028-01-07": {
+      "pe": "Vayigash",
+      "ph": "וַיִּגַּשׁ",
+      "sl": "dpVayigash",
+      "hdheb": "ח׳ טֵבֵת",
+      "hd": "Teves-8",
+      "month": "Teves"
+    },
+    "2028-01-08": {
+      "pe": "Vayigash",
+      "ph": "וַיִּגַּשׁ",
+      "sl": "dpVayigash",
+      "hdheb": "ט׳ טֵבֵת",
+      "hd": "Teves-9",
+      "month": "Teves"
+    },
+    "2028-01-09": {
+      "pe": "Vayechi",
+      "ph": "וַיְחִי",
+      "sl": "dpVayechi",
+      "hdheb": "י׳ טֵבֵת",
+      "hd": "Teves-10",
+      "month": "Teves"
+    },
+    "2028-01-10": {
+      "pe": "Vayechi",
+      "ph": "וַיְחִי",
+      "sl": "dpVayechi",
+      "hdheb": "י״א טֵבֵת",
+      "hd": "Teves-11",
+      "month": "Teves"
+    },
+    "2028-01-11": {
+      "pe": "Vayechi",
+      "ph": "וַיְחִי",
+      "sl": "dpVayechi",
+      "hdheb": "י״ב טֵבֵת",
+      "hd": "Teves-12",
+      "month": "Teves"
+    },
+    "2028-01-12": {
+      "pe": "Vayechi",
+      "ph": "וַיְחִי",
+      "sl": "dpVayechi",
+      "hdheb": "י״ג טֵבֵת",
+      "hd": "Teves-13",
+      "month": "Teves"
+    },
+    "2028-01-13": {
+      "pe": "Vayechi",
+      "ph": "וַיְחִי",
+      "sl": "dpVayechi",
+      "hdheb": "י״ד טֵבֵת",
+      "hd": "Teves-14",
+      "month": "Teves"
+    },
+    "2028-01-14": {
+      "pe": "Vayechi",
+      "ph": "וַיְחִי",
+      "sl": "dpVayechi",
+      "hdheb": "ט״ו טֵבֵת",
+      "hd": "Teves-15",
+      "month": "Teves"
+    },
+    "2028-01-15": {
+      "pe": "Vayechi",
+      "ph": "וַיְחִי",
+      "sl": "dpVayechi",
+      "hdheb": "ט״ז טֵבֵת",
+      "hd": "Teves-16",
+      "month": "Teves"
+    },
+    "2028-01-16": {
+      "pe": "Shemos",
+      "ph": "שְׁמוֹת",
+      "sl": "dpShemos",
+      "hdheb": "י״ז טֵבֵת",
+      "hd": "Teves-17",
+      "month": "Teves"
+    },
+    "2028-01-17": {
+      "pe": "Shemos",
+      "ph": "שְׁמוֹת",
+      "sl": "dpShemos",
+      "hdheb": "י״ח טֵבֵת",
+      "hd": "Teves-18",
+      "month": "Teves"
+    },
+    "2028-01-18": {
+      "pe": "Shemos",
+      "ph": "שְׁמוֹת",
+      "sl": "dpShemos",
+      "hdheb": "י״ט טֵבֵת",
+      "hd": "Teves-19",
+      "month": "Teves"
+    },
+    "2028-01-19": {
+      "pe": "Shemos",
+      "ph": "שְׁמוֹת",
+      "sl": "dpShemos",
+      "hdheb": "כ׳ טֵבֵת",
+      "hd": "Teves-20",
+      "month": "Teves"
+    },
+    "2028-01-20": {
+      "pe": "Shemos",
+      "ph": "שְׁמוֹת",
+      "sl": "dpShemos",
+      "hdheb": "כ״א טֵבֵת",
+      "hd": "Teves-21",
+      "month": "Teves"
+    },
+    "2028-01-21": {
+      "pe": "Shemos",
+      "ph": "שְׁמוֹת",
+      "sl": "dpShemos",
+      "hdheb": "כ״ב טֵבֵת",
+      "hd": "Teves-22",
+      "month": "Teves"
+    },
+    "2028-01-22": {
+      "pe": "Shemos",
+      "ph": "שְׁמוֹת",
+      "sl": "dpShemos",
+      "hdheb": "כ״ג טֵבֵת",
+      "hd": "Teves-23",
+      "month": "Teves"
+    },
+    "2028-01-23": {
+      "pe": "Va'eira",
+      "ph": "",
+      "sl": "dParsha",
+      "hdheb": "כ״ד טֵבֵת",
+      "hd": "Teves-24",
+      "month": "Teves"
+    },
+    "2028-01-24": {
+      "pe": "Va'eira",
+      "ph": "",
+      "sl": "dParsha",
+      "hdheb": "כ״ה טֵבֵת",
+      "hd": "Teves-25",
+      "month": "Teves"
+    },
+    "2028-01-25": {
+      "pe": "Va'eira",
+      "ph": "",
+      "sl": "dParsha",
+      "hdheb": "כ״ו טֵבֵת",
+      "hd": "Teves-26",
+      "month": "Teves"
+    },
+    "2028-01-26": {
+      "pe": "Va'eira",
+      "ph": "",
+      "sl": "dParsha",
+      "hdheb": "כ״ז טֵבֵת",
+      "hd": "Teves-27",
+      "month": "Teves"
+    },
+    "2028-01-27": {
+      "pe": "Va'eira",
+      "ph": "",
+      "sl": "dParsha",
+      "hdheb": "כ״ח טֵבֵת",
+      "hd": "Teves-28",
+      "month": "Teves"
+    },
+    "2028-01-28": {
+      "pe": "Va'eira",
+      "ph": "",
+      "sl": "dParsha",
+      "hdheb": "כ״ט טֵבֵת",
+      "hd": "Teves-29",
+      "month": "Teves"
+    },
+    "2028-01-29": {
+      "pe": "Va'eira",
+      "ph": "",
+      "sl": "dParsha",
+      "hdheb": "א׳ שְׁבָט",
+      "hd": "Shevat-1",
+      "month": "Shevat"
+    },
+    "2028-01-30": {
+      "pe": "Bo",
+      "ph": "בֹּא",
+      "sl": "dpBo",
+      "hdheb": "ב׳ שְׁבָט",
+      "hd": "Shevat-2",
+      "month": "Shevat"
+    },
+    "2028-01-31": {
+      "pe": "Bo",
+      "ph": "בֹּא",
+      "sl": "dpBo",
+      "hdheb": "ג׳ שְׁבָט",
+      "hd": "Shevat-3",
+      "month": "Shevat"
+    },
+    "2028-02-01": {
+      "pe": "Bo",
+      "ph": "בֹּא",
+      "sl": "dpBo",
+      "hdheb": "ד׳ שְׁבָט",
+      "hd": "Shevat-4",
+      "month": "Shevat"
+    },
+    "2028-02-02": {
+      "pe": "Bo",
+      "ph": "בֹּא",
+      "sl": "dpBo",
+      "hdheb": "ה׳ שְׁבָט",
+      "hd": "Shevat-5",
+      "month": "Shevat"
+    },
+    "2028-02-03": {
+      "pe": "Bo",
+      "ph": "בֹּא",
+      "sl": "dpBo",
+      "hdheb": "ו׳ שְׁבָט",
+      "hd": "Shevat-6",
+      "month": "Shevat"
+    },
+    "2028-02-04": {
+      "pe": "Bo",
+      "ph": "בֹּא",
+      "sl": "dpBo",
+      "hdheb": "ז׳ שְׁבָט",
+      "hd": "Shevat-7",
+      "month": "Shevat"
+    },
+    "2028-02-05": {
+      "pe": "Bo",
+      "ph": "בֹּא",
+      "sl": "dpBo",
+      "hdheb": "ח׳ שְׁבָט",
+      "hd": "Shevat-8",
+      "month": "Shevat"
+    },
+    "2028-02-06": {
+      "pe": "Beshalach",
+      "ph": "בְּשַׁלַּח",
+      "sl": "dpBeshalach",
+      "hdheb": "ט׳ שְׁבָט",
+      "hd": "Shevat-9",
+      "month": "Shevat"
+    },
+    "2028-02-07": {
+      "pe": "Beshalach",
+      "ph": "בְּשַׁלַּח",
+      "sl": "dpBeshalach",
+      "hdheb": "י׳ שְׁבָט",
+      "hd": "Shevat-10",
+      "month": "Shevat"
+    },
+    "2028-02-08": {
+      "pe": "Beshalach",
+      "ph": "בְּשַׁלַּח",
+      "sl": "dpBeshalach",
+      "hdheb": "י״א שְׁבָט",
+      "hd": "Shevat-11",
+      "month": "Shevat"
+    },
+    "2028-02-09": {
+      "pe": "Beshalach",
+      "ph": "בְּשַׁלַּח",
+      "sl": "dpBeshalach",
+      "hdheb": "י״ב שְׁבָט",
+      "hd": "Shevat-12",
+      "month": "Shevat"
+    },
+    "2028-02-10": {
+      "pe": "Beshalach",
+      "ph": "בְּשַׁלַּח",
+      "sl": "dpBeshalach",
+      "hdheb": "י״ג שְׁבָט",
+      "hd": "Shevat-13",
+      "month": "Shevat"
+    },
+    "2028-02-11": {
+      "pe": "Beshalach",
+      "ph": "בְּשַׁלַּח",
+      "sl": "dpBeshalach",
+      "hdheb": "י״ד שְׁבָט",
+      "hd": "Shevat-14",
+      "month": "Shevat"
+    },
+    "2028-02-12": {
+      "pe": "Beshalach",
+      "ph": "בְּשַׁלַּח",
+      "sl": "dpBeshalach",
+      "hdheb": "ט״ו שְׁבָט",
+      "hd": "Shevat-15",
+      "month": "Shevat"
+    },
+    "2028-02-13": {
+      "pe": "Yisro",
+      "ph": "יִתְרוֹ",
+      "sl": "dpYisro",
+      "hdheb": "ט״ז שְׁבָט",
+      "hd": "Shevat-16",
+      "month": "Shevat"
+    },
+    "2028-02-14": {
+      "pe": "Yisro",
+      "ph": "יִתְרוֹ",
+      "sl": "dpYisro",
+      "hdheb": "י״ז שְׁבָט",
+      "hd": "Shevat-17",
+      "month": "Shevat"
+    },
+    "2028-02-15": {
+      "pe": "Yisro",
+      "ph": "יִתְרוֹ",
+      "sl": "dpYisro",
+      "hdheb": "י״ח שְׁבָט",
+      "hd": "Shevat-18",
+      "month": "Shevat"
+    },
+    "2028-02-16": {
+      "pe": "Yisro",
+      "ph": "יִתְרוֹ",
+      "sl": "dpYisro",
+      "hdheb": "י״ט שְׁבָט",
+      "hd": "Shevat-19",
+      "month": "Shevat"
+    },
+    "2028-02-17": {
+      "pe": "Yisro",
+      "ph": "יִתְרוֹ",
+      "sl": "dpYisro",
+      "hdheb": "כ׳ שְׁבָט",
+      "hd": "Shevat-20",
+      "month": "Shevat"
+    },
+    "2028-02-18": {
+      "pe": "Yisro",
+      "ph": "יִתְרוֹ",
+      "sl": "dpYisro",
+      "hdheb": "כ״א שְׁבָט",
+      "hd": "Shevat-21",
+      "month": "Shevat"
+    },
+    "2028-02-19": {
+      "pe": "Yisro",
+      "ph": "יִתְרוֹ",
+      "sl": "dpYisro",
+      "hdheb": "כ״ב שְׁבָט",
+      "hd": "Shevat-22",
+      "month": "Shevat"
+    },
+    "2028-02-20": {
+      "pe": "Mishpatim",
+      "ph": "מִשְׁפָּטִים",
+      "sl": "dpMishpatim",
+      "hdheb": "כ״ג שְׁבָט",
+      "hd": "Shevat-23",
+      "month": "Shevat"
+    },
+    "2028-02-21": {
+      "pe": "Mishpatim",
+      "ph": "מִשְׁפָּטִים",
+      "sl": "dpMishpatim",
+      "hdheb": "כ״ד שְׁבָט",
+      "hd": "Shevat-24",
+      "month": "Shevat"
+    },
+    "2028-02-22": {
+      "pe": "Mishpatim",
+      "ph": "מִשְׁפָּטִים",
+      "sl": "dpMishpatim",
+      "hdheb": "כ״ה שְׁבָט",
+      "hd": "Shevat-25",
+      "month": "Shevat"
+    },
+    "2028-02-23": {
+      "pe": "Mishpatim",
+      "ph": "מִשְׁפָּטִים",
+      "sl": "dpMishpatim",
+      "hdheb": "כ״ו שְׁבָט",
+      "hd": "Shevat-26",
+      "month": "Shevat"
+    },
+    "2028-02-24": {
+      "pe": "Mishpatim",
+      "ph": "מִשְׁפָּטִים",
+      "sl": "dpMishpatim",
+      "hdheb": "כ״ז שְׁבָט",
+      "hd": "Shevat-27",
+      "month": "Shevat"
+    },
+    "2028-02-25": {
+      "pe": "Mishpatim",
+      "ph": "מִשְׁפָּטִים",
+      "sl": "dpMishpatim",
+      "hdheb": "כ״ח שְׁבָט",
+      "hd": "Shevat-28",
+      "month": "Shevat"
+    },
+    "2028-02-26": {
+      "pe": "Mishpatim",
+      "ph": "מִשְׁפָּטִים",
+      "sl": "dpMishpatim",
+      "hdheb": "כ״ט שְׁבָט",
+      "hd": "Shevat-29",
+      "month": "Shevat"
+    },
+    "2028-02-27": {
+      "pe": "Terumah",
+      "ph": "תְּרוּמָה",
+      "sl": "dpTerumah",
+      "hdheb": "ל׳ שְׁבָט",
+      "hd": "Shevat-30",
+      "month": "Shevat"
+    },
+    "2028-02-28": {
+      "pe": "Terumah",
+      "ph": "תְּרוּמָה",
+      "sl": "dpTerumah",
+      "hdheb": "א׳ אֲדָר",
+      "hd": "Adar-1",
+      "month": "Adar"
+    },
+    "2028-02-29": {
+      "pe": "Terumah",
+      "ph": "תְּרוּמָה",
+      "sl": "dpTerumah",
+      "hdheb": "ב׳ אֲדָר",
+      "hd": "Adar-2",
+      "month": "Adar"
+    },
+    "2028-03-01": {
+      "pe": "Terumah",
+      "ph": "תְּרוּמָה",
+      "sl": "dpTerumah",
+      "hdheb": "ג׳ אֲדָר",
+      "hd": "Adar-3",
+      "month": "Adar"
+    },
+    "2028-03-02": {
+      "pe": "Terumah",
+      "ph": "תְּרוּמָה",
+      "sl": "dpTerumah",
+      "hdheb": "ד׳ אֲדָר",
+      "hd": "Adar-4",
+      "month": "Adar"
+    },
+    "2028-03-03": {
+      "pe": "Terumah",
+      "ph": "תְּרוּמָה",
+      "sl": "dpTerumah",
+      "hdheb": "ה׳ אֲדָר",
+      "hd": "Adar-5",
+      "month": "Adar"
+    },
+    "2028-03-04": {
+      "pe": "Terumah",
+      "ph": "תְּרוּמָה",
+      "sl": "dpTerumah",
+      "hdheb": "ו׳ אֲדָר",
+      "hd": "Adar-6",
+      "month": "Adar"
+    },
+    "2028-03-05": {
+      "pe": "Tetzaveh",
+      "ph": "תְּצַוֶּה",
+      "sl": "dpTetzaveh",
+      "hdheb": "ז׳ אֲדָר",
+      "hd": "Adar-7",
+      "month": "Adar"
+    },
+    "2028-03-06": {
+      "pe": "Tetzaveh",
+      "ph": "תְּצַוֶּה",
+      "sl": "dpTetzaveh",
+      "hdheb": "ח׳ אֲדָר",
+      "hd": "Adar-8",
+      "month": "Adar"
+    },
+    "2028-03-07": {
+      "pe": "Tetzaveh",
+      "ph": "תְּצַוֶּה",
+      "sl": "dpTetzaveh",
+      "hdheb": "ט׳ אֲדָר",
+      "hd": "Adar-9",
+      "month": "Adar"
+    },
+    "2028-03-08": {
+      "pe": "Tetzaveh",
+      "ph": "תְּצַוֶּה",
+      "sl": "dpTetzaveh",
+      "hdheb": "י׳ אֲדָר",
+      "hd": "Adar-10",
+      "month": "Adar"
+    },
+    "2028-03-09": {
+      "pe": "Tetzaveh",
+      "ph": "תְּצַוֶּה",
+      "sl": "dpTetzaveh",
+      "hdheb": "י״א אֲדָר",
+      "hd": "Adar-11",
+      "month": "Adar"
+    },
+    "2028-03-10": {
+      "pe": "Tetzaveh",
+      "ph": "תְּצַוֶּה",
+      "sl": "dpTetzaveh",
+      "hdheb": "י״ב אֲדָר",
+      "hd": "Adar-12",
+      "month": "Adar"
+    },
+    "2028-03-11": {
+      "pe": "Tetzaveh",
+      "ph": "תְּצַוֶּה",
+      "sl": "dpTetzaveh",
+      "hdheb": "י״ג אֲדָר",
+      "hd": "Adar-13",
+      "month": "Adar"
+    },
+    "2028-03-12": {
+      "pe": "Ki Sisa",
+      "ph": "כִּי תִשָּׂא",
+      "sl": "dpKiSisa",
+      "hdheb": "י״ד אֲדָר",
+      "hd": "Adar-14",
+      "month": "Adar"
+    },
+    "2028-03-13": {
+      "pe": "Ki Sisa",
+      "ph": "כִּי תִשָּׂא",
+      "sl": "dpKiSisa",
+      "hdheb": "ט״ו אֲדָר",
+      "hd": "Adar-15",
+      "month": "Adar"
+    },
+    "2028-03-14": {
+      "pe": "Ki Sisa",
+      "ph": "כִּי תִשָּׂא",
+      "sl": "dpKiSisa",
+      "hdheb": "ט״ז אֲדָר",
+      "hd": "Adar-16",
+      "month": "Adar"
+    },
+    "2028-03-15": {
+      "pe": "Ki Sisa",
+      "ph": "כִּי תִשָּׂא",
+      "sl": "dpKiSisa",
+      "hdheb": "י״ז אֲדָר",
+      "hd": "Adar-17",
+      "month": "Adar"
+    },
+    "2028-03-16": {
+      "pe": "Ki Sisa",
+      "ph": "כִּי תִשָּׂא",
+      "sl": "dpKiSisa",
+      "hdheb": "י״ח אֲדָר",
+      "hd": "Adar-18",
+      "month": "Adar"
+    },
+    "2028-03-17": {
+      "pe": "Ki Sisa",
+      "ph": "כִּי תִשָּׂא",
+      "sl": "dpKiSisa",
+      "hdheb": "י״ט אֲדָר",
+      "hd": "Adar-19",
+      "month": "Adar"
+    },
+    "2028-03-18": {
+      "pe": "Ki Sisa",
+      "ph": "כִּי תִשָּׂא",
+      "sl": "dpKiSisa",
+      "hdheb": "כ׳ אֲדָר",
+      "hd": "Adar-20",
+      "month": "Adar"
+    },
+    "2028-03-19": {
+      "pe": "Vayakhel–Pekudei",
+      "ph": "וַיַּקְהֵל־פְקוּדֵי",
+      "sl": "dpVayakhel",
+      "hdheb": "כ״א אֲדָר",
+      "hd": "Adar-21",
+      "month": "Adar"
+    },
+    "2028-03-20": {
+      "pe": "Vayakhel–Pekudei",
+      "ph": "וַיַּקְהֵל־פְקוּדֵי",
+      "sl": "dpVayakhel",
+      "hdheb": "כ״ב אֲדָר",
+      "hd": "Adar-22",
+      "month": "Adar"
+    },
+    "2028-03-21": {
+      "pe": "Vayakhel–Pekudei",
+      "ph": "וַיַּקְהֵל־פְקוּדֵי",
+      "sl": "dpVayakhel",
+      "hdheb": "כ״ג אֲדָר",
+      "hd": "Adar-23",
+      "month": "Adar"
+    },
+    "2028-03-22": {
+      "pe": "Vayakhel–Pekudei",
+      "ph": "וַיַּקְהֵל־פְקוּדֵי",
+      "sl": "dpVayakhel",
+      "hdheb": "כ״ד אֲדָר",
+      "hd": "Adar-24",
+      "month": "Adar"
+    },
+    "2028-03-23": {
+      "pe": "Vayakhel–Pekudei",
+      "ph": "וַיַּקְהֵל־פְקוּדֵי",
+      "sl": "dpVayakhel",
+      "hdheb": "כ״ה אֲדָר",
+      "hd": "Adar-25",
+      "month": "Adar"
+    },
+    "2028-03-24": {
+      "pe": "Vayakhel–Pekudei",
+      "ph": "וַיַּקְהֵל־פְקוּדֵי",
+      "sl": "dpVayakhel",
+      "hdheb": "כ״ו אֲדָר",
+      "hd": "Adar-26",
+      "month": "Adar"
+    },
+    "2028-03-25": {
+      "pe": "Vayakhel–Pekudei",
+      "ph": "וַיַּקְהֵל־פְקוּדֵי",
+      "sl": "dpVayakhel",
+      "hdheb": "כ״ז אֲדָר",
+      "hd": "Adar-27",
+      "month": "Adar"
+    },
+    "2028-03-26": {
+      "pe": "Vayikra",
+      "ph": "וַיִּקְרָא",
+      "sl": "dpVayikra",
+      "hdheb": "כ״ח אֲדָר",
+      "hd": "Adar-28",
+      "month": "Adar"
+    },
+    "2028-03-27": {
+      "pe": "Vayikra",
+      "ph": "וַיִּקְרָא",
+      "sl": "dpVayikra",
+      "hdheb": "כ״ט אֲדָר",
+      "hd": "Adar-29",
+      "month": "Adar"
+    },
+    "2028-03-28": {
+      "pe": "Vayikra",
+      "ph": "וַיִּקְרָא",
+      "sl": "dpVayikra",
+      "hdheb": "א׳ נִיסָן",
+      "hd": "Nissan-1",
+      "month": "Nissan"
+    },
+    "2028-03-29": {
+      "pe": "Vayikra",
+      "ph": "וַיִּקְרָא",
+      "sl": "dpVayikra",
+      "hdheb": "ב׳ נִיסָן",
+      "hd": "Nissan-2",
+      "month": "Nissan"
+    },
+    "2028-03-30": {
+      "pe": "Vayikra",
+      "ph": "וַיִּקְרָא",
+      "sl": "dpVayikra",
+      "hdheb": "ג׳ נִיסָן",
+      "hd": "Nissan-3",
+      "month": "Nissan"
+    },
+    "2028-03-31": {
+      "pe": "Vayikra",
+      "ph": "וַיִּקְרָא",
+      "sl": "dpVayikra",
+      "hdheb": "ד׳ נִיסָן",
+      "hd": "Nissan-4",
+      "month": "Nissan"
+    },
+    "2028-04-01": {
+      "pe": "Vayikra",
+      "ph": "וַיִּקְרָא",
+      "sl": "dpVayikra",
+      "hdheb": "ה׳ נִיסָן",
+      "hd": "Nissan-5",
+      "month": "Nissan"
+    },
+    "2028-04-02": {
+      "pe": "Tzav",
+      "ph": "צַו",
+      "sl": "dpTzav",
+      "hdheb": "ו׳ נִיסָן",
+      "hd": "Nissan-6",
+      "month": "Nissan"
+    },
+    "2028-04-03": {
+      "pe": "Tzav",
+      "ph": "צַו",
+      "sl": "dpTzav",
+      "hdheb": "ז׳ נִיסָן",
+      "hd": "Nissan-7",
+      "month": "Nissan"
+    },
+    "2028-04-04": {
+      "pe": "Tzav",
+      "ph": "צַו",
+      "sl": "dpTzav",
+      "hdheb": "ח׳ נִיסָן",
+      "hd": "Nissan-8",
+      "month": "Nissan"
+    },
+    "2028-04-05": {
+      "pe": "Tzav",
+      "ph": "צַו",
+      "sl": "dpTzav",
+      "hdheb": "ט׳ נִיסָן",
+      "hd": "Nissan-9",
+      "month": "Nissan"
+    },
+    "2028-04-06": {
+      "pe": "Tzav",
+      "ph": "צַו",
+      "sl": "dpTzav",
+      "hdheb": "י׳ נִיסָן",
+      "hd": "Nissan-10",
+      "month": "Nissan"
+    },
+    "2028-04-07": {
+      "pe": "Tzav",
+      "ph": "צַו",
+      "sl": "dpTzav",
+      "hdheb": "י״א נִיסָן",
+      "hd": "Nissan-11",
+      "month": "Nissan"
+    },
+    "2028-04-08": {
+      "pe": "Tzav",
+      "ph": "צַו",
+      "sl": "dpTzav",
+      "hdheb": "י״ב נִיסָן",
+      "hd": "Nissan-12",
+      "month": "Nissan"
+    },
+    "2028-04-09": {
+      "pe": "",
+      "ph": "",
+      "sl": "",
+      "hdheb": "י״ג נִיסָן",
+      "hd": "Nissan-13",
+      "month": "Nissan"
+    },
+    "2028-04-10": {
+      "pe": "",
+      "ph": "",
+      "sl": "",
+      "hdheb": "י״ד נִיסָן",
+      "hd": "Nissan-14",
+      "month": "Nissan"
+    },
+    "2028-04-11": {
+      "pe": "",
+      "ph": "",
+      "sl": "",
+      "hdheb": "ט״ו נִיסָן",
+      "hd": "Nissan-15",
+      "month": "Nissan"
+    },
+    "2028-04-12": {
+      "pe": "",
+      "ph": "",
+      "sl": "",
+      "hdheb": "ט״ז נִיסָן",
+      "hd": "Nissan-16",
+      "month": "Nissan"
+    },
+    "2028-04-13": {
+      "pe": "",
+      "ph": "",
+      "sl": "",
+      "hdheb": "י״ז נִיסָן",
+      "hd": "Nissan-17",
+      "month": "Nissan"
+    },
+    "2028-04-14": {
+      "pe": "",
+      "ph": "",
+      "sl": "",
+      "hdheb": "י״ח נִיסָן",
+      "hd": "Nissan-18",
+      "month": "Nissan"
+    },
+    "2028-04-15": {
+      "pe": "",
+      "ph": "",
+      "sl": "",
+      "hdheb": "י״ט נִיסָן",
+      "hd": "Nissan-19",
+      "month": "Nissan"
+    },
+    "2028-04-16": {
+      "pe": "Shemini",
+      "ph": "שְׁמִינִי",
+      "sl": "dpShemini",
+      "hdheb": "כ׳ נִיסָן",
+      "hd": "Nissan-20",
+      "month": "Nissan"
+    },
+    "2028-04-17": {
+      "pe": "Shemini",
+      "ph": "שְׁמִינִי",
+      "sl": "dpShemini",
+      "hdheb": "כ״א נִיסָן",
+      "hd": "Nissan-21",
+      "month": "Nissan"
+    },
+    "2028-04-18": {
+      "pe": "Shemini",
+      "ph": "שְׁמִינִי",
+      "sl": "dpShemini",
+      "hdheb": "כ״ב נִיסָן",
+      "hd": "Nissan-22",
+      "month": "Nissan"
+    },
+    "2028-04-19": {
+      "pe": "Shemini",
+      "ph": "שְׁמִינִי",
+      "sl": "dpShemini",
+      "hdheb": "כ״ג נִיסָן",
+      "hd": "Nissan-23",
+      "month": "Nissan"
+    },
+    "2028-04-20": {
+      "pe": "Shemini",
+      "ph": "שְׁמִינִי",
+      "sl": "dpShemini",
+      "hdheb": "כ״ד נִיסָן",
+      "hd": "Nissan-24",
+      "month": "Nissan"
+    },
+    "2028-04-21": {
+      "pe": "Shemini",
+      "ph": "שְׁמִינִי",
+      "sl": "dpShemini",
+      "hdheb": "כ״ה נִיסָן",
+      "hd": "Nissan-25",
+      "month": "Nissan"
+    },
+    "2028-04-22": {
+      "pe": "Shemini",
+      "ph": "שְׁמִינִי",
+      "sl": "dpShemini",
+      "hdheb": "כ״ו נִיסָן",
+      "hd": "Nissan-26",
+      "month": "Nissan"
+    },
+    "2028-04-23": {
+      "pe": "Tazria–Metzora",
+      "ph": "תַזְרִיעַ־מְצֹרָע",
+      "sl": "dpTazria",
+      "hdheb": "כ״ז נִיסָן",
+      "hd": "Nissan-27",
+      "month": "Nissan"
+    },
+    "2028-04-24": {
+      "pe": "Tazria–Metzora",
+      "ph": "תַזְרִיעַ־מְצֹרָע",
+      "sl": "dpTazria",
+      "hdheb": "כ״ח נִיסָן",
+      "hd": "Nissan-28",
+      "month": "Nissan"
+    },
+    "2028-04-25": {
+      "pe": "Tazria–Metzora",
+      "ph": "תַזְרִיעַ־מְצֹרָע",
+      "sl": "dpTazria",
+      "hdheb": "כ״ט נִיסָן",
+      "hd": "Nissan-29",
+      "month": "Nissan"
+    },
+    "2028-04-26": {
+      "pe": "Tazria–Metzora",
+      "ph": "תַזְרִיעַ־מְצֹרָע",
+      "sl": "dpTazria",
+      "hdheb": "ל׳ נִיסָן",
+      "hd": "Nissan-30",
+      "month": "Nissan"
+    },
+    "2028-04-27": {
+      "pe": "Tazria–Metzora",
+      "ph": "תַזְרִיעַ־מְצֹרָע",
+      "sl": "dpTazria",
+      "hdheb": "א׳ אִיָּיר",
+      "hd": "Iyar-1",
+      "month": "Iyar"
+    },
+    "2028-04-28": {
+      "pe": "Tazria–Metzora",
+      "ph": "תַזְרִיעַ־מְצֹרָע",
+      "sl": "dpTazria",
+      "hdheb": "ב׳ אִיָּיר",
+      "hd": "Iyar-2",
+      "month": "Iyar"
+    },
+    "2028-04-29": {
+      "pe": "Tazria–Metzora",
+      "ph": "תַזְרִיעַ־מְצֹרָע",
+      "sl": "dpTazria",
+      "hdheb": "ג׳ אִיָּיר",
+      "hd": "Iyar-3",
+      "month": "Iyar"
+    },
+    "2028-04-30": {
+      "pe": "Acharei Mos–Kedoshim",
+      "ph": "אַחֲרֵי מוֹת־קְדוֹשִׁים",
+      "sl": "dpAchareiMos",
+      "hdheb": "ד׳ אִיָּיר",
+      "hd": "Iyar-4",
+      "month": "Iyar"
+    },
+    "2028-05-01": {
+      "pe": "Acharei Mos–Kedoshim",
+      "ph": "אַחֲרֵי מוֹת־קְדוֹשִׁים",
+      "sl": "dpAchareiMos",
+      "hdheb": "ה׳ אִיָּיר",
+      "hd": "Iyar-5",
+      "month": "Iyar"
+    },
+    "2028-05-02": {
+      "pe": "Acharei Mos–Kedoshim",
+      "ph": "אַחֲרֵי מוֹת־קְדוֹשִׁים",
+      "sl": "dpAchareiMos",
+      "hdheb": "ו׳ אִיָּיר",
+      "hd": "Iyar-6",
+      "month": "Iyar"
+    },
+    "2028-05-03": {
+      "pe": "Acharei Mos–Kedoshim",
+      "ph": "אַחֲרֵי מוֹת־קְדוֹשִׁים",
+      "sl": "dpAchareiMos",
+      "hdheb": "ז׳ אִיָּיר",
+      "hd": "Iyar-7",
+      "month": "Iyar"
+    },
+    "2028-05-04": {
+      "pe": "Acharei Mos–Kedoshim",
+      "ph": "אַחֲרֵי מוֹת־קְדוֹשִׁים",
+      "sl": "dpAchareiMos",
+      "hdheb": "ח׳ אִיָּיר",
+      "hd": "Iyar-8",
+      "month": "Iyar"
+    },
+    "2028-05-05": {
+      "pe": "Acharei Mos–Kedoshim",
+      "ph": "אַחֲרֵי מוֹת־קְדוֹשִׁים",
+      "sl": "dpAchareiMos",
+      "hdheb": "ט׳ אִיָּיר",
+      "hd": "Iyar-9",
+      "month": "Iyar"
+    },
+    "2028-05-06": {
+      "pe": "Acharei Mos–Kedoshim",
+      "ph": "אַחֲרֵי מוֹת־קְדוֹשִׁים",
+      "sl": "dpAchareiMos",
+      "hdheb": "י׳ אִיָּיר",
+      "hd": "Iyar-10",
+      "month": "Iyar"
+    },
+    "2028-05-07": {
+      "pe": "Emor",
+      "ph": "אֱמוֹר",
+      "sl": "dpEmor",
+      "hdheb": "י״א אִיָּיר",
+      "hd": "Iyar-11",
+      "month": "Iyar"
+    },
+    "2028-05-08": {
+      "pe": "Emor",
+      "ph": "אֱמוֹר",
+      "sl": "dpEmor",
+      "hdheb": "י״ב אִיָּיר",
+      "hd": "Iyar-12",
+      "month": "Iyar"
+    },
+    "2028-05-09": {
+      "pe": "Emor",
+      "ph": "אֱמוֹר",
+      "sl": "dpEmor",
+      "hdheb": "י״ג אִיָּיר",
+      "hd": "Iyar-13",
+      "month": "Iyar"
+    },
+    "2028-05-10": {
+      "pe": "Emor",
+      "ph": "אֱמוֹר",
+      "sl": "dpEmor",
+      "hdheb": "י״ד אִיָּיר",
+      "hd": "Iyar-14",
+      "month": "Iyar"
+    },
+    "2028-05-11": {
+      "pe": "Emor",
+      "ph": "אֱמוֹר",
+      "sl": "dpEmor",
+      "hdheb": "ט״ו אִיָּיר",
+      "hd": "Iyar-15",
+      "month": "Iyar"
+    },
+    "2028-05-12": {
+      "pe": "Emor",
+      "ph": "אֱמוֹר",
+      "sl": "dpEmor",
+      "hdheb": "ט״ז אִיָּיר",
+      "hd": "Iyar-16",
+      "month": "Iyar"
+    },
+    "2028-05-13": {
+      "pe": "Emor",
+      "ph": "אֱמוֹר",
+      "sl": "dpEmor",
+      "hdheb": "י״ז אִיָּיר",
+      "hd": "Iyar-17",
+      "month": "Iyar"
+    },
+    "2028-05-14": {
+      "pe": "Behar–Bechukosai",
+      "ph": "בְּהַר־בְּחֻקֹּתַי",
+      "sl": "dpBehar",
+      "hdheb": "י״ח אִיָּיר",
+      "hd": "Iyar-18",
+      "month": "Iyar"
+    },
+    "2028-05-15": {
+      "pe": "Behar–Bechukosai",
+      "ph": "בְּהַר־בְּחֻקֹּתַי",
+      "sl": "dpBehar",
+      "hdheb": "י״ט אִיָּיר",
+      "hd": "Iyar-19",
+      "month": "Iyar"
+    },
+    "2028-05-16": {
+      "pe": "Behar–Bechukosai",
+      "ph": "בְּהַר־בְּחֻקֹּתַי",
+      "sl": "dpBehar",
+      "hdheb": "כ׳ אִיָּיר",
+      "hd": "Iyar-20",
+      "month": "Iyar"
+    },
+    "2028-05-17": {
+      "pe": "Behar–Bechukosai",
+      "ph": "בְּהַר־בְּחֻקֹּתַי",
+      "sl": "dpBehar",
+      "hdheb": "כ״א אִיָּיר",
+      "hd": "Iyar-21",
+      "month": "Iyar"
+    },
+    "2028-05-18": {
+      "pe": "Behar–Bechukosai",
+      "ph": "בְּהַר־בְּחֻקֹּתַי",
+      "sl": "dpBehar",
+      "hdheb": "כ״ב אִיָּיר",
+      "hd": "Iyar-22",
+      "month": "Iyar"
+    },
+    "2028-05-19": {
+      "pe": "Behar–Bechukosai",
+      "ph": "בְּהַר־בְּחֻקֹּתַי",
+      "sl": "dpBehar",
+      "hdheb": "כ״ג אִיָּיר",
+      "hd": "Iyar-23",
+      "month": "Iyar"
+    },
+    "2028-05-20": {
+      "pe": "Behar–Bechukosai",
+      "ph": "בְּהַר־בְּחֻקֹּתַי",
+      "sl": "dpBehar",
+      "hdheb": "כ״ד אִיָּיר",
+      "hd": "Iyar-24",
+      "month": "Iyar"
+    },
+    "2028-05-21": {
+      "pe": "Bamidbar",
+      "ph": "בְּמִדְבַּר",
+      "sl": "dpBamidbar",
+      "hdheb": "כ״ה אִיָּיר",
+      "hd": "Iyar-25",
+      "month": "Iyar"
+    },
+    "2028-05-22": {
+      "pe": "Bamidbar",
+      "ph": "בְּמִדְבַּר",
+      "sl": "dpBamidbar",
+      "hdheb": "כ״ו אִיָּיר",
+      "hd": "Iyar-26",
+      "month": "Iyar"
+    },
+    "2028-05-23": {
+      "pe": "Bamidbar",
+      "ph": "בְּמִדְבַּר",
+      "sl": "dpBamidbar",
+      "hdheb": "כ״ז אִיָּיר",
+      "hd": "Iyar-27",
+      "month": "Iyar"
+    },
+    "2028-05-24": {
+      "pe": "Bamidbar",
+      "ph": "בְּמִדְבַּר",
+      "sl": "dpBamidbar",
+      "hdheb": "כ״ח אִיָּיר",
+      "hd": "Iyar-28",
+      "month": "Iyar"
+    },
+    "2028-05-25": {
+      "pe": "Bamidbar",
+      "ph": "בְּמִדְבַּר",
+      "sl": "dpBamidbar",
+      "hdheb": "כ״ט אִיָּיר",
+      "hd": "Iyar-29",
+      "month": "Iyar"
+    },
+    "2028-05-26": {
+      "pe": "Bamidbar",
+      "ph": "בְּמִדְבַּר",
+      "sl": "dpBamidbar",
+      "hdheb": "א׳ סִיוָן",
+      "hd": "Sivan-1",
+      "month": "Sivan"
+    },
+    "2028-05-27": {
+      "pe": "Bamidbar",
+      "ph": "בְּמִדְבַּר",
+      "sl": "dpBamidbar",
+      "hdheb": "ב׳ סִיוָן",
+      "hd": "Sivan-2",
+      "month": "Sivan"
+    },
+    "2028-05-28": {
+      "pe": "Nasso",
+      "ph": "נָשֹׂא",
+      "sl": "dpNasso",
+      "hdheb": "ג׳ סִיוָן",
+      "hd": "Sivan-3",
+      "month": "Sivan"
+    },
+    "2028-05-29": {
+      "pe": "Nasso",
+      "ph": "נָשֹׂא",
+      "sl": "dpNasso",
+      "hdheb": "ד׳ סִיוָן",
+      "hd": "Sivan-4",
+      "month": "Sivan"
+    },
+    "2028-05-30": {
+      "pe": "Nasso",
+      "ph": "נָשֹׂא",
+      "sl": "dpNasso",
+      "hdheb": "ה׳ סִיוָן",
+      "hd": "Sivan-5",
+      "month": "Sivan"
+    },
+    "2028-05-31": {
+      "pe": "Nasso",
+      "ph": "נָשֹׂא",
+      "sl": "dpNasso",
+      "hdheb": "ו׳ סִיוָן",
+      "hd": "Sivan-6",
+      "month": "Sivan"
+    },
+    "2028-06-01": {
+      "pe": "Nasso",
+      "ph": "נָשֹׂא",
+      "sl": "dpNasso",
+      "hdheb": "ז׳ סִיוָן",
+      "hd": "Sivan-7",
+      "month": "Sivan"
+    },
+    "2028-06-02": {
+      "pe": "Nasso",
+      "ph": "נָשֹׂא",
+      "sl": "dpNasso",
+      "hdheb": "ח׳ סִיוָן",
+      "hd": "Sivan-8",
+      "month": "Sivan"
+    },
+    "2028-06-03": {
+      "pe": "Nasso",
+      "ph": "נָשֹׂא",
+      "sl": "dpNasso",
+      "hdheb": "ט׳ סִיוָן",
+      "hd": "Sivan-9",
+      "month": "Sivan"
+    },
+    "2028-06-04": {
+      "pe": "Beha'aloscha",
+      "ph": "",
+      "sl": "dParsha",
+      "hdheb": "י׳ סִיוָן",
+      "hd": "Sivan-10",
+      "month": "Sivan"
+    },
+    "2028-06-05": {
+      "pe": "Beha'aloscha",
+      "ph": "",
+      "sl": "dParsha",
+      "hdheb": "י״א סִיוָן",
+      "hd": "Sivan-11",
+      "month": "Sivan"
+    },
+    "2028-06-06": {
+      "pe": "Beha'aloscha",
+      "ph": "",
+      "sl": "dParsha",
+      "hdheb": "י״ב סִיוָן",
+      "hd": "Sivan-12",
+      "month": "Sivan"
+    },
+    "2028-06-07": {
+      "pe": "Beha'aloscha",
+      "ph": "",
+      "sl": "dParsha",
+      "hdheb": "י״ג סִיוָן",
+      "hd": "Sivan-13",
+      "month": "Sivan"
+    },
+    "2028-06-08": {
+      "pe": "Beha'aloscha",
+      "ph": "",
+      "sl": "dParsha",
+      "hdheb": "י״ד סִיוָן",
+      "hd": "Sivan-14",
+      "month": "Sivan"
+    },
+    "2028-06-09": {
+      "pe": "Beha'aloscha",
+      "ph": "",
+      "sl": "dParsha",
+      "hdheb": "ט״ו סִיוָן",
+      "hd": "Sivan-15",
+      "month": "Sivan"
+    },
+    "2028-06-10": {
+      "pe": "Beha'aloscha",
+      "ph": "",
+      "sl": "dParsha",
+      "hdheb": "ט״ז סִיוָן",
+      "hd": "Sivan-16",
+      "month": "Sivan"
+    },
+    "2028-06-11": {
+      "pe": "Shelach",
+      "ph": "שְׁלַח",
+      "sl": "dpShelach",
+      "hdheb": "י״ז סִיוָן",
+      "hd": "Sivan-17",
+      "month": "Sivan"
+    },
+    "2028-06-12": {
+      "pe": "Shelach",
+      "ph": "שְׁלַח",
+      "sl": "dpShelach",
+      "hdheb": "י״ח סִיוָן",
+      "hd": "Sivan-18",
+      "month": "Sivan"
+    },
+    "2028-06-13": {
+      "pe": "Shelach",
+      "ph": "שְׁלַח",
+      "sl": "dpShelach",
+      "hdheb": "י״ט סִיוָן",
+      "hd": "Sivan-19",
+      "month": "Sivan"
+    },
+    "2028-06-14": {
+      "pe": "Shelach",
+      "ph": "שְׁלַח",
+      "sl": "dpShelach",
+      "hdheb": "כ׳ סִיוָן",
+      "hd": "Sivan-20",
+      "month": "Sivan"
+    },
+    "2028-06-15": {
+      "pe": "Shelach",
+      "ph": "שְׁלַח",
+      "sl": "dpShelach",
+      "hdheb": "כ״א סִיוָן",
+      "hd": "Sivan-21",
+      "month": "Sivan"
+    },
+    "2028-06-16": {
+      "pe": "Shelach",
+      "ph": "שְׁלַח",
+      "sl": "dpShelach",
+      "hdheb": "כ״ב סִיוָן",
+      "hd": "Sivan-22",
+      "month": "Sivan"
+    },
+    "2028-06-17": {
+      "pe": "Shelach",
+      "ph": "שְׁלַח",
+      "sl": "dpShelach",
+      "hdheb": "כ״ג סִיוָן",
+      "hd": "Sivan-23",
+      "month": "Sivan"
+    },
+    "2028-06-18": {
+      "pe": "Korach",
+      "ph": "קֹרַח",
+      "sl": "dpKorach",
+      "hdheb": "כ״ד סִיוָן",
+      "hd": "Sivan-24",
+      "month": "Sivan"
+    },
+    "2028-06-19": {
+      "pe": "Korach",
+      "ph": "קֹרַח",
+      "sl": "dpKorach",
+      "hdheb": "כ״ה סִיוָן",
+      "hd": "Sivan-25",
+      "month": "Sivan"
+    },
+    "2028-06-20": {
+      "pe": "Korach",
+      "ph": "קֹרַח",
+      "sl": "dpKorach",
+      "hdheb": "כ״ו סִיוָן",
+      "hd": "Sivan-26",
+      "month": "Sivan"
+    },
+    "2028-06-21": {
+      "pe": "Korach",
+      "ph": "קֹרַח",
+      "sl": "dpKorach",
+      "hdheb": "כ״ז סִיוָן",
+      "hd": "Sivan-27",
+      "month": "Sivan"
+    },
+    "2028-06-22": {
+      "pe": "Korach",
+      "ph": "קֹרַח",
+      "sl": "dpKorach",
+      "hdheb": "כ״ח סִיוָן",
+      "hd": "Sivan-28",
+      "month": "Sivan"
+    },
+    "2028-06-23": {
+      "pe": "Korach",
+      "ph": "קֹרַח",
+      "sl": "dpKorach",
+      "hdheb": "כ״ט סִיוָן",
+      "hd": "Sivan-29",
+      "month": "Sivan"
+    },
+    "2028-06-24": {
+      "pe": "Korach",
+      "ph": "קֹרַח",
+      "sl": "dpKorach",
+      "hdheb": "ל׳ סִיוָן",
+      "hd": "Sivan-30",
+      "month": "Sivan"
+    },
+    "2028-06-25": {
+      "pe": "Chukas",
+      "ph": "חֻקַּת",
+      "sl": "dpChukas",
+      "hdheb": "א׳ תַּמּוּז",
+      "hd": "Tammuz-1",
+      "month": "Tammuz"
+    },
+    "2028-06-26": {
+      "pe": "Chukas",
+      "ph": "חֻקַּת",
+      "sl": "dpChukas",
+      "hdheb": "ב׳ תַּמּוּז",
+      "hd": "Tammuz-2",
+      "month": "Tammuz"
+    },
+    "2028-06-27": {
+      "pe": "Chukas",
+      "ph": "חֻקַּת",
+      "sl": "dpChukas",
+      "hdheb": "ג׳ תַּמּוּז",
+      "hd": "Tammuz-3",
+      "month": "Tammuz"
+    },
+    "2028-06-28": {
+      "pe": "Chukas",
+      "ph": "חֻקַּת",
+      "sl": "dpChukas",
+      "hdheb": "ד׳ תַּמּוּז",
+      "hd": "Tammuz-4",
+      "month": "Tammuz"
+    },
+    "2028-06-29": {
+      "pe": "Chukas",
+      "ph": "חֻקַּת",
+      "sl": "dpChukas",
+      "hdheb": "ה׳ תַּמּוּז",
+      "hd": "Tammuz-5",
+      "month": "Tammuz"
+    },
+    "2028-06-30": {
+      "pe": "Chukas",
+      "ph": "חֻקַּת",
+      "sl": "dpChukas",
+      "hdheb": "ו׳ תַּמּוּז",
+      "hd": "Tammuz-6",
+      "month": "Tammuz"
+    },
+    "2028-07-01": {
+      "pe": "Chukas",
+      "ph": "חֻקַּת",
+      "sl": "dpChukas",
+      "hdheb": "ז׳ תַּמּוּז",
+      "hd": "Tammuz-7",
+      "month": "Tammuz"
+    },
+    "2028-07-02": {
+      "pe": "Balak",
+      "ph": "בָּלָק",
+      "sl": "dpBalak",
+      "hdheb": "ח׳ תַּמּוּז",
+      "hd": "Tammuz-8",
+      "month": "Tammuz"
+    },
+    "2028-07-03": {
+      "pe": "Balak",
+      "ph": "בָּלָק",
+      "sl": "dpBalak",
+      "hdheb": "ט׳ תַּמּוּז",
+      "hd": "Tammuz-9",
+      "month": "Tammuz"
+    },
+    "2028-07-04": {
+      "pe": "Balak",
+      "ph": "בָּלָק",
+      "sl": "dpBalak",
+      "hdheb": "י׳ תַּמּוּז",
+      "hd": "Tammuz-10",
+      "month": "Tammuz"
+    },
+    "2028-07-05": {
+      "pe": "Balak",
+      "ph": "בָּלָק",
+      "sl": "dpBalak",
+      "hdheb": "י״א תַּמּוּז",
+      "hd": "Tammuz-11",
+      "month": "Tammuz"
+    },
+    "2028-07-06": {
+      "pe": "Balak",
+      "ph": "בָּלָק",
+      "sl": "dpBalak",
+      "hdheb": "י״ב תַּמּוּז",
+      "hd": "Tammuz-12",
+      "month": "Tammuz"
+    },
+    "2028-07-07": {
+      "pe": "Balak",
+      "ph": "בָּלָק",
+      "sl": "dpBalak",
+      "hdheb": "י״ג תַּמּוּז",
+      "hd": "Tammuz-13",
+      "month": "Tammuz"
+    },
+    "2028-07-08": {
+      "pe": "Balak",
+      "ph": "בָּלָק",
+      "sl": "dpBalak",
+      "hdheb": "י״ד תַּמּוּז",
+      "hd": "Tammuz-14",
+      "month": "Tammuz"
+    },
+    "2028-07-09": {
+      "pe": "Pinchas",
+      "ph": "פִּינְחָס",
+      "sl": "dpPinchas",
+      "hdheb": "ט״ו תַּמּוּז",
+      "hd": "Tammuz-15",
+      "month": "Tammuz"
+    },
+    "2028-07-10": {
+      "pe": "Pinchas",
+      "ph": "פִּינְחָס",
+      "sl": "dpPinchas",
+      "hdheb": "ט״ז תַּמּוּז",
+      "hd": "Tammuz-16",
+      "month": "Tammuz"
+    },
+    "2028-07-11": {
+      "pe": "Pinchas",
+      "ph": "פִּינְחָס",
+      "sl": "dpPinchas",
+      "hdheb": "י״ז תַּמּוּז",
+      "hd": "Tammuz-17",
+      "month": "Tammuz"
+    },
+    "2028-07-12": {
+      "pe": "Pinchas",
+      "ph": "פִּינְחָס",
+      "sl": "dpPinchas",
+      "hdheb": "י״ח תַּמּוּז",
+      "hd": "Tammuz-18",
+      "month": "Tammuz"
+    },
+    "2028-07-13": {
+      "pe": "Pinchas",
+      "ph": "פִּינְחָס",
+      "sl": "dpPinchas",
+      "hdheb": "י״ט תַּמּוּז",
+      "hd": "Tammuz-19",
+      "month": "Tammuz"
+    },
+    "2028-07-14": {
+      "pe": "Pinchas",
+      "ph": "פִּינְחָס",
+      "sl": "dpPinchas",
+      "hdheb": "כ׳ תַּמּוּז",
+      "hd": "Tammuz-20",
+      "month": "Tammuz"
+    },
+    "2028-07-15": {
+      "pe": "Pinchas",
+      "ph": "פִּינְחָס",
+      "sl": "dpPinchas",
+      "hdheb": "כ״א תַּמּוּז",
+      "hd": "Tammuz-21",
+      "month": "Tammuz"
+    },
+    "2028-07-16": {
+      "pe": "Mattos–Masei",
+      "ph": "",
+      "sl": "dpMatosMasei",
+      "hdheb": "כ״ב תַּמּוּז",
+      "hd": "Tammuz-22",
+      "month": "Tammuz"
+    },
+    "2028-07-17": {
+      "pe": "Mattos–Masei",
+      "ph": "",
+      "sl": "dpMatosMasei",
+      "hdheb": "כ״ג תַּמּוּז",
+      "hd": "Tammuz-23",
+      "month": "Tammuz"
+    },
+    "2028-07-18": {
+      "pe": "Mattos–Masei",
+      "ph": "",
+      "sl": "dpMatosMasei",
+      "hdheb": "כ״ד תַּמּוּז",
+      "hd": "Tammuz-24",
+      "month": "Tammuz"
+    },
+    "2028-07-19": {
+      "pe": "Mattos–Masei",
+      "ph": "",
+      "sl": "dpMatosMasei",
+      "hdheb": "כ״ה תַּמּוּז",
+      "hd": "Tammuz-25",
+      "month": "Tammuz"
+    },
+    "2028-07-20": {
+      "pe": "Mattos–Masei",
+      "ph": "",
+      "sl": "dpMatosMasei",
+      "hdheb": "כ״ו תַּמּוּז",
+      "hd": "Tammuz-26",
+      "month": "Tammuz"
+    },
+    "2028-07-21": {
+      "pe": "Mattos–Masei",
+      "ph": "",
+      "sl": "dpMatosMasei",
+      "hdheb": "כ״ז תַּמּוּז",
+      "hd": "Tammuz-27",
+      "month": "Tammuz"
+    },
+    "2028-07-22": {
+      "pe": "Mattos–Masei",
+      "ph": "",
+      "sl": "dpMatosMasei",
+      "hdheb": "כ״ח תַּמּוּז",
+      "hd": "Tammuz-28",
+      "month": "Tammuz"
+    },
+    "2028-07-23": {
+      "pe": "Devarim",
+      "ph": "דְּבָרִים",
+      "sl": "dpDevarim",
+      "hdheb": "כ״ט תַּמּוּז",
+      "hd": "Tammuz-29",
+      "month": "Tammuz"
+    },
+    "2028-07-24": {
+      "pe": "Devarim",
+      "ph": "דְּבָרִים",
+      "sl": "dpDevarim",
+      "hdheb": "א׳ אָב",
+      "hd": "Av-1",
+      "month": "Av"
+    },
+    "2028-07-25": {
+      "pe": "Devarim",
+      "ph": "דְּבָרִים",
+      "sl": "dpDevarim",
+      "hdheb": "ב׳ אָב",
+      "hd": "Av-2",
+      "month": "Av"
+    },
+    "2028-07-26": {
+      "pe": "Devarim",
+      "ph": "דְּבָרִים",
+      "sl": "dpDevarim",
+      "hdheb": "ג׳ אָב",
+      "hd": "Av-3",
+      "month": "Av"
+    },
+    "2028-07-27": {
+      "pe": "Devarim",
+      "ph": "דְּבָרִים",
+      "sl": "dpDevarim",
+      "hdheb": "ד׳ אָב",
+      "hd": "Av-4",
+      "month": "Av"
+    },
+    "2028-07-28": {
+      "pe": "Devarim",
+      "ph": "דְּבָרִים",
+      "sl": "dpDevarim",
+      "hdheb": "ה׳ אָב",
+      "hd": "Av-5",
+      "month": "Av"
+    },
+    "2028-07-29": {
+      "pe": "Devarim",
+      "ph": "דְּבָרִים",
+      "sl": "dpDevarim",
+      "hdheb": "ו׳ אָב",
+      "hd": "Av-6",
+      "month": "Av"
+    },
+    "2028-07-30": {
+      "pe": "Va'eschanan",
+      "ph": "",
+      "sl": "dParsha",
+      "hdheb": "ז׳ אָב",
+      "hd": "Av-7",
+      "month": "Av"
+    },
+    "2028-07-31": {
+      "pe": "Va'eschanan",
+      "ph": "",
+      "sl": "dParsha",
+      "hdheb": "ח׳ אָב",
+      "hd": "Av-8",
+      "month": "Av"
+    },
+    "2028-08-01": {
+      "pe": "Va'eschanan",
+      "ph": "",
+      "sl": "dParsha",
+      "hdheb": "ט׳ אָב",
+      "hd": "Av-9",
+      "month": "Av"
+    },
+    "2028-08-02": {
+      "pe": "Va'eschanan",
+      "ph": "",
+      "sl": "dParsha",
+      "hdheb": "י׳ אָב",
+      "hd": "Av-10",
+      "month": "Av"
+    },
+    "2028-08-03": {
+      "pe": "Va'eschanan",
+      "ph": "",
+      "sl": "dParsha",
+      "hdheb": "י״א אָב",
+      "hd": "Av-11",
+      "month": "Av"
+    },
+    "2028-08-04": {
+      "pe": "Va'eschanan",
+      "ph": "",
+      "sl": "dParsha",
+      "hdheb": "י״ב אָב",
+      "hd": "Av-12",
+      "month": "Av"
+    },
+    "2028-08-05": {
+      "pe": "Va'eschanan",
+      "ph": "",
+      "sl": "dParsha",
+      "hdheb": "י״ג אָב",
+      "hd": "Av-13",
+      "month": "Av"
+    },
+    "2028-08-06": {
+      "pe": "Eikev",
+      "ph": "עֵקֶב",
+      "sl": "dpEikev",
+      "hdheb": "י״ד אָב",
+      "hd": "Av-14",
+      "month": "Av"
+    },
+    "2028-08-07": {
+      "pe": "Eikev",
+      "ph": "עֵקֶב",
+      "sl": "dpEikev",
+      "hdheb": "ט״ו אָב",
+      "hd": "Av-15",
+      "month": "Av"
+    },
+    "2028-08-08": {
+      "pe": "Eikev",
+      "ph": "עֵקֶב",
+      "sl": "dpEikev",
+      "hdheb": "ט״ז אָב",
+      "hd": "Av-16",
+      "month": "Av"
+    },
+    "2028-08-09": {
+      "pe": "Eikev",
+      "ph": "עֵקֶב",
+      "sl": "dpEikev",
+      "hdheb": "י״ז אָב",
+      "hd": "Av-17",
+      "month": "Av"
+    },
+    "2028-08-10": {
+      "pe": "Eikev",
+      "ph": "עֵקֶב",
+      "sl": "dpEikev",
+      "hdheb": "י״ח אָב",
+      "hd": "Av-18",
+      "month": "Av"
+    },
+    "2028-08-11": {
+      "pe": "Eikev",
+      "ph": "עֵקֶב",
+      "sl": "dpEikev",
+      "hdheb": "י״ט אָב",
+      "hd": "Av-19",
+      "month": "Av"
+    },
+    "2028-08-12": {
+      "pe": "Eikev",
+      "ph": "עֵקֶב",
+      "sl": "dpEikev",
+      "hdheb": "כ׳ אָב",
+      "hd": "Av-20",
+      "month": "Av"
+    },
+    "2028-08-13": {
+      "pe": "Re'eh",
+      "ph": "",
+      "sl": "dParsha",
+      "hdheb": "כ״א אָב",
+      "hd": "Av-21",
+      "month": "Av"
+    },
+    "2028-08-14": {
+      "pe": "Re'eh",
+      "ph": "",
+      "sl": "dParsha",
+      "hdheb": "כ״ב אָב",
+      "hd": "Av-22",
+      "month": "Av"
+    },
+    "2028-08-15": {
+      "pe": "Re'eh",
+      "ph": "",
+      "sl": "dParsha",
+      "hdheb": "כ״ג אָב",
+      "hd": "Av-23",
+      "month": "Av"
+    },
+    "2028-08-16": {
+      "pe": "Re'eh",
+      "ph": "",
+      "sl": "dParsha",
+      "hdheb": "כ״ד אָב",
+      "hd": "Av-24",
+      "month": "Av"
+    },
+    "2028-08-17": {
+      "pe": "Re'eh",
+      "ph": "",
+      "sl": "dParsha",
+      "hdheb": "כ״ה אָב",
+      "hd": "Av-25",
+      "month": "Av"
+    },
+    "2028-08-18": {
+      "pe": "Re'eh",
+      "ph": "",
+      "sl": "dParsha",
+      "hdheb": "כ״ו אָב",
+      "hd": "Av-26",
+      "month": "Av"
+    },
+    "2028-08-19": {
+      "pe": "Re'eh",
+      "ph": "",
+      "sl": "dParsha",
+      "hdheb": "כ״ז אָב",
+      "hd": "Av-27",
+      "month": "Av"
+    },
+    "2028-08-20": {
+      "pe": "Shoftim",
+      "ph": "שׁוֹפְטִים",
+      "sl": "dpShoftim",
+      "hdheb": "כ״ח אָב",
+      "hd": "Av-28",
+      "month": "Av"
+    },
+    "2028-08-21": {
+      "pe": "Shoftim",
+      "ph": "שׁוֹפְטִים",
+      "sl": "dpShoftim",
+      "hdheb": "כ״ט אָב",
+      "hd": "Av-29",
+      "month": "Av"
+    },
+    "2028-08-22": {
+      "pe": "Shoftim",
+      "ph": "שׁוֹפְטִים",
+      "sl": "dpShoftim",
+      "hdheb": "ל׳ אָב",
+      "hd": "Av-30",
+      "month": "Av"
+    },
+    "2028-08-23": {
+      "pe": "Shoftim",
+      "ph": "שׁוֹפְטִים",
+      "sl": "dpShoftim",
+      "hdheb": "א׳ אֱלוּל",
+      "hd": "Elul-1",
+      "month": "Elul"
+    },
+    "2028-08-24": {
+      "pe": "Shoftim",
+      "ph": "שׁוֹפְטִים",
+      "sl": "dpShoftim",
+      "hdheb": "ב׳ אֱלוּל",
+      "hd": "Elul-2",
+      "month": "Elul"
+    },
+    "2028-08-25": {
+      "pe": "Shoftim",
+      "ph": "שׁוֹפְטִים",
+      "sl": "dpShoftim",
+      "hdheb": "ג׳ אֱלוּל",
+      "hd": "Elul-3",
+      "month": "Elul"
+    },
+    "2028-08-26": {
+      "pe": "Shoftim",
+      "ph": "שׁוֹפְטִים",
+      "sl": "dpShoftim",
+      "hdheb": "ד׳ אֱלוּל",
+      "hd": "Elul-4",
+      "month": "Elul"
+    },
+    "2028-08-27": {
+      "pe": "Ki Seitzei",
+      "ph": "כִּי תֵצֵא",
+      "sl": "dpKiSeitzei",
+      "hdheb": "ה׳ אֱלוּל",
+      "hd": "Elul-5",
+      "month": "Elul"
+    },
+    "2028-08-28": {
+      "pe": "Ki Seitzei",
+      "ph": "כִּי תֵצֵא",
+      "sl": "dpKiSeitzei",
+      "hdheb": "ו׳ אֱלוּל",
+      "hd": "Elul-6",
+      "month": "Elul"
+    },
+    "2028-08-29": {
+      "pe": "Ki Seitzei",
+      "ph": "כִּי תֵצֵא",
+      "sl": "dpKiSeitzei",
+      "hdheb": "ז׳ אֱלוּל",
+      "hd": "Elul-7",
+      "month": "Elul"
+    },
+    "2028-08-30": {
+      "pe": "Ki Seitzei",
+      "ph": "כִּי תֵצֵא",
+      "sl": "dpKiSeitzei",
+      "hdheb": "ח׳ אֱלוּל",
+      "hd": "Elul-8",
+      "month": "Elul"
+    },
+    "2028-08-31": {
+      "pe": "Ki Seitzei",
+      "ph": "כִּי תֵצֵא",
+      "sl": "dpKiSeitzei",
+      "hdheb": "ט׳ אֱלוּל",
+      "hd": "Elul-9",
+      "month": "Elul"
+    },
+    "2028-09-01": {
+      "pe": "Ki Seitzei",
+      "ph": "כִּי תֵצֵא",
+      "sl": "dpKiSeitzei",
+      "hdheb": "י׳ אֱלוּל",
+      "hd": "Elul-10",
+      "month": "Elul"
+    },
+    "2028-09-02": {
+      "pe": "Ki Seitzei",
+      "ph": "כִּי תֵצֵא",
+      "sl": "dpKiSeitzei",
+      "hdheb": "י״א אֱלוּל",
+      "hd": "Elul-11",
+      "month": "Elul"
+    },
+    "2028-09-03": {
+      "pe": "Ki Savo",
+      "ph": "כִּי תָבוֹא",
+      "sl": "dpKiSavo",
+      "hdheb": "י״ב אֱלוּל",
+      "hd": "Elul-12",
+      "month": "Elul"
+    },
+    "2028-09-04": {
+      "pe": "Ki Savo",
+      "ph": "כִּי תָבוֹא",
+      "sl": "dpKiSavo",
+      "hdheb": "י״ג אֱלוּל",
+      "hd": "Elul-13",
+      "month": "Elul"
+    },
+    "2028-09-05": {
+      "pe": "Ki Savo",
+      "ph": "כִּי תָבוֹא",
+      "sl": "dpKiSavo",
+      "hdheb": "י״ד אֱלוּל",
+      "hd": "Elul-14",
+      "month": "Elul"
+    },
+    "2028-09-06": {
+      "pe": "Ki Savo",
+      "ph": "כִּי תָבוֹא",
+      "sl": "dpKiSavo",
+      "hdheb": "ט״ו אֱלוּל",
+      "hd": "Elul-15",
+      "month": "Elul"
+    },
+    "2028-09-07": {
+      "pe": "Ki Savo",
+      "ph": "כִּי תָבוֹא",
+      "sl": "dpKiSavo",
+      "hdheb": "ט״ז אֱלוּל",
+      "hd": "Elul-16",
+      "month": "Elul"
+    },
+    "2028-09-08": {
+      "pe": "Ki Savo",
+      "ph": "כִּי תָבוֹא",
+      "sl": "dpKiSavo",
+      "hdheb": "י״ז אֱלוּל",
+      "hd": "Elul-17",
+      "month": "Elul"
+    },
+    "2028-09-09": {
+      "pe": "Ki Savo",
+      "ph": "כִּי תָבוֹא",
+      "sl": "dpKiSavo",
+      "hdheb": "י״ח אֱלוּל",
+      "hd": "Elul-18",
+      "month": "Elul"
+    },
+    "2028-09-10": {
+      "pe": "Nitzavim–Vayeilech",
+      "ph": "נִצָּבִים־וַיֵּלֶךְ",
+      "sl": "dpNitzavimVayeilech",
+      "hdheb": "י״ט אֱלוּל",
+      "hd": "Elul-19",
+      "month": "Elul"
+    },
+    "2028-09-11": {
+      "pe": "Nitzavim–Vayeilech",
+      "ph": "נִצָּבִים־וַיֵּלֶךְ",
+      "sl": "dpNitzavimVayeilech",
+      "hdheb": "כ׳ אֱלוּל",
+      "hd": "Elul-20",
+      "month": "Elul"
+    },
+    "2028-09-12": {
+      "pe": "Nitzavim–Vayeilech",
+      "ph": "נִצָּבִים־וַיֵּלֶךְ",
+      "sl": "dpNitzavimVayeilech",
+      "hdheb": "כ״א אֱלוּל",
+      "hd": "Elul-21",
+      "month": "Elul"
+    },
+    "2028-09-13": {
+      "pe": "Nitzavim–Vayeilech",
+      "ph": "נִצָּבִים־וַיֵּלֶךְ",
+      "sl": "dpNitzavimVayeilech",
+      "hdheb": "כ״ב אֱלוּל",
+      "hd": "Elul-22",
+      "month": "Elul"
+    },
+    "2028-09-14": {
+      "pe": "Nitzavim–Vayeilech",
+      "ph": "נִצָּבִים־וַיֵּלֶךְ",
+      "sl": "dpNitzavimVayeilech",
+      "hdheb": "כ״ג אֱלוּל",
+      "hd": "Elul-23",
+      "month": "Elul"
+    },
+    "2028-09-15": {
+      "pe": "Nitzavim–Vayeilech",
+      "ph": "נִצָּבִים־וַיֵּלֶךְ",
+      "sl": "dpNitzavimVayeilech",
+      "hdheb": "כ״ד אֱלוּל",
+      "hd": "Elul-24",
+      "month": "Elul"
+    },
+    "2028-09-16": {
+      "pe": "Nitzavim–Vayeilech",
+      "ph": "נִצָּבִים־וַיֵּלֶךְ",
+      "sl": "dpNitzavimVayeilech",
+      "hdheb": "כ״ה אֱלוּל",
+      "hd": "Elul-25",
+      "month": "Elul"
+    },
+    "2028-09-17": {
+      "pe": "Haazinu",
+      "ph": "",
+      "sl": "dParsha",
+      "hdheb": "כ״ו אֱלוּל",
+      "hd": "Elul-26",
+      "month": "Elul"
+    },
+    "2028-09-18": {
+      "pe": "Haazinu",
+      "ph": "",
+      "sl": "dParsha",
+      "hdheb": "כ״ז אֱלוּל",
+      "hd": "Elul-27",
+      "month": "Elul"
+    },
+    "2028-09-19": {
+      "pe": "Haazinu",
+      "ph": "",
+      "sl": "dParsha",
+      "hdheb": "כ״ח אֱלוּל",
+      "hd": "Elul-28",
+      "month": "Elul"
+    },
+    "2028-09-20": {
+      "pe": "Haazinu",
+      "ph": "",
+      "sl": "dParsha",
+      "hdheb": "כ״ט אֱלוּל",
+      "hd": "Elul-29",
+      "month": "Elul"
+    },
+    "2028-09-21": {
+      "pe": "Haazinu",
+      "ph": "",
+      "sl": "dParsha",
+      "hdheb": "א׳ תִּשְׁרֵי",
+      "hd": "Tishrei-1",
+      "month": "Tishrei"
+    },
+    "2028-09-22": {
+      "pe": "Haazinu",
+      "ph": "",
+      "sl": "dParsha",
+      "hdheb": "ב׳ תִּשְׁרֵי",
+      "hd": "Tishrei-2",
+      "month": "Tishrei"
+    },
+    "2028-09-23": {
+      "pe": "Haazinu",
+      "ph": "",
+      "sl": "dParsha",
+      "hdheb": "ג׳ תִּשְׁרֵי",
+      "hd": "Tishrei-3",
+      "month": "Tishrei"
+    },
+    "2028-09-24": {
+      "pe": "",
+      "ph": "",
+      "sl": "",
+      "hdheb": "ד׳ תִּשְׁרֵי",
+      "hd": "Tishrei-4",
+      "month": "Tishrei"
+    },
+    "2028-09-25": {
+      "pe": "",
+      "ph": "",
+      "sl": "",
+      "hdheb": "ה׳ תִּשְׁרֵי",
+      "hd": "Tishrei-5",
+      "month": "Tishrei"
+    },
+    "2028-09-26": {
+      "pe": "",
+      "ph": "",
+      "sl": "",
+      "hdheb": "ו׳ תִּשְׁרֵי",
+      "hd": "Tishrei-6",
+      "month": "Tishrei"
+    },
+    "2028-09-27": {
+      "pe": "",
+      "ph": "",
+      "sl": "",
+      "hdheb": "ז׳ תִּשְׁרֵי",
+      "hd": "Tishrei-7",
+      "month": "Tishrei"
+    },
+    "2028-09-28": {
+      "pe": "",
+      "ph": "",
+      "sl": "",
+      "hdheb": "ח׳ תִּשְׁרֵי",
+      "hd": "Tishrei-8",
+      "month": "Tishrei"
+    },
+    "2028-09-29": {
+      "pe": "",
+      "ph": "",
+      "sl": "",
+      "hdheb": "ט׳ תִּשְׁרֵי",
+      "hd": "Tishrei-9",
+      "month": "Tishrei"
+    },
+    "2028-09-30": {
+      "pe": "",
+      "ph": "",
+      "sl": "",
+      "hdheb": "י׳ תִּשְׁרֵי",
+      "hd": "Tishrei-10",
+      "month": "Tishrei"
+    },
+    "2028-10-01": {
+      "pe": "",
+      "ph": "",
+      "sl": "",
+      "hdheb": "י״א תִּשְׁרֵי",
+      "hd": "Tishrei-11",
+      "month": "Tishrei"
+    }
+  },
+  "yomTov": {
+    "2026-09-12": {
+      "nm": "Rosh Hashanah",
+      "sl": "dytRoshHashanah"
+    },
+    "2026-09-13": {
+      "nm": "Rosh Hashanah",
+      "sl": "dytRoshHashanah"
+    },
+    "2026-09-21": {
+      "nm": "Yom Kippur",
+      "sl": "dytYomKippur"
+    },
+    "2026-09-26": {
+      "nm": "Sukkos",
+      "sl": "dytSukkos"
+    },
+    "2026-09-27": {
+      "nm": "Sukkos",
+      "sl": "dytSukkos"
+    },
+    "2026-09-28": {
+      "nm": "Sukkos",
+      "sl": "dytSukkos"
+    },
+    "2026-09-29": {
+      "nm": "Sukkos",
+      "sl": "dytSukkos"
+    },
+    "2026-09-30": {
+      "nm": "Sukkos",
+      "sl": "dytSukkos"
+    },
+    "2026-10-01": {
+      "nm": "Sukkos",
+      "sl": "dytSukkos"
+    },
+    "2026-10-02": {
+      "nm": "Sukkos",
+      "sl": "dytSukkos"
+    },
+    "2026-10-03": {
+      "nm": "Shemini Atzeres & Simchas Torah",
+      "sl": "dytSheminiAtzeresSimchasTorah"
+    },
+    "2026-10-04": {
+      "nm": "Shemini Atzeres & Simchas Torah",
+      "sl": "dytSheminiAtzeresSimchasTorah"
+    },
+    "2026-12-05": {
+      "nm": "Chanukah",
+      "sl": "dYTChanukah"
+    },
+    "2026-12-06": {
+      "nm": "Chanukah",
+      "sl": "dYTChanukah"
+    },
+    "2026-12-07": {
+      "nm": "Chanukah",
+      "sl": "dYTChanukah"
+    },
+    "2026-12-08": {
+      "nm": "Chanukah",
+      "sl": "dYTChanukah"
+    },
+    "2026-12-09": {
+      "nm": "Chanukah",
+      "sl": "dYTChanukah"
+    },
+    "2026-12-10": {
+      "nm": "Chanukah",
+      "sl": "dYTChanukah"
+    },
+    "2026-12-11": {
+      "nm": "Chanukah",
+      "sl": "dYTChanukah"
+    },
+    "2026-12-12": {
+      "nm": "Chanukah",
+      "sl": "dYTChanukah"
+    },
+    "2026-12-13": {
+      "nm": "Chanukah",
+      "sl": "dYTChanukah"
+    },
+    "2027-01-23": {
+      "nm": "Tu B’Shvat",
+      "sl": "dytTuBShvat"
+    },
+    "2027-03-23": {
+      "nm": "Purim",
+      "sl": "dytPurim"
+    },
+    "2027-04-22": {
+      "nm": "Pesach",
+      "sl": "dytPesach"
+    },
+    "2027-04-23": {
+      "nm": "Pesach",
+      "sl": "dytPesach"
+    },
+    "2027-04-24": {
+      "nm": "Pesach",
+      "sl": "dytPesach"
+    },
+    "2027-04-25": {
+      "nm": "Pesach",
+      "sl": "dytPesach"
+    },
+    "2027-04-26": {
+      "nm": "Pesach",
+      "sl": "dytPesach"
+    },
+    "2027-04-27": {
+      "nm": "Pesach",
+      "sl": "dytPesach"
+    },
+    "2027-04-28": {
+      "nm": "Pesach",
+      "sl": "dytPesach"
+    },
+    "2027-04-29": {
+      "nm": "Pesach",
+      "sl": "dytPesach"
+    },
+    "2027-05-21": {
+      "nm": "Pesach Sheni",
+      "sl": "dytPesachSheni"
+    },
+    "2027-05-25": {
+      "nm": "Lag B’Omer",
+      "sl": "dytLagBOmer"
+    },
+    "2027-06-11": {
+      "nm": "Shavuos",
+      "sl": "dytShavuos"
+    },
+    "2027-06-12": {
+      "nm": "Shavuos",
+      "sl": "dytShavuos"
+    },
+    "2027-08-18": {
+      "nm": "15 Av",
+      "sl": "dyt15Av"
+    },
+    "2027-10-02": {
+      "nm": "Rosh Hashanah",
+      "sl": "dytRoshHashanah"
+    },
+    "2027-10-03": {
+      "nm": "Rosh Hashanah",
+      "sl": "dytRoshHashanah"
+    },
+    "2027-10-11": {
+      "nm": "Yom Kippur",
+      "sl": "dytYomKippur"
+    },
+    "2027-10-16": {
+      "nm": "Sukkos",
+      "sl": "dytSukkos"
+    },
+    "2027-10-17": {
+      "nm": "Sukkos",
+      "sl": "dytSukkos"
+    },
+    "2027-10-18": {
+      "nm": "Sukkos",
+      "sl": "dytSukkos"
+    },
+    "2027-10-19": {
+      "nm": "Sukkos",
+      "sl": "dytSukkos"
+    },
+    "2027-10-20": {
+      "nm": "Sukkos",
+      "sl": "dytSukkos"
+    },
+    "2027-10-21": {
+      "nm": "Sukkos",
+      "sl": "dytSukkos"
+    },
+    "2027-10-22": {
+      "nm": "Sukkos",
+      "sl": "dytSukkos"
+    },
+    "2027-10-23": {
+      "nm": "Shemini Atzeres & Simchas Torah",
+      "sl": "dytSheminiAtzeresSimchasTorah"
+    },
+    "2027-10-24": {
+      "nm": "Shemini Atzeres & Simchas Torah",
+      "sl": "dytSheminiAtzeresSimchasTorah"
+    },
+    "2027-12-25": {
+      "nm": "Chanukah",
+      "sl": "dYTChanukah"
+    },
+    "2027-12-26": {
+      "nm": "Chanukah",
+      "sl": "dYTChanukah"
+    },
+    "2027-12-27": {
+      "nm": "Chanukah",
+      "sl": "dYTChanukah"
+    },
+    "2027-12-28": {
+      "nm": "Chanukah",
+      "sl": "dYTChanukah"
+    },
+    "2027-12-29": {
+      "nm": "Chanukah",
+      "sl": "dYTChanukah"
+    },
+    "2027-12-30": {
+      "nm": "Chanukah",
+      "sl": "dYTChanukah"
+    },
+    "2027-12-31": {
+      "nm": "Chanukah",
+      "sl": "dYTChanukah"
+    },
+    "2028-01-01": {
+      "nm": "Chanukah",
+      "sl": "dYTChanukah"
+    },
+    "2028-01-02": {
+      "nm": "Chanukah",
+      "sl": "dYTChanukah"
+    },
+    "2028-02-12": {
+      "nm": "Tu B’Shvat",
+      "sl": "dytTuBShvat"
+    },
+    "2028-03-12": {
+      "nm": "Purim",
+      "sl": "dytPurim"
+    },
+    "2028-04-11": {
+      "nm": "Pesach",
+      "sl": "dytPesach"
+    },
+    "2028-04-12": {
+      "nm": "Pesach",
+      "sl": "dytPesach"
+    },
+    "2028-04-13": {
+      "nm": "Pesach",
+      "sl": "dytPesach"
+    },
+    "2028-04-14": {
+      "nm": "Pesach",
+      "sl": "dytPesach"
+    },
+    "2028-04-15": {
+      "nm": "Pesach",
+      "sl": "dytPesach"
+    },
+    "2028-04-16": {
+      "nm": "Pesach",
+      "sl": "dytPesach"
+    },
+    "2028-04-17": {
+      "nm": "Pesach",
+      "sl": "dytPesach"
+    },
+    "2028-04-18": {
+      "nm": "Pesach",
+      "sl": "dytPesach"
+    },
+    "2028-05-10": {
+      "nm": "Pesach Sheni",
+      "sl": "dytPesachSheni"
+    },
+    "2028-05-14": {
+      "nm": "Lag B’Omer",
+      "sl": "dytLagBOmer"
+    },
+    "2028-05-31": {
+      "nm": "Shavuos",
+      "sl": "dytShavuos"
+    },
+    "2028-06-01": {
+      "nm": "Shavuos",
+      "sl": "dytShavuos"
+    },
+    "2028-08-07": {
+      "nm": "15 Av",
+      "sl": "dyt15Av"
+    },
+    "2028-09-21": {
+      "nm": "Rosh Hashanah",
+      "sl": "dytRoshHashanah"
+    },
+    "2028-09-22": {
+      "nm": "Rosh Hashanah",
+      "sl": "dytRoshHashanah"
+    },
+    "2028-09-30": {
+      "nm": "Yom Kippur",
+      "sl": "dytYomKippur"
+    }
+  },
+  "monthHeb": {
+    "Tishrei": "תִּשְׁרֵי",
+    "Cheshvan": "חֶשְׁוָן",
+    "Kislev": "כִּסְלֵו",
+    "Teves": "טֵבֵת",
+    "Shevat": "שְׁבָט",
+    "Adar": "אֲדָר",
+    "Adar I": "אֲדָר א׳",
+    "Adar II": "אֲדָר ב׳",
+    "Nissan": "נִיסָן",
+    "Iyar": "אִיָּיר",
+    "Sivan": "סִיוָן",
+    "Tammuz": "תַּמּוּז",
+    "Av": "אָב",
+    "Elul": "אֱלוּל"
+  },
+  "yomTovHeb": {
+    "Rosh Hashanah": "רֹאשׁ הַשָּׁנָה",
+    "Yom Kippur": "יוֹם כִּפּוּר",
+    "Sukkos": "סֻכּוֹת",
+    "Shemini Atzeres & Simchas Torah": "שְׁמִינִי עֲצֶרֶת",
+    "Chanukah": "חֲנֻכָּה",
+    "Tu B’Shvat": "ט״ו בִּשְׁבָט",
+    "Purim": "פּוּרִים",
+    "Pesach": "פֶּסַח",
+    "Pesach Sheni": "פֶּסַח שֵׁנִי",
+    "Lag B’Omer": "ל״ג בָּעוֹמֶר",
+    "Shavuos": "שָׁבוּעוֹת",
+    "15 Av": "ט״ו בְּאָב"
+  }
+}

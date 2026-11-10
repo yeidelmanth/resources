@@ -1,0 +1,32 @@
+{
+  "id": "cBiurTefillah",
+  "branch": "campaign",
+  "parent": "campaign",
+  "crumbLabel": "Biur Tefillah",
+  "template": "hub",
+  "blocks": [
+    {
+      "type": "heading",
+      "eyebrow": "Campaign",
+      "title": "Biur Tefillah",
+      "text": "The tefillah curriculum — a book for every grade."
+    },
+    {
+      "type": "note",
+      "html": "<b>The tefillah curriculum</b>Siddur Tehillas Hashem with a youthful explanatory translation (“biur tefillah”) — one book per grade, Pre-1A through 7th Grade. Tap a grade to view its pages or open the PDF."
+    },
+    {
+      "type": "html",
+      "html": "<div class=\"btgrid\"><div class=\"btcard\"><img class=\"btcover\" data-img=\"tef_pre1a\" alt=\"Pre-1A cover\" loading=\"lazy\"><div class=\"bt-in\"><div class=\"bt-g\">Pre-1A</div><div class=\"bt-acts\"><button class=\"bt-btn\" data-tefview=\"pre1a\">View Pages</button><button class=\"bt-btn bt-pdf\" data-tefpdf=\"pre1a\">Open PDF</button></div></div></div><div class=\"btcard\"><img class=\"btcover\" data-img=\"tef_g1\" alt=\"1st Grade cover\" loading=\"lazy\"><div class=\"bt-in\"><div class=\"bt-g\">1st Grade</div><div class=\"bt-acts\"><button class=\"bt-btn\" data-tefview=\"g1\">View Pages</button><button class=\"bt-btn bt-pdf\" data-tefpdf=\"g1\">Open PDF</button></div></div></div><div class=\"btcard\"><img class=\"btcover\" data-img=\"tef_g2\" alt=\"2nd Grade cover\" loading=\"lazy\"><div class=\"bt-in\"><div class=\"bt-g\">2nd Grade</div><div class=\"bt-acts\"><button class=\"bt-btn\" data-tefview=\"g2\">View Pages</button><button class=\"bt-btn bt-pdf\" data-tefpdf=\"g2\">Open PDF</button></div></div></div><div class=\"btcard\"><img class=\"btcover\" data-img=\"tef_g3\" alt=\"3rd Grade cover\" loading=\"lazy\"><div class=\"bt-in\"><div class=\"bt-g\">3rd Grade</div><div class=\"bt-acts\"><button class=\"bt-btn\" data-tefview=\"g3\">View Pages</button><button class=\"bt-btn bt-pdf\" data-tefpdf=\"g3\">Open PDF</button></div></div></div><div class=\"btcard\"><img class=\"btcover\" data-img=\"tef_g4\" alt=\"4th Grade cover\" loading=\"lazy\"><div class=\"bt-in\"><div class=\"bt-g\">4th Grade</div><div class=\"bt-acts\"><button class=\"bt-btn\" data-tefview=\"g4\">View Pages</button><button class=\"bt-btn bt-pdf\" data-tefpdf=\"g4\">Open PDF</button></div></div></div><div class=\"btcard\"><img class=\"btcover\" data-img=\"tef_g5\" alt=\"5th Grade cover\" loading=\"lazy\"><div class=\"bt-in\"><div class=\"bt-g\">5th Grade</div><div class=\"bt-acts\"><button class=\"bt-btn\" data-tefview=\"g5\">View Pages</button><button class=\"bt-btn bt-pdf\" data-tefpdf=\"g5\">Open PDF</button></div></div></div><div class=\"btcard\"><img class=\"btcover\" data-img=\"tef_g6\" alt=\"6th Grade cover\" loading=\"lazy\"><div class=\"bt-in\"><div class=\"bt-g\">6th Grade</div><div class=\"bt-acts\"><button class=\"bt-btn\" data-tefview=\"g6\">View Pages</button><button class=\"bt-btn bt-pdf\" data-tefpdf=\"g6\">Open PDF</button></div></div></div><div class=\"btcard\"><img class=\"btcover\" data-img=\"tef_g7\" alt=\"7th Grade cover\" loading=\"lazy\"><div class=\"bt-in\"><div class=\"bt-g\">7th Grade</div><div class=\"bt-acts\"><button class=\"bt-btn\" data-tefview=\"g7\">View Pages</button><button class=\"bt-btn bt-pdf\" data-tefpdf=\"g7\">Open PDF</button></div></div></div></div>"
+    },
+    {
+      "type": "note",
+      "html": "PDF links open once the files are hosted alongside the site.",
+      "attrs": {
+        "style": "margin-top:16px;color:var(--muted)"
+      }
+    }
+  ],
+  "title": "Biur Tefillah",
+  "type": "hub"
+}

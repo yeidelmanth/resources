@@ -1,0 +1,131 @@
+{
+  "id": "dytRoshHashanah",
+  "branch": "date",
+  "parent": "dYT",
+  "crumbLabel": "Rosh Hashanah",
+  "template": "hub",
+  "blocks": [
+    {
+      "type": "heading",
+      "eyebrow": "Yom Tov",
+      "title": "Rosh Hashanah",
+      "text": "1–2 Tishrei"
+    },
+    {
+      "type": "hachayolbar",
+      "href": "pdfs/661.pdf",
+      "info": "Hachayol #661 · Rosh Hashana · 29 Elul 5787",
+      "action": "Printable PDF ↗"
+    },
+    {
+      "type": "note",
+      "html": "<b>Issue loaded</b>This yom tov’s Hachayol issue is filed here. Text is machine-read from the scanned magazine — proofread against the PDF before print."
+    },
+    {
+      "type": "cards",
+      "items": [
+        {
+          "page": "i661orders",
+          "color": "purple",
+          "img": "i661orders",
+          "imgZoom": true,
+          "kick": "Hiskashrus · Sichos",
+          "ribbon": "Orders from Our General",
+          "ribbonColor": "red",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Share a sicha of the Rebbe"
+        },
+        {
+          "page": "i661rebbe",
+          "color": "purple",
+          "img": "i661rebbe",
+          "imgZoom": true,
+          "kick": "Hiskashrus · Rebbe Story",
+          "ribbon": "Rebbe Story",
+          "ribbonColor": "orange",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Share a story of the Rebbe at your Shabbos table"
+        },
+        {
+          "page": "i661niggun",
+          "color": "teal",
+          "img": "i661niggun",
+          "imgZoom": true,
+          "kick": "Niggunim",
+          "ribbon": "Niggun of the Week",
+          "ribbonColor": "teal",
+          "icon": "/resources/assets/img/aaa22b79c109253d.png",
+          "mission": "Share this week's niggun at your Shabbos table"
+        },
+        {
+          "page": "i661frames",
+          "color": "gold",
+          "img": "i661frames",
+          "imgZoom": true,
+          "kick": "Yoma Depagra · Comics",
+          "ribbon": "Chassidishe Frames",
+          "ribbonColor": "cyan",
+          "icon": "/resources/assets/img/7b5f36a5d9119965.png",
+          "mission": "Read this week's Chassidishe Frames"
+        },
+        {
+          "page": "i661mivtzoim",
+          "color": "red",
+          "img": "i661mivtzoim",
+          "imgZoom": true,
+          "kick": "Campaign · Mivtzoim",
+          "ribbon": "Mivtzoim Mania",
+          "ribbonColor": "blue",
+          "icon": "/resources/assets/img/f56bf2c628dcc0ad.png",
+          "mission": "Went out on mivtzoim and reported back"
+        },
+        {
+          "extraClass": "tp-lb",
+          "attrs": {
+            "data-lb": "i661sect04_p1,i661sect04_p2"
+          },
+          "color": "cyan",
+          "img": "i661sect04_p1",
+          "imgZoom": false,
+          "kick": "Yom Tov - Sicha",
+          "ribbon": "Yom Tov Living",
+          "ribbonColor": "cyan",
+          "icon": "/resources/assets/img/7b5f36a5d9119965.png",
+          "missionLabel": "In this issue",
+          "mission": "Lead the World · pp. 8-9"
+        },
+        {
+          "extraClass": "tp-lb",
+          "attrs": {
+            "data-lb": "i661sect05_p1,i661sect05_p2"
+          },
+          "color": "cyan",
+          "img": "i661sect05_p1",
+          "imgZoom": false,
+          "kick": "Yom Tov - Story",
+          "ribbon": "A Tale in Time",
+          "ribbonColor": "cyan",
+          "icon": "/resources/assets/img/7b5f36a5d9119965.png",
+          "missionLabel": "In this issue",
+          "mission": "The Whispered Tefilla · pp. 10-11"
+        },
+        {
+          "extraClass": "tp-lb",
+          "attrs": {
+            "data-lb": "i661sect07_p1"
+          },
+          "color": "gold",
+          "img": "i661sect07_p1",
+          "imgZoom": false,
+          "kick": "Motivation",
+          "ribbon": "Auction Ad",
+          "ribbonColor": "gold",
+          "missionLabel": "In this issue",
+          "mission": "Annual Auction · pp. 16"
+        }
+      ]
+    }
+  ],
+  "title": "Rosh Hashanah",
+  "type": "yt-date"
+}

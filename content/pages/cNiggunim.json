@@ -1,0 +1,538 @@
+{
+  "id": "cNiggunim",
+  "branch": "campaign",
+  "parent": "campaign",
+  "crumbLabel": "Niggunim",
+  "template": "hub",
+  "blocks": [
+    {
+      "type": "heading",
+      "eyebrow": "Campaign",
+      "title": "Niggunim"
+    },
+    {
+      "type": "filters",
+      "mode": "hk",
+      "label": "Collection",
+      "items": [
+        {
+          "key": "*",
+          "label": "All",
+          "pressed": true
+        },
+        {
+          "key": "cat-harabbeim",
+          "label": "Niggunei Harabbeim"
+        },
+        {
+          "key": "cat-hashana",
+          "label": "Niggunei Hashana"
+        },
+        {
+          "key": "cat-rebbe",
+          "label": "Niggunim the Rebbe Taught"
+        },
+        {
+          "key": "cat-shonim",
+          "label": "Niggunim Shonim"
+        }
+      ]
+    },
+    {
+      "type": "filters",
+      "mode": "hk",
+      "label": "Artist",
+      "items": [
+        {
+          "key": "art-avraham-fried",
+          "label": "Avraham Fried"
+        },
+        {
+          "key": "art-chanin",
+          "label": "Chanin"
+        },
+        {
+          "key": "art-chassidim-singing",
+          "label": "Chassidim Singing"
+        },
+        {
+          "key": "art-childrens-choir",
+          "label": "Childrens Choir"
+        },
+        {
+          "key": "art-moshe-laufer",
+          "label": "Moshe Laufer"
+        },
+        {
+          "key": "art-nichoach",
+          "label": "Nichoach"
+        },
+        {
+          "key": "art-rebbe---chassidim-singing",
+          "label": "Rebbe &amp; Chassidim Singing"
+        },
+        {
+          "key": "art-yossi-goldstein",
+          "label": "Yossi Goldstein"
+        }
+      ]
+    },
+    {
+      "type": "cards",
+      "items": [
+        {
+          "page": "i660niggun",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "cat-harabbeim cat-hashana cat-rebbe art-chassidim-singing"
+          },
+          "color": "teal",
+          "img": "i660niggun",
+          "imgZoom": true,
+          "kick": "Niggunim",
+          "ribbon": "Niggun of the Week",
+          "ribbonColor": "teal",
+          "icon": "/resources/assets/img/aaa22b79c109253d.png",
+          "mission": "Share this week's niggun at your Shabbos table"
+        },
+        {
+          "page": "i661niggun",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "cat-harabbeim art-avraham-fried"
+          },
+          "color": "teal",
+          "img": "i661niggun",
+          "imgZoom": true,
+          "kick": "Niggunim",
+          "ribbon": "Niggun of the Week",
+          "ribbonColor": "teal",
+          "icon": "/resources/assets/img/aaa22b79c109253d.png",
+          "mission": "Share this week's niggun at your Shabbos table"
+        },
+        {
+          "page": "i662niggun",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "cat-harabbeim cat-hashana cat-rebbe art-yossi-goldstein"
+          },
+          "color": "teal",
+          "img": "i662niggun",
+          "imgZoom": true,
+          "kick": "Niggunim",
+          "ribbon": "Niggun of the Week",
+          "ribbonColor": "teal",
+          "icon": "/resources/assets/img/aaa22b79c109253d.png",
+          "mission": "Share this week's niggun at your Shabbos table"
+        },
+        {
+          "page": "i663niggun",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "art-nichoach"
+          },
+          "color": "teal",
+          "img": "i663niggun",
+          "imgZoom": true,
+          "kick": "Niggunim",
+          "ribbon": "Niggun of the Week",
+          "ribbonColor": "teal",
+          "icon": "/resources/assets/img/aaa22b79c109253d.png",
+          "mission": "Share this week's niggun at your Shabbos table"
+        },
+        {
+          "page": "i664niggun",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "cat-harabbeim art-nichoach"
+          },
+          "color": "teal",
+          "img": "i664niggun",
+          "imgZoom": true,
+          "kick": "Niggunim",
+          "ribbon": "Niggun of the Week",
+          "ribbonColor": "teal",
+          "icon": "/resources/assets/img/aaa22b79c109253d.png",
+          "mission": "Share this week's niggun at your Shabbos table"
+        },
+        {
+          "page": "i665niggun",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "cat-hashana art-nichoach"
+          },
+          "color": "teal",
+          "img": "i665niggun",
+          "imgZoom": true,
+          "kick": "Niggunim",
+          "ribbon": "Niggun of the Week",
+          "ribbonColor": "teal",
+          "icon": "/resources/assets/img/aaa22b79c109253d.png",
+          "mission": "Share this week's niggun at your Shabbos table"
+        },
+        {
+          "page": "i666niggun",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "cat-hashana art-rebbe---chassidim-singing"
+          },
+          "color": "teal",
+          "img": "i666niggun",
+          "imgZoom": true,
+          "kick": "Niggunim",
+          "ribbon": "Niggun of the Week",
+          "ribbonColor": "teal",
+          "icon": "/resources/assets/img/aaa22b79c109253d.png",
+          "mission": "Share this week's niggun at your Shabbos table"
+        },
+        {
+          "page": "i667niggun",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "cat-rebbe art-childrens-choir"
+          },
+          "color": "teal",
+          "img": "i667niggun",
+          "imgZoom": true,
+          "kick": "Niggunim",
+          "ribbon": "Niggun of the Week",
+          "ribbonColor": "teal",
+          "icon": "/resources/assets/img/aaa22b79c109253d.png",
+          "mission": "Share this week's niggun at your Shabbos table"
+        },
+        {
+          "page": "i668niggun",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "cat-hashana cat-rebbe art-nichoach"
+          },
+          "color": "teal",
+          "img": "i668niggun",
+          "imgZoom": true,
+          "kick": "Niggunim",
+          "ribbon": "Niggun of the Week",
+          "ribbonColor": "teal",
+          "icon": "/resources/assets/img/aaa22b79c109253d.png",
+          "mission": "Share this week's niggun at your Shabbos table"
+        },
+        {
+          "page": "i669niggun",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "cat-harabbeim cat-hashana cat-shonim art-childrens-choir"
+          },
+          "color": "teal",
+          "img": "i669niggun",
+          "imgZoom": true,
+          "kick": "Niggunim",
+          "ribbon": "Niggun of the Week",
+          "ribbonColor": "teal",
+          "icon": "/resources/assets/img/aaa22b79c109253d.png",
+          "mission": "Share this week's niggun at your Shabbos table"
+        },
+        {
+          "page": "i670niggun",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "cat-harabbeim cat-rebbe art-avraham-fried"
+          },
+          "color": "teal",
+          "img": "i670niggun",
+          "imgZoom": true,
+          "kick": "Niggunim",
+          "ribbon": "Niggun of the Week",
+          "ribbonColor": "teal",
+          "icon": "/resources/assets/img/aaa22b79c109253d.png",
+          "mission": "Share this week's niggun at your Shabbos table"
+        },
+        {
+          "page": "i671niggun",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "cat-hashana cat-shonim art-chanin"
+          },
+          "color": "teal",
+          "img": "i671niggun",
+          "imgZoom": true,
+          "kick": "Niggunim",
+          "ribbon": "Niggun of the Week",
+          "ribbonColor": "teal",
+          "icon": "/resources/assets/img/aaa22b79c109253d.png",
+          "mission": "Share this week's niggun at your Shabbos table"
+        },
+        {
+          "page": "i672niggun",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "cat-harabbeim cat-hashana art-moshe-laufer"
+          },
+          "color": "teal",
+          "img": "i672niggun",
+          "imgZoom": true,
+          "kick": "Niggunim",
+          "ribbon": "Niggun of the Week",
+          "ribbonColor": "teal",
+          "icon": "/resources/assets/img/aaa22b79c109253d.png",
+          "mission": "Share this week's niggun at your Shabbos table"
+        },
+        {
+          "page": "i673niggun",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "cat-harabbeim art-avraham-fried"
+          },
+          "color": "teal",
+          "img": "i673niggun",
+          "imgZoom": true,
+          "kick": "Niggunim",
+          "ribbon": "Niggun of the Week",
+          "ribbonColor": "teal",
+          "icon": "/resources/assets/img/aaa22b79c109253d.png",
+          "mission": "Share this week's niggun at your Shabbos table"
+        },
+        {
+          "page": "i674niggun",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "cat-harabbeim cat-hashana art-moshe-laufer"
+          },
+          "color": "teal",
+          "img": "i674niggun",
+          "imgZoom": true,
+          "kick": "Niggunim",
+          "ribbon": "Niggun of the Week",
+          "ribbonColor": "teal",
+          "icon": "/resources/assets/img/aaa22b79c109253d.png",
+          "mission": "Share this week's niggun at your Shabbos table"
+        },
+        {
+          "page": "i675niggun",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "cat-hashana cat-rebbe art-nichoach"
+          },
+          "color": "teal",
+          "img": "i675niggun",
+          "imgZoom": true,
+          "kick": "Niggunim",
+          "ribbon": "Niggun of the Week",
+          "ribbonColor": "teal",
+          "icon": "/resources/assets/img/aaa22b79c109253d.png",
+          "mission": "Share this week's niggun at your Shabbos table"
+        },
+        {
+          "page": "i676niggun",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "cat-hashana art-nichoach"
+          },
+          "color": "teal",
+          "img": "i676niggun",
+          "imgZoom": true,
+          "kick": "Niggunim",
+          "ribbon": "Niggun of the Week",
+          "ribbonColor": "teal",
+          "icon": "/resources/assets/img/aaa22b79c109253d.png",
+          "mission": "Share this week's niggun at your Shabbos table"
+        },
+        {
+          "page": "i677niggun",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "cat-rebbe art-childrens-choir"
+          },
+          "color": "teal",
+          "img": "i677niggun",
+          "imgZoom": true,
+          "kick": "Niggunim",
+          "ribbon": "Niggun of the Week",
+          "ribbonColor": "teal",
+          "icon": "/resources/assets/img/aaa22b79c109253d.png",
+          "mission": "Share this week's niggun at your Shabbos table"
+        },
+        {
+          "page": "i678niggun",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "cat-harabbeim cat-rebbe art-avraham-fried"
+          },
+          "color": "teal",
+          "img": "i678niggun",
+          "imgZoom": true,
+          "kick": "Niggunim",
+          "ribbon": "Niggun of the Week",
+          "ribbonColor": "teal",
+          "icon": "/resources/assets/img/aaa22b79c109253d.png",
+          "mission": "Share this week's niggun at your Shabbos table"
+        },
+        {
+          "page": "i679niggun",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "cat-harabbeim cat-rebbe art-chanin"
+          },
+          "color": "teal",
+          "img": "i679niggun",
+          "imgZoom": true,
+          "kick": "Niggunim",
+          "ribbon": "Niggun of the Week",
+          "ribbonColor": "teal",
+          "icon": "/resources/assets/img/aaa22b79c109253d.png",
+          "mission": "Share this week's niggun at your Shabbos table"
+        },
+        {
+          "page": "i680niggun",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "cat-hashana art-childrens-choir"
+          },
+          "color": "teal",
+          "img": "i680niggun",
+          "imgZoom": true,
+          "kick": "Niggunim",
+          "ribbon": "Niggun of the Week",
+          "ribbonColor": "teal",
+          "icon": "/resources/assets/img/aaa22b79c109253d.png",
+          "mission": "Share this week's niggun at your Shabbos table"
+        },
+        {
+          "page": "i681niggun",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "cat-hashana cat-rebbe art-nichoach"
+          },
+          "color": "teal",
+          "img": "i681niggun",
+          "imgZoom": true,
+          "kick": "Niggunim",
+          "ribbon": "Niggun of the Week",
+          "ribbonColor": "teal",
+          "icon": "/resources/assets/img/aaa22b79c109253d.png",
+          "mission": "Share this week's niggun at your Shabbos table"
+        },
+        {
+          "page": "i460niggun",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "cat-shonim"
+          },
+          "color": "teal",
+          "img": "i460niggun",
+          "imgZoom": true,
+          "kick": "Niggunim",
+          "ribbon": "Niggun of the Week",
+          "ribbonColor": "teal",
+          "icon": "/resources/assets/img/aaa22b79c109253d.png",
+          "mission": "Learn this niggun"
+        },
+        {
+          "page": "i476niggun",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "cat-shonim"
+          },
+          "color": "teal",
+          "img": "i476niggun",
+          "imgZoom": true,
+          "kick": "Niggunim",
+          "ribbon": "Niggun of the Week",
+          "ribbonColor": "teal",
+          "icon": "/resources/assets/img/aaa22b79c109253d.png",
+          "mission": "Learn this niggun"
+        },
+        {
+          "page": "i480niggun",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "cat-shonim"
+          },
+          "color": "teal",
+          "img": "i480niggun",
+          "imgZoom": true,
+          "kick": "Niggunim",
+          "ribbon": "Niggun of the Week",
+          "ribbonColor": "teal",
+          "icon": "/resources/assets/img/aaa22b79c109253d.png",
+          "mission": "Learn this niggun"
+        },
+        {
+          "page": "i485niggun",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "cat-shonim"
+          },
+          "color": "teal",
+          "img": "i485niggun",
+          "imgZoom": true,
+          "kick": "Niggunim",
+          "ribbon": "Niggun of the Week",
+          "ribbonColor": "teal",
+          "icon": "/resources/assets/img/aaa22b79c109253d.png",
+          "mission": "Learn this niggun"
+        },
+        {
+          "page": "i488niggun",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "cat-shonim"
+          },
+          "color": "teal",
+          "img": "i488niggun",
+          "imgZoom": true,
+          "kick": "Niggunim",
+          "ribbon": "Niggun of the Week",
+          "ribbonColor": "teal",
+          "icon": "/resources/assets/img/aaa22b79c109253d.png",
+          "mission": "Learn this niggun"
+        },
+        {
+          "page": "i489niggun",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "cat-shonim"
+          },
+          "color": "teal",
+          "img": "i489niggun",
+          "imgZoom": true,
+          "kick": "Niggunim",
+          "ribbon": "Niggun of the Week",
+          "ribbonColor": "teal",
+          "icon": "/resources/assets/img/aaa22b79c109253d.png",
+          "mission": "Learn this niggun"
+        },
+        {
+          "page": "i557niggun",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "cat-shonim"
+          },
+          "color": "teal",
+          "img": "i557niggun",
+          "imgZoom": true,
+          "kick": "Niggunim",
+          "ribbon": "Niggun of the Week",
+          "ribbonColor": "teal",
+          "icon": "/resources/assets/img/aaa22b79c109253d.png",
+          "mission": "Learn this niggun"
+        },
+        {
+          "page": "i648niggun",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "cat-shonim"
+          },
+          "color": "teal",
+          "img": "i648niggun",
+          "imgZoom": true,
+          "kick": "Niggunim",
+          "ribbon": "Niggun of the Week",
+          "ribbonColor": "teal",
+          "icon": "/resources/assets/img/aaa22b79c109253d.png",
+          "mission": "Learn this niggun"
+        }
+      ]
+    }
+  ],
+  "title": "Niggunim",
+  "type": "hub"
+}

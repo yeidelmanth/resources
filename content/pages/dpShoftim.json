@@ -1,0 +1,21 @@
+{
+  "id": "dpShoftim",
+  "branch": "date",
+  "parent": "dParsha",
+  "crumbLabel": "שׁוֹפְטִים",
+  "template": "hub",
+  "blocks": [
+    {
+      "type": "heading",
+      "eyebrow": "Parsha",
+      "title": "שׁוֹפְטִים",
+      "heb": true
+    },
+    {
+      "type": "note",
+      "html": "<b>Awaiting issue</b>No Hachayol issue for this week is in the library yet — its cards appear as soon as one is added."
+    }
+  ],
+  "title": "שׁוֹפְטִים",
+  "type": "parsha-week"
+}

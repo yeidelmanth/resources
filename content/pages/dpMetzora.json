@@ -1,0 +1,21 @@
+{
+  "id": "dpMetzora",
+  "branch": "date",
+  "parent": "dParsha",
+  "crumbLabel": "מְצֹרָע",
+  "template": "hub",
+  "blocks": [
+    {
+      "type": "heading",
+      "eyebrow": "Parsha",
+      "title": "מְצֹרָע",
+      "heb": true
+    },
+    {
+      "type": "note",
+      "html": "<b>Awaiting issue</b>No Hachayol issue for this week is in the library yet — its cards appear as soon as one is added."
+    }
+  ],
+  "title": "מְצֹרָע",
+  "type": "parsha-week"
+}

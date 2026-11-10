@@ -1,0 +1,21 @@
+{
+  "id": "i557niggun",
+  "branch": "campaign",
+  "parent": "cNiggunim",
+  "crumbLabel": "Niggun of the Week",
+  "template": "article",
+  "title": "בְּךָ ה' חָסִיתִי",
+  "article": {
+    "titleHeb": true,
+    "subtitle": "Becha Hashem Chasisi",
+    "chips": [],
+    "pages": [
+      "i557niggun"
+    ],
+    "pdf": "niggunim/03-557-Yisro.pdf",
+    "body": "<p>A niggun featured in the “Niggun of the Week”. Open the printable page below for the full story, words and meaning.</p>",
+    "mission": "Learn this niggun",
+    "source": "Source: "
+  },
+  "type": "niggun-of-the-week"
+}

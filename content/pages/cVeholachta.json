@@ -1,0 +1,274 @@
+{
+  "id": "cVeholachta",
+  "branch": "campaign",
+  "parent": "campaign",
+  "crumbLabel": "VeHolachta Bidrochov",
+  "template": "hub",
+  "blocks": [
+    {
+      "type": "heading",
+      "eyebrow": "Campaign",
+      "title": "VeHolachta Bidrochov → Squad Drills",
+      "text": "A four-week cycle that builds one middah, framed as a battle and modelled on a tzaddik couple."
+    },
+    {
+      "type": "note",
+      "html": "<b>Where your platoon is</b>Cycle: Avraham &amp; Sara · Middah: Selfish vs. Generous · Week 2 of 4. The site serves the piece for the week you are in, so nobody has to work out where the cycle stands."
+    },
+    {
+      "type": "html",
+      "html": "<div class=\"drill\"><div class=\"dw\" style=\"--c:var(--red)\"><div class=\"wk\">Week 1</div><b>Recon Mission</b><div class=\"kd\">the red comic</div><p>Expose the enemy — how the Yetzer Hara tricks you into the bad middah. Think, feel, act.</p></div><div class=\"dw now\" style=\"--c:var(--gold)\"><div class=\"wk\">Week 2</div><b>The Article</b><div class=\"kd\">read together</div><p>Learn a different way from the couple — “Avraham's Way.”</p></div><div class=\"dw\" style=\"--c:var(--gold)\"><div class=\"wk\">Week 3</div><b>Attack</b><div class=\"kd\">the yellow comic</div><p>Put on their glasses and apply the strategy — the Yetzer Tov's think, feel, act.</p></div><div class=\"dw\" style=\"--c:var(--green)\"><div class=\"wk\">Week 4</div><b>Squad Goals</b><div class=\"kd\">report back</div><p>The squad reports back and evaluates the battle. Then the next couple begins.</p></div></div>"
+    },
+    {
+      "type": "html",
+      "html": "<p style=\"margin-top:20px;color:var(--muted)\">The cycles rotate through the couples: Avraham &amp; Sara · Yitzchak &amp; Rivka · Dovid &amp; Rachel · Yaakov &amp; Leah.</p>"
+    },
+    {
+      "type": "label",
+      "text": "Squad Drills in the library — one per week",
+      "spaced": true
+    },
+    {
+      "type": "note",
+      "html": "Real drills from Hachayol #660–681. Machine-read from the scans — proofread before print."
+    },
+    {
+      "type": "cards",
+      "items": [
+        {
+          "page": "i660squad",
+          "color": "green",
+          "img": "i660squad",
+          "imgZoom": true,
+          "kick": "Campaign · VeHolachta Bidrochov",
+          "ribbon": "Squad Drills",
+          "ribbonColor": "gold",
+          "icon": "/resources/assets/img/03f3974e50e8e5fd.png",
+          "mission": "Worked on this week's middah with your squad"
+        },
+        {
+          "page": "i662squad",
+          "color": "green",
+          "img": "i662squad",
+          "imgZoom": true,
+          "kick": "Campaign · VeHolachta Bidrochov",
+          "ribbon": "Squad Drills",
+          "ribbonColor": "gold",
+          "icon": "/resources/assets/img/03f3974e50e8e5fd.png",
+          "mission": "Worked on this week's middah with your squad"
+        },
+        {
+          "page": "i663squad",
+          "color": "green",
+          "img": "i663squad",
+          "imgZoom": true,
+          "kick": "Campaign · VeHolachta Bidrochov",
+          "ribbon": "Squad Drills",
+          "ribbonColor": "gold",
+          "icon": "/resources/assets/img/03f3974e50e8e5fd.png",
+          "mission": "Worked on this week's middah with your squad"
+        },
+        {
+          "page": "i664squad",
+          "color": "green",
+          "img": "i664squad",
+          "imgZoom": true,
+          "kick": "Campaign · VeHolachta Bidrochov",
+          "ribbon": "Squad Drills",
+          "ribbonColor": "gold",
+          "icon": "/resources/assets/img/03f3974e50e8e5fd.png",
+          "mission": "Worked on this week's middah with your squad"
+        },
+        {
+          "page": "i665squad",
+          "color": "green",
+          "img": "i665squad",
+          "imgZoom": true,
+          "kick": "Campaign · VeHolachta Bidrochov",
+          "ribbon": "Squad Drills",
+          "ribbonColor": "gold",
+          "icon": "/resources/assets/img/03f3974e50e8e5fd.png",
+          "mission": "Worked on this week's middah with your squad"
+        },
+        {
+          "page": "i666squad",
+          "color": "green",
+          "img": "i666squad",
+          "imgZoom": true,
+          "kick": "Campaign · VeHolachta Bidrochov",
+          "ribbon": "Squad Drills",
+          "ribbonColor": "gold",
+          "icon": "/resources/assets/img/03f3974e50e8e5fd.png",
+          "mission": "Worked on this week's middah with your squad"
+        },
+        {
+          "page": "i667squad",
+          "color": "green",
+          "img": "i667squad",
+          "imgZoom": true,
+          "kick": "Campaign · VeHolachta Bidrochov",
+          "ribbon": "Squad Drills",
+          "ribbonColor": "gold",
+          "icon": "/resources/assets/img/03f3974e50e8e5fd.png",
+          "mission": "Worked on this week's middah with your squad"
+        },
+        {
+          "page": "i668squad",
+          "color": "green",
+          "img": "i668squad",
+          "imgZoom": true,
+          "kick": "Campaign · VeHolachta Bidrochov",
+          "ribbon": "Squad Drills",
+          "ribbonColor": "gold",
+          "icon": "/resources/assets/img/03f3974e50e8e5fd.png",
+          "mission": "Worked on this week's middah with your squad"
+        },
+        {
+          "page": "i669squad",
+          "color": "green",
+          "img": "i669squad",
+          "imgZoom": true,
+          "kick": "Campaign · VeHolachta Bidrochov",
+          "ribbon": "Squad Drills",
+          "ribbonColor": "gold",
+          "icon": "/resources/assets/img/03f3974e50e8e5fd.png",
+          "mission": "Worked on this week's middah with your squad"
+        },
+        {
+          "page": "i670squad",
+          "color": "green",
+          "img": "i670squad",
+          "imgZoom": true,
+          "kick": "Campaign · VeHolachta Bidrochov",
+          "ribbon": "Squad Drills",
+          "ribbonColor": "gold",
+          "icon": "/resources/assets/img/03f3974e50e8e5fd.png",
+          "mission": "Worked on this week's middah with your squad"
+        },
+        {
+          "page": "i671squad",
+          "color": "green",
+          "img": "i671squad",
+          "imgZoom": true,
+          "kick": "Campaign · VeHolachta Bidrochov",
+          "ribbon": "Squad Drills",
+          "ribbonColor": "gold",
+          "icon": "/resources/assets/img/03f3974e50e8e5fd.png",
+          "mission": "Worked on this week's middah with your squad"
+        },
+        {
+          "page": "i672squad",
+          "color": "green",
+          "img": "i672squad",
+          "imgZoom": true,
+          "kick": "Campaign · VeHolachta Bidrochov",
+          "ribbon": "Squad Drills",
+          "ribbonColor": "gold",
+          "icon": "/resources/assets/img/03f3974e50e8e5fd.png",
+          "mission": "Worked on this week's middah with your squad"
+        },
+        {
+          "page": "i673squad",
+          "color": "green",
+          "img": "i673squad",
+          "imgZoom": true,
+          "kick": "Campaign · VeHolachta Bidrochov",
+          "ribbon": "Squad Drills",
+          "ribbonColor": "gold",
+          "icon": "/resources/assets/img/03f3974e50e8e5fd.png",
+          "mission": "Worked on this week's middah with your squad"
+        },
+        {
+          "page": "i674squad",
+          "color": "green",
+          "img": "i674squad",
+          "imgZoom": true,
+          "kick": "Campaign · VeHolachta Bidrochov",
+          "ribbon": "Squad Drills",
+          "ribbonColor": "gold",
+          "icon": "/resources/assets/img/03f3974e50e8e5fd.png",
+          "mission": "Worked on this week's middah with your squad"
+        },
+        {
+          "page": "i675squad",
+          "color": "green",
+          "img": "i675squad",
+          "imgZoom": true,
+          "kick": "Campaign · VeHolachta Bidrochov",
+          "ribbon": "Squad Drills",
+          "ribbonColor": "gold",
+          "icon": "/resources/assets/img/03f3974e50e8e5fd.png",
+          "mission": "Worked on this week's middah with your squad"
+        },
+        {
+          "page": "i676squad",
+          "color": "green",
+          "img": "i676squad",
+          "imgZoom": true,
+          "kick": "Campaign · VeHolachta Bidrochov",
+          "ribbon": "Squad Drills",
+          "ribbonColor": "gold",
+          "icon": "/resources/assets/img/03f3974e50e8e5fd.png",
+          "mission": "Worked on this week's middah with your squad"
+        },
+        {
+          "page": "i677squad",
+          "color": "green",
+          "img": "i677squad",
+          "imgZoom": true,
+          "kick": "Campaign · VeHolachta Bidrochov",
+          "ribbon": "Squad Drills",
+          "ribbonColor": "gold",
+          "icon": "/resources/assets/img/03f3974e50e8e5fd.png",
+          "mission": "Worked on this week's middah with your squad"
+        },
+        {
+          "page": "i678squad",
+          "color": "green",
+          "img": "i678squad",
+          "imgZoom": true,
+          "kick": "Campaign · VeHolachta Bidrochov",
+          "ribbon": "Squad Drills",
+          "ribbonColor": "gold",
+          "icon": "/resources/assets/img/03f3974e50e8e5fd.png",
+          "mission": "Worked on this week's middah with your squad"
+        },
+        {
+          "page": "i679squad",
+          "color": "green",
+          "img": "i679squad",
+          "imgZoom": true,
+          "kick": "Campaign · VeHolachta Bidrochov",
+          "ribbon": "Squad Drills",
+          "ribbonColor": "gold",
+          "icon": "/resources/assets/img/03f3974e50e8e5fd.png",
+          "mission": "Worked on this week's middah with your squad"
+        },
+        {
+          "page": "i680squad",
+          "color": "green",
+          "img": "i680squad",
+          "imgZoom": true,
+          "kick": "Campaign · VeHolachta Bidrochov",
+          "ribbon": "Squad Drills",
+          "ribbonColor": "gold",
+          "icon": "/resources/assets/img/03f3974e50e8e5fd.png",
+          "mission": "Worked on this week's middah with your squad"
+        },
+        {
+          "page": "i681squad",
+          "color": "green",
+          "img": "i681squad",
+          "imgZoom": true,
+          "kick": "Campaign · VeHolachta Bidrochov",
+          "ribbon": "Squad Drills",
+          "ribbonColor": "gold",
+          "icon": "/resources/assets/img/03f3974e50e8e5fd.png",
+          "mission": "Worked on this week's middah with your squad"
+        }
+      ]
+    }
+  ],
+  "title": "VeHolachta Bidrochov → Squad Drills",
+  "type": "hub"
+}

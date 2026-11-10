@@ -1,0 +1,40 @@
+{
+  "id": "i660frames",
+  "branch": "date",
+  "parent": "dpNitzavimVayeilech",
+  "crumbLabel": "Chassidishe Frames",
+  "altParent": "cYomaDepagra",
+  "altBranch": "campaign",
+  "template": "article",
+  "title": "Unexpected Gratitude - Chof Tes Elul, Birthday of the Tzemach Tzedek",
+  "article": {
+    "chips": [
+      "Parshas Nitzavim-Vayelech"
+    ],
+    "pages": [
+      "i660frames",
+      "i660frames_p2"
+    ],
+    "pdf": "pdfs/660.pdf",
+    "body": "<p>The Story Lives On: When the Tzemach Tzedek was still a baby, his nurse did something nice for him. Years later, the Tzemach Tzedek found a way to repay her.</p><p>Do you show Hakaras Hatov for all the many nice things people do for you?</p><p><span class=\"mc\">Complete your 29 Elul missions</span></p><p><span class=\"mc\" style=\"color:#b46322\">Likutel Sipurim,</span></p>",
+    "source": "Source: Parshas Nitzavim-Vayelech · 22 Elul 5787"
+  },
+  "backLabel": "Nitzavim-Vayelech",
+  "crumb": {
+    "trail": [
+      {
+        "id": "date",
+        "label": "Date"
+      },
+      {
+        "id": "dParsha",
+        "label": "Parsha"
+      },
+      {
+        "id": "dpNitzavimVayeilech",
+        "label": "Nitzavim-Vayelech"
+      }
+    ]
+  },
+  "type": "chassidishe-frames"
+}

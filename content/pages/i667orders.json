@@ -1,0 +1,44 @@
+{
+  "id": "i667orders",
+  "branch": "date",
+  "parent": "dpLechLecha",
+  "crumbLabel": "Orders from Our General",
+  "altParent": "cHiskashrus",
+  "altBranch": "campaign",
+  "template": "article",
+  "title": "Why Should We Bentch Another Yid?",
+  "article": {
+    "chips": [
+      "Parshas Lech Lecha"
+    ],
+    "pages": [
+      "i667orders",
+      "i667orders_p2"
+    ],
+    "pdf": "pdfs/667.pdf",
+    "body": "<p class=\"lead\">Hashem promises Avraham Avinu that whoever blesses him will be blessed. Chazal teach that this also applies to all of Avraham’s children: Any time we bentch another Yid, Hashem Himself bentches us back!</p><p>In general, there are two types of brachos that a person could receive. The first kind can only be enjoyed after the person puts in effort, but with the second kind, no work is needed.</p><p>To understand this, imagine a mother who wants to give her children a special meal.</p><p>She could show them how to make the recipes, or allow them to go to the cabinets and help themselves. That's like the first kind of bracha.</p><p>Another option would be for the mother to set up the meal nicely on the table. When the children come home, they can sit down right away. They don't have to do anything except enjoy the yummy food. That's like the second kind of bracha.</p><p>When we bentch another Yid, Hashem is so happy that He gives us the second type of bracha—in great amounts and without limits!</p><p>I will bless those who bless you.</p><p><span class=\"mc\">Think about it: If Hashem's brachos come to any Yid who blesses another, how much more so when <em>soldiers in Tzivos Hashem</em> bless other Yidden!</span></p><p>Everything that we chayolim do is especially precious to Hashem because our words are pure and free of aveiros. When we bentch another Yid, Hashem puts aside all of His other business— even though it’s all very important and holy!— and gets busy sending wonderful brachos to us; the second kind that we can enjoy right away.</p><p>Can you think of someone who could use your brachos?</p><p>What happens when we bentch another Yid?</p><p>The brachos go only to them.</p><p>Why do you think the tefillos of children are so precious?</p><p>Hashem also sends us brachos that need no effort.</p><p>Name some of the brachos that Hashem gives you every day.</p><p>Here’s a chance to give out brachos in real time! First, collect a bunch of random objects into a paper bag. Start by picking out an object, connecting it to a bracha, and choosing someone to bentch. Keep going until every person has a turn.</p><p>Toss a ball around the room.</p><p>Whoever catches it has 5 seconds to name one bracha they didn't earn (was a gift from Hashem). No repeats!</p><p>What would you rather—a bunch of groceries or a beautifully set supper table? Connect 5 objects in 5 different paths to show how a bracha (1 single item) can become even better.</p>",
+    "related": {
+      "heading": "More from the General",
+      "items": [
+        {
+          "icon": "📖",
+          "title": "The Rebbe Speaks to Children",
+          "sub": "The sicha, adapted for children · PDF"
+        },
+        {
+          "icon": "🎧",
+          "title": "Audio recording",
+          "sub": "Listen to the sicha"
+        },
+        {
+          "icon": "🎥",
+          "title": "Video recording",
+          "sub": "Watch the sicha"
+        }
+      ],
+      "note": "Links go live when the files are hosted."
+    },
+    "source": "Source: Parshas Lech Lecha · 12 Cheshvan 5787"
+  },
+  "type": "orders-from-our-general"
+}

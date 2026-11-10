@@ -1,0 +1,21 @@
+{
+  "id": "dpMatosMasei",
+  "branch": "date",
+  "parent": "dParsha",
+  "crumbLabel": "מַטּוֹת־מַסְעֵי",
+  "template": "hub",
+  "blocks": [
+    {
+      "type": "heading",
+      "eyebrow": "Parsha",
+      "title": "מַטּוֹת־מַסְעֵי",
+      "heb": true
+    },
+    {
+      "type": "note",
+      "html": "<b>Awaiting issue</b>No Hachayol issue for this week is in the library yet — its cards appear as soon as one is added."
+    }
+  ],
+  "title": "מַטּוֹת־מַסְעֵי",
+  "type": "parsha-week"
+}

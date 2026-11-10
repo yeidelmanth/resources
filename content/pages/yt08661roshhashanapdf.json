@@ -1,0 +1,40 @@
+{
+  "id": "yt08661roshhashanapdf",
+  "branch": "campaign",
+  "parent": "cYomTov",
+  "crumbLabel": "Yom Tov Seasons",
+  "template": "article",
+  "title": "Lead the World",
+  "article": {
+    "kick": "Yom Tov · Rosh Hashana",
+    "chips": [
+      "Rosh Hashana"
+    ],
+    "pages": [
+      "yt08661roshhashanapdf",
+      "yt08661roshhashanapdf_p2"
+    ],
+    "pdf": "yomtov/08%20661%20Rosh%20Hashana.pdf",
+    "sichos": [
+      {
+        "label": "Sicha 1",
+        "href": "sichos/DRRTK%20vol%202%20-%20p%2063-65.pdf"
+      },
+      {
+        "label": "Sicha 2",
+        "href": "sichos/DRRTK%20vol%202%20-%20p%2066-67.pdf"
+      },
+      {
+        "label": "Sicha 3",
+        "href": "sichos/TRSTC%20vol.%202%2C%20p.%20126-128.pdf"
+      },
+      {
+        "label": "Sicha 4",
+        "href": "sichos/TRSTC%20vol.%202%2C%20p.%20130-132.pdf"
+      }
+    ],
+    "body": "<p>So the limbs, all the days of the year, will be led,</p><p>Hashem recreates the entire world for us on Rosh Hashana, giving us new chayus in our service of Hashem</p><p>Tzivos Hashem is also a “head”—the head of the world, because we lead by positive example and work to bring Moshiach. So next time when the Yetzer Hara says, “What do you need to make a bracha for?”, tell him: “Hashem created the world, so certainly we must thank Him!”</p>",
+    "source": "Source: Yom Tov Campaign · Sichos - Poems - Yom Tov Seasons"
+  },
+  "type": "yom-tov-seasons"
+}

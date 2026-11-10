@@ -1,0 +1,1485 @@
+{
+  "id": "hkT1",
+  "branch": "campaign",
+  "parent": "cHiskashrus",
+  "crumbLabel": "Roots — Stories of our Lives",
+  "template": "hub",
+  "blocks": [
+    {
+      "type": "heading",
+      "eyebrow": "Hiskashrus",
+      "title": "Roots — Stories of our Lives",
+      "text": "Our history, one chapter a week."
+    },
+    {
+      "type": "filters",
+      "mode": "hk",
+      "items": [
+        {
+          "key": "*",
+          "label": "All Stories",
+          "pressed": true
+        },
+        {
+          "key": "year-5785",
+          "label": "Year 5785"
+        },
+        {
+          "key": "year-5786",
+          "label": "Year 5786"
+        },
+        {
+          "key": "year-5787",
+          "label": "Year 5787"
+        }
+      ]
+    },
+    {
+      "type": "cards",
+      "items": [
+        {
+          "page": "hk114578shoftim",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "year-5785"
+          },
+          "color": "purple",
+          "img": "hk114578shoftim",
+          "imgZoom": true,
+          "kick": "Hiskashrus · Roots — Stories of our Lives",
+          "ribbon": "Roots",
+          "ribbonColor": "gold",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk112579kiseitzei",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "year-5785"
+          },
+          "color": "purple",
+          "img": "hk112579kiseitzei",
+          "imgZoom": true,
+          "kick": "Hiskashrus · Roots — Stories of our Lives",
+          "ribbon": "Roots",
+          "ribbonColor": "gold",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk114580kisavo",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "year-5785"
+          },
+          "color": "purple",
+          "img": "hk114580kisavo",
+          "imgZoom": true,
+          "kick": "Hiskashrus · Roots — Stories of our Lives",
+          "ribbon": "Roots",
+          "ribbonColor": "gold",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk114581nitzavim",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "year-5785"
+          },
+          "color": "purple",
+          "img": "hk114581nitzavim",
+          "imgZoom": true,
+          "kick": "Hiskashrus · Roots — Stories of our Lives",
+          "ribbon": "Roots",
+          "ribbonColor": "gold",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk114582haazinu",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "year-5785"
+          },
+          "color": "purple",
+          "img": "hk114582haazinu",
+          "imgZoom": true,
+          "kick": "Hiskashrus · Roots — Stories of our Lives",
+          "ribbon": "Roots",
+          "ribbonColor": "gold",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk114583yomkippur",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "year-5785"
+          },
+          "color": "purple",
+          "img": "hk114583yomkippur",
+          "imgZoom": true,
+          "kick": "Hiskashrus · Roots — Stories of our Lives",
+          "ribbon": "Roots",
+          "ribbonColor": "gold",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk114584sukkos",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "year-5785"
+          },
+          "color": "purple",
+          "img": "hk114584sukkos",
+          "imgZoom": true,
+          "kick": "Hiskashrus · Roots — Stories of our Lives",
+          "ribbon": "Roots",
+          "ribbonColor": "gold",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk114585bereishis",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "year-5785"
+          },
+          "color": "purple",
+          "img": "hk114585bereishis",
+          "imgZoom": true,
+          "kick": "Hiskashrus · Roots — Stories of our Lives",
+          "ribbon": "Roots",
+          "ribbonColor": "gold",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk114586noach",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "year-5785"
+          },
+          "color": "purple",
+          "img": "hk114586noach",
+          "imgZoom": true,
+          "kick": "Hiskashrus · Roots — Stories of our Lives",
+          "ribbon": "Roots",
+          "ribbonColor": "gold",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk114587lechlecha",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "year-5785"
+          },
+          "color": "purple",
+          "img": "hk114587lechlecha",
+          "imgZoom": true,
+          "kick": "Hiskashrus · Roots — Stories of our Lives",
+          "ribbon": "Roots",
+          "ribbonColor": "gold",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk114588vayeira",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "year-5785"
+          },
+          "color": "purple",
+          "img": "hk114588vayeira",
+          "imgZoom": true,
+          "kick": "Hiskashrus · Roots — Stories of our Lives",
+          "ribbon": "Roots",
+          "ribbonColor": "gold",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk114589chayeisara",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "year-5785"
+          },
+          "color": "purple",
+          "img": "hk114589chayeisara",
+          "imgZoom": true,
+          "kick": "Hiskashrus · Roots — Stories of our Lives",
+          "ribbon": "Roots",
+          "ribbonColor": "gold",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk114590toldos",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "year-5785"
+          },
+          "color": "purple",
+          "img": "hk114590toldos",
+          "imgZoom": true,
+          "kick": "Hiskashrus · Roots — Stories of our Lives",
+          "ribbon": "Roots",
+          "ribbonColor": "gold",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk114591vayeitzei",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "year-5785"
+          },
+          "color": "purple",
+          "img": "hk114591vayeitzei",
+          "imgZoom": true,
+          "kick": "Hiskashrus · Roots — Stories of our Lives",
+          "ribbon": "Roots",
+          "ribbonColor": "gold",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk114592vayishlach",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "year-5785"
+          },
+          "color": "purple",
+          "img": "hk114592vayishlach",
+          "imgZoom": true,
+          "kick": "Hiskashrus · Roots — Stories of our Lives",
+          "ribbon": "Roots",
+          "ribbonColor": "gold",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk114593vayeishev",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "year-5785"
+          },
+          "color": "purple",
+          "img": "hk114593vayeishev",
+          "imgZoom": true,
+          "kick": "Hiskashrus · Roots — Stories of our Lives",
+          "ribbon": "Roots",
+          "ribbonColor": "gold",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk114594mikeitz",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "year-5785"
+          },
+          "color": "purple",
+          "img": "hk114594mikeitz",
+          "imgZoom": true,
+          "kick": "Hiskashrus · Roots — Stories of our Lives",
+          "ribbon": "Roots",
+          "ribbonColor": "gold",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk114595vayigash",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "year-5785"
+          },
+          "color": "purple",
+          "img": "hk114595vayigash",
+          "imgZoom": true,
+          "kick": "Hiskashrus · Roots — Stories of our Lives",
+          "ribbon": "Roots",
+          "ribbonColor": "gold",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk114596vayechi",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "year-5785"
+          },
+          "color": "purple",
+          "img": "hk114596vayechi",
+          "imgZoom": true,
+          "kick": "Hiskashrus · Roots — Stories of our Lives",
+          "ribbon": "Roots",
+          "ribbonColor": "gold",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk114597shemos",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "year-5785"
+          },
+          "color": "purple",
+          "img": "hk114597shemos",
+          "imgZoom": true,
+          "kick": "Hiskashrus · Roots — Stories of our Lives",
+          "ribbon": "Roots",
+          "ribbonColor": "gold",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk114598vaeira",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "year-5785"
+          },
+          "color": "purple",
+          "img": "hk114598vaeira",
+          "imgZoom": true,
+          "kick": "Hiskashrus · Roots — Stories of our Lives",
+          "ribbon": "Roots",
+          "ribbonColor": "gold",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk114599bo",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "year-5785"
+          },
+          "color": "purple",
+          "img": "hk114599bo",
+          "imgZoom": true,
+          "kick": "Hiskashrus · Roots — Stories of our Lives",
+          "ribbon": "Roots",
+          "ribbonColor": "gold",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk114600beshalach",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "year-5785"
+          },
+          "color": "purple",
+          "img": "hk114600beshalach",
+          "imgZoom": true,
+          "kick": "Hiskashrus · Roots — Stories of our Lives",
+          "ribbon": "Roots",
+          "ribbonColor": "gold",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk114601yisro",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "year-5785"
+          },
+          "color": "purple",
+          "img": "hk114601yisro",
+          "imgZoom": true,
+          "kick": "Hiskashrus · Roots — Stories of our Lives",
+          "ribbon": "Roots",
+          "ribbonColor": "gold",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk112602mishpotim",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "year-5785"
+          },
+          "color": "purple",
+          "img": "hk112602mishpotim",
+          "imgZoom": true,
+          "kick": "Hiskashrus · Roots — Stories of our Lives",
+          "ribbon": "Roots",
+          "ribbonColor": "gold",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk114602mishpotim",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "year-5785"
+          },
+          "color": "purple",
+          "img": "hk114602mishpotim",
+          "imgZoom": true,
+          "kick": "Hiskashrus · Roots — Stories of our Lives",
+          "ribbon": "Roots",
+          "ribbonColor": "gold",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk112603terumah",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "year-5785"
+          },
+          "color": "purple",
+          "img": "hk112603terumah",
+          "imgZoom": true,
+          "kick": "Hiskashrus · Roots — Stories of our Lives",
+          "ribbon": "Roots",
+          "ribbonColor": "gold",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk114604tetzaveh",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "year-5785"
+          },
+          "color": "purple",
+          "img": "hk114604tetzaveh",
+          "imgZoom": true,
+          "kick": "Hiskashrus · Roots — Stories of our Lives",
+          "ribbon": "Roots",
+          "ribbonColor": "gold",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk112605kisisa",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "year-5785"
+          },
+          "color": "purple",
+          "img": "hk112605kisisa",
+          "imgZoom": true,
+          "kick": "Hiskashrus · Roots — Stories of our Lives",
+          "ribbon": "Roots",
+          "ribbonColor": "gold",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk114606vayakhel",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "year-5785"
+          },
+          "color": "purple",
+          "img": "hk114606vayakhel",
+          "imgZoom": true,
+          "kick": "Hiskashrus · Roots — Stories of our Lives",
+          "ribbon": "Roots",
+          "ribbonColor": "gold",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk114607pekudei",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "year-5785"
+          },
+          "color": "purple",
+          "img": "hk114607pekudei",
+          "imgZoom": true,
+          "kick": "Hiskashrus · Roots — Stories of our Lives",
+          "ribbon": "Roots",
+          "ribbonColor": "gold",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk114608vayikra",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "year-5785"
+          },
+          "color": "purple",
+          "img": "hk114608vayikra",
+          "imgZoom": true,
+          "kick": "Hiskashrus · Roots — Stories of our Lives",
+          "ribbon": "Roots",
+          "ribbonColor": "gold",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk114609tzav",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "year-5785"
+          },
+          "color": "purple",
+          "img": "hk114609tzav",
+          "imgZoom": true,
+          "kick": "Hiskashrus · Roots — Stories of our Lives",
+          "ribbon": "Roots",
+          "ribbonColor": "gold",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk114610pesach",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "year-5785"
+          },
+          "color": "purple",
+          "img": "hk114610pesach",
+          "imgZoom": true,
+          "kick": "Hiskashrus · Roots — Stories of our Lives",
+          "ribbon": "Roots",
+          "ribbonColor": "gold",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk112612tazriametzorah",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "year-5785"
+          },
+          "color": "purple",
+          "img": "hk112612tazriametzorah",
+          "imgZoom": true,
+          "kick": "Hiskashrus · Roots — Stories of our Lives",
+          "ribbon": "Roots",
+          "ribbonColor": "gold",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk114612tazriametzorah",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "year-5785"
+          },
+          "color": "purple",
+          "img": "hk114612tazriametzorah",
+          "imgZoom": true,
+          "kick": "Hiskashrus · Roots — Stories of our Lives",
+          "ribbon": "Roots",
+          "ribbonColor": "gold",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk114613achareimoskedoshim",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "year-5785"
+          },
+          "color": "purple",
+          "img": "hk114613achareimoskedoshim",
+          "imgZoom": true,
+          "kick": "Hiskashrus · Roots — Stories of our Lives",
+          "ribbon": "Roots",
+          "ribbonColor": "gold",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk114614emor",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "year-5785"
+          },
+          "color": "purple",
+          "img": "hk114614emor",
+          "imgZoom": true,
+          "kick": "Hiskashrus · Roots — Stories of our Lives",
+          "ribbon": "Roots",
+          "ribbonColor": "gold",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk114615beharbechukosai",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "year-5785"
+          },
+          "color": "purple",
+          "img": "hk114615beharbechukosai",
+          "imgZoom": true,
+          "kick": "Hiskashrus · Roots — Stories of our Lives",
+          "ribbon": "Roots",
+          "ribbonColor": "gold",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk112617naso",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "year-5785"
+          },
+          "color": "purple",
+          "img": "hk112617naso",
+          "imgZoom": true,
+          "kick": "Hiskashrus · Roots — Stories of our Lives",
+          "ribbon": "Roots",
+          "ribbonColor": "gold",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk112618behaaloscha",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "year-5785"
+          },
+          "color": "purple",
+          "img": "hk112618behaaloscha",
+          "imgZoom": true,
+          "kick": "Hiskashrus · Roots — Stories of our Lives",
+          "ribbon": "Roots",
+          "ribbonColor": "gold",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk114620kisavo",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "year-5786"
+          },
+          "color": "purple",
+          "img": "hk114620kisavo",
+          "imgZoom": true,
+          "kick": "Hiskashrus · Roots — Stories of our Lives",
+          "ribbon": "Roots",
+          "ribbonColor": "gold",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk114621nitzavim",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "year-5786"
+          },
+          "color": "purple",
+          "img": "hk114621nitzavim",
+          "imgZoom": true,
+          "kick": "Hiskashrus · Roots — Stories of our Lives",
+          "ribbon": "Roots",
+          "ribbonColor": "gold",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk114622vayelech",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "year-5786"
+          },
+          "color": "purple",
+          "img": "hk114622vayelech",
+          "imgZoom": true,
+          "kick": "Hiskashrus · Roots — Stories of our Lives",
+          "ribbon": "Roots",
+          "ribbonColor": "gold",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk114623haazinu",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "year-5786"
+          },
+          "color": "purple",
+          "img": "hk114623haazinu",
+          "imgZoom": true,
+          "kick": "Hiskashrus · Roots — Stories of our Lives",
+          "ribbon": "Roots",
+          "ribbonColor": "gold",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk114624sukkos",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "year-5786"
+          },
+          "color": "purple",
+          "img": "hk114624sukkos",
+          "imgZoom": true,
+          "kick": "Hiskashrus · Roots — Stories of our Lives",
+          "ribbon": "Roots",
+          "ribbonColor": "gold",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk114625bereishis",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "year-5786"
+          },
+          "color": "purple",
+          "img": "hk114625bereishis",
+          "imgZoom": true,
+          "kick": "Hiskashrus · Roots — Stories of our Lives",
+          "ribbon": "Roots",
+          "ribbonColor": "gold",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk114626noach",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "year-5786"
+          },
+          "color": "purple",
+          "img": "hk114626noach",
+          "imgZoom": true,
+          "kick": "Hiskashrus · Roots — Stories of our Lives",
+          "ribbon": "Roots",
+          "ribbonColor": "gold",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk114627lechlecha",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "year-5786"
+          },
+          "color": "purple",
+          "img": "hk114627lechlecha",
+          "imgZoom": true,
+          "kick": "Hiskashrus · Roots — Stories of our Lives",
+          "ribbon": "Roots",
+          "ribbonColor": "gold",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk114628vayeira",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "year-5786"
+          },
+          "color": "purple",
+          "img": "hk114628vayeira",
+          "imgZoom": true,
+          "kick": "Hiskashrus · Roots — Stories of our Lives",
+          "ribbon": "Roots",
+          "ribbonColor": "gold",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk114629chayeisara",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "year-5786"
+          },
+          "color": "purple",
+          "img": "hk114629chayeisara",
+          "imgZoom": true,
+          "kick": "Hiskashrus · Roots — Stories of our Lives",
+          "ribbon": "Roots",
+          "ribbonColor": "gold",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk110630toldos",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "year-5786"
+          },
+          "color": "purple",
+          "img": "hk110630toldos",
+          "imgZoom": true,
+          "kick": "Hiskashrus · Roots — Stories of our Lives",
+          "ribbon": "Roots",
+          "ribbonColor": "gold",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk114631vayeitzei",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "year-5786"
+          },
+          "color": "purple",
+          "img": "hk114631vayeitzei",
+          "imgZoom": true,
+          "kick": "Hiskashrus · Roots — Stories of our Lives",
+          "ribbon": "Roots",
+          "ribbonColor": "gold",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk114632vayishlach",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "year-5786"
+          },
+          "color": "purple",
+          "img": "hk114632vayishlach",
+          "imgZoom": true,
+          "kick": "Hiskashrus · Roots — Stories of our Lives",
+          "ribbon": "Roots",
+          "ribbonColor": "gold",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk114633vayeshev",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "year-5786"
+          },
+          "color": "purple",
+          "img": "hk114633vayeshev",
+          "imgZoom": true,
+          "kick": "Hiskashrus · Roots — Stories of our Lives",
+          "ribbon": "Roots",
+          "ribbonColor": "gold",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk114634mikeitz",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "year-5786"
+          },
+          "color": "purple",
+          "img": "hk114634mikeitz",
+          "imgZoom": true,
+          "kick": "Hiskashrus · Roots — Stories of our Lives",
+          "ribbon": "Roots",
+          "ribbonColor": "gold",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk114635vayigash",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "year-5786"
+          },
+          "color": "purple",
+          "img": "hk114635vayigash",
+          "imgZoom": true,
+          "kick": "Hiskashrus · Roots — Stories of our Lives",
+          "ribbon": "Roots",
+          "ribbonColor": "gold",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk114636vayechi",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "year-5786"
+          },
+          "color": "purple",
+          "img": "hk114636vayechi",
+          "imgZoom": true,
+          "kick": "Hiskashrus · Roots — Stories of our Lives",
+          "ribbon": "Roots",
+          "ribbonColor": "gold",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk114637shemos",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "year-5786"
+          },
+          "color": "purple",
+          "img": "hk114637shemos",
+          "imgZoom": true,
+          "kick": "Hiskashrus · Roots — Stories of our Lives",
+          "ribbon": "Roots",
+          "ribbonColor": "gold",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk114638vaeira",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "year-5786"
+          },
+          "color": "purple",
+          "img": "hk114638vaeira",
+          "imgZoom": true,
+          "kick": "Hiskashrus · Roots — Stories of our Lives",
+          "ribbon": "Roots",
+          "ribbonColor": "gold",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk114639bo",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "year-5786"
+          },
+          "color": "purple",
+          "img": "hk114639bo",
+          "imgZoom": true,
+          "kick": "Hiskashrus · Roots — Stories of our Lives",
+          "ribbon": "Roots",
+          "ribbonColor": "gold",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk114640beshalach",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "year-5786"
+          },
+          "color": "purple",
+          "img": "hk114640beshalach",
+          "imgZoom": true,
+          "kick": "Hiskashrus · Roots — Stories of our Lives",
+          "ribbon": "Roots",
+          "ribbonColor": "gold",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk11216641yisro",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "year-5786"
+          },
+          "color": "purple",
+          "img": "hk11216641yisro",
+          "imgZoom": true,
+          "kick": "Hiskashrus · Roots — Stories of our Lives",
+          "ribbon": "Roots",
+          "ribbonColor": "gold",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk11214642mishpotim",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "year-5786"
+          },
+          "color": "purple",
+          "img": "hk11214642mishpotim",
+          "imgZoom": true,
+          "kick": "Hiskashrus · Roots — Stories of our Lives",
+          "ribbon": "Roots",
+          "ribbonColor": "gold",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk114643terumah",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "year-5786"
+          },
+          "color": "purple",
+          "img": "hk114643terumah",
+          "imgZoom": true,
+          "kick": "Hiskashrus · Roots — Stories of our Lives",
+          "ribbon": "Roots",
+          "ribbonColor": "gold",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk11012644tetzaveh",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "year-5786"
+          },
+          "color": "purple",
+          "img": "hk11012644tetzaveh",
+          "imgZoom": true,
+          "kick": "Hiskashrus · Roots — Stories of our Lives",
+          "ribbon": "Roots",
+          "ribbonColor": "gold",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk114645kisisa",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "year-5786"
+          },
+          "color": "purple",
+          "img": "hk114645kisisa",
+          "imgZoom": true,
+          "kick": "Hiskashrus · Roots — Stories of our Lives",
+          "ribbon": "Roots",
+          "ribbonColor": "gold",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk114646vayakhel",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "year-5786"
+          },
+          "color": "purple",
+          "img": "hk114646vayakhel",
+          "imgZoom": true,
+          "kick": "Hiskashrus · Roots — Stories of our Lives",
+          "ribbon": "Roots",
+          "ribbonColor": "gold",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk114647vayikra",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "year-5786"
+          },
+          "color": "purple",
+          "img": "hk114647vayikra",
+          "imgZoom": true,
+          "kick": "Hiskashrus · Roots — Stories of our Lives",
+          "ribbon": "Roots",
+          "ribbonColor": "gold",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk114649pesach",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "year-5786"
+          },
+          "color": "purple",
+          "img": "hk114649pesach",
+          "imgZoom": true,
+          "kick": "Hiskashrus · Roots — Stories of our Lives",
+          "ribbon": "Roots",
+          "ribbonColor": "gold",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk114650shmini",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "year-5786"
+          },
+          "color": "purple",
+          "img": "hk114650shmini",
+          "imgZoom": true,
+          "kick": "Hiskashrus · Roots — Stories of our Lives",
+          "ribbon": "Roots",
+          "ribbonColor": "gold",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk114651tazriametzora",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "year-5786"
+          },
+          "color": "purple",
+          "img": "hk114651tazriametzora",
+          "imgZoom": true,
+          "kick": "Hiskashrus · Roots — Stories of our Lives",
+          "ribbon": "Roots",
+          "ribbonColor": "gold",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk114652achareikedoshim",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "year-5786"
+          },
+          "color": "purple",
+          "img": "hk114652achareikedoshim",
+          "imgZoom": true,
+          "kick": "Hiskashrus · Roots — Stories of our Lives",
+          "ribbon": "Roots",
+          "ribbonColor": "gold",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk114653emor",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "year-5786"
+          },
+          "color": "purple",
+          "img": "hk114653emor",
+          "imgZoom": true,
+          "kick": "Hiskashrus · Roots — Stories of our Lives",
+          "ribbon": "Roots",
+          "ribbonColor": "gold",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk114654beharbechukosai",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "year-5786"
+          },
+          "color": "purple",
+          "img": "hk114654beharbechukosai",
+          "imgZoom": true,
+          "kick": "Hiskashrus · Roots — Stories of our Lives",
+          "ribbon": "Roots",
+          "ribbonColor": "gold",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk114655bamidbar",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "year-5786"
+          },
+          "color": "purple",
+          "img": "hk114655bamidbar",
+          "imgZoom": true,
+          "kick": "Hiskashrus · Roots — Stories of our Lives",
+          "ribbon": "Roots",
+          "ribbonColor": "gold",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk114656shavuos",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "year-5786"
+          },
+          "color": "purple",
+          "img": "hk114656shavuos",
+          "imgZoom": true,
+          "kick": "Hiskashrus · Roots — Stories of our Lives",
+          "ribbon": "Roots",
+          "ribbonColor": "gold",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk11216657naso",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "year-5786"
+          },
+          "color": "purple",
+          "img": "hk11216657naso",
+          "imgZoom": true,
+          "kick": "Hiskashrus · Roots — Stories of our Lives",
+          "ribbon": "Roots",
+          "ribbonColor": "gold",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk11016658behaaloscha",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "year-5786"
+          },
+          "color": "purple",
+          "img": "hk11016658behaaloscha",
+          "imgZoom": true,
+          "kick": "Hiskashrus · Roots — Stories of our Lives",
+          "ribbon": "Roots",
+          "ribbonColor": "gold",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk11014665bereishis",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "year-5787"
+          },
+          "color": "purple",
+          "img": "hk11014665bereishis",
+          "imgZoom": true,
+          "kick": "Hiskashrus · Roots — Stories of our Lives",
+          "ribbon": "Roots",
+          "ribbonColor": "gold",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk11013666noach",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "year-5787"
+          },
+          "color": "purple",
+          "img": "hk11013666noach",
+          "imgZoom": true,
+          "kick": "Hiskashrus · Roots — Stories of our Lives",
+          "ribbon": "Roots",
+          "ribbonColor": "gold",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk11013667lechlecha",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "year-5787"
+          },
+          "color": "purple",
+          "img": "hk11013667lechlecha",
+          "imgZoom": true,
+          "kick": "Hiskashrus · Roots — Stories of our Lives",
+          "ribbon": "Roots",
+          "ribbonColor": "gold",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk112668vayeira",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "year-5787"
+          },
+          "color": "purple",
+          "img": "hk112668vayeira",
+          "imgZoom": true,
+          "kick": "Hiskashrus · Roots — Stories of our Lives",
+          "ribbon": "Roots",
+          "ribbonColor": "gold",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk112669chayeisara",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "year-5787"
+          },
+          "color": "purple",
+          "img": "hk112669chayeisara",
+          "imgZoom": true,
+          "kick": "Hiskashrus · Roots — Stories of our Lives",
+          "ribbon": "Roots",
+          "ribbonColor": "gold",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk11215670toldos",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "year-5787"
+          },
+          "color": "purple",
+          "img": "hk11215670toldos",
+          "imgZoom": true,
+          "kick": "Hiskashrus · Roots — Stories of our Lives",
+          "ribbon": "Roots",
+          "ribbonColor": "gold",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk11215671vayeitzei",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "year-5787"
+          },
+          "color": "purple",
+          "img": "hk11215671vayeitzei",
+          "imgZoom": true,
+          "kick": "Hiskashrus · Roots — Stories of our Lives",
+          "ribbon": "Roots",
+          "ribbonColor": "gold",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk114672vayishlach",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "year-5787"
+          },
+          "color": "purple",
+          "img": "hk114672vayishlach",
+          "imgZoom": true,
+          "kick": "Hiskashrus · Roots — Stories of our Lives",
+          "ribbon": "Roots",
+          "ribbonColor": "gold",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk114673vayeishev",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "year-5787"
+          },
+          "color": "purple",
+          "img": "hk114673vayeishev",
+          "imgZoom": true,
+          "kick": "Hiskashrus · Roots — Stories of our Lives",
+          "ribbon": "Roots",
+          "ribbonColor": "gold",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk114674mikeitz",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "year-5787"
+          },
+          "color": "purple",
+          "img": "hk114674mikeitz",
+          "imgZoom": true,
+          "kick": "Hiskashrus · Roots — Stories of our Lives",
+          "ribbon": "Roots",
+          "ribbonColor": "gold",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk114675vayigash",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "year-5787"
+          },
+          "color": "purple",
+          "img": "hk114675vayigash",
+          "imgZoom": true,
+          "kick": "Hiskashrus · Roots — Stories of our Lives",
+          "ribbon": "Roots",
+          "ribbonColor": "gold",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk114676vayechi",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "year-5787"
+          },
+          "color": "purple",
+          "img": "hk114676vayechi",
+          "imgZoom": true,
+          "kick": "Hiskashrus · Roots — Stories of our Lives",
+          "ribbon": "Roots",
+          "ribbonColor": "gold",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk114677shemos",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "year-5787"
+          },
+          "color": "purple",
+          "img": "hk114677shemos",
+          "imgZoom": true,
+          "kick": "Hiskashrus · Roots — Stories of our Lives",
+          "ribbon": "Roots",
+          "ribbonColor": "gold",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk11015678vaeira",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "year-5787"
+          },
+          "color": "purple",
+          "img": "hk11015678vaeira",
+          "imgZoom": true,
+          "kick": "Hiskashrus · Roots — Stories of our Lives",
+          "ribbon": "Roots",
+          "ribbonColor": "gold",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk114679bo",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "year-5787"
+          },
+          "color": "purple",
+          "img": "hk114679bo",
+          "imgZoom": true,
+          "kick": "Hiskashrus · Roots — Stories of our Lives",
+          "ribbon": "Roots",
+          "ribbonColor": "gold",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk114680beshalach",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "year-5787"
+          },
+          "color": "purple",
+          "img": "hk114680beshalach",
+          "imgZoom": true,
+          "kick": "Hiskashrus · Roots — Stories of our Lives",
+          "ribbon": "Roots",
+          "ribbonColor": "gold",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk114681yisro",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "year-5787"
+          },
+          "color": "purple",
+          "img": "hk114681yisro",
+          "imgZoom": true,
+          "kick": "Hiskashrus · Roots — Stories of our Lives",
+          "ribbon": "Roots",
+          "ribbonColor": "gold",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        }
+      ]
+    }
+  ],
+  "title": "Roots — Stories of our Lives",
+  "type": "series"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "yt08673vayeishevpdf",
+  "branch": "campaign",
+  "parent": "cYomTov",
+  "crumbLabel": "Yom Tov Seasons",
+  "template": "article",
+  "title": "Holy Coins",
+  "article": {
+    "kick": "Yom Tov · Channukah",
+    "chips": [
+      "Channukah"
+    ],
+    "pages": [
+      "yt08673vayeishevpdf",
+      "yt08673vayeishevpdf_p2"
+    ],
+    "pdf": "yomtov/08%20673%20Vayeishev.pdf",
+    "sichos": [
+      {
+        "label": "Sicha 1",
+        "href": "sichos/DRRTK%20vol%203%20-%20p%20266-267.pdf"
+      },
+      {
+        "label": "Sicha 2",
+        "href": "sichos/DRRTK%20vol%203%20-%20p%20275-279.pdf"
+      },
+      {
+        "label": "Sicha 3",
+        "href": "sichos/TRSTC%20vol.%203%2C%20p.%20381-382.pdf"
+      },
+      {
+        "label": "Sicha 4",
+        "href": "sichos/TRSTC%20vol.%203%2C%20p.%20390-395.pdf"
+      }
+    ],
+    "body": "<p>Chanuka gelt every night of Chanuka, especially on the</p><p>fifth night. Children should also give; boys to other</p><p>On this yom tov, the holy menorah illuminates the outside. Similarly, money we give to Yiddishe</p><p>children is no longer mundane but holy, because soldiers in Tzivos Hashem will surely use the gelt for doing what Hashem wants, such as the mitzvah of Tzedaka. Ask your parents for spiritual gelt too—like helping you make your room into a Mikdash Me’at, which will then go on to increase the light in your home and the world at large!</p>",
+    "source": "Source: Yom Tov Campaign · Sichos - Poems - Yom Tov Seasons"
+  },
+  "type": "yom-tov-seasons"
+}

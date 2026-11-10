@@ -1,0 +1,24 @@
+{
+  "id": "i671frames",
+  "branch": "date",
+  "parent": "dpVayeitzei",
+  "crumbLabel": "Chassidishe Frames",
+  "altParent": "cYomaDepagra",
+  "altBranch": "campaign",
+  "template": "article",
+  "title": "Wedding Journey - Yud Daled Kislev, Chasuna of the Rebbe &amp; Rebbetzin",
+  "article": {
+    "chips": [
+      "Parshas Vayeitzei"
+    ],
+    "pages": [
+      "i671frames",
+      "i671frames_p2"
+    ],
+    "altBase": "Wedding Journey - Yud Daled Kislev, Chasuna of the Rebbe & Rebbetzin",
+    "pdf": "pdfs/671.pdf",
+    "body": "<p>lesson: The Frierdiker Rebbe gave special care to all the details leading up to the chasuna and, of course, to the wedding itself. The Rebbe said that \"this is the day that connected me to you and you to me.\" How can we strengthen our connection to the Rebbe?</p><p><span class=\"mc\" style=\"color:#ab8404\">Diary of Reb Elya</span></p><p><span class=\"mc\">14 Kislev missions</span></p>",
+    "source": "Source: Parshas Vayeitzei · 10 Kislev 5787"
+  },
+  "type": "chassidishe-frames"
+}

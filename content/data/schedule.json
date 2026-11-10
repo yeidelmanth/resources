@@ -1,0 +1,1314 @@
+{
+  "weekly": [
+    [
+      "Sunday",
+      "Receive the Niggun & Sicha for the week"
+    ],
+    [
+      "Monday",
+      "Mark Missions from the previous week"
+    ],
+    [
+      "Tuesday",
+      "Print Missions for the coming week"
+    ],
+    [
+      "Wednesday",
+      "Data Entry due · send the WhatsApp PSA for the 5M Raffle"
+    ],
+    [
+      "Thursday",
+      "Weekly Raffle winners announced · print & hang the 5M Winners Report"
+    ],
+    [
+      "Friday",
+      "Collect Missions from the previous week · hand out Missions & Hachayol"
+    ]
+  ],
+  "mivtzaOfMonth": {
+    "Elul": "Tzivos Hashem Registration",
+    "Tishrei": "Shofar & Lulav",
+    "Cheshvan": "Tzivos Hashem Registration",
+    "Kislev": "Chanukah",
+    "Teves": "Bayis Molei Seforim",
+    "Shevat": "Cheder Tzivos Hashem & Neshek",
+    "Adar": "Yom Huledes / Purim",
+    "Nissan": "Matzah",
+    "Iyar": "Lag B’omer",
+    "Sivan": "Aseres Hadibros & Ois B’sefer Torah",
+    "Av": "Tzivos Hashem Registration",
+    "Adar I": "Yom Huledes / Purim",
+    "Adar II": "Yom Huledes / Purim"
+  },
+  "monthOrder": [
+    "Tishrei",
+    "Cheshvan",
+    "Kislev",
+    "Teves",
+    "Shevat",
+    "Adar I",
+    "Adar II",
+    "Nissan",
+    "Iyar",
+    "Sivan",
+    "Tammuz",
+    "Av",
+    "Elul"
+  ],
+  "categories": {
+    "hachayol": "Hachayol",
+    "rally": "Rallies",
+    "chidon": "Chidon",
+    "khk": "KHK Tests",
+    "meetings": "BC/CC Meetings",
+    "promo": "Promotions",
+    "shipment": "Shipments",
+    "events": "Events",
+    "mevorchim": "Shabbos Mevorchim",
+    "bf": "BF Reports",
+    "raffle": "Raffles",
+    "mivtza": "Mivtza of the Month"
+  },
+  "categoryIcons": {
+    "chidon": "/resources/assets/img/643b909aafb826b2.png",
+    "mevorchim": "/resources/assets/img/03f3974e50e8e5fd.png"
+  },
+  "events": [
+    {
+      "hd": "Av-30",
+      "iso": "2026-08-13",
+      "cat": "raffle",
+      "label": "60M Raffle 4 Ends"
+    },
+    {
+      "hd": "Elul-1",
+      "iso": "2026-08-14",
+      "cat": "raffle",
+      "label": "60M Raffle 1 Starts"
+    },
+    {
+      "hd": "Elul-17",
+      "iso": "2026-08-30",
+      "cat": "meetings",
+      "label": "BC Meeting 9pm EDT"
+    },
+    {
+      "hd": "Elul-17",
+      "iso": "2026-08-30",
+      "cat": "meetings",
+      "label": "CC Meeting 9:30pm EDT"
+    },
+    {
+      "hd": "Elul-18",
+      "iso": "2026-08-31",
+      "cat": "meetings",
+      "label": "BC Meeting 1pm EDT"
+    },
+    {
+      "hd": "Elul-18",
+      "iso": "2026-08-31",
+      "cat": "meetings",
+      "label": "CC Meeting 1:30pm EDT"
+    },
+    {
+      "hd": "Elul-22",
+      "iso": "2026-09-04",
+      "cat": "bf",
+      "label": "BF Report #38"
+    },
+    {
+      "hd": "Elul-22",
+      "iso": "2026-09-04",
+      "cat": "hachayol",
+      "label": "#660"
+    },
+    {
+      "hd": "Elul-23",
+      "iso": "2026-09-05",
+      "cat": "mevorchim",
+      "label": "Shabbos Mevorchim"
+    },
+    {
+      "hd": "Elul-26",
+      "iso": "2026-09-08",
+      "cat": "rally",
+      "label": "Elul Rally"
+    },
+    {
+      "hd": "Elul-26",
+      "iso": "2026-09-08",
+      "cat": "shipment",
+      "label": "3rd Shipment Arrives"
+    },
+    {
+      "hd": "Elul-28",
+      "iso": "2026-09-10",
+      "cat": "hachayol",
+      "label": "#661"
+    },
+    {
+      "hd": "Tishrei-4",
+      "iso": "2026-09-15",
+      "cat": "chidon",
+      "label": "Chidon Launch"
+    },
+    {
+      "hd": "Tishrei-6",
+      "iso": "2026-09-17",
+      "cat": "chidon",
+      "label": "Chidon Sale Ends"
+    },
+    {
+      "hd": "Tishrei-6",
+      "iso": "2026-09-17",
+      "cat": "raffle",
+      "label": "5M Raffle"
+    },
+    {
+      "hd": "Tishrei-6",
+      "iso": "2026-09-17",
+      "cat": "rally",
+      "label": "Junior Rally Ep 1"
+    },
+    {
+      "hd": "Tishrei-7",
+      "iso": "2026-09-18",
+      "cat": "hachayol",
+      "label": "#662"
+    },
+    {
+      "hd": "Tishrei-13",
+      "iso": "2026-09-24",
+      "cat": "hachayol",
+      "label": "#663, #664"
+    },
+    {
+      "hd": "Tishrei-13",
+      "iso": "2026-09-24",
+      "cat": "raffle",
+      "label": "5M Raffle"
+    },
+    {
+      "hd": "Tishrei-19",
+      "iso": "2026-09-30",
+      "cat": "rally",
+      "label": "Sukkos Rally"
+    },
+    {
+      "hd": "Tishrei-25",
+      "iso": "2026-10-06",
+      "cat": "events",
+      "label": "Limmud starts"
+    },
+    {
+      "hd": "Tishrei-25",
+      "iso": "2026-10-06",
+      "cat": "events",
+      "label": "Enrollment ends"
+    },
+    {
+      "hd": "Tishrei-25",
+      "iso": "2026-10-06",
+      "cat": "shipment",
+      "label": "4th Shipment Arrives"
+    },
+    {
+      "hd": "Tishrei-27",
+      "iso": "2026-10-08",
+      "cat": "raffle",
+      "label": "5M Raffle"
+    },
+    {
+      "hd": "Tishrei-28",
+      "iso": "2026-10-09",
+      "cat": "bf",
+      "label": "BF Report #39"
+    },
+    {
+      "hd": "Tishrei-28",
+      "iso": "2026-10-09",
+      "cat": "hachayol",
+      "label": "#665"
+    },
+    {
+      "hd": "Tishrei-29",
+      "iso": "2026-10-10",
+      "cat": "mevorchim",
+      "label": "Shabbos Mevorchim"
+    },
+    {
+      "hd": "Tishrei-30",
+      "iso": "2026-10-11",
+      "cat": "meetings",
+      "label": "BC Meeting 9pm EDT"
+    },
+    {
+      "hd": "Tishrei-30",
+      "iso": "2026-10-11",
+      "cat": "meetings",
+      "label": "CC Meeting 9:30pm EDT"
+    },
+    {
+      "hd": "Cheshvan-1",
+      "iso": "2026-10-12",
+      "cat": "meetings",
+      "label": "BC Meeting 1pm EDT"
+    },
+    {
+      "hd": "Cheshvan-1",
+      "iso": "2026-10-12",
+      "cat": "meetings",
+      "label": "CC Meeting 1:30pm EDT"
+    },
+    {
+      "hd": "Cheshvan-2",
+      "iso": "2026-10-13",
+      "cat": "shipment",
+      "label": "5th Shipment Arrives"
+    },
+    {
+      "hd": "Cheshvan-4",
+      "iso": "2026-10-15",
+      "cat": "raffle",
+      "label": "5M Raffle"
+    },
+    {
+      "hd": "Cheshvan-5",
+      "iso": "2026-10-16",
+      "cat": "hachayol",
+      "label": "#666"
+    },
+    {
+      "hd": "Cheshvan-11",
+      "iso": "2026-10-22",
+      "cat": "raffle",
+      "label": "5M Raffle"
+    },
+    {
+      "hd": "Cheshvan-12",
+      "iso": "2026-10-23",
+      "cat": "hachayol",
+      "label": "#667"
+    },
+    {
+      "hd": "Cheshvan-16",
+      "iso": "2026-10-27",
+      "cat": "khk",
+      "label": "KHK Test 1"
+    },
+    {
+      "hd": "Cheshvan-16",
+      "iso": "2026-10-27",
+      "cat": "promo",
+      "label": "Tishrei Promotion Ceremony"
+    },
+    {
+      "hd": "Cheshvan-18",
+      "iso": "2026-10-29",
+      "cat": "raffle",
+      "label": "5M Raffle"
+    },
+    {
+      "hd": "Cheshvan-18",
+      "iso": "2026-10-29",
+      "cat": "rally",
+      "label": "Chof Cheshvan Rally"
+    },
+    {
+      "hd": "Cheshvan-19",
+      "iso": "2026-10-30",
+      "cat": "hachayol",
+      "label": "#668"
+    },
+    {
+      "hd": "Cheshvan-21",
+      "iso": "2026-11-01",
+      "cat": "meetings",
+      "label": "BC Meeting 9pm EST"
+    },
+    {
+      "hd": "Cheshvan-21",
+      "iso": "2026-11-01",
+      "cat": "meetings",
+      "label": "CC Meeting 9:30pm EST"
+    },
+    {
+      "hd": "Cheshvan-22",
+      "iso": "2026-11-02",
+      "cat": "meetings",
+      "label": "BC Meeting 1pm EST"
+    },
+    {
+      "hd": "Cheshvan-22",
+      "iso": "2026-11-02",
+      "cat": "meetings",
+      "label": "CC Meeting 1:30pm EST"
+    },
+    {
+      "hd": "Cheshvan-23",
+      "iso": "2026-11-03",
+      "cat": "khk",
+      "label": "KHK Test 1 Marks Due"
+    },
+    {
+      "hd": "Cheshvan-25",
+      "iso": "2026-11-05",
+      "cat": "raffle",
+      "label": "5M Raffle"
+    },
+    {
+      "hd": "Cheshvan-25",
+      "iso": "2026-11-05",
+      "cat": "rally",
+      "label": "Junior Rally Ep 2"
+    },
+    {
+      "hd": "Cheshvan-26",
+      "iso": "2026-11-06",
+      "cat": "bf",
+      "label": "BF Report #40"
+    },
+    {
+      "hd": "Cheshvan-26",
+      "iso": "2026-11-06",
+      "cat": "hachayol",
+      "label": "#669"
+    },
+    {
+      "hd": "Cheshvan-27",
+      "iso": "2026-11-07",
+      "cat": "mevorchim",
+      "label": "Shabbos Mevorchim"
+    },
+    {
+      "hd": "Cheshvan-30",
+      "iso": "2026-11-10",
+      "cat": "raffle",
+      "label": "60M Raffle 1 Ends"
+    },
+    {
+      "hd": "Kislev-1",
+      "iso": "2026-11-11",
+      "cat": "raffle",
+      "label": "60M Raffle 2 Starts"
+    },
+    {
+      "hd": "Kislev-2",
+      "iso": "2026-11-12",
+      "cat": "chidon",
+      "label": "Chidon Test 1"
+    },
+    {
+      "hd": "Kislev-2",
+      "iso": "2026-11-12",
+      "cat": "raffle",
+      "label": "5M Raffle"
+    },
+    {
+      "hd": "Kislev-2",
+      "iso": "2026-11-12",
+      "cat": "rally",
+      "label": "Chanuka Flagship Rally"
+    },
+    {
+      "hd": "Kislev-3",
+      "iso": "2026-11-13",
+      "cat": "hachayol",
+      "label": "#670"
+    },
+    {
+      "hd": "Kislev-6",
+      "iso": "2026-11-16",
+      "cat": "chidon",
+      "label": "Chidon Test 1 Marks Due"
+    },
+    {
+      "hd": "Kislev-7",
+      "iso": "2026-11-17",
+      "cat": "promo",
+      "label": "Cheshvan Promotion Ceremony"
+    },
+    {
+      "hd": "Kislev-9",
+      "iso": "2026-11-19",
+      "cat": "raffle",
+      "label": "5M Raffle"
+    },
+    {
+      "hd": "Kislev-9",
+      "iso": "2026-11-19",
+      "cat": "rally",
+      "label": "Chanuka Flagship Rally"
+    },
+    {
+      "hd": "Kislev-10",
+      "iso": "2026-11-20",
+      "cat": "hachayol",
+      "label": "#671"
+    },
+    {
+      "hd": "Kislev-16",
+      "iso": "2026-11-26",
+      "cat": "khk",
+      "label": "KHK Test 2"
+    },
+    {
+      "hd": "Kislev-16",
+      "iso": "2026-11-26",
+      "cat": "raffle",
+      "label": "5M Raffle"
+    },
+    {
+      "hd": "Kislev-16",
+      "iso": "2026-11-26",
+      "cat": "rally",
+      "label": "Chanuka Flagship Rally"
+    },
+    {
+      "hd": "Kislev-17",
+      "iso": "2026-11-27",
+      "cat": "hachayol",
+      "label": "#672"
+    },
+    {
+      "hd": "Kislev-22",
+      "iso": "2026-12-02",
+      "cat": "bf",
+      "label": "BF Report #41"
+    },
+    {
+      "hd": "Kislev-22",
+      "iso": "2026-12-02",
+      "cat": "hachayol",
+      "label": "#673"
+    },
+    {
+      "hd": "Kislev-22",
+      "iso": "2026-12-02",
+      "cat": "khk",
+      "label": "KHK Test 2 Marks Due"
+    },
+    {
+      "hd": "Kislev-23",
+      "iso": "2026-12-03",
+      "cat": "rally",
+      "label": "Chanuka Real Rally"
+    },
+    {
+      "hd": "Kislev-25",
+      "iso": "2026-12-05",
+      "cat": "mevorchim",
+      "label": "Shabbos Mevorchim"
+    },
+    {
+      "hd": "Kislev-29",
+      "iso": "2026-12-09",
+      "cat": "hachayol",
+      "label": "#674"
+    },
+    {
+      "hd": "Kislev-29",
+      "iso": "2026-12-09",
+      "cat": "rally",
+      "label": "Chanukah Rally"
+    },
+    {
+      "hd": "Kislev-30",
+      "iso": "2026-12-10",
+      "cat": "raffle",
+      "label": "5M Raffle"
+    },
+    {
+      "hd": "Teves-5",
+      "iso": "2026-12-15",
+      "cat": "promo",
+      "label": "Kislev Promotion Ceremony"
+    },
+    {
+      "hd": "Teves-7",
+      "iso": "2026-12-17",
+      "cat": "raffle",
+      "label": "5M Raffle"
+    },
+    {
+      "hd": "Teves-8",
+      "iso": "2026-12-18",
+      "cat": "hachayol",
+      "label": "#675"
+    },
+    {
+      "hd": "Teves-13",
+      "iso": "2026-12-23",
+      "cat": "rally",
+      "label": "Yud Shevat Flagship Rally"
+    },
+    {
+      "hd": "Teves-14",
+      "iso": "2026-12-24",
+      "cat": "raffle",
+      "label": "5M Raffle"
+    },
+    {
+      "hd": "Teves-15",
+      "iso": "2026-12-25",
+      "cat": "hachayol",
+      "label": "#676"
+    },
+    {
+      "hd": "Teves-17",
+      "iso": "2026-12-27",
+      "cat": "meetings",
+      "label": "BC Meeting 9pm EST"
+    },
+    {
+      "hd": "Teves-17",
+      "iso": "2026-12-27",
+      "cat": "meetings",
+      "label": "CC Meeting 9:30pm EST"
+    },
+    {
+      "hd": "Teves-18",
+      "iso": "2026-12-28",
+      "cat": "meetings",
+      "label": "BC Meeting 1pm EST"
+    },
+    {
+      "hd": "Teves-18",
+      "iso": "2026-12-28",
+      "cat": "meetings",
+      "label": "CC Meeting 1:30pm EST"
+    },
+    {
+      "hd": "Teves-20",
+      "iso": "2026-12-30",
+      "cat": "rally",
+      "label": "Yud Shevat Flagship Rally"
+    },
+    {
+      "hd": "Teves-21",
+      "iso": "2026-12-31",
+      "cat": "chidon",
+      "label": "Chidon Test 2"
+    },
+    {
+      "hd": "Teves-21",
+      "iso": "2026-12-31",
+      "cat": "raffle",
+      "label": "5M Raffle"
+    },
+    {
+      "hd": "Teves-22",
+      "iso": "2027-01-01",
+      "cat": "bf",
+      "label": "BF Report #42"
+    },
+    {
+      "hd": "Teves-22",
+      "iso": "2027-01-01",
+      "cat": "hachayol",
+      "label": "#677"
+    },
+    {
+      "hd": "Teves-23",
+      "iso": "2027-01-02",
+      "cat": "mevorchim",
+      "label": "Shabbos Mevorchim"
+    },
+    {
+      "hd": "Teves-26",
+      "iso": "2027-01-05",
+      "cat": "chidon",
+      "label": "Chidon Test 2 Marks Due"
+    },
+    {
+      "hd": "Teves-27",
+      "iso": "2027-01-06",
+      "cat": "rally",
+      "label": "Yud Shevat Flagship Rally"
+    },
+    {
+      "hd": "Teves-28",
+      "iso": "2027-01-07",
+      "cat": "khk",
+      "label": "KHK Test 3"
+    },
+    {
+      "hd": "Teves-28",
+      "iso": "2027-01-07",
+      "cat": "raffle",
+      "label": "5M Raffle"
+    },
+    {
+      "hd": "Teves-29",
+      "iso": "2027-01-08",
+      "cat": "hachayol",
+      "label": "#678"
+    },
+    {
+      "hd": "Shevat-4",
+      "iso": "2027-01-12",
+      "cat": "khk",
+      "label": "KHK Test 3 Marks Due"
+    },
+    {
+      "hd": "Shevat-4",
+      "iso": "2027-01-12",
+      "cat": "promo",
+      "label": "Teves Promotion Ceremony"
+    },
+    {
+      "hd": "Shevat-5",
+      "iso": "2027-01-13",
+      "cat": "rally",
+      "label": "Yud Shevat Real Rally"
+    },
+    {
+      "hd": "Shevat-7",
+      "iso": "2027-01-15",
+      "cat": "hachayol",
+      "label": "#679"
+    },
+    {
+      "hd": "Shevat-10",
+      "iso": "2027-01-18",
+      "cat": "rally",
+      "label": "Yud Shevat Rally"
+    },
+    {
+      "hd": "Shevat-13",
+      "iso": "2027-01-21",
+      "cat": "raffle",
+      "label": "5M Raffle"
+    },
+    {
+      "hd": "Shevat-14",
+      "iso": "2027-01-22",
+      "cat": "hachayol",
+      "label": "#680"
+    },
+    {
+      "hd": "Shevat-20",
+      "iso": "2027-01-28",
+      "cat": "raffle",
+      "label": "5M Raffle"
+    },
+    {
+      "hd": "Shevat-21",
+      "iso": "2027-01-29",
+      "cat": "hachayol",
+      "label": "#681"
+    },
+    {
+      "hd": "Shevat-23",
+      "iso": "2027-01-31",
+      "cat": "meetings",
+      "label": "BC Meeting 9pm EST"
+    },
+    {
+      "hd": "Shevat-23",
+      "iso": "2027-01-31",
+      "cat": "meetings",
+      "label": "CC Meeting 9:30pm EST"
+    },
+    {
+      "hd": "Shevat-24",
+      "iso": "2027-02-01",
+      "cat": "meetings",
+      "label": "BC Meeting 1pm EST"
+    },
+    {
+      "hd": "Shevat-24",
+      "iso": "2027-02-01",
+      "cat": "meetings",
+      "label": "CC Meeting 1:30pm EST"
+    },
+    {
+      "hd": "Shevat-27",
+      "iso": "2027-02-04",
+      "cat": "raffle",
+      "label": "5M Raffle"
+    },
+    {
+      "hd": "Shevat-27",
+      "iso": "2027-02-04",
+      "cat": "rally",
+      "label": "Junior Rally Ep 3"
+    },
+    {
+      "hd": "Shevat-28",
+      "iso": "2027-02-05",
+      "cat": "bf",
+      "label": "BF Report #43"
+    },
+    {
+      "hd": "Shevat-28",
+      "iso": "2027-02-05",
+      "cat": "hachayol",
+      "label": "#682"
+    },
+    {
+      "hd": "Shevat-29",
+      "iso": "2027-02-06",
+      "cat": "mevorchim",
+      "label": "Shabbos Mevorchim"
+    },
+    {
+      "hd": "Shevat-30",
+      "iso": "2027-02-07",
+      "cat": "raffle",
+      "label": "60M Raffle 2 Ends"
+    },
+    {
+      "hd": "Adar I-1",
+      "iso": "2027-02-08",
+      "cat": "chidon",
+      "label": "Chidon Test 3"
+    },
+    {
+      "hd": "Adar I-1",
+      "iso": "2027-02-08",
+      "cat": "raffle",
+      "label": "60M Raffle 3 Starts"
+    },
+    {
+      "hd": "Adar I-2",
+      "iso": "2027-02-09",
+      "cat": "promo",
+      "label": "Shevat Promotion Ceremony"
+    },
+    {
+      "hd": "Adar I-4",
+      "iso": "2027-02-11",
+      "cat": "khk",
+      "label": "KHK Test 4"
+    },
+    {
+      "hd": "Adar I-4",
+      "iso": "2027-02-11",
+      "cat": "raffle",
+      "label": "5M Raffle"
+    },
+    {
+      "hd": "Adar I-5",
+      "iso": "2027-02-12",
+      "cat": "hachayol",
+      "label": "#683"
+    },
+    {
+      "hd": "Adar I-8",
+      "iso": "2027-02-15",
+      "cat": "chidon",
+      "label": "Chidon Test 3 Marks Due"
+    },
+    {
+      "hd": "Adar I-8",
+      "iso": "2027-02-15",
+      "cat": "khk",
+      "label": "KHK Test 4 Marks Due"
+    },
+    {
+      "hd": "Adar I-11",
+      "iso": "2027-02-18",
+      "cat": "raffle",
+      "label": "5M Raffle"
+    },
+    {
+      "hd": "Adar I-12",
+      "iso": "2027-02-19",
+      "cat": "hachayol",
+      "label": "#684"
+    },
+    {
+      "hd": "Adar I-15",
+      "iso": "2027-02-22",
+      "cat": "rally",
+      "label": "Purim Koton Rally"
+    },
+    {
+      "hd": "Adar I-18",
+      "iso": "2027-02-25",
+      "cat": "raffle",
+      "label": "5M Raffle"
+    },
+    {
+      "hd": "Adar I-19",
+      "iso": "2027-02-26",
+      "cat": "hachayol",
+      "label": "#685"
+    },
+    {
+      "hd": "Adar I-21",
+      "iso": "2027-02-28",
+      "cat": "meetings",
+      "label": "BC Meeting 9pm EST"
+    },
+    {
+      "hd": "Adar I-21",
+      "iso": "2027-02-28",
+      "cat": "meetings",
+      "label": "CC Meeting 9:30pm EST"
+    },
+    {
+      "hd": "Adar I-22",
+      "iso": "2027-03-01",
+      "cat": "meetings",
+      "label": "BC Meeting 1pm EST"
+    },
+    {
+      "hd": "Adar I-22",
+      "iso": "2027-03-01",
+      "cat": "meetings",
+      "label": "CC Meeting 1:30pm EST"
+    },
+    {
+      "hd": "Adar I-25",
+      "iso": "2027-03-04",
+      "cat": "raffle",
+      "label": "5M Raffle"
+    },
+    {
+      "hd": "Adar I-26",
+      "iso": "2027-03-05",
+      "cat": "bf",
+      "label": "BF Report #44"
+    },
+    {
+      "hd": "Adar I-26",
+      "iso": "2027-03-05",
+      "cat": "hachayol",
+      "label": "#686"
+    },
+    {
+      "hd": "Adar I-27",
+      "iso": "2027-03-06",
+      "cat": "mevorchim",
+      "label": "Shabbos Mevorchim"
+    },
+    {
+      "hd": "Adar I-29",
+      "iso": "2027-03-08",
+      "cat": "chidon",
+      "label": "Chidon Final"
+    },
+    {
+      "hd": "Adar II-2",
+      "iso": "2027-03-11",
+      "cat": "chidon",
+      "label": "Chidon Final Marks Due"
+    },
+    {
+      "hd": "Adar II-2",
+      "iso": "2027-03-11",
+      "cat": "raffle",
+      "label": "5M Raffle"
+    },
+    {
+      "hd": "Adar II-3",
+      "iso": "2027-03-12",
+      "cat": "hachayol",
+      "label": "#687"
+    },
+    {
+      "hd": "Adar II-6",
+      "iso": "2027-03-15",
+      "cat": "khk",
+      "label": "KHK Online Final"
+    },
+    {
+      "hd": "Adar II-6",
+      "iso": "2027-03-15",
+      "cat": "rally",
+      "label": "Pesach Flagship Rally"
+    },
+    {
+      "hd": "Adar II-7",
+      "iso": "2027-03-16",
+      "cat": "promo",
+      "label": "Adar 1 Promotion Ceremony"
+    },
+    {
+      "hd": "Adar II-9",
+      "iso": "2027-03-18",
+      "cat": "raffle",
+      "label": "5M Raffle"
+    },
+    {
+      "hd": "Adar II-9",
+      "iso": "2027-03-18",
+      "cat": "rally",
+      "label": "Purim Rally"
+    },
+    {
+      "hd": "Adar II-10",
+      "iso": "2027-03-19",
+      "cat": "hachayol",
+      "label": "#688"
+    },
+    {
+      "hd": "Adar II-16",
+      "iso": "2027-03-25",
+      "cat": "raffle",
+      "label": "5M Raffle"
+    },
+    {
+      "hd": "Adar II-17",
+      "iso": "2027-03-26",
+      "cat": "hachayol",
+      "label": "#689"
+    },
+    {
+      "hd": "Adar II-20",
+      "iso": "2027-03-29",
+      "cat": "rally",
+      "label": "Pesach Flagship Rally"
+    },
+    {
+      "hd": "Adar II-23",
+      "iso": "2027-04-01",
+      "cat": "events",
+      "label": "Girls Event"
+    },
+    {
+      "hd": "Adar II-23",
+      "iso": "2027-04-01",
+      "cat": "events",
+      "label": "Girls East Coast"
+    },
+    {
+      "hd": "Adar II-23",
+      "iso": "2027-04-01",
+      "cat": "events",
+      "label": "Regional Trip"
+    },
+    {
+      "hd": "Adar II-24",
+      "iso": "2027-04-02",
+      "cat": "bf",
+      "label": "BF Report #45"
+    },
+    {
+      "hd": "Adar II-24",
+      "iso": "2027-04-02",
+      "cat": "hachayol",
+      "label": "#690"
+    },
+    {
+      "hd": "Adar II-25",
+      "iso": "2027-04-03",
+      "cat": "mevorchim",
+      "label": "Shabbos Mevorchim"
+    },
+    {
+      "hd": "Adar II-27",
+      "iso": "2027-04-05",
+      "cat": "rally",
+      "label": "Pesach Flagship Rally"
+    },
+    {
+      "hd": "Adar II-29",
+      "iso": "2027-04-07",
+      "cat": "raffle",
+      "label": "60M Raffle 3 Ends"
+    },
+    {
+      "hd": "Nissan-1",
+      "iso": "2027-04-08",
+      "cat": "events",
+      "label": "Boys Event"
+    },
+    {
+      "hd": "Nissan-1",
+      "iso": "2027-04-08",
+      "cat": "events",
+      "label": "Boys East Coast Regional"
+    },
+    {
+      "hd": "Nissan-1",
+      "iso": "2027-04-08",
+      "cat": "raffle",
+      "label": "60M Raffle 4 Starts"
+    },
+    {
+      "hd": "Nissan-1",
+      "iso": "2027-04-08",
+      "cat": "raffle",
+      "label": "5M Raffle"
+    },
+    {
+      "hd": "Nissan-2",
+      "iso": "2027-04-09",
+      "cat": "hachayol",
+      "label": "#691"
+    },
+    {
+      "hd": "Nissan-5",
+      "iso": "2027-04-12",
+      "cat": "rally",
+      "label": "Pesach Real Rally"
+    },
+    {
+      "hd": "Nissan-6",
+      "iso": "2027-04-13",
+      "cat": "promo",
+      "label": "Adar 2 Promotion Ceremony"
+    },
+    {
+      "hd": "Nissan-7",
+      "iso": "2027-04-14",
+      "cat": "hachayol",
+      "label": "#692, #693, #694"
+    },
+    {
+      "hd": "Nissan-11",
+      "iso": "2027-04-18",
+      "cat": "rally",
+      "label": "11 Nissan Rally"
+    },
+    {
+      "hd": "Nissan-18",
+      "iso": "2027-04-25",
+      "cat": "rally",
+      "label": "Pesach Rally"
+    },
+    {
+      "hd": "Nissan-24",
+      "iso": "2027-05-01",
+      "cat": "mevorchim",
+      "label": "Shabbos Mevorchim"
+    },
+    {
+      "hd": "Nissan-25",
+      "iso": "2027-05-02",
+      "cat": "meetings",
+      "label": "BC Meeting 9pm EDT"
+    },
+    {
+      "hd": "Nissan-25",
+      "iso": "2027-05-02",
+      "cat": "meetings",
+      "label": "CC Meeting 9:30pm EDT"
+    },
+    {
+      "hd": "Nissan-26",
+      "iso": "2027-05-03",
+      "cat": "meetings",
+      "label": "BC Meeting 1pm EDT"
+    },
+    {
+      "hd": "Nissan-26",
+      "iso": "2027-05-03",
+      "cat": "meetings",
+      "label": "CC Meeting 1:30pm EDT"
+    },
+    {
+      "hd": "Nissan-28",
+      "iso": "2027-05-05",
+      "cat": "rally",
+      "label": "Lag B’omer Flagship Rally"
+    },
+    {
+      "hd": "Nissan-30",
+      "iso": "2027-05-07",
+      "cat": "bf",
+      "label": "BF Report #46"
+    },
+    {
+      "hd": "Nissan-30",
+      "iso": "2027-05-07",
+      "cat": "hachayol",
+      "label": "#695"
+    },
+    {
+      "hd": "Iyar-5",
+      "iso": "2027-05-12",
+      "cat": "rally",
+      "label": "Lag B’omer Flagship Rally"
+    },
+    {
+      "hd": "Iyar-6",
+      "iso": "2027-05-13",
+      "cat": "raffle",
+      "label": "5M Raffle"
+    },
+    {
+      "hd": "Iyar-7",
+      "iso": "2027-05-14",
+      "cat": "hachayol",
+      "label": "#696"
+    },
+    {
+      "hd": "Iyar-11",
+      "iso": "2027-05-18",
+      "cat": "promo",
+      "label": "Nissan Promotion Ceremony"
+    },
+    {
+      "hd": "Iyar-11",
+      "iso": "2027-05-18",
+      "cat": "rally",
+      "label": "Junior Rally Ep 4"
+    },
+    {
+      "hd": "Iyar-12",
+      "iso": "2027-05-19",
+      "cat": "rally",
+      "label": "Lag B’omer Flagship Rally"
+    },
+    {
+      "hd": "Iyar-13",
+      "iso": "2027-05-20",
+      "cat": "raffle",
+      "label": "5M Raffle"
+    },
+    {
+      "hd": "Iyar-14",
+      "iso": "2027-05-21",
+      "cat": "hachayol",
+      "label": "#697"
+    },
+    {
+      "hd": "Iyar-18",
+      "iso": "2027-05-25",
+      "cat": "chidon",
+      "label": "Chidon 5788 Enrollment"
+    },
+    {
+      "hd": "Iyar-18",
+      "iso": "2027-05-25",
+      "cat": "rally",
+      "label": "Lag B'omer Rally"
+    },
+    {
+      "hd": "Iyar-19",
+      "iso": "2027-05-26",
+      "cat": "rally",
+      "label": "Lag B’omer Real Rally"
+    },
+    {
+      "hd": "Iyar-20",
+      "iso": "2027-05-27",
+      "cat": "raffle",
+      "label": "5M Raffle"
+    },
+    {
+      "hd": "Iyar-21",
+      "iso": "2027-05-28",
+      "cat": "hachayol",
+      "label": "#698"
+    },
+    {
+      "hd": "Iyar-23",
+      "iso": "2027-05-30",
+      "cat": "meetings",
+      "label": "BC Meeting 9pm EDT"
+    },
+    {
+      "hd": "Iyar-23",
+      "iso": "2027-05-30",
+      "cat": "meetings",
+      "label": "CC Meeting 9:30pm EDT"
+    },
+    {
+      "hd": "Iyar-24",
+      "iso": "2027-05-31",
+      "cat": "meetings",
+      "label": "BC Meeting 1pm EDT"
+    },
+    {
+      "hd": "Iyar-24",
+      "iso": "2027-05-31",
+      "cat": "meetings",
+      "label": "CC Meeting 1:30pm EDT"
+    },
+    {
+      "hd": "Iyar-28",
+      "iso": "2027-06-04",
+      "cat": "bf",
+      "label": "BF Report #47"
+    },
+    {
+      "hd": "Iyar-28",
+      "iso": "2027-06-04",
+      "cat": "hachayol",
+      "label": "#699"
+    },
+    {
+      "hd": "Iyar-29",
+      "iso": "2027-06-05",
+      "cat": "mevorchim",
+      "label": "Shabbos Mevorchim"
+    },
+    {
+      "hd": "Iyar-29",
+      "iso": "2027-06-05",
+      "cat": "raffle",
+      "label": "60M Raffle 3 Ends"
+    },
+    {
+      "hd": "Sivan-3",
+      "iso": "2027-06-08",
+      "cat": "promo",
+      "label": "Iyar Promotion Ceremony"
+    },
+    {
+      "hd": "Sivan-3",
+      "iso": "2027-06-08",
+      "cat": "rally",
+      "label": "Shavous Rally"
+    },
+    {
+      "hd": "Sivan-4",
+      "iso": "2027-06-09",
+      "cat": "hachayol",
+      "label": "#700"
+    },
+    {
+      "hd": "Sivan-12",
+      "iso": "2027-06-17",
+      "cat": "raffle",
+      "label": "5M Raffle"
+    },
+    {
+      "hd": "Sivan-13",
+      "iso": "2027-06-18",
+      "cat": "hachayol",
+      "label": "#701"
+    },
+    {
+      "hd": "Sivan-26",
+      "iso": "2027-07-01",
+      "cat": "raffle",
+      "label": "5M Raffle"
+    },
+    {
+      "hd": "Sivan-28",
+      "iso": "2027-07-03",
+      "cat": "mevorchim",
+      "label": "Shabbos Mevorchim"
+    },
+    {
+      "hd": "Tammuz-3",
+      "iso": "2027-07-08",
+      "cat": "rally",
+      "label": "Gimmel Tammuz Rally"
+    },
+    {
+      "hd": "Tammuz-10",
+      "iso": "2027-07-15",
+      "cat": "rally",
+      "label": "Yud Beis Tammuz Rally"
+    },
+    {
+      "hd": "Tammuz-26",
+      "iso": "2027-07-31",
+      "cat": "mevorchim",
+      "label": "Shabbos Mevorchim"
+    },
+    {
+      "hd": "Av-15",
+      "iso": "2027-08-18",
+      "cat": "rally",
+      "label": "Chof Av Rally"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "dYTChanukah",
+  "branch": "date",
+  "parent": "dYT",
+  "crumbLabel": "Chanukah",
+  "template": "hub",
+  "blocks": [
+    {
+      "type": "heading",
+      "eyebrow": "Yom Tov",
+      "title": "Chanukah",
+      "text": "Files under Yom Tov only — it is not a parsha feature."
+    },
+    {
+      "type": "cards",
+      "items": [
+        {
+          "page": "fMinhagim",
+          "color": "purple",
+          "kick": "Campaign · Yom Tov",
+          "ribbon": "Minhagim",
+          "ribbonColor": "blue",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Teach one minhag your platoon didn't know"
+        }
+      ]
+    }
+  ],
+  "title": "Chanukah",
+  "type": "yt-date"
+}

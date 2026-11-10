@@ -1,0 +1,38 @@
+{
+  "id": "cyd_15elul",
+  "branch": "campaign",
+  "parent": "cYomaDepagra",
+  "crumbLabel": "15 Elul 5657",
+  "template": "hub",
+  "blocks": [
+    {
+      "type": "heading",
+      "eyebrow": "Campaign · Yoma Depagra",
+      "title": "15 Elul 5657",
+      "text": "Tomchei Temimim Established"
+    },
+    {
+      "type": "tabs",
+      "items": [
+        {
+          "panel": "cyd_15elul-timeline",
+          "label": "Timeline · Building Blocks",
+          "on": true
+        }
+      ]
+    },
+    {
+      "type": "gallery",
+      "panel": "cyd_15elul-timeline",
+      "images": [
+        {
+          "img": "ydt15elul",
+          "alt": "Tomchei Temimim Established"
+        }
+      ],
+      "pdf": "yomadepagra/timeline/10-619-Ki-Seisei.pdf"
+    }
+  ],
+  "title": "15 Elul 5657",
+  "type": "yd-campaign-date"
+}

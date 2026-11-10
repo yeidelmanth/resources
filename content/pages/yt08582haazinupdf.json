@@ -1,0 +1,36 @@
+{
+  "id": "yt08582haazinupdf",
+  "branch": "campaign",
+  "parent": "cYomTov",
+  "crumbLabel": "Fly With Me",
+  "template": "article",
+  "title": "Fast No More",
+  "article": {
+    "kick": "Yom Tov · Tzom Gedalia",
+    "chips": [
+      "Tzom Gedalia"
+    ],
+    "pages": [
+      "yt08582haazinupdf",
+      "yt08582haazinupdf_p2"
+    ],
+    "pdf": "yomtov/08%20582%20Haazinu.pdf",
+    "sichos": [
+      {
+        "label": "Sicha 1",
+        "href": "sichos/Sefer%20Hasichos%20Summer%205700%2C%20p.%20157.pdf"
+      },
+      {
+        "label": "Sicha 2",
+        "href": "sichos/Toras%20Menachem%205744%20vol.1%2C%20p.%2076.pdf"
+      },
+      {
+        "label": "Sicha 3",
+        "href": "sichos/Toras%20Menachem%205747%20vol.%201%2C%20p.%2048-49.pdf"
+      }
+    ],
+    "body": "<p>Sefer Hasichos Kayitz 5700, p. 157; Toras Menachem 5744 (Vol 1), p. 76</p><p>\"ּתַעֲנִית\" (fast) and \"הֶמַעֲנ\" (answer)—a shoresh they share,</p><p>About his Shalom Zachar, the Frierdiker Rebbe related:</p>",
+    "source": "Source: Yom Tov Campaign · Sichos - Poems - Fly With Me"
+  },
+  "type": "fly-with-me"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "i670frames",
+  "branch": "date",
+  "parent": "dpToldos",
+  "crumbLabel": "Chassidishe Frames",
+  "altParent": "cYomaDepagra",
+  "altBranch": "campaign",
+  "template": "article",
+  "title": "Sweetened Injury - Tes-Yud Kislev, Birth, Histalkus &amp; Chag Hageulah of the Mitteler Rebbe",
+  "article": {
+    "chips": [
+      "Parshas Toldos"
+    ],
+    "pages": [
+      "i670frames",
+      "i670frames_p2"
+    ],
+    "altBase": "Sweetened Injury - Tes-Yud Kislev, Birth, Histalkus & Chag Hageulah of the Mitteler Rebbe",
+    "pdf": "pdfs/670.pdf",
+    "body": "<p><span class=\"mc\" style=\"color:#b24a34\">Reshimas Devarim,</span></p><p><span class=\"mc\">9-10 Kislev missions</span></p>",
+    "source": "Source: Parshas Toldos · 3 Kislev 5787"
+  },
+  "type": "chassidishe-frames"
+}

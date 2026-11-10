@@ -1,0 +1,94 @@
+{
+  "id": "dpLechLecha",
+  "branch": "date",
+  "parent": "dParsha",
+  "crumbLabel": "לֶךְ לְךָ",
+  "template": "hub",
+  "blocks": [
+    {
+      "type": "heading",
+      "eyebrow": "Parsha",
+      "title": "לֶךְ לְךָ",
+      "heb": true
+    },
+    {
+      "type": "hachayolbar",
+      "href": "pdfs/667.pdf",
+      "info": "Hachayol #667 · Parshas Lech Lecha · 12 Cheshvan 5787",
+      "action": "Printable PDF ↗"
+    },
+    {
+      "type": "cards",
+      "items": [
+        {
+          "page": "i667orders",
+          "color": "purple",
+          "img": "i667orders",
+          "imgZoom": true,
+          "kick": "Hiskashrus · Sichos",
+          "ribbon": "Orders from Our General",
+          "ribbonColor": "red",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Share a sicha of the Rebbe"
+        },
+        {
+          "page": "i667rebbe",
+          "color": "purple",
+          "img": "i667rebbe",
+          "imgZoom": true,
+          "kick": "Hiskashrus · Rebbe Story",
+          "ribbon": "Rebbe Story",
+          "ribbonColor": "orange",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Share a story of the Rebbe at your Shabbos table"
+        },
+        {
+          "page": "i667roots",
+          "color": "purple",
+          "img": "i667roots",
+          "imgZoom": true,
+          "kick": "Hiskashrus · Roots",
+          "ribbon": "Roots",
+          "ribbonColor": "green",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Share a story of our roots"
+        },
+        {
+          "page": "i667niggun",
+          "color": "teal",
+          "img": "i667niggun",
+          "imgZoom": true,
+          "kick": "Niggunim",
+          "ribbon": "Niggun of the Week",
+          "ribbonColor": "teal",
+          "icon": "/resources/assets/img/aaa22b79c109253d.png",
+          "mission": "Share this week's niggun at your Shabbos table"
+        },
+        {
+          "page": "i667squad",
+          "color": "green",
+          "img": "i667squad",
+          "imgZoom": true,
+          "kick": "Campaign · VeHolachta Bidrochov",
+          "ribbon": "Squad Drills",
+          "ribbonColor": "gold",
+          "icon": "/resources/assets/img/03f3974e50e8e5fd.png",
+          "mission": "Worked on this week's middah with your squad"
+        },
+        {
+          "extraClass": "sect-wait",
+          "color": "gold",
+          "kick": "Rally - Chof Cheshvan",
+          "ribbon": "From Chayolei Beis Dovid to Tzivos Hashem",
+          "ribbonColor": "gold",
+          "missionLabel": "In this issue",
+          "mission": "A Trip To Lubavitch · pp. 16",
+          "go": "Pages coming soon",
+          "goStyle": "color:var(--muted)"
+        }
+      ]
+    }
+  ],
+  "title": "לֶךְ לְךָ",
+  "type": "parsha-week"
+}

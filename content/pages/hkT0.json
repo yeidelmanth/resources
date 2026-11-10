@@ -1,0 +1,1875 @@
+{
+  "id": "hkT0",
+  "branch": "campaign",
+  "parent": "cHiskashrus",
+  "crumbLabel": "The Rebbe Will Find A Way",
+  "template": "hub",
+  "blocks": [
+    {
+      "type": "heading",
+      "eyebrow": "Hiskashrus",
+      "title": "The Rebbe Will Find A Way",
+      "text": "True stories of the Rebbe’s brachos, filed by what the Yid turned to the Rebbe for."
+    },
+    {
+      "type": "filters",
+      "mode": "hk",
+      "items": [
+        {
+          "key": "*",
+          "label": "All Stories",
+          "pressed": true
+        },
+        {
+          "key": "indecision",
+          "label": "Indecision"
+        },
+        {
+          "key": "shlichus-chabad-house",
+          "label": "Shlichus/ Chabad House"
+        },
+        {
+          "key": "having-children",
+          "label": "Having Children"
+        },
+        {
+          "key": "letter-to-rebbe",
+          "label": "Letter to Rebbe"
+        },
+        {
+          "key": "medical-problem",
+          "label": "Medical Problem"
+        },
+        {
+          "key": "dollar-from-the-rebbe",
+          "label": "Dollar from the Rebbe"
+        },
+        {
+          "key": "ohel",
+          "label": "Ohel"
+        },
+        {
+          "key": "shidduch-marriage",
+          "label": "Shidduch/ Marriage"
+        },
+        {
+          "key": "property",
+          "label": "Property"
+        },
+        {
+          "key": "mezuzos-tefillin",
+          "label": "Mezuzos/ Tefillin"
+        },
+        {
+          "key": "video-of-the-rebbe",
+          "label": "Video of the Rebbe"
+        },
+        {
+          "key": "letter-from-the-rebbe",
+          "label": "Letter from the Rebbe"
+        },
+        {
+          "key": "before-gimmel-tammuz",
+          "label": "Before Gimmel Tammuz"
+        },
+        {
+          "key": "legal-bureaucracy",
+          "label": "Legal/ Bureaucracy"
+        },
+        {
+          "key": "money-parnassah",
+          "label": "Money/ Parnassah"
+        },
+        {
+          "key": "travel-passport",
+          "label": "Travel/ Passport"
+        },
+        {
+          "key": "dream-sign",
+          "label": "Dream/ Sign"
+        },
+        {
+          "key": "thanking-the-rebbe",
+          "label": "Thanking the Rebbe"
+        }
+      ]
+    },
+    {
+      "type": "cards",
+      "items": [
+        {
+          "page": "hk004564vayikra",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "indecision shlichus-chabad-house having-children letter-to-rebbe"
+          },
+          "color": "purple",
+          "img": "hk004564vayikra",
+          "imgZoom": true,
+          "kick": "Hiskashrus · The Rebbe Will Find A Way",
+          "ribbon": "Rebbe Story",
+          "ribbonColor": "purple",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk004565tzav",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "having-children medical-problem dollar-from-the-rebbe"
+          },
+          "color": "purple",
+          "img": "hk004565tzav",
+          "imgZoom": true,
+          "kick": "Hiskashrus · The Rebbe Will Find A Way",
+          "ribbon": "Rebbe Story",
+          "ribbonColor": "purple",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk004566shmini",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "indecision shlichus-chabad-house ohel"
+          },
+          "color": "purple",
+          "img": "hk004566shmini",
+          "imgZoom": true,
+          "kick": "Hiskashrus · The Rebbe Will Find A Way",
+          "ribbon": "Rebbe Story",
+          "ribbonColor": "purple",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk004567tazria",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "shidduch-marriage ohel"
+          },
+          "color": "purple",
+          "img": "hk004567tazria",
+          "imgZoom": true,
+          "kick": "Hiskashrus · The Rebbe Will Find A Way",
+          "ribbon": "Rebbe Story",
+          "ribbonColor": "purple",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk004568metzorah",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "property shlichus-chabad-house medical-problem ohel mezuzos-tefillin video-of-the-rebbe"
+          },
+          "color": "purple",
+          "img": "hk004568metzorah",
+          "imgZoom": true,
+          "kick": "Hiskashrus · The Rebbe Will Find A Way",
+          "ribbon": "Rebbe Story",
+          "ribbonColor": "purple",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk004569pesach",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "indecision letter-from-the-rebbe"
+          },
+          "color": "purple",
+          "img": "hk004569pesach",
+          "imgZoom": true,
+          "kick": "Hiskashrus · The Rebbe Will Find A Way",
+          "ribbon": "Rebbe Story",
+          "ribbonColor": "purple",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk004570achareimos",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "shlichus-chabad-house having-children before-gimmel-tammuz dollar-from-the-rebbe"
+          },
+          "color": "purple",
+          "img": "hk004570achareimos",
+          "imgZoom": true,
+          "kick": "Hiskashrus · The Rebbe Will Find A Way",
+          "ribbon": "Rebbe Story",
+          "ribbonColor": "purple",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk004571kedoshim",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "legal-bureaucracy property money-parnassah shlichus-chabad-house letter-to-rebbe"
+          },
+          "color": "purple",
+          "img": "hk004571kedoshim",
+          "imgZoom": true,
+          "kick": "Hiskashrus · The Rebbe Will Find A Way",
+          "ribbon": "Rebbe Story",
+          "ribbonColor": "purple",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk004572emor",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "money-parnassah shlichus-chabad-house ohel"
+          },
+          "color": "purple",
+          "img": "hk004572emor",
+          "imgZoom": true,
+          "kick": "Hiskashrus · The Rebbe Will Find A Way",
+          "ribbon": "Rebbe Story",
+          "ribbonColor": "purple",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk004573behar",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "having-children medical-problem ohel"
+          },
+          "color": "purple",
+          "img": "hk004573behar",
+          "imgZoom": true,
+          "kick": "Hiskashrus · The Rebbe Will Find A Way",
+          "ribbon": "Rebbe Story",
+          "ribbonColor": "purple",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk004574bechukosai",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "travel-passport shlichus-chabad-house ohel mezuzos-tefillin"
+          },
+          "color": "purple",
+          "img": "hk004574bechukosai",
+          "imgZoom": true,
+          "kick": "Hiskashrus · The Rebbe Will Find A Way",
+          "ribbon": "Rebbe Story",
+          "ribbonColor": "purple",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk004575bamidbar",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "having-children letter-to-rebbe ohel"
+          },
+          "color": "purple",
+          "img": "hk004575bamidbar",
+          "imgZoom": true,
+          "kick": "Hiskashrus · The Rebbe Will Find A Way",
+          "ribbon": "Rebbe Story",
+          "ribbonColor": "purple",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk004576naso",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "money-parnassah travel-passport shlichus-chabad-house having-children letter-to-rebbe"
+          },
+          "color": "purple",
+          "img": "hk004576naso",
+          "imgZoom": true,
+          "kick": "Hiskashrus · The Rebbe Will Find A Way",
+          "ribbon": "Rebbe Story",
+          "ribbonColor": "purple",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk004577behaaloscha",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "shlichus-chabad-house ohel dream-sign"
+          },
+          "color": "purple",
+          "img": "hk004577behaaloscha",
+          "imgZoom": true,
+          "kick": "Hiskashrus · The Rebbe Will Find A Way",
+          "ribbon": "Rebbe Story",
+          "ribbonColor": "purple",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk004578shoftim",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "shlichus-chabad-house letter-to-rebbe dream-sign"
+          },
+          "color": "purple",
+          "img": "hk004578shoftim",
+          "imgZoom": true,
+          "kick": "Hiskashrus · The Rebbe Will Find A Way",
+          "ribbon": "Rebbe Story",
+          "ribbonColor": "purple",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk004579kisetzei",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "shlichus-chabad-house ohel letter-from-the-rebbe mezuzos-tefillin"
+          },
+          "color": "purple",
+          "img": "hk004579kisetzei",
+          "imgZoom": true,
+          "kick": "Hiskashrus · The Rebbe Will Find A Way",
+          "ribbon": "Rebbe Story",
+          "ribbonColor": "purple",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk004580kisavo",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "property shlichus-chabad-house letter-to-rebbe letter-from-the-rebbe mezuzos-tefillin dream-sign"
+          },
+          "color": "purple",
+          "img": "hk004580kisavo",
+          "imgZoom": true,
+          "kick": "Hiskashrus · The Rebbe Will Find A Way",
+          "ribbon": "Rebbe Story",
+          "ribbonColor": "purple",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk004581nitzavim",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "indecision letter-to-rebbe dollar-from-the-rebbe dream-sign"
+          },
+          "color": "purple",
+          "img": "hk004581nitzavim",
+          "imgZoom": true,
+          "kick": "Hiskashrus · The Rebbe Will Find A Way",
+          "ribbon": "Rebbe Story",
+          "ribbonColor": "purple",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk004582haazinu",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "legal-bureaucracy property shlichus-chabad-house letter-to-rebbe"
+          },
+          "color": "purple",
+          "img": "hk004582haazinu",
+          "imgZoom": true,
+          "kick": "Hiskashrus · The Rebbe Will Find A Way",
+          "ribbon": "Rebbe Story",
+          "ribbonColor": "purple",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk004583yomkippur",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "letter-to-rebbe ohel video-of-the-rebbe"
+          },
+          "color": "purple",
+          "img": "hk004583yomkippur",
+          "imgZoom": true,
+          "kick": "Hiskashrus · The Rebbe Will Find A Way",
+          "ribbon": "Rebbe Story",
+          "ribbonColor": "purple",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk004584sukkos",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "money-parnassah shlichus-chabad-house video-of-the-rebbe dream-sign"
+          },
+          "color": "purple",
+          "img": "hk004584sukkos",
+          "imgZoom": true,
+          "kick": "Hiskashrus · The Rebbe Will Find A Way",
+          "ribbon": "Rebbe Story",
+          "ribbonColor": "purple",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk004585bereishis",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "medical-problem letter-to-rebbe ohel letter-from-the-rebbe"
+          },
+          "color": "purple",
+          "img": "hk004585bereishis",
+          "imgZoom": true,
+          "kick": "Hiskashrus · The Rebbe Will Find A Way",
+          "ribbon": "Rebbe Story",
+          "ribbonColor": "purple",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk004586noach",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "money-parnassah having-children letter-to-rebbe ohel"
+          },
+          "color": "purple",
+          "img": "hk004586noach",
+          "imgZoom": true,
+          "kick": "Hiskashrus · The Rebbe Will Find A Way",
+          "ribbon": "Rebbe Story",
+          "ribbonColor": "purple",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk004587lechlecha",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "medical-problem letter-to-rebbe dollar-from-the-rebbe dream-sign"
+          },
+          "color": "purple",
+          "img": "hk004587lechlecha",
+          "imgZoom": true,
+          "kick": "Hiskashrus · The Rebbe Will Find A Way",
+          "ribbon": "Rebbe Story",
+          "ribbonColor": "purple",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk004588vayeira",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "ohel mezuzos-tefillin"
+          },
+          "color": "purple",
+          "img": "hk004588vayeira",
+          "imgZoom": true,
+          "kick": "Hiskashrus · The Rebbe Will Find A Way",
+          "ribbon": "Rebbe Story",
+          "ribbonColor": "purple",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk004589chayeisara",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "property money-parnassah medical-problem letter-to-rebbe ohel thanking-the-rebbe"
+          },
+          "color": "purple",
+          "img": "hk004589chayeisara",
+          "imgZoom": true,
+          "kick": "Hiskashrus · The Rebbe Will Find A Way",
+          "ribbon": "Rebbe Story",
+          "ribbonColor": "purple",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk004590toldos",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "property money-parnassah letter-to-rebbe ohel"
+          },
+          "color": "purple",
+          "img": "hk004590toldos",
+          "imgZoom": true,
+          "kick": "Hiskashrus · The Rebbe Will Find A Way",
+          "ribbon": "Rebbe Story",
+          "ribbonColor": "purple",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk004591vayeitzei",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "shlichus-chabad-house letter-to-rebbe mezuzos-tefillin video-of-the-rebbe"
+          },
+          "color": "purple",
+          "img": "hk004591vayeitzei",
+          "imgZoom": true,
+          "kick": "Hiskashrus · The Rebbe Will Find A Way",
+          "ribbon": "Rebbe Story",
+          "ribbonColor": "purple",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk004592vayishlach",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "having-children before-gimmel-tammuz video-of-the-rebbe dollar-from-the-rebbe"
+          },
+          "color": "purple",
+          "img": "hk004592vayishlach",
+          "imgZoom": true,
+          "kick": "Hiskashrus · The Rebbe Will Find A Way",
+          "ribbon": "Rebbe Story",
+          "ribbonColor": "purple",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk004593vayeishev",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "shlichus-chabad-house ohel video-of-the-rebbe"
+          },
+          "color": "purple",
+          "img": "hk004593vayeishev",
+          "imgZoom": true,
+          "kick": "Hiskashrus · The Rebbe Will Find A Way",
+          "ribbon": "Rebbe Story",
+          "ribbonColor": "purple",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk004594mikeitz",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "medical-problem ohel"
+          },
+          "color": "purple",
+          "img": "hk004594mikeitz",
+          "imgZoom": true,
+          "kick": "Hiskashrus · The Rebbe Will Find A Way",
+          "ribbon": "Rebbe Story",
+          "ribbonColor": "purple",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk004595vayigash",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "medical-problem letter-to-rebbe"
+          },
+          "color": "purple",
+          "img": "hk004595vayigash",
+          "imgZoom": true,
+          "kick": "Hiskashrus · The Rebbe Will Find A Way",
+          "ribbon": "Rebbe Story",
+          "ribbonColor": "purple",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk004596vayechi",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "money-parnassah shlichus-chabad-house ohel video-of-the-rebbe"
+          },
+          "color": "purple",
+          "img": "hk004596vayechi",
+          "imgZoom": true,
+          "kick": "Hiskashrus · The Rebbe Will Find A Way",
+          "ribbon": "Rebbe Story",
+          "ribbonColor": "purple",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk004597shemos",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "shidduch-marriage ohel"
+          },
+          "color": "purple",
+          "img": "hk004597shemos",
+          "imgZoom": true,
+          "kick": "Hiskashrus · The Rebbe Will Find A Way",
+          "ribbon": "Rebbe Story",
+          "ribbonColor": "purple",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk004598vaeira",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "legal-bureaucracy letter-to-rebbe"
+          },
+          "color": "purple",
+          "img": "hk004598vaeira",
+          "imgZoom": true,
+          "kick": "Hiskashrus · The Rebbe Will Find A Way",
+          "ribbon": "Rebbe Story",
+          "ribbonColor": "purple",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk004599bo",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "travel-passport shidduch-marriage letter-to-rebbe"
+          },
+          "color": "purple",
+          "img": "hk004599bo",
+          "imgZoom": true,
+          "kick": "Hiskashrus · The Rebbe Will Find A Way",
+          "ribbon": "Rebbe Story",
+          "ribbonColor": "purple",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk004600beshalach",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "dream-sign"
+          },
+          "color": "purple",
+          "img": "hk004600beshalach",
+          "imgZoom": true,
+          "kick": "Hiskashrus · The Rebbe Will Find A Way",
+          "ribbon": "Rebbe Story",
+          "ribbonColor": "purple",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk004601yisro",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "shlichus-chabad-house ohel"
+          },
+          "color": "purple",
+          "img": "hk004601yisro",
+          "imgZoom": true,
+          "kick": "Hiskashrus · The Rebbe Will Find A Way",
+          "ribbon": "Rebbe Story",
+          "ribbonColor": "purple",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk004602mishpotim",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "legal-bureaucracy shlichus-chabad-house letter-to-rebbe"
+          },
+          "color": "purple",
+          "img": "hk004602mishpotim",
+          "imgZoom": true,
+          "kick": "Hiskashrus · The Rebbe Will Find A Way",
+          "ribbon": "Rebbe Story",
+          "ribbonColor": "purple",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk004603terumah",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "shidduch-marriage ohel dollar-from-the-rebbe"
+          },
+          "color": "purple",
+          "img": "hk004603terumah",
+          "imgZoom": true,
+          "kick": "Hiskashrus · The Rebbe Will Find A Way",
+          "ribbon": "Rebbe Story",
+          "ribbonColor": "purple",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk004604tetzaveh",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "ohel dollar-from-the-rebbe dream-sign"
+          },
+          "color": "purple",
+          "img": "hk004604tetzaveh",
+          "imgZoom": true,
+          "kick": "Hiskashrus · The Rebbe Will Find A Way",
+          "ribbon": "Rebbe Story",
+          "ribbonColor": "purple",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk004605kisisa",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "travel-passport ohel dollar-from-the-rebbe"
+          },
+          "color": "purple",
+          "img": "hk004605kisisa",
+          "imgZoom": true,
+          "kick": "Hiskashrus · The Rebbe Will Find A Way",
+          "ribbon": "Rebbe Story",
+          "ribbonColor": "purple",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk004606vayakhel",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "medical-problem letter-to-rebbe"
+          },
+          "color": "purple",
+          "img": "hk004606vayakhel",
+          "imgZoom": true,
+          "kick": "Hiskashrus · The Rebbe Will Find A Way",
+          "ribbon": "Rebbe Story",
+          "ribbonColor": "purple",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk004607pekudei",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "having-children letter-to-rebbe ohel thanking-the-rebbe"
+          },
+          "color": "purple",
+          "img": "hk004607pekudei",
+          "imgZoom": true,
+          "kick": "Hiskashrus · The Rebbe Will Find A Way",
+          "ribbon": "Rebbe Story",
+          "ribbonColor": "purple",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk004608vayikra",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "medical-problem dream-sign"
+          },
+          "color": "purple",
+          "img": "hk004608vayikra",
+          "imgZoom": true,
+          "kick": "Hiskashrus · The Rebbe Will Find A Way",
+          "ribbon": "Rebbe Story",
+          "ribbonColor": "purple",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk004609tzav",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "medical-problem letter-to-rebbe ohel thanking-the-rebbe"
+          },
+          "color": "purple",
+          "img": "hk004609tzav",
+          "imgZoom": true,
+          "kick": "Hiskashrus · The Rebbe Will Find A Way",
+          "ribbon": "Rebbe Story",
+          "ribbonColor": "purple",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk004610pesach",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "legal-bureaucracy letter-to-rebbe"
+          },
+          "color": "purple",
+          "img": "hk004610pesach",
+          "imgZoom": true,
+          "kick": "Hiskashrus · The Rebbe Will Find A Way",
+          "ribbon": "Rebbe Story",
+          "ribbonColor": "purple",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk004611shmini",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "shlichus-chabad-house dollar-from-the-rebbe"
+          },
+          "color": "purple",
+          "img": "hk004611shmini",
+          "imgZoom": true,
+          "kick": "Hiskashrus · The Rebbe Will Find A Way",
+          "ribbon": "Rebbe Story",
+          "ribbonColor": "purple",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk004612tazriametzorah",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "shlichus-chabad-house dollar-from-the-rebbe"
+          },
+          "color": "purple",
+          "img": "hk004612tazriametzorah",
+          "imgZoom": true,
+          "kick": "Hiskashrus · The Rebbe Will Find A Way",
+          "ribbon": "Rebbe Story",
+          "ribbonColor": "purple",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk004613achareimoskedoshim",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "ohel dollar-from-the-rebbe"
+          },
+          "color": "purple",
+          "img": "hk004613achareimoskedoshim",
+          "imgZoom": true,
+          "kick": "Hiskashrus · The Rebbe Will Find A Way",
+          "ribbon": "Rebbe Story",
+          "ribbonColor": "purple",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk004614emor",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "medical-problem dollar-from-the-rebbe"
+          },
+          "color": "purple",
+          "img": "hk004614emor",
+          "imgZoom": true,
+          "kick": "Hiskashrus · The Rebbe Will Find A Way",
+          "ribbon": "Rebbe Story",
+          "ribbonColor": "purple",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk004615beharbechukosai",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "shlichus-chabad-house dream-sign"
+          },
+          "color": "purple",
+          "img": "hk004615beharbechukosai",
+          "imgZoom": true,
+          "kick": "Hiskashrus · The Rebbe Will Find A Way",
+          "ribbon": "Rebbe Story",
+          "ribbonColor": "purple",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk004616bamidbar",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "medical-problem letter-to-rebbe ohel dollar-from-the-rebbe"
+          },
+          "color": "purple",
+          "img": "hk004616bamidbar",
+          "imgZoom": true,
+          "kick": "Hiskashrus · The Rebbe Will Find A Way",
+          "ribbon": "Rebbe Story",
+          "ribbonColor": "purple",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk004617naso",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "shlichus-chabad-house ohel dream-sign"
+          },
+          "color": "purple",
+          "img": "hk004617naso",
+          "imgZoom": true,
+          "kick": "Hiskashrus · The Rebbe Will Find A Way",
+          "ribbon": "Rebbe Story",
+          "ribbonColor": "purple",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk004618behaaloscha",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "legal-bureaucracy property ohel"
+          },
+          "color": "purple",
+          "img": "hk004618behaaloscha",
+          "imgZoom": true,
+          "kick": "Hiskashrus · The Rebbe Will Find A Way",
+          "ribbon": "Rebbe Story",
+          "ribbonColor": "purple",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk004619kiseisei",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "ohel"
+          },
+          "color": "purple",
+          "img": "hk004619kiseisei",
+          "imgZoom": true,
+          "kick": "Hiskashrus · The Rebbe Will Find A Way",
+          "ribbon": "Rebbe Story",
+          "ribbonColor": "purple",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk004621nitzavim",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": ""
+          },
+          "color": "purple",
+          "img": "hk004621nitzavim",
+          "imgZoom": true,
+          "kick": "Hiskashrus · The Rebbe Will Find A Way",
+          "ribbon": "Rebbe Story",
+          "ribbonColor": "purple",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk004620kisavo",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "ohel dream-sign"
+          },
+          "color": "purple",
+          "img": "hk004620kisavo",
+          "imgZoom": true,
+          "kick": "Hiskashrus · The Rebbe Will Find A Way",
+          "ribbon": "Rebbe Story",
+          "ribbonColor": "purple",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk004622vayelech",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "property shlichus-chabad-house shidduch-marriage letter-to-rebbe"
+          },
+          "color": "purple",
+          "img": "hk004622vayelech",
+          "imgZoom": true,
+          "kick": "Hiskashrus · The Rebbe Will Find A Way",
+          "ribbon": "Rebbe Story",
+          "ribbonColor": "purple",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk004623haazinu",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "shlichus-chabad-house ohel thanking-the-rebbe dream-sign"
+          },
+          "color": "purple",
+          "img": "hk004623haazinu",
+          "imgZoom": true,
+          "kick": "Hiskashrus · The Rebbe Will Find A Way",
+          "ribbon": "Rebbe Story",
+          "ribbonColor": "purple",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk004624sukkos",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "ohel video-of-the-rebbe"
+          },
+          "color": "purple",
+          "img": "hk004624sukkos",
+          "imgZoom": true,
+          "kick": "Hiskashrus · The Rebbe Will Find A Way",
+          "ribbon": "Rebbe Story",
+          "ribbonColor": "purple",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk004625bereishis",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "travel-passport ohel"
+          },
+          "color": "purple",
+          "img": "hk004625bereishis",
+          "imgZoom": true,
+          "kick": "Hiskashrus · The Rebbe Will Find A Way",
+          "ribbon": "Rebbe Story",
+          "ribbonColor": "purple",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk004626noach",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "indecision letter-to-rebbe"
+          },
+          "color": "purple",
+          "img": "hk004626noach",
+          "imgZoom": true,
+          "kick": "Hiskashrus · The Rebbe Will Find A Way",
+          "ribbon": "Rebbe Story",
+          "ribbonColor": "purple",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk004627lechlecha",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "medical-problem ohel"
+          },
+          "color": "purple",
+          "img": "hk004627lechlecha",
+          "imgZoom": true,
+          "kick": "Hiskashrus · The Rebbe Will Find A Way",
+          "ribbon": "Rebbe Story",
+          "ribbonColor": "purple",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk004628vayeira",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "dollar-from-the-rebbe dream-sign"
+          },
+          "color": "purple",
+          "img": "hk004628vayeira",
+          "imgZoom": true,
+          "kick": "Hiskashrus · The Rebbe Will Find A Way",
+          "ribbon": "Rebbe Story",
+          "ribbonColor": "purple",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk004629chayeisara",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "medical-problem ohel"
+          },
+          "color": "purple",
+          "img": "hk004629chayeisara",
+          "imgZoom": true,
+          "kick": "Hiskashrus · The Rebbe Will Find A Way",
+          "ribbon": "Rebbe Story",
+          "ribbonColor": "purple",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk004630toldos",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": ""
+          },
+          "color": "purple",
+          "img": "hk004630toldos",
+          "imgZoom": true,
+          "kick": "Hiskashrus · The Rebbe Will Find A Way",
+          "ribbon": "Rebbe Story",
+          "ribbonColor": "purple",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk004631vayeitzei",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "medical-problem dollar-from-the-rebbe dream-sign"
+          },
+          "color": "purple",
+          "img": "hk004631vayeitzei",
+          "imgZoom": true,
+          "kick": "Hiskashrus · The Rebbe Will Find A Way",
+          "ribbon": "Rebbe Story",
+          "ribbonColor": "purple",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk004632vayishlach",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "indecision money-parnassah dream-sign"
+          },
+          "color": "purple",
+          "img": "hk004632vayishlach",
+          "imgZoom": true,
+          "kick": "Hiskashrus · The Rebbe Will Find A Way",
+          "ribbon": "Rebbe Story",
+          "ribbonColor": "purple",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk004633vayeshev",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "medical-problem ohel mezuzos-tefillin"
+          },
+          "color": "purple",
+          "img": "hk004633vayeshev",
+          "imgZoom": true,
+          "kick": "Hiskashrus · The Rebbe Will Find A Way",
+          "ribbon": "Rebbe Story",
+          "ribbonColor": "purple",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk004634mikeitz",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "medical-problem letter-to-rebbe"
+          },
+          "color": "purple",
+          "img": "hk004634mikeitz",
+          "imgZoom": true,
+          "kick": "Hiskashrus · The Rebbe Will Find A Way",
+          "ribbon": "Rebbe Story",
+          "ribbonColor": "purple",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk004635vayigash",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "shlichus-chabad-house ohel video-of-the-rebbe"
+          },
+          "color": "purple",
+          "img": "hk004635vayigash",
+          "imgZoom": true,
+          "kick": "Hiskashrus · The Rebbe Will Find A Way",
+          "ribbon": "Rebbe Story",
+          "ribbonColor": "purple",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk004636vayechi",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "legal-bureaucracy ohel video-of-the-rebbe"
+          },
+          "color": "purple",
+          "img": "hk004636vayechi",
+          "imgZoom": true,
+          "kick": "Hiskashrus · The Rebbe Will Find A Way",
+          "ribbon": "Rebbe Story",
+          "ribbonColor": "purple",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk004637shemos",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "medical-problem ohel"
+          },
+          "color": "purple",
+          "img": "hk004637shemos",
+          "imgZoom": true,
+          "kick": "Hiskashrus · The Rebbe Will Find A Way",
+          "ribbon": "Rebbe Story",
+          "ribbonColor": "purple",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk004638vaeira",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "indecision letter-to-rebbe ohel video-of-the-rebbe"
+          },
+          "color": "purple",
+          "img": "hk004638vaeira",
+          "imgZoom": true,
+          "kick": "Hiskashrus · The Rebbe Will Find A Way",
+          "ribbon": "Rebbe Story",
+          "ribbonColor": "purple",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk004639bo",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "letter-to-rebbe ohel"
+          },
+          "color": "purple",
+          "img": "hk004639bo",
+          "imgZoom": true,
+          "kick": "Hiskashrus · The Rebbe Will Find A Way",
+          "ribbon": "Rebbe Story",
+          "ribbonColor": "purple",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk004640beshalach",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "letter-to-rebbe"
+          },
+          "color": "purple",
+          "img": "hk004640beshalach",
+          "imgZoom": true,
+          "kick": "Hiskashrus · The Rebbe Will Find A Way",
+          "ribbon": "Rebbe Story",
+          "ribbonColor": "purple",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk004641yisro",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "letter-from-the-rebbe"
+          },
+          "color": "purple",
+          "img": "hk004641yisro",
+          "imgZoom": true,
+          "kick": "Hiskashrus · The Rebbe Will Find A Way",
+          "ribbon": "Rebbe Story",
+          "ribbonColor": "purple",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk004642mishpotim",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "property letter-to-rebbe letter-from-the-rebbe"
+          },
+          "color": "purple",
+          "img": "hk004642mishpotim",
+          "imgZoom": true,
+          "kick": "Hiskashrus · The Rebbe Will Find A Way",
+          "ribbon": "Rebbe Story",
+          "ribbonColor": "purple",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk004643terumah",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "letter-to-rebbe ohel"
+          },
+          "color": "purple",
+          "img": "hk004643terumah",
+          "imgZoom": true,
+          "kick": "Hiskashrus · The Rebbe Will Find A Way",
+          "ribbon": "Rebbe Story",
+          "ribbonColor": "purple",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk004644tetzaveh",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "property letter-to-rebbe ohel"
+          },
+          "color": "purple",
+          "img": "hk004644tetzaveh",
+          "imgZoom": true,
+          "kick": "Hiskashrus · The Rebbe Will Find A Way",
+          "ribbon": "Rebbe Story",
+          "ribbonColor": "purple",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk004645kisisa",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": ""
+          },
+          "color": "purple",
+          "img": "hk004645kisisa",
+          "imgZoom": true,
+          "kick": "Hiskashrus · The Rebbe Will Find A Way",
+          "ribbon": "Rebbe Story",
+          "ribbonColor": "purple",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk004646vayakhel",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "having-children medical-problem letter-to-rebbe ohel thanking-the-rebbe"
+          },
+          "color": "purple",
+          "img": "hk004646vayakhel",
+          "imgZoom": true,
+          "kick": "Hiskashrus · The Rebbe Will Find A Way",
+          "ribbon": "Rebbe Story",
+          "ribbonColor": "purple",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk004647vayikra",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "ohel mezuzos-tefillin"
+          },
+          "color": "purple",
+          "img": "hk004647vayikra",
+          "imgZoom": true,
+          "kick": "Hiskashrus · The Rebbe Will Find A Way",
+          "ribbon": "Rebbe Story",
+          "ribbonColor": "purple",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk004648tzav",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "indecision letter-to-rebbe video-of-the-rebbe dollar-from-the-rebbe"
+          },
+          "color": "purple",
+          "img": "hk004648tzav",
+          "imgZoom": true,
+          "kick": "Hiskashrus · The Rebbe Will Find A Way",
+          "ribbon": "Rebbe Story",
+          "ribbonColor": "purple",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk004649pesach",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "property letter-to-rebbe ohel"
+          },
+          "color": "purple",
+          "img": "hk004649pesach",
+          "imgZoom": true,
+          "kick": "Hiskashrus · The Rebbe Will Find A Way",
+          "ribbon": "Rebbe Story",
+          "ribbonColor": "purple",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk004650shmini",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "medical-problem ohel thanking-the-rebbe"
+          },
+          "color": "purple",
+          "img": "hk004650shmini",
+          "imgZoom": true,
+          "kick": "Hiskashrus · The Rebbe Will Find A Way",
+          "ribbon": "Rebbe Story",
+          "ribbonColor": "purple",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk004651tazriametzora",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "property indecision video-of-the-rebbe dollar-from-the-rebbe"
+          },
+          "color": "purple",
+          "img": "hk004651tazriametzora",
+          "imgZoom": true,
+          "kick": "Hiskashrus · The Rebbe Will Find A Way",
+          "ribbon": "Rebbe Story",
+          "ribbonColor": "purple",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk004652achareikedoshim",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "indecision ohel video-of-the-rebbe"
+          },
+          "color": "purple",
+          "img": "hk004652achareikedoshim",
+          "imgZoom": true,
+          "kick": "Hiskashrus · The Rebbe Will Find A Way",
+          "ribbon": "Rebbe Story",
+          "ribbonColor": "purple",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk004653emor",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "letter-to-rebbe ohel"
+          },
+          "color": "purple",
+          "img": "hk004653emor",
+          "imgZoom": true,
+          "kick": "Hiskashrus · The Rebbe Will Find A Way",
+          "ribbon": "Rebbe Story",
+          "ribbonColor": "purple",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk004654beharbechukosai",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "indecision ohel dollar-from-the-rebbe"
+          },
+          "color": "purple",
+          "img": "hk004654beharbechukosai",
+          "imgZoom": true,
+          "kick": "Hiskashrus · The Rebbe Will Find A Way",
+          "ribbon": "Rebbe Story",
+          "ribbonColor": "purple",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk004655bamidbar",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "medical-problem letter-to-rebbe ohel"
+          },
+          "color": "purple",
+          "img": "hk004655bamidbar",
+          "imgZoom": true,
+          "kick": "Hiskashrus · The Rebbe Will Find A Way",
+          "ribbon": "Rebbe Story",
+          "ribbonColor": "purple",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk004656shavuos",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "property letter-to-rebbe ohel video-of-the-rebbe"
+          },
+          "color": "purple",
+          "img": "hk004656shavuos",
+          "imgZoom": true,
+          "kick": "Hiskashrus · The Rebbe Will Find A Way",
+          "ribbon": "Rebbe Story",
+          "ribbonColor": "purple",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk004657naso",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "ohel"
+          },
+          "color": "purple",
+          "img": "hk004657naso",
+          "imgZoom": true,
+          "kick": "Hiskashrus · The Rebbe Will Find A Way",
+          "ribbon": "Rebbe Story",
+          "ribbonColor": "purple",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk004658behaaloscha",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "medical-problem ohel"
+          },
+          "color": "purple",
+          "img": "hk004658behaaloscha",
+          "imgZoom": true,
+          "kick": "Hiskashrus · The Rebbe Will Find A Way",
+          "ribbon": "Rebbe Story",
+          "ribbonColor": "purple",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk004659shelach",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "having-children medical-problem letter-to-rebbe ohel"
+          },
+          "color": "purple",
+          "img": "hk004659shelach",
+          "imgZoom": true,
+          "kick": "Hiskashrus · The Rebbe Will Find A Way",
+          "ribbon": "Rebbe Story",
+          "ribbonColor": "purple",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk004660nitzavimvayelech",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "letter-to-rebbe"
+          },
+          "color": "purple",
+          "img": "hk004660nitzavimvayelech",
+          "imgZoom": true,
+          "kick": "Hiskashrus · The Rebbe Will Find A Way",
+          "ribbon": "Rebbe Story",
+          "ribbonColor": "purple",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk004661roshhashana",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "medical-problem ohel video-of-the-rebbe"
+          },
+          "color": "purple",
+          "img": "hk004661roshhashana",
+          "imgZoom": true,
+          "kick": "Hiskashrus · The Rebbe Will Find A Way",
+          "ribbon": "Rebbe Story",
+          "ribbonColor": "purple",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk004662haazinu",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "letter-to-rebbe"
+          },
+          "color": "purple",
+          "img": "hk004662haazinu",
+          "imgZoom": true,
+          "kick": "Hiskashrus · The Rebbe Will Find A Way",
+          "ribbon": "Rebbe Story",
+          "ribbonColor": "purple",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk004663sukkos",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "letter-from-the-rebbe"
+          },
+          "color": "purple",
+          "img": "hk004663sukkos",
+          "imgZoom": true,
+          "kick": "Hiskashrus · The Rebbe Will Find A Way",
+          "ribbon": "Rebbe Story",
+          "ribbonColor": "purple",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk004664shminiatzeres",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "ohel"
+          },
+          "color": "purple",
+          "img": "hk004664shminiatzeres",
+          "imgZoom": true,
+          "kick": "Hiskashrus · The Rebbe Will Find A Way",
+          "ribbon": "Rebbe Story",
+          "ribbonColor": "purple",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk004665bereishis",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "property letter-to-rebbe"
+          },
+          "color": "purple",
+          "img": "hk004665bereishis",
+          "imgZoom": true,
+          "kick": "Hiskashrus · The Rebbe Will Find A Way",
+          "ribbon": "Rebbe Story",
+          "ribbonColor": "purple",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk004666noach",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "property letter-to-rebbe ohel thanking-the-rebbe"
+          },
+          "color": "purple",
+          "img": "hk004666noach",
+          "imgZoom": true,
+          "kick": "Hiskashrus · The Rebbe Will Find A Way",
+          "ribbon": "Rebbe Story",
+          "ribbonColor": "purple",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk004667lechlecha",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "ohel"
+          },
+          "color": "purple",
+          "img": "hk004667lechlecha",
+          "imgZoom": true,
+          "kick": "Hiskashrus · The Rebbe Will Find A Way",
+          "ribbon": "Rebbe Story",
+          "ribbonColor": "purple",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk004668vayeira",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "medical-problem ohel mezuzos-tefillin"
+          },
+          "color": "purple",
+          "img": "hk004668vayeira",
+          "imgZoom": true,
+          "kick": "Hiskashrus · The Rebbe Will Find A Way",
+          "ribbon": "Rebbe Story",
+          "ribbonColor": "purple",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk004669chayeisara",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "having-children medical-problem ohel thanking-the-rebbe"
+          },
+          "color": "purple",
+          "img": "hk004669chayeisara",
+          "imgZoom": true,
+          "kick": "Hiskashrus · The Rebbe Will Find A Way",
+          "ribbon": "Rebbe Story",
+          "ribbonColor": "purple",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk004670toldos",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "indecision ohel video-of-the-rebbe"
+          },
+          "color": "purple",
+          "img": "hk004670toldos",
+          "imgZoom": true,
+          "kick": "Hiskashrus · The Rebbe Will Find A Way",
+          "ribbon": "Rebbe Story",
+          "ribbonColor": "purple",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk004671vayeitzei",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "medical-problem letter-to-rebbe ohel mezuzos-tefillin"
+          },
+          "color": "purple",
+          "img": "hk004671vayeitzei",
+          "imgZoom": true,
+          "kick": "Hiskashrus · The Rebbe Will Find A Way",
+          "ribbon": "Rebbe Story",
+          "ribbonColor": "purple",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk004672vayishlach",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "property indecision letter-to-rebbe"
+          },
+          "color": "purple",
+          "img": "hk004672vayishlach",
+          "imgZoom": true,
+          "kick": "Hiskashrus · The Rebbe Will Find A Way",
+          "ribbon": "Rebbe Story",
+          "ribbonColor": "purple",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk004673vayeishev",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "property having-children"
+          },
+          "color": "purple",
+          "img": "hk004673vayeishev",
+          "imgZoom": true,
+          "kick": "Hiskashrus · The Rebbe Will Find A Way",
+          "ribbon": "Rebbe Story",
+          "ribbonColor": "purple",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk004674mikeitz",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "ohel"
+          },
+          "color": "purple",
+          "img": "hk004674mikeitz",
+          "imgZoom": true,
+          "kick": "Hiskashrus · The Rebbe Will Find A Way",
+          "ribbon": "Rebbe Story",
+          "ribbonColor": "purple",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk004675vayigash",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "property medical-problem letter-to-rebbe"
+          },
+          "color": "purple",
+          "img": "hk004675vayigash",
+          "imgZoom": true,
+          "kick": "Hiskashrus · The Rebbe Will Find A Way",
+          "ribbon": "Rebbe Story",
+          "ribbonColor": "purple",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk004676vayechi",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "property letter-to-rebbe"
+          },
+          "color": "purple",
+          "img": "hk004676vayechi",
+          "imgZoom": true,
+          "kick": "Hiskashrus · The Rebbe Will Find A Way",
+          "ribbon": "Rebbe Story",
+          "ribbonColor": "purple",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk004677shemos",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "property letter-to-rebbe"
+          },
+          "color": "purple",
+          "img": "hk004677shemos",
+          "imgZoom": true,
+          "kick": "Hiskashrus · The Rebbe Will Find A Way",
+          "ribbon": "Rebbe Story",
+          "ribbonColor": "purple",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk004678vaeira",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "property letter-to-rebbe ohel"
+          },
+          "color": "purple",
+          "img": "hk004678vaeira",
+          "imgZoom": true,
+          "kick": "Hiskashrus · The Rebbe Will Find A Way",
+          "ribbon": "Rebbe Story",
+          "ribbonColor": "purple",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk004679bo",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "having-children medical-problem ohel"
+          },
+          "color": "purple",
+          "img": "hk004679bo",
+          "imgZoom": true,
+          "kick": "Hiskashrus · The Rebbe Will Find A Way",
+          "ribbon": "Rebbe Story",
+          "ribbonColor": "purple",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk004680beshalach",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "property before-gimmel-tammuz ohel"
+          },
+          "color": "purple",
+          "img": "hk004680beshalach",
+          "imgZoom": true,
+          "kick": "Hiskashrus · The Rebbe Will Find A Way",
+          "ribbon": "Rebbe Story",
+          "ribbonColor": "purple",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        },
+        {
+          "page": "hk004681yisro",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "property letter-to-rebbe"
+          },
+          "color": "purple",
+          "img": "hk004681yisro",
+          "imgZoom": true,
+          "kick": "Hiskashrus · The Rebbe Will Find A Way",
+          "ribbon": "Rebbe Story",
+          "ribbonColor": "purple",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Strengthened your connection to the Rebbe"
+        }
+      ]
+    }
+  ],
+  "title": "The Rebbe Will Find A Way",
+  "type": "series"
+}

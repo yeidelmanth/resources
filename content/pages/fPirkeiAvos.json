@@ -1,0 +1,17 @@
+{
+  "id": "fPirkeiAvos",
+  "branch": "campaign",
+  "parent": "cYomTov",
+  "crumbLabel": "Pirkei Avos",
+  "template": "article",
+  "title": "Pirkei Avos",
+  "article": {
+    "kick": "Campaign · Yom Tov",
+    "chips": [],
+    "body": "<p>Ethics of the Fathers as a learning track, one perek a week through the summer.</p>",
+    "mission": "Learn this week's perek with the platoon",
+    "source": "Source: Sample content — layout only, no source issue held yet",
+    "sample": true
+  },
+  "type": "pirkei-avos"
+}

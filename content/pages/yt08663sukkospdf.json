@@ -1,0 +1,48 @@
+{
+  "id": "yt08663sukkospdf",
+  "branch": "campaign",
+  "parent": "cYomTov",
+  "crumbLabel": "Yom Tov Seasons",
+  "template": "article",
+  "title": "Holy Guests",
+  "article": {
+    "kick": "Yom Tov · Sukkos",
+    "chips": [
+      "Sukkos"
+    ],
+    "pages": [
+      "yt08663sukkospdf",
+      "yt08663sukkospdf_p2"
+    ],
+    "pdf": "yomtov/08%20663%20Sukkos.pdf",
+    "sichos": [
+      {
+        "label": "Sicha 1",
+        "href": "sichos/DRRTK%20vol%202%20-%20p%20116-117.pdf"
+      },
+      {
+        "label": "Sicha 2",
+        "href": "sichos/DRRTK%20vol%202%20-%20p%20118-119.pdf"
+      },
+      {
+        "label": "Sicha 3",
+        "href": "sichos/DRRTK%20vol%202%20-%20p%20122-123.pdf"
+      },
+      {
+        "label": "Sicha 4",
+        "href": "sichos/DRRTK%20vol%202%20-%20p%20124-126.pdf"
+      },
+      {
+        "label": "Sicha 5",
+        "href": "sichos/TRSTC%20vol.%202%2C%20p.%20194-196.pdf"
+      },
+      {
+        "label": "Sicha 6",
+        "href": "sichos/TRSTC%20vol.%202%2C%20p.%20197-199.pdf"
+      }
+    ],
+    "body": "<p>We’re rewarded with ushpizin, a new leader each day.</p><p>When he sees us learning, it brings him such _______!</p><p>Always adding in avodah, as the name “Yosef” implies,</p><p>And like Yosef, we’ll prosper and be respected by ___________.</p><p>Each day of Sukkos, ushpizin (guests) visit our table. We honor them by speaking about them</p><p>and trying to learn from their qualities. For example: “Moshe Rabbeinu gave us the Torah,</p><p>Another: “Yosef was the only one of his brothers called ‘hatzaddik’, showing that he was greater than the rest. He always grew in his avodah, teaching us that even if we’ve improved ourselves in one way, there’s always room to do more.” Also, “From Yosef and the Rebbe Maharash, we learn ‘Lchatchilah Ariber!’ Even though Yosef spent most of his life in Mitzrayim, he wasn’t influenced by his surroundings, and even prospered in golus.”</p>",
+    "source": "Source: Yom Tov Campaign · Sichos - Poems - Yom Tov Seasons"
+  },
+  "type": "yom-tov-seasons"
+}

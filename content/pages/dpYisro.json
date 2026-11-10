@@ -1,0 +1,124 @@
+{
+  "id": "dpYisro",
+  "branch": "date",
+  "parent": "dParsha",
+  "crumbLabel": "יִתְרוֹ",
+  "template": "hub",
+  "blocks": [
+    {
+      "type": "heading",
+      "eyebrow": "Parsha",
+      "title": "יִתְרוֹ",
+      "heb": true
+    },
+    {
+      "type": "hachayolbar",
+      "href": "pdfs/681.pdf",
+      "info": "Hachayol #681 · Parshas Yisro · 21 Shvat 5787",
+      "action": "Printable PDF ↗"
+    },
+    {
+      "type": "cards",
+      "items": [
+        {
+          "page": "i681orders",
+          "color": "purple",
+          "img": "i681orders",
+          "imgZoom": true,
+          "kick": "Hiskashrus · Sichos",
+          "ribbon": "Orders from Our General",
+          "ribbonColor": "red",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Share a sicha of the Rebbe"
+        },
+        {
+          "page": "i681rebbe",
+          "color": "purple",
+          "img": "i681rebbe",
+          "imgZoom": true,
+          "kick": "Hiskashrus · Rebbe Story",
+          "ribbon": "Rebbe Story",
+          "ribbonColor": "orange",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Share a story of the Rebbe at your Shabbos table"
+        },
+        {
+          "page": "i681roots",
+          "color": "purple",
+          "img": "i681roots",
+          "imgZoom": true,
+          "kick": "Hiskashrus · Roots",
+          "ribbon": "Roots",
+          "ribbonColor": "green",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Share a story of our roots"
+        },
+        {
+          "page": "i681niggun",
+          "color": "teal",
+          "img": "i681niggun",
+          "imgZoom": true,
+          "kick": "Niggunim",
+          "ribbon": "Niggun of the Week",
+          "ribbonColor": "teal",
+          "icon": "/resources/assets/img/aaa22b79c109253d.png",
+          "mission": "Share this week's niggun at your Shabbos table"
+        },
+        {
+          "page": "i681frames",
+          "color": "gold",
+          "img": "i681frames",
+          "imgZoom": true,
+          "kick": "Yoma Depagra · Comics",
+          "ribbon": "Chassidishe Frames",
+          "ribbonColor": "cyan",
+          "icon": "/resources/assets/img/7b5f36a5d9119965.png",
+          "mission": "Read this week's Chassidishe Frames"
+        },
+        {
+          "page": "i681squad",
+          "color": "green",
+          "img": "i681squad",
+          "imgZoom": true,
+          "kick": "Campaign · VeHolachta Bidrochov",
+          "ribbon": "Squad Drills",
+          "ribbonColor": "gold",
+          "icon": "/resources/assets/img/03f3974e50e8e5fd.png",
+          "mission": "Worked on this week's middah with your squad"
+        },
+        {
+          "extraClass": "tp-lb",
+          "attrs": {
+            "data-lb": "i681sect05_p1,i681sect05_p2"
+          },
+          "color": "purple",
+          "img": "i681sect05_p1",
+          "imgZoom": false,
+          "kick": "Twelve Pessukim",
+          "ribbon": "Conversations on the Inside",
+          "ribbonColor": "purple",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "missionLabel": "In this issue",
+          "mission": "Torah - My Treasure, My Power and My Mission · pp. 10-11"
+        },
+        {
+          "extraClass": "tp-lb",
+          "attrs": {
+            "data-lb": "i681sect07_p1"
+          },
+          "color": "red",
+          "img": "i681sect07_p1",
+          "imgZoom": false,
+          "kick": "Mivtzoim",
+          "ribbon": "Mivtzoim Mania",
+          "ribbonColor": "red",
+          "icon": "/resources/assets/img/f56bf2c628dcc0ad.png",
+          "missionLabel": "In this issue",
+          "mission": "Operation Cheder Tzivos Hashem - Sleeping Safe &amp; Sound · pp. 16"
+        }
+      ]
+    }
+  ],
+  "title": "יִתְרוֹ",
+  "type": "parsha-week"
+}

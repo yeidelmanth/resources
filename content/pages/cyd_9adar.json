@@ -1,0 +1,38 @@
+{
+  "id": "cyd_9adar",
+  "branch": "campaign",
+  "parent": "cYomaDepagra",
+  "crumbLabel": "9 Adar 5700",
+  "template": "hub",
+  "blocks": [
+    {
+      "type": "heading",
+      "eyebrow": "Campaign · Yoma Depagra",
+      "title": "9 Adar 5700",
+      "text": "The Frierdiker Rebbe Arrived in America"
+    },
+    {
+      "type": "tabs",
+      "items": [
+        {
+          "panel": "cyd_9adar-timeline",
+          "label": "Timeline · Building Blocks",
+          "on": true
+        }
+      ]
+    },
+    {
+      "type": "gallery",
+      "panel": "cyd_9adar-timeline",
+      "images": [
+        {
+          "img": "ydt9adar",
+          "alt": "The Friediker Rebbe Arrived in America"
+        }
+      ],
+      "pdf": "yomadepagra/timeline/08-643-Terumah.pdf"
+    }
+  ],
+  "title": "9 Adar 5700",
+  "type": "yd-campaign-date"
+}

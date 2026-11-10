@@ -1,0 +1,23 @@
+{
+  "id": "i679frames",
+  "branch": "date",
+  "parent": "dpBo",
+  "crumbLabel": "Chassidishe Frames",
+  "altParent": "cYomaDepagra",
+  "altBranch": "campaign",
+  "template": "article",
+  "title": "Constantly Connected, Memorable Fabrengen",
+  "article": {
+    "chips": [
+      "Parshas Bo"
+    ],
+    "pages": [
+      "i679frames",
+      "i679frames_p2"
+    ],
+    "pdf": "pdfs/679.pdf",
+    "body": "<p><span class=\"mc\">13 Shvat missions</span></p>",
+    "source": "Source: Parshas Bo · 7 Shvat 5787"
+  },
+  "type": "chassidishe-frames"
+}

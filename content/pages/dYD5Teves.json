@@ -1,0 +1,37 @@
+{
+  "id": "dYD5Teves",
+  "branch": "date",
+  "parent": "dYD",
+  "crumbLabel": "5 Teves",
+  "template": "hub",
+  "blocks": [
+    {
+      "type": "heading",
+      "eyebrow": "Yoma Depagra",
+      "title": "5 Teves · Didan Notzach",
+      "text": "Hei Teves — the day the seforim were returned. From Hachayol #674’s Didan Notzach feature."
+    },
+    {
+      "type": "cards",
+      "items": [
+        {
+          "page": "i674frames",
+          "color": "gold",
+          "img": "i674frames",
+          "imgZoom": true,
+          "kick": "Yoma Depagra · Comics",
+          "ribbon": "Chassidishe Frames",
+          "ribbonColor": "cyan",
+          "icon": "/resources/assets/img/7b5f36a5d9119965.png",
+          "mission": "Read this week's Chassidishe Frames"
+        }
+      ]
+    },
+    {
+      "type": "html",
+      "html": "<div style=\"margin-top:22px\"><button class=\"btn btn-s\" data-go=\"rDidan\">Open the rally run-of-show →</button></div>"
+    }
+  ],
+  "title": "5 Teves · Didan Notzach",
+  "type": "yd-date"
+}

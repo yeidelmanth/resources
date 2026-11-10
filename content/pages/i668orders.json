@@ -1,0 +1,43 @@
+{
+  "id": "i668orders",
+  "branch": "date",
+  "parent": "dpVayeira",
+  "crumbLabel": "Orders from Our General",
+  "altParent": "cHiskashrus",
+  "altBranch": "campaign",
+  "template": "article",
+  "title": "What’s the Greatest Type of Kindness?",
+  "article": {
+    "chips": [
+      "Parshas Vayeira"
+    ],
+    "pages": [
+      "i668orders"
+    ],
+    "pdf": "pdfs/668.pdf",
+    "body": "<p class=\"lead\">One thing matters to a soldier more than anything else. Can you guess?</p><p>Not their comfort. Not their lives. They just want the war to be won!</p><p>Exactly. Their mission is the most important.</p><p>But they are soldiers! I guess I don't feel like a soldier. Sometimes I’m afraid to do the right thing. Like I am worried about losing out.</p><p>Yeah! Like when my cousins slept over for Shabbos and my mother asked me to give up my bed. I didn’t want to say yes!</p><p>It’s hard to give up something we want for what Hashem wants.</p><p>But that fear? It’s the Yetzer Hara lying to you.</p><p><span class=\"mc\" style=\"color:#cf8715\">the self-centered vs. hªshem-centered bªttle</span></p><p><span class=\"mc\" style=\"color:#cf8715\">Now it’s time for your squad to evaluate how well you are doing in this battle.</span></p><p>Don't forget to include Torah, tefillah, tzedakah, and Moshiach in your meeting!</p><p><span class=\"mc\" style=\"color:#cf8715\">See you next week to start off the next battle plan with Avraham Avinu.</span></p><p><span class=\"mc\" style=\"color:#cf8715\">The Yetzer Hora is telling you that if you give up something of yours then you’ll be left with NOTHING. You’ll be a NOBODY.</span></p><p>What an evil lie! Of course that’s not true.</p><p>Right, because Hashem wants us to be SOMEBODY.</p><p>Well, He wouldn’t have chosen us as His soldiers if we were nobodies.</p><p>Maybe it’s just a matter of listening to my true self.</p><p>The Yetzer Tov! The voice in my head that feels calm, happy, and confident.</p><p>Right on! Because by dedicating ourselves to Hashem we aren’t losing anything. Instead we are doing what WE really want deep down.</p><p>And then not only do we survive— but we thrive!!!</p>",
+    "related": {
+      "heading": "More from the General",
+      "items": [
+        {
+          "icon": "📖",
+          "title": "The Rebbe Speaks to Children",
+          "sub": "The sicha, adapted for children · PDF"
+        },
+        {
+          "icon": "🎧",
+          "title": "Audio recording",
+          "sub": "Listen to the sicha"
+        },
+        {
+          "icon": "🎥",
+          "title": "Video recording",
+          "sub": "Watch the sicha"
+        }
+      ],
+      "note": "Links go live when the files are hosted."
+    },
+    "source": "Source: Parshas Vayeira · 19 Cheshvan 5787"
+  },
+  "type": "orders-from-our-general"
+}

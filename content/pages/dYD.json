@@ -1,0 +1,109 @@
+{
+  "id": "dYD",
+  "branch": "date",
+  "parent": "date",
+  "crumbLabel": "Yoma Depagra",
+  "template": "hub",
+  "blocks": [
+    {
+      "type": "heading",
+      "eyebrow": "Date · lens 3",
+      "title": "Yoma Depagra",
+      "text": "The festive and redemption dates of the Chassidic calendar. Each also exists as a full content package under Campaign."
+    },
+    {
+      "type": "links",
+      "items": [
+        {
+          "page": "dYD1Kislev",
+          "title": "1 Kislev",
+          "text": "The Rebbe’s return home, 5738"
+        },
+        {
+          "page": "dyd14Kislev",
+          "title": "14 Kislev",
+          "text": "The Rebbe’s wedding"
+        },
+        {
+          "page": "dyd19Kislev",
+          "title": "19 Kislev",
+          "text": "Rosh Hashanah of Chassidus"
+        },
+        {
+          "page": "dYD5Teves",
+          "extraClass": "hasnow",
+          "badge": "Next rally",
+          "title": "5 Teves",
+          "text": "Didan Notzach"
+        },
+        {
+          "page": "dyd24Teves",
+          "title": "24 Teves",
+          "text": "Histalkus of the Alter Rebbe"
+        },
+        {
+          "page": "dyd10Shevat",
+          "title": "10 Shevat",
+          "text": "Yud Shevat"
+        },
+        {
+          "page": "dyd22Shevat",
+          "title": "22 Shevat",
+          "text": "Rebbetzin Chaya Mushka"
+        },
+        {
+          "page": "dyd9Adar",
+          "title": "9 Adar",
+          "text": "The Frierdiker Rebbe arrives in America"
+        },
+        {
+          "page": "dyd27Adar",
+          "title": "27 Adar",
+          "text": "5752"
+        },
+        {
+          "page": "dyd11Nissan",
+          "title": "11 Nissan",
+          "text": "Birthday of the Rebbe"
+        },
+        {
+          "page": "dyd2Iyar",
+          "title": "2 Iyar",
+          "text": "Birthday of the Rebbe Maharash"
+        },
+        {
+          "page": "dyd28Sivan",
+          "title": "28 Sivan",
+          "text": "The Rebbe and Rebbetzin arrive in America"
+        },
+        {
+          "page": "dydGimmelTammuz",
+          "title": "Gimmel Tammuz",
+          "text": "Rebbe yahrzeit"
+        },
+        {
+          "page": "dyd1213Tammuz",
+          "title": "12–13 Tammuz",
+          "text": "Liberation of the Frierdiker Rebbe"
+        },
+        {
+          "page": "dyd20Av",
+          "title": "20 Av",
+          "text": "Yahrzeit of R’ Levi Yitzchok, the Rebbe’s father"
+        },
+        {
+          "page": "dyd18Elul",
+          "title": "18 Elul",
+          "text": "Chai Elul — Baal Shem Tov &amp; Alter Rebbe"
+        },
+        {
+          "page": "dyd20Cheshvan",
+          "title": "20 Cheshvan",
+          "text": "Birthday of the Rebbe Rashab"
+        }
+      ]
+    }
+  ],
+  "title": "Yoma Depagra",
+  "type": "hub"
+}

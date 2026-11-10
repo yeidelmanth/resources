@@ -1,0 +1,90 @@
+{
+  "id": "dYT",
+  "branch": "date",
+  "parent": "date",
+  "crumbLabel": "Yom Tov",
+  "template": "hub",
+  "blocks": [
+    {
+      "type": "heading",
+      "eyebrow": "Date · lens 4",
+      "title": "Yom Tov",
+      "text": "Every festival of the year."
+    },
+    {
+      "type": "links",
+      "items": [
+        {
+          "page": "dytRoshHashanah",
+          "extraClass": "hasnow",
+          "badge": "Loaded",
+          "title": "Rosh Hashanah",
+          "text": "1–2 Tishrei"
+        },
+        {
+          "page": "dytYomKippur",
+          "title": "Yom Kippur",
+          "text": "10 Tishrei"
+        },
+        {
+          "page": "dytSukkos",
+          "extraClass": "hasnow",
+          "badge": "Loaded",
+          "title": "Sukkos",
+          "text": "15–21 Tishrei"
+        },
+        {
+          "page": "dytSheminiAtzeresSimchasTorah",
+          "extraClass": "hasnow",
+          "badge": "Loaded",
+          "title": "Shemini Atzeres &amp; Simchas Torah",
+          "text": "22–23 Tishrei"
+        },
+        {
+          "page": "dYTChanukah",
+          "extraClass": "hasnow",
+          "badge": "Next",
+          "title": "Chanukah",
+          "text": "25 Kislev – 2/3 Teves"
+        },
+        {
+          "page": "dytTuBShvat",
+          "title": "Tu B’Shvat",
+          "text": "15 Shevat"
+        },
+        {
+          "page": "dytPurim",
+          "title": "Purim",
+          "text": "14 Adar"
+        },
+        {
+          "page": "dytPesach",
+          "title": "Pesach",
+          "text": "15–22 Nissan"
+        },
+        {
+          "page": "dytPesachSheni",
+          "title": "Pesach Sheni",
+          "text": "14 Iyar"
+        },
+        {
+          "page": "dytLagBOmer",
+          "title": "Lag B’Omer",
+          "text": "18 Iyar"
+        },
+        {
+          "page": "dytShavuos",
+          "title": "Shavuos",
+          "text": "6–7 Sivan"
+        },
+        {
+          "page": "dyt15Av",
+          "title": "15 Av",
+          "text": "Tu B’Av"
+        }
+      ]
+    }
+  ],
+  "title": "Yom Tov",
+  "type": "hub"
+}

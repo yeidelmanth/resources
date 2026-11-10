@@ -1,0 +1,124 @@
+{
+  "id": "dpMikeitz",
+  "branch": "date",
+  "parent": "dParsha",
+  "crumbLabel": "מִקֵּץ",
+  "template": "hub",
+  "blocks": [
+    {
+      "type": "heading",
+      "eyebrow": "Parsha",
+      "title": "מִקֵּץ",
+      "heb": true
+    },
+    {
+      "type": "hachayolbar",
+      "href": "pdfs/674.pdf",
+      "info": "Hachayol #674 · Parshas Mikeitz · 1 Teves 5787",
+      "action": "Printable PDF ↗"
+    },
+    {
+      "type": "cards",
+      "items": [
+        {
+          "page": "i674orders",
+          "color": "purple",
+          "img": "i674orders",
+          "imgZoom": true,
+          "kick": "Hiskashrus · Sichos",
+          "ribbon": "Orders from Our General",
+          "ribbonColor": "red",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Share a sicha of the Rebbe"
+        },
+        {
+          "page": "i674rebbe",
+          "color": "purple",
+          "img": "i674rebbe",
+          "imgZoom": true,
+          "kick": "Hiskashrus · Rebbe Story",
+          "ribbon": "Rebbe Story",
+          "ribbonColor": "orange",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Share a story of the Rebbe at your Shabbos table"
+        },
+        {
+          "page": "i674roots",
+          "color": "purple",
+          "img": "i674roots",
+          "imgZoom": true,
+          "kick": "Hiskashrus · Roots",
+          "ribbon": "Roots",
+          "ribbonColor": "green",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Share a story of our roots"
+        },
+        {
+          "page": "i674niggun",
+          "color": "teal",
+          "img": "i674niggun",
+          "imgZoom": true,
+          "kick": "Niggunim",
+          "ribbon": "Niggun of the Week",
+          "ribbonColor": "teal",
+          "icon": "/resources/assets/img/aaa22b79c109253d.png",
+          "mission": "Share this week's niggun at your Shabbos table"
+        },
+        {
+          "page": "i674frames",
+          "color": "gold",
+          "img": "i674frames",
+          "imgZoom": true,
+          "kick": "Yoma Depagra · Comics",
+          "ribbon": "Chassidishe Frames",
+          "ribbonColor": "cyan",
+          "icon": "/resources/assets/img/7b5f36a5d9119965.png",
+          "mission": "Read this week's Chassidishe Frames"
+        },
+        {
+          "page": "i674squad",
+          "color": "green",
+          "img": "i674squad",
+          "imgZoom": true,
+          "kick": "Campaign · VeHolachta Bidrochov",
+          "ribbon": "Squad Drills",
+          "ribbonColor": "gold",
+          "icon": "/resources/assets/img/03f3974e50e8e5fd.png",
+          "mission": "Worked on this week's middah with your squad"
+        },
+        {
+          "extraClass": "tp-lb",
+          "attrs": {
+            "data-lb": "i674sect06_p1,i674sect06_p2"
+          },
+          "color": "red",
+          "img": "i674sect06_p1",
+          "imgZoom": false,
+          "kick": "Mivtzoim",
+          "ribbon": "Mivtzoim Mania",
+          "ribbonColor": "red",
+          "icon": "/resources/assets/img/f56bf2c628dcc0ad.png",
+          "missionLabel": "In this issue",
+          "mission": "Operation Bayis Molei Sefarim - Zeidy's Special Mission · pp. 10-11"
+        },
+        {
+          "extraClass": "tp-lb",
+          "attrs": {
+            "data-lb": "i674sect07_p1"
+          },
+          "color": "red",
+          "img": "i674sect07_p1",
+          "imgZoom": false,
+          "kick": "Mivtzoim",
+          "ribbon": "Sales",
+          "ribbonColor": "red",
+          "icon": "/resources/assets/img/f56bf2c628dcc0ad.png",
+          "missionLabel": "In this issue",
+          "mission": "Neshek Sale · pp. 16"
+        }
+      ]
+    }
+  ],
+  "title": "מִקֵּץ",
+  "type": "parsha-week"
+}

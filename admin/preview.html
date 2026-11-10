@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<link href="https://fonts.googleapis.com/css2?family=Frank+Ruhl+Libre:wght@400;700&family=Poppins:wght@400;600&family=Saira+Condensed:wght@600;700&family=Source+Sans+3:ital,wght@0,400;0,600;0,700;1,400&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/css/site.css">
+<style>body{margin:0}.crumb button,[data-go],[data-back]{pointer-events:none}</style>
+</head>
+<body>
+<main id="app"><p class="loading-note">Preview loads here…</p></main>
+<script>
+// Renders HTML sent by the editor. Images are looked up by key like on the live site.
+let base = "";
+const url = (u) => {
+  if (!u || /^(https?:|data:|blob:|#)/.test(u)) return u;
+  if (/^uploads\//.test(u)) return "/" + u;
+  if (!base) return u.startsWith("/") ? u : "/" + u;
+  return u.startsWith("/") ? new URL(base).origin + u : new URL(u, base).href;
+};
+addEventListener("message", (e) => {
+  if (e.origin !== location.origin) return;
+  const { html, images, legacyBase } = e.data || {};
+  base = legacyBase || "";
+  const y = scrollY;
+  const app = document.getElementById("app");
+  app.innerHTML = html.replace('class="page"', 'class="page on"');
+  app.querySelectorAll("img[data-img]").forEach((i) => {
+    const u = images[i.getAttribute("data-img")];
+    u ? (i.src = url(u)) : i.replaceWith(Object.assign(document.createElement("div"), { className: "pv-missing", textContent: "image: " + i.getAttribute("data-img") }));
+  });
+  app.querySelectorAll("img[src]:not([data-img])").forEach((i) => (i.src = url(i.getAttribute("src"))));
+  app.querySelectorAll(".mvtab").forEach((t) => t.addEventListener("click", () => {
+    const w = t.closest(".wrap");
+    w.querySelectorAll(".mvtab").forEach((b) => b.classList.toggle("on", b === t));
+    w.querySelectorAll(".mvgrid").forEach((g) => g.classList.toggle("off", g.id !== t.dataset.mvtab));
+  }));
+  scrollTo(0, y);
+});
+</script>
+<style>.pv-missing{background:#fff;border:1px dashed #b9c3d8;color:#7a869f;font:12px system-ui;padding:30px 8px;text-align:center;border-radius:8px}</style>
+</body>
+</html>

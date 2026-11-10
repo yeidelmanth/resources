@@ -1,0 +1,19 @@
+{
+  "id": "i460niggun",
+  "branch": "campaign",
+  "parent": "cNiggunim",
+  "crumbLabel": "Niggun of the Week",
+  "template": "article",
+  "title": "We Want Moshiach Now",
+  "article": {
+    "chips": [],
+    "pages": [
+      "i460niggun"
+    ],
+    "pdf": "niggunim/03-460-Lech-Lecha.pdf",
+    "body": "<p>A niggun featured in the “Niggun of the Week”. Open the printable page below for the full story, words and meaning.</p>",
+    "mission": "Learn this niggun",
+    "source": "Source: "
+  },
+  "type": "niggun-of-the-week"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "yt08614emorpdf",
+  "branch": "campaign",
+  "parent": "cYomTov",
+  "crumbLabel": "Fly With Me",
+  "template": "article",
+  "title": "Radiant Joy",
+  "article": {
+    "kick": "Yom Tov · Lag Baomer",
+    "chips": [
+      "Lag Baomer"
+    ],
+    "pages": [
+      "yt08614emorpdf",
+      "yt08614emorpdf_p2"
+    ],
+    "pdf": "yomtov/08%20614%20Emor.pdf",
+    "sichos": [
+      {
+        "label": "Sicha 1",
+        "href": "sichos/DRRTK%20vol%203%20-%20p%20129-131.pdf"
+      },
+      {
+        "label": "Sicha 2",
+        "href": "sichos/DRRTK%20vol%203%20-%20p%20136-138.pdf"
+      },
+      {
+        "label": "Sicha 3",
+        "href": "sichos/TRSTC%20vol.%203%2C%20p.%20206-209.pdf"
+      },
+      {
+        "label": "Sicha 4",
+        "href": "sichos/TRSTC%20vol.%203%2C%20p.%20215-218.pdf"
+      }
+    ],
+    "body": "<p>Rabi Akiva’s students are also remembered this day;</p><p>Anything forbidden, we are careful not to ________ .</p><p>With our Torah and mitzvos, it’s all in our hands,</p><p>We reveal the great z’chus of our Avos in the past.</p><p>And Moshiach will surely be here so very ________ !</p><p>Returns the world to the way that it’s meant to _______ !</p><p>There are two different reasons for which it is so.</p>",
+    "source": "Source: Yom Tov Campaign · Sichos - Poems - Fly With Me"
+  },
+  "type": "fly-with-me"
+}

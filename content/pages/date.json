@@ -1,0 +1,46 @@
+{
+  "id": "date",
+  "branch": "date",
+  "parent": "home",
+  "crumbLabel": "Date",
+  "template": "hub",
+  "blocks": [
+    {
+      "type": "heading",
+      "eyebrow": "Browse",
+      "title": "Date"
+    },
+    {
+      "type": "links",
+      "items": [
+        {
+          "page": "calendar?view=year",
+          "title": "Full Year",
+          "text": "The whole program year on one page, starting from Elul."
+        },
+        {
+          "page": "calendar",
+          "title": "Month",
+          "text": "Every month of the year, each opening as a filled calendar."
+        },
+        {
+          "page": "dParsha",
+          "title": "Parsha",
+          "text": "All 54 parshiyos — the main way each feature is filed."
+        },
+        {
+          "page": "dYD",
+          "title": "Yoma Depagra",
+          "text": "Every festive and redemption date of the Chassidic calendar."
+        },
+        {
+          "page": "dYT",
+          "title": "Yom Tov",
+          "text": "Every festival of the year."
+        }
+      ]
+    }
+  ],
+  "title": "Date",
+  "type": "hub"
+}

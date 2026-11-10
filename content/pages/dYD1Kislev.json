@@ -1,0 +1,86 @@
+{
+  "id": "dYD1Kislev",
+  "branch": "date",
+  "parent": "dYD",
+  "crumbLabel": "1 Kislev",
+  "template": "hub",
+  "blocks": [
+    {
+      "type": "heading",
+      "eyebrow": "Yoma Depagra",
+      "title": "1 Kislev",
+      "text": "The Rebbe’s return home after Shemini Atzeres 5738."
+    },
+    {
+      "type": "note",
+      "html": "<b>Awaiting issue</b>No issue in the current library (#660–681) covers 1 Kislev — its package fills in when a Rosh Chodesh Kislev issue is added."
+    },
+    {
+      "type": "cards",
+      "items": [
+        {
+          "variant": "empty",
+          "ribbon": "YD Niggunim",
+          "ribbonColor": "gold",
+          "kick": "Yoma Depagra",
+          "heading": "YD Niggunim",
+          "text": "The melody tied to the date.",
+          "textStyle": "color:var(--muted);font-size:15px",
+          "pill": "Awaiting issue",
+          "go": "Empty",
+          "goStyle": "color:var(--muted)"
+        },
+        {
+          "variant": "empty",
+          "ribbon": "YD Comics",
+          "ribbonColor": "gold",
+          "kick": "Yoma Depagra",
+          "heading": "YD Comics",
+          "text": "The day’s story, illustrated.",
+          "textStyle": "color:var(--muted);font-size:15px",
+          "pill": "Awaiting issue",
+          "go": "Empty",
+          "goStyle": "color:var(--muted)"
+        },
+        {
+          "variant": "empty",
+          "ribbon": "YD Stories",
+          "ribbonColor": "gold",
+          "kick": "Yoma Depagra",
+          "heading": "YD Stories",
+          "text": "Stories of the date.",
+          "textStyle": "color:var(--muted);font-size:15px",
+          "pill": "Awaiting issue",
+          "go": "Empty",
+          "goStyle": "color:var(--muted)"
+        },
+        {
+          "variant": "empty",
+          "ribbon": "YD Timelines",
+          "ribbonColor": "gold",
+          "kick": "Yoma Depagra",
+          "heading": "YD Timelines",
+          "text": "The sequence of events.",
+          "textStyle": "color:var(--muted);font-size:15px",
+          "pill": "Awaiting issue",
+          "go": "Empty",
+          "goStyle": "color:var(--muted)"
+        },
+        {
+          "variant": "empty",
+          "ribbon": "YD Game",
+          "ribbonColor": "gold",
+          "kick": "Yoma Depagra",
+          "heading": "YD Game",
+          "text": "An activity for the day.",
+          "textStyle": "color:var(--muted);font-size:15px",
+          "pill": "Awaiting issue",
+          "go": "Empty",
+          "goStyle": "color:var(--muted)"
+        }
+      ]
+    }
+  ],
+  "title": "1 Kislev",
+  "type": "yd-date"
+}

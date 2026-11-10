@@ -1,0 +1,22 @@
+{
+  "id": "i648niggun",
+  "branch": "campaign",
+  "parent": "cNiggunim",
+  "crumbLabel": "Niggun of the Week",
+  "template": "article",
+  "title": "וְהִיא שֶׁעָמְדָה",
+  "article": {
+    "titleHeb": true,
+    "subtitle": "Vehi Sheamda",
+    "chips": [],
+    "pages": [
+      "i648niggun"
+    ],
+    "pdf": "niggunim/03-648-Tzav.pdf",
+    "olderPdfs": "648",
+    "body": "<p>A niggun featured in the “Niggun of the Week”. Open the printable page below for the full story, words and meaning.</p>",
+    "mission": "Learn this niggun",
+    "source": "Source: "
+  },
+  "type": "niggun-of-the-week"
+}

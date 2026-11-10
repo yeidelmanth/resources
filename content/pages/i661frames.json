@@ -1,0 +1,23 @@
+{
+  "id": "i661frames",
+  "branch": "date",
+  "parent": "dytRoshHashanah",
+  "crumbLabel": "Chassidishe Frames",
+  "altParent": "cYomaDepagra",
+  "altBranch": "campaign",
+  "template": "article",
+  "title": "Special Delivery - Vov Tishrei, Yartzeit of Rebbetzin Chana",
+  "article": {
+    "chips": [
+      "Rosh Hashana"
+    ],
+    "pages": [
+      "i661frames",
+      "i661frames_p2"
+    ],
+    "pdf": "pdfs/661.pdf",
+    "body": "<p><span class=\"mc\" style=\"color:#b24a34\">My Story 2 by JEM</span></p><p><span class=\"mc\">6 Tishrei missions</span></p>",
+    "source": "Source: Rosh Hashana · 29 Elul 5787"
+  },
+  "type": "chassidishe-frames"
+}

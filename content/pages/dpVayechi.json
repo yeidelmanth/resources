@@ -1,0 +1,127 @@
+{
+  "id": "dpVayechi",
+  "branch": "date",
+  "parent": "dParsha",
+  "crumbLabel": "וַיְחִי",
+  "template": "hub",
+  "blocks": [
+    {
+      "type": "heading",
+      "eyebrow": "Parsha",
+      "title": "וַיְחִי",
+      "heb": true
+    },
+    {
+      "type": "hachayolbar",
+      "href": "pdfs/676.pdf",
+      "info": "Hachayol #676 · Parshas Vayechi · 15 Teves 5787",
+      "action": "Printable PDF ↗"
+    },
+    {
+      "type": "cards",
+      "items": [
+        {
+          "page": "i676orders",
+          "color": "purple",
+          "img": "i676orders",
+          "imgZoom": true,
+          "kick": "Hiskashrus · Sichos",
+          "ribbon": "Orders from Our General",
+          "ribbonColor": "red",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Share a sicha of the Rebbe"
+        },
+        {
+          "page": "i676rebbe",
+          "color": "purple",
+          "img": "i676rebbe",
+          "imgZoom": true,
+          "kick": "Hiskashrus · Rebbe Story",
+          "ribbon": "Rebbe Story",
+          "ribbonColor": "orange",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Share a story of the Rebbe at your Shabbos table"
+        },
+        {
+          "page": "i676roots",
+          "color": "purple",
+          "img": "i676roots",
+          "imgZoom": true,
+          "kick": "Hiskashrus · Roots",
+          "ribbon": "Roots",
+          "ribbonColor": "green",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Share a story of our roots"
+        },
+        {
+          "page": "i676niggun",
+          "color": "teal",
+          "img": "i676niggun",
+          "imgZoom": true,
+          "kick": "Niggunim",
+          "ribbon": "Niggun of the Week",
+          "ribbonColor": "teal",
+          "icon": "/resources/assets/img/aaa22b79c109253d.png",
+          "mission": "Share this week's niggun at your Shabbos table"
+        },
+        {
+          "page": "i676squad",
+          "color": "green",
+          "img": "i676squad",
+          "imgZoom": true,
+          "kick": "Campaign · VeHolachta Bidrochov",
+          "ribbon": "Squad Drills",
+          "ribbonColor": "gold",
+          "icon": "/resources/assets/img/03f3974e50e8e5fd.png",
+          "mission": "Worked on this week's middah with your squad"
+        },
+        {
+          "extraClass": "tp-lb",
+          "attrs": {
+            "data-lb": "i676sect05_p1,i676sect05_p2"
+          },
+          "color": "cyan",
+          "img": "i676sect05_p1",
+          "imgZoom": false,
+          "kick": "Yom Tov - Sicha",
+          "ribbon": "Yom Tov Living",
+          "ribbonColor": "cyan",
+          "icon": "/resources/assets/img/7b5f36a5d9119965.png",
+          "missionLabel": "In this issue",
+          "mission": "United Through Torah · pp. 8-9"
+        },
+        {
+          "extraClass": "tp-lb",
+          "attrs": {
+            "data-lb": "i676sect06_p1,i676sect06_p2"
+          },
+          "color": "cyan",
+          "img": "i676sect06_p1",
+          "imgZoom": false,
+          "kick": "Yom Tov - Story",
+          "ribbon": "A Tale in Time",
+          "ribbonColor": "cyan",
+          "icon": "/resources/assets/img/7b5f36a5d9119965.png",
+          "missionLabel": "In this issue",
+          "mission": "The Poisonous Plot · pp. 10-11"
+        },
+        {
+          "extraClass": "tp-lb",
+          "attrs": {
+            "data-lb": "i676sect07_p1"
+          },
+          "color": "gold",
+          "img": "i676sect07_p1",
+          "imgZoom": false,
+          "kick": "Hachayol #676",
+          "ribbon": "Siyum Horambam Around the World",
+          "ribbonColor": "gold",
+          "missionLabel": "In this issue",
+          "mission": "Mission Complete · pp. 16"
+        }
+      ]
+    }
+  ],
+  "title": "וַיְחִי",
+  "type": "parsha-week"
+}

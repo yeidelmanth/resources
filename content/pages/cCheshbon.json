@@ -1,0 +1,21 @@
+{
+  "id": "cCheshbon",
+  "branch": "campaign",
+  "parent": "campaign",
+  "crumbLabel": "Cheshbon Hanefesh",
+  "template": "hub",
+  "blocks": [
+    {
+      "type": "heading",
+      "eyebrow": "Campaign",
+      "title": "Cheshbon Hanefesh",
+      "text": "Spiritual self-accounting and introspection."
+    },
+    {
+      "type": "html",
+      "html": "<div class=\"empty\"><h3>Nothing filed here yet</h3><p>Cheshbon Hanefesh is confirmed as a branch, but no example has come through from Hachayol yet. Send one issue that carries it and this page fills itself.</p></div>"
+    }
+  ],
+  "title": "Cheshbon Hanefesh",
+  "type": "hub"
+}

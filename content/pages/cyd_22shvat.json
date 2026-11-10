@@ -1,0 +1,54 @@
+{
+  "id": "cyd_22shvat",
+  "branch": "campaign",
+  "parent": "cYomaDepagra",
+  "crumbLabel": "22 Shvat 5748",
+  "template": "hub",
+  "blocks": [
+    {
+      "type": "heading",
+      "eyebrow": "Campaign · Yoma Depagra",
+      "title": "22 Shvat 5748",
+      "text": "Yartzeit of Rebbetzin Chaya Mushka"
+    },
+    {
+      "type": "tabs",
+      "items": [
+        {
+          "panel": "cyd_22shvat-comic",
+          "label": "Comic Story · Chassidishe Frames",
+          "on": true
+        },
+        {
+          "panel": "cyd_22shvat-timeline",
+          "label": "Timeline · Building Blocks"
+        }
+      ]
+    },
+    {
+      "type": "gallery",
+      "panel": "cyd_22shvat-comic",
+      "images": [
+        {
+          "img": "ydc22shvat",
+          "alt": "An Unnoticed Visit"
+        }
+      ],
+      "pdf": "yomadepagra/comic/08-681-Yisro.pdf"
+    },
+    {
+      "type": "gallery",
+      "panel": "cyd_22shvat-timeline",
+      "hidden": true,
+      "images": [
+        {
+          "img": "ydt22shvat",
+          "alt": "Yartzeit of Rebbetzin Chaya Mushka"
+        }
+      ],
+      "pdf": "yomadepagra/timeline/08-641-Yisro.pdf"
+    }
+  ],
+  "title": "22 Shvat 5748",
+  "type": "yd-campaign-date"
+}

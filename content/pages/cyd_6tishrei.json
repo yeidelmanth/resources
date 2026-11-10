@@ -1,0 +1,54 @@
+{
+  "id": "cyd_6tishrei",
+  "branch": "campaign",
+  "parent": "cYomaDepagra",
+  "crumbLabel": "6 Tishrei 5725",
+  "template": "hub",
+  "blocks": [
+    {
+      "type": "heading",
+      "eyebrow": "Campaign · Yoma Depagra",
+      "title": "6 Tishrei 5725",
+      "text": "Yartzeit of Rebbetzin Chana"
+    },
+    {
+      "type": "tabs",
+      "items": [
+        {
+          "panel": "cyd_6tishrei-comic",
+          "label": "Comic Story · Chassidishe Frames",
+          "on": true
+        },
+        {
+          "panel": "cyd_6tishrei-timeline",
+          "label": "Timeline · Building Blocks"
+        }
+      ]
+    },
+    {
+      "type": "gallery",
+      "panel": "cyd_6tishrei-comic",
+      "images": [
+        {
+          "img": "ydc6tishrei",
+          "alt": "Special Delivery"
+        }
+      ],
+      "pdf": "yomadepagra/comic/14-661-Rosh-Hashana.pdf"
+    },
+    {
+      "type": "gallery",
+      "panel": "cyd_6tishrei-timeline",
+      "hidden": true,
+      "images": [
+        {
+          "img": "ydt6tishrei",
+          "alt": "Yartzeit of Rebbetzin Chana"
+        }
+      ],
+      "pdf": "yomadepagra/timeline/10-622-Vayelech.pdf"
+    }
+  ],
+  "title": "6 Tishrei 5725",
+  "type": "yd-campaign-date"
+}

@@ -1,0 +1,128 @@
+{
+  "id": "dpVayigash",
+  "branch": "date",
+  "parent": "dParsha",
+  "crumbLabel": "וַיִּגַּשׁ",
+  "template": "hub",
+  "blocks": [
+    {
+      "type": "heading",
+      "eyebrow": "Parsha",
+      "title": "וַיִּגַּשׁ",
+      "heb": true
+    },
+    {
+      "type": "hachayolbar",
+      "href": "pdfs/675.pdf",
+      "info": "Hachayol #675 · Parshas Vayigash · 8 Teves 5787",
+      "action": "Printable PDF ↗"
+    },
+    {
+      "type": "cards",
+      "items": [
+        {
+          "page": "i675orders",
+          "color": "purple",
+          "img": "i675orders",
+          "imgZoom": true,
+          "kick": "Hiskashrus · Sichos",
+          "ribbon": "Orders from Our General",
+          "ribbonColor": "red",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Share a sicha of the Rebbe"
+        },
+        {
+          "page": "i675rebbe",
+          "color": "purple",
+          "img": "i675rebbe",
+          "imgZoom": true,
+          "kick": "Hiskashrus · Rebbe Story",
+          "ribbon": "Rebbe Story",
+          "ribbonColor": "orange",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Share a story of the Rebbe at your Shabbos table"
+        },
+        {
+          "page": "i675roots",
+          "color": "purple",
+          "img": "i675roots",
+          "imgZoom": true,
+          "kick": "Hiskashrus · Roots",
+          "ribbon": "Roots",
+          "ribbonColor": "green",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Share a story of our roots"
+        },
+        {
+          "page": "i675niggun",
+          "color": "teal",
+          "img": "i675niggun",
+          "imgZoom": true,
+          "kick": "Niggunim",
+          "ribbon": "Niggun of the Week",
+          "ribbonColor": "teal",
+          "icon": "/resources/assets/img/aaa22b79c109253d.png",
+          "mission": "Share this week's niggun at your Shabbos table"
+        },
+        {
+          "page": "i675squad",
+          "color": "green",
+          "img": "i675squad",
+          "imgZoom": true,
+          "kick": "Campaign · VeHolachta Bidrochov",
+          "ribbon": "Squad Drills",
+          "ribbonColor": "gold",
+          "icon": "/resources/assets/img/03f3974e50e8e5fd.png",
+          "mission": "Worked on this week's middah with your squad"
+        },
+        {
+          "extraClass": "tp-lb",
+          "attrs": {
+            "data-lb": "i675sect02_p1"
+          },
+          "color": "purple",
+          "img": "i675sect02_p1",
+          "imgZoom": false,
+          "kick": "Hiskashrus",
+          "ribbon": "Contest",
+          "ribbonColor": "purple",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "missionLabel": "In this issue",
+          "mission": "Rebbe Story Contest · pp. 16"
+        },
+        {
+          "extraClass": "tp-lb",
+          "attrs": {
+            "data-lb": "i675sect06_p1,i675sect06_p2"
+          },
+          "color": "cyan",
+          "img": "i675sect06_p1",
+          "imgZoom": false,
+          "kick": "Yom Tov - Sicha",
+          "ribbon": "Yom Tov Living",
+          "ribbonColor": "cyan",
+          "icon": "/resources/assets/img/7b5f36a5d9119965.png",
+          "missionLabel": "In this issue",
+          "mission": "Reversing the Siege · pp. 8-9"
+        },
+        {
+          "extraClass": "tp-lb",
+          "attrs": {
+            "data-lb": "i675sect07_p1,i675sect07_p2"
+          },
+          "color": "cyan",
+          "img": "i675sect07_p1",
+          "imgZoom": false,
+          "kick": "Yom Tov - Story",
+          "ribbon": "A Tale in Time",
+          "ribbonColor": "cyan",
+          "icon": "/resources/assets/img/7b5f36a5d9119965.png",
+          "missionLabel": "In this issue",
+          "mission": "The Seventy-Two Rooms · pp. 10-11"
+        }
+      ]
+    }
+  ],
+  "title": "וַיִּגַּשׁ",
+  "type": "parsha-week"
+}

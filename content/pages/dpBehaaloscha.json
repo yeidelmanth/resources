@@ -1,0 +1,21 @@
+{
+  "id": "dpBehaaloscha",
+  "branch": "date",
+  "parent": "dParsha",
+  "crumbLabel": "בְּהַעֲלֹתְךָ",
+  "template": "hub",
+  "blocks": [
+    {
+      "type": "heading",
+      "eyebrow": "Parsha",
+      "title": "בְּהַעֲלֹתְךָ",
+      "heb": true
+    },
+    {
+      "type": "note",
+      "html": "<b>Awaiting issue</b>No Hachayol issue for this week is in the library yet — its cards appear as soon as one is added."
+    }
+  ],
+  "title": "בְּהַעֲלֹתְךָ",
+  "type": "parsha-week"
+}

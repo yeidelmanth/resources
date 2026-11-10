@@ -1,0 +1,28 @@
+{
+  "id": "yt08596vayechipdf",
+  "branch": "campaign",
+  "parent": "cYomTov",
+  "crumbLabel": "Fly With Me",
+  "template": "article",
+  "title": "United As One",
+  "article": {
+    "kick": "Yom Tov · Asarah B'Teves",
+    "chips": [
+      "Asarah B'Teves"
+    ],
+    "pages": [
+      "yt08596vayechipdf",
+      "yt08596vayechipdf_p2"
+    ],
+    "pdf": "yomtov/08%20596%20Vayechi.pdf",
+    "sichos": [
+      {
+        "label": "Sicha 1",
+        "href": "sichos/Likkutei%20Sichos%20vol.%2025%2C%20p.%20267-269.pdf"
+      }
+    ],
+    "body": "<p>So in some ways, it’s the strictest fast of them _____.</p><p>And if only they would have, this day would be _____...</p>",
+    "source": "Source: Yom Tov Campaign · Sichos - Poems - Fly With Me"
+  },
+  "type": "fly-with-me"
+}

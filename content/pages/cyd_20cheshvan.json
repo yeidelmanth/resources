@@ -1,0 +1,54 @@
+{
+  "id": "cyd_20cheshvan",
+  "branch": "campaign",
+  "parent": "cYomaDepagra",
+  "crumbLabel": "20 Cheshvan 5621",
+  "template": "hub",
+  "blocks": [
+    {
+      "type": "heading",
+      "eyebrow": "Campaign · Yoma Depagra",
+      "title": "20 Cheshvan 5621",
+      "text": "Birthday of the Rebbe Rashab"
+    },
+    {
+      "type": "tabs",
+      "items": [
+        {
+          "panel": "cyd_20cheshvan-comic",
+          "label": "Comic Story · Chassidishe Frames",
+          "on": true
+        },
+        {
+          "panel": "cyd_20cheshvan-timeline",
+          "label": "Timeline · Building Blocks"
+        }
+      ]
+    },
+    {
+      "type": "gallery",
+      "panel": "cyd_20cheshvan-comic",
+      "images": [
+        {
+          "img": "ydc20cheshvan",
+          "alt": "Kedusha Thet Lives On"
+        }
+      ],
+      "pdf": "yomadepagra/comic/08-668-Vayeira.pdf"
+    },
+    {
+      "type": "gallery",
+      "panel": "cyd_20cheshvan-timeline",
+      "hidden": true,
+      "images": [
+        {
+          "img": "ydt20cheshvan",
+          "alt": "Birthday of the Rebbe Rashab"
+        }
+      ],
+      "pdf": "yomadepagra/timeline/08-628-Vayeira.pdf"
+    }
+  ],
+  "title": "20 Cheshvan 5621",
+  "type": "yd-campaign-date"
+}

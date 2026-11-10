@@ -1,0 +1,17 @@
+{
+  "id": "fMivtza",
+  "branch": "campaign",
+  "parent": "cMivtzoim",
+  "crumbLabel": "Mivtzoim",
+  "template": "article",
+  "title": "Go out on Mivtza Neiros Shabbos",
+  "article": {
+    "kick": "Campaign · Mivtzoim",
+    "chips": [],
+    "body": "<p>Mivtzoim means going out and <em>doing</em> — reaching another Yid and helping him or her do a mitzvah. This week the platoon goes out on Neiros Shabbos Kodesh: bringing Shabbos candles to girls and women who don't yet light.</p><h3>How the platoon goes out</h3><ul><li>Each soldier takes a set of candles and the brocha card to hand out.</li><li>Find someone who doesn't light yet — a cousin, a neighbour, a classmate's mother.</li><li>Show her the brocha and this Friday's candle-lighting time.</li><li>Report back who you reached — that is the mission.</li></ul><h3>Why this one</h3><p>The Rebbe asked that every Jewish girl and woman light. A single soldier who brings one more candle-lighter into the world has changed a home, not just done a worksheet.</p>",
+    "mission": "Go out and give one girl or woman Shabbos candles this week — then report who you reached",
+    "source": "Source: Sample content — layout only, no source issue held yet",
+    "sample": true
+  },
+  "type": "mivtzoim"
+}

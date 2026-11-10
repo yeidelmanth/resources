@@ -1,0 +1,54 @@
+{
+  "id": "cyd_13tishrei",
+  "branch": "campaign",
+  "parent": "cYomaDepagra",
+  "crumbLabel": "13 Tishrei 5643",
+  "template": "hub",
+  "blocks": [
+    {
+      "type": "heading",
+      "eyebrow": "Campaign · Yoma Depagra",
+      "title": "13 Tishrei 5643",
+      "text": "Histalkus of the Rebbe Maharash"
+    },
+    {
+      "type": "tabs",
+      "items": [
+        {
+          "panel": "cyd_13tishrei-comic",
+          "label": "Comic Story · Chassidishe Frames",
+          "on": true
+        },
+        {
+          "panel": "cyd_13tishrei-timeline",
+          "label": "Timeline · Building Blocks"
+        }
+      ]
+    },
+    {
+      "type": "gallery",
+      "panel": "cyd_13tishrei-comic",
+      "images": [
+        {
+          "img": "ydc13tishrei",
+          "alt": "The Next Link In The Chain"
+        }
+      ],
+      "pdf": "yomadepagra/comic/12-662-Haazinu.pdf"
+    },
+    {
+      "type": "gallery",
+      "panel": "cyd_13tishrei-timeline",
+      "hidden": true,
+      "images": [
+        {
+          "img": "ydt13tishrei",
+          "alt": "Histalkus of the Rebbe Maharash"
+        }
+      ],
+      "pdf": "yomadepagra/timeline/08-623-Haazinu.pdf"
+    }
+  ],
+  "title": "13 Tishrei 5643",
+  "type": "yd-campaign-date"
+}

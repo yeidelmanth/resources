@@ -1,0 +1,109 @@
+{
+  "id": "dpToldos",
+  "branch": "date",
+  "parent": "dParsha",
+  "crumbLabel": "תּוֹלְדוֹת",
+  "template": "hub",
+  "blocks": [
+    {
+      "type": "heading",
+      "eyebrow": "Parsha",
+      "title": "תּוֹלְדוֹת",
+      "heb": true
+    },
+    {
+      "type": "hachayolbar",
+      "href": "pdfs/670.pdf",
+      "info": "Hachayol #670 · Parshas Toldos · 3 Kislev 5787",
+      "action": "Printable PDF ↗"
+    },
+    {
+      "type": "cards",
+      "items": [
+        {
+          "page": "i670orders",
+          "color": "purple",
+          "img": "i670orders",
+          "imgZoom": true,
+          "kick": "Hiskashrus · Sichos",
+          "ribbon": "Orders from Our General",
+          "ribbonColor": "red",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Share a sicha of the Rebbe"
+        },
+        {
+          "page": "i670rebbe",
+          "color": "purple",
+          "img": "i670rebbe",
+          "imgZoom": true,
+          "kick": "Hiskashrus · Rebbe Story",
+          "ribbon": "Rebbe Story",
+          "ribbonColor": "orange",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Share a story of the Rebbe at your Shabbos table"
+        },
+        {
+          "page": "i670roots",
+          "color": "purple",
+          "img": "i670roots",
+          "imgZoom": true,
+          "kick": "Hiskashrus · Roots",
+          "ribbon": "Roots",
+          "ribbonColor": "green",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Share a story of our roots"
+        },
+        {
+          "page": "i670niggun",
+          "color": "teal",
+          "img": "i670niggun",
+          "imgZoom": true,
+          "kick": "Niggunim",
+          "ribbon": "Niggun of the Week",
+          "ribbonColor": "teal",
+          "icon": "/resources/assets/img/aaa22b79c109253d.png",
+          "mission": "Share this week's niggun at your Shabbos table"
+        },
+        {
+          "page": "i670frames",
+          "color": "gold",
+          "img": "i670frames",
+          "imgZoom": true,
+          "kick": "Yoma Depagra · Comics",
+          "ribbon": "Chassidishe Frames",
+          "ribbonColor": "cyan",
+          "icon": "/resources/assets/img/7b5f36a5d9119965.png",
+          "mission": "Read this week's Chassidishe Frames"
+        },
+        {
+          "page": "i670squad",
+          "color": "green",
+          "img": "i670squad",
+          "imgZoom": true,
+          "kick": "Campaign · VeHolachta Bidrochov",
+          "ribbon": "Squad Drills",
+          "ribbonColor": "gold",
+          "icon": "/resources/assets/img/03f3974e50e8e5fd.png",
+          "mission": "Worked on this week's middah with your squad"
+        },
+        {
+          "extraClass": "tp-lb",
+          "attrs": {
+            "data-lb": "i670sect06_p1"
+          },
+          "color": "cyan",
+          "img": "i670sect06_p1",
+          "imgZoom": false,
+          "kick": "Yom Tov - Contests",
+          "ribbon": "Yom Tov - Contests",
+          "ribbonColor": "cyan",
+          "icon": "/resources/assets/img/7b5f36a5d9119965.png",
+          "missionLabel": "In this issue",
+          "mission": "Menorah Contest · pp. 16"
+        }
+      ]
+    }
+  ],
+  "title": "תּוֹלְדוֹת",
+  "type": "parsha-week"
+}

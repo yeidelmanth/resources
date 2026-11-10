@@ -1,0 +1,17 @@
+{
+  "siteName": "Tzivos Hashem",
+  "tagline": "Commander’s Resources",
+  "legacyBase": "",
+  "previewLegacyBase": "https://mashpia.com/resources/",
+  "apiBase": "/resources/",
+  "requireLogin": true,
+  "loginRedirect": "/",
+  "defaultUser": {
+    "name": "R' Mendel Katz",
+    "role": "Field Marshal",
+    "initials": "MK"
+  },
+  "calendarUrl": "/resources/calendar/dist/",
+  "newsFeedUrl": "/mobile/news/ajax/getPosts.php",
+  "newsPageUrl": "/mobile/news/"
+}

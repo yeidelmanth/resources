@@ -1,0 +1,22 @@
+{
+  "pdfs": {
+    "pre1a": "pirush-hamilos/pre1a.pdf",
+    "g1": "pirush-hamilos/g1.pdf",
+    "g2": "pirush-hamilos/g2.pdf",
+    "g3": "pirush-hamilos/g3.pdf",
+    "g4": "pirush-hamilos/g4.pdf",
+    "g5": "pirush-hamilos/g5.pdf",
+    "g6": "pirush-hamilos/g6.pdf",
+    "g7": "pirush-hamilos/g7.pdf"
+  },
+  "pageCounts": {
+    "pre1a": 7,
+    "g1": 7,
+    "g2": 10,
+    "g3": 22,
+    "g4": 28,
+    "g5": 48,
+    "g6": 52,
+    "g7": 65
+  }
+}

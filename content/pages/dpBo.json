@@ -1,0 +1,123 @@
+{
+  "id": "dpBo",
+  "branch": "date",
+  "parent": "dParsha",
+  "crumbLabel": "בֹּא",
+  "template": "hub",
+  "blocks": [
+    {
+      "type": "heading",
+      "eyebrow": "Parsha",
+      "title": "בֹּא",
+      "heb": true
+    },
+    {
+      "type": "hachayolbar",
+      "href": "pdfs/679.pdf",
+      "info": "Hachayol #679 · Parshas Bo · 7 Shvat 5787",
+      "action": "Printable PDF ↗"
+    },
+    {
+      "type": "cards",
+      "items": [
+        {
+          "page": "i679orders",
+          "color": "purple",
+          "img": "i679orders",
+          "imgZoom": true,
+          "kick": "Hiskashrus · Sichos",
+          "ribbon": "Orders from Our General",
+          "ribbonColor": "red",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Share a sicha of the Rebbe"
+        },
+        {
+          "page": "i679rebbe",
+          "color": "purple",
+          "img": "i679rebbe",
+          "imgZoom": true,
+          "kick": "Hiskashrus · Rebbe Story",
+          "ribbon": "Rebbe Story",
+          "ribbonColor": "orange",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Share a story of the Rebbe at your Shabbos table"
+        },
+        {
+          "page": "i679roots",
+          "color": "purple",
+          "img": "i679roots",
+          "imgZoom": true,
+          "kick": "Hiskashrus · Roots",
+          "ribbon": "Roots",
+          "ribbonColor": "green",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Share a story of our roots"
+        },
+        {
+          "page": "i679niggun",
+          "color": "teal",
+          "img": "i679niggun",
+          "imgZoom": true,
+          "kick": "Niggunim",
+          "ribbon": "Niggun of the Week",
+          "ribbonColor": "teal",
+          "icon": "/resources/assets/img/aaa22b79c109253d.png",
+          "mission": "Share this week's niggun at your Shabbos table"
+        },
+        {
+          "page": "i679frames",
+          "color": "gold",
+          "img": "i679frames",
+          "imgZoom": true,
+          "kick": "Yoma Depagra · Comics",
+          "ribbon": "Chassidishe Frames",
+          "ribbonColor": "cyan",
+          "icon": "/resources/assets/img/7b5f36a5d9119965.png",
+          "mission": "Read this week's Chassidishe Frames"
+        },
+        {
+          "page": "i679squad",
+          "color": "green",
+          "img": "i679squad",
+          "imgZoom": true,
+          "kick": "Campaign · VeHolachta Bidrochov",
+          "ribbon": "Squad Drills",
+          "ribbonColor": "gold",
+          "icon": "/resources/assets/img/03f3974e50e8e5fd.png",
+          "mission": "Worked on this week's middah with your squad"
+        },
+        {
+          "extraClass": "tp-lb",
+          "attrs": {
+            "data-lb": "i679sect06_p1,i679sect06_p2"
+          },
+          "color": "gold",
+          "img": "i679sect06_p1",
+          "imgZoom": false,
+          "kick": "Yomei Depagra - Comic Story",
+          "ribbon": "Chassidishe Frames",
+          "ribbonColor": "gold",
+          "icon": "/resources/assets/img/7b5f36a5d9119965.png",
+          "missionLabel": "In this issue",
+          "mission": "Memorable Fabrengen - Yud Gimmel Shvat, Yartzeit of Rebbetzin Shterna Sarah · pp. 10-11"
+        },
+        {
+          "extraClass": "tp-lb",
+          "attrs": {
+            "data-lb": "i679sect07_p1"
+          },
+          "color": "gold",
+          "img": "i679sect07_p1",
+          "imgZoom": false,
+          "kick": "Rally - Yud Shvat",
+          "ribbon": "להוריד השכינה למטה בארץ",
+          "ribbonColor": "gold",
+          "missionLabel": "In this issue",
+          "mission": "Bringing it Home · pp. 16"
+        }
+      ]
+    }
+  ],
+  "title": "בֹּא",
+  "type": "parsha-week"
+}

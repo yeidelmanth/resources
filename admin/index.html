@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Editor · Commander’s Resources</title>
+<link rel="stylesheet" href="admin.css">
+</head>
+<body>
+<header class="top">
+  <a class="brand" href="#">TH Resources <span>editor</span></a>
+  <nav id="topnav">
+    <a href="#pages">Pages</a>
+    <a href="#types">Page types</a>
+    <a href="#data">Site data</a>
+    <a href="#files">Files</a>
+    <a href="#publish">Publish</a>
+  </nav>
+  <a class="btn ghost light" href="/" target="_blank">Preview site ↗</a>
+</header>
+<div class="body">
+  <aside id="side">
+    <div class="sidetools">
+      <input id="treeq" type="search" placeholder="Find a page…">
+      <button class="btn primary" id="newpage">+ New</button>
+    </div>
+    <div id="tree"></div>
+  </aside>
+  <main id="main"></main>
+</div>
+<div id="toasts"></div>
+<script type="module" src="admin.js"></script>
+</body>
+</html>

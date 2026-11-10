@@ -1,0 +1,38 @@
+{
+  "id": "cyd_13shvat",
+  "branch": "campaign",
+  "parent": "cYomaDepagra",
+  "crumbLabel": "13 Shvat 5702",
+  "template": "hub",
+  "blocks": [
+    {
+      "type": "heading",
+      "eyebrow": "Campaign · Yoma Depagra",
+      "title": "13 Shvat 5702",
+      "text": "Yartzeit of Rebbetzin Shterna Sarah"
+    },
+    {
+      "type": "tabs",
+      "items": [
+        {
+          "panel": "cyd_13shvat-comic",
+          "label": "Comic Story · Chassidishe Frames",
+          "on": true
+        }
+      ]
+    },
+    {
+      "type": "gallery",
+      "panel": "cyd_13shvat-comic",
+      "images": [
+        {
+          "img": "ydc13shvat",
+          "alt": "Memorable Farbrengen"
+        }
+      ],
+      "pdf": "yomadepagra/comic/10-679-Bo.pdf"
+    }
+  ],
+  "title": "13 Shvat 5702",
+  "type": "yd-campaign-date"
+}

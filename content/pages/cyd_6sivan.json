@@ -1,0 +1,38 @@
+{
+  "id": "cyd_6sivan",
+  "branch": "campaign",
+  "parent": "cYomaDepagra",
+  "crumbLabel": "6 Sivan 5520",
+  "template": "hub",
+  "blocks": [
+    {
+      "type": "heading",
+      "eyebrow": "Campaign · Yoma Depagra",
+      "title": "6 Sivan 5520",
+      "text": "Histalkus of the Baal Shem Tov"
+    },
+    {
+      "type": "tabs",
+      "items": [
+        {
+          "panel": "cyd_6sivan-timeline",
+          "label": "Timeline · Building Blocks",
+          "on": true
+        }
+      ]
+    },
+    {
+      "type": "gallery",
+      "panel": "cyd_6sivan-timeline",
+      "images": [
+        {
+          "img": "ydt6sivan",
+          "alt": "Histalkus of the Baal Shem Tov"
+        }
+      ],
+      "pdf": "yomadepagra/timeline/10-656-Shavuos.pdf"
+    }
+  ],
+  "title": "6 Sivan 5520",
+  "type": "yd-campaign-date"
+}

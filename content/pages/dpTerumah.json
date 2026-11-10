@@ -1,0 +1,21 @@
+{
+  "id": "dpTerumah",
+  "branch": "date",
+  "parent": "dParsha",
+  "crumbLabel": "תְּרוּמָה",
+  "template": "hub",
+  "blocks": [
+    {
+      "type": "heading",
+      "eyebrow": "Parsha",
+      "title": "תְּרוּמָה",
+      "heb": true
+    },
+    {
+      "type": "note",
+      "html": "<b>Awaiting issue</b>No Hachayol issue for this week is in the library yet — its cards appear as soon as one is added."
+    }
+  ],
+  "title": "תְּרוּמָה",
+  "type": "parsha-week"
+}

@@ -1,0 +1,109 @@
+{
+  "id": "dpVayeitzei",
+  "branch": "date",
+  "parent": "dParsha",
+  "crumbLabel": "וַיֵּצֵא",
+  "template": "hub",
+  "blocks": [
+    {
+      "type": "heading",
+      "eyebrow": "Parsha",
+      "title": "וַיֵּצֵא",
+      "heb": true
+    },
+    {
+      "type": "hachayolbar",
+      "href": "pdfs/671.pdf",
+      "info": "Hachayol #671 · Parshas Vayeitzei · 10 Kislev 5787",
+      "action": "Printable PDF ↗"
+    },
+    {
+      "type": "cards",
+      "items": [
+        {
+          "page": "i671orders",
+          "color": "purple",
+          "img": "i671orders",
+          "imgZoom": true,
+          "kick": "Hiskashrus · Sichos",
+          "ribbon": "Orders from Our General",
+          "ribbonColor": "red",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Share a sicha of the Rebbe"
+        },
+        {
+          "page": "i671rebbe",
+          "color": "purple",
+          "img": "i671rebbe",
+          "imgZoom": true,
+          "kick": "Hiskashrus · Rebbe Story",
+          "ribbon": "Rebbe Story",
+          "ribbonColor": "orange",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Share a story of the Rebbe at your Shabbos table"
+        },
+        {
+          "page": "i671roots",
+          "color": "purple",
+          "img": "i671roots",
+          "imgZoom": true,
+          "kick": "Hiskashrus · Roots",
+          "ribbon": "Roots",
+          "ribbonColor": "green",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Share a story of our roots"
+        },
+        {
+          "page": "i671niggun",
+          "color": "teal",
+          "img": "i671niggun",
+          "imgZoom": true,
+          "kick": "Niggunim",
+          "ribbon": "Niggun of the Week",
+          "ribbonColor": "teal",
+          "icon": "/resources/assets/img/aaa22b79c109253d.png",
+          "mission": "Share this week's niggun at your Shabbos table"
+        },
+        {
+          "page": "i671frames",
+          "color": "gold",
+          "img": "i671frames",
+          "imgZoom": true,
+          "kick": "Yoma Depagra · Comics",
+          "ribbon": "Chassidishe Frames",
+          "ribbonColor": "cyan",
+          "icon": "/resources/assets/img/7b5f36a5d9119965.png",
+          "mission": "Read this week's Chassidishe Frames"
+        },
+        {
+          "page": "i671squad",
+          "color": "green",
+          "img": "i671squad",
+          "imgZoom": true,
+          "kick": "Campaign · VeHolachta Bidrochov",
+          "ribbon": "Squad Drills",
+          "ribbonColor": "gold",
+          "icon": "/resources/assets/img/03f3974e50e8e5fd.png",
+          "mission": "Worked on this week's middah with your squad"
+        },
+        {
+          "extraClass": "tp-lb",
+          "attrs": {
+            "data-lb": "i671sect06_p1"
+          },
+          "color": "navy",
+          "img": "i671sect06_p1",
+          "imgZoom": false,
+          "kick": "Sefer Hamitzvos",
+          "ribbon": "Chidon",
+          "ribbonColor": "navy",
+          "icon": "/resources/assets/img/643b909aafb826b2.png",
+          "missionLabel": "In this issue",
+          "mission": "Test 2 · pp. 16"
+        }
+      ]
+    }
+  ],
+  "title": "וַיֵּצֵא",
+  "type": "parsha-week"
+}

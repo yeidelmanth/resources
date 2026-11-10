@@ -1,0 +1,21 @@
+{
+  "id": "dpPekudei",
+  "branch": "date",
+  "parent": "dParsha",
+  "crumbLabel": "פְקוּדֵי",
+  "template": "hub",
+  "blocks": [
+    {
+      "type": "heading",
+      "eyebrow": "Parsha",
+      "title": "פְקוּדֵי",
+      "heb": true
+    },
+    {
+      "type": "note",
+      "html": "<b>Awaiting issue</b>No Hachayol issue for this week is in the library yet — its cards appear as soon as one is added."
+    }
+  ],
+  "title": "פְקוּדֵי",
+  "type": "parsha-week"
+}

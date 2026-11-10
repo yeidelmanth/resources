@@ -1,0 +1,44 @@
+{
+  "id": "i677orders",
+  "branch": "date",
+  "parent": "dpShemos",
+  "crumbLabel": "Orders from Our General",
+  "altParent": "cHiskashrus",
+  "altBranch": "campaign",
+  "template": "article",
+  "title": "Can You Be Free an Still Have Rules",
+  "article": {
+    "chips": [
+      "Parshas Shemos"
+    ],
+    "pages": [
+      "i677orders",
+      "i677orders_p2"
+    ],
+    "pdf": "pdfs/677.pdf",
+    "body": "<p class=\"lead\">It’s easy to imagine someone who’s not free—a slave, a prisoner, or a person who’s controlled by someone/ something else.</p><p><span class=\"mc\">But what does it look like for someone to be free?</span></p><p>In this week’s parsha, Hashem tells Moshe Rabbeinu that when the Yidden leave Mitzrayim, they will come to Har Sinai to serve Him. This shows the real reason why the Yidden were freed: not just to stop being slaves to Paroh, but to receive the Torah and serve Hashem.</p><p>When we Yidden serve Hashem, that is when we are truly free.</p><p>There’s a hint to this in the way the Luchos were made. The Aseres Hadibros were not written with ink or paint. They were engraved into the actual stone. The Hebrew</p><p>By accepting the Luchos, which stand for the whole Torah, the Yidden became free—for real.</p><p>Choose the answer that shows real freedom:</p><p>Doing whatever I feel like, whenever I want.</p><p>Choosing to serve Hashem, even when it’s hard.</p><p>When you take the people out of Mitzrayim, you will serve Hashem on this mountain.</p><p>Sometimes, doing the right thing can feel hard. The Yetzer Hara tries to convince us that doing the wrong thing is easier or more fun. He wants us to think that freedom means we get to choose what we do or how we do it.</p><p>Want to know what true freedom looks like? Every time we do a mitzvah instead of an aveira, we show that we are not slaves to the Yetzer Hara (the little Paroh inside of us). We are truly free to do what we were created for: what Hashem wants. And for that, we have the Torah.</p><p>Which of the Aseres Hadibros reminds us that we were freed from Mitzrayim in order to serve Hashem?</p><p><span class=\"mc\">What are two differences between something written and something engraved?</span></p><p>If the Yidden already kept some mitzvos in Mitzrayim, why did true avodah only begin after getting the Torah at Har Sinai?</p><p>The halachos mitzvos— listening to in the Torah keep us safe, give us space, our Yetzer Tov—makes us as free as can be. Take turns acting out different freedom. There are many similar activities that give us true freedom, examples in our lives.</p><p>Can you complete the pattern and see what while everyone else guesses what</p><p>Choose the Right Adventure</p><p>We are most free when we do the right thing. Can you circle the choices that will lead to real freedom?</p>",
+    "related": {
+      "heading": "More from the General",
+      "items": [
+        {
+          "icon": "📖",
+          "title": "The Rebbe Speaks to Children",
+          "sub": "The sicha, adapted for children · PDF"
+        },
+        {
+          "icon": "🎧",
+          "title": "Audio recording",
+          "sub": "Listen to the sicha"
+        },
+        {
+          "icon": "🎥",
+          "title": "Video recording",
+          "sub": "Watch the sicha"
+        }
+      ],
+      "note": "Links go live when the files are hosted."
+    },
+    "source": "Source: Parshas Shemos · 22 Teves 5787"
+  },
+  "type": "orders-from-our-general"
+}

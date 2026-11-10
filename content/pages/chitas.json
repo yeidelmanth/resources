@@ -1,0 +1,49 @@
+{
+  "id": "chitas",
+  "branch": "chitas",
+  "parent": "home",
+  "crumbLabel": "Daily Chitas",
+  "template": "hub",
+  "blocks": [
+    {
+      "type": "heading",
+      "eyebrow": "Browse",
+      "title": "Daily Chitas <span class=\"secemb\"><img class=\"emb-img\" alt=\"\" src=\"/resources/assets/img/ded66c99b232c389.png\"></span>"
+    },
+    {
+      "type": "html",
+      "html": "<div class=\"chfeed\" id=\"chFeed\"><div class=\"note\" id=\"chFeedMsg\"><b>Loading</b>Pulling today’s Chitas from the news feed…</div><div class=\"chfeed-list\" id=\"chFeedList\"></div></div>"
+    },
+    {
+      "type": "links",
+      "items": [
+        {
+          "static": true,
+          "title": "Chumash",
+          "text": "<span id=\"chChumash\">This week — the day’s aliyah</span>"
+        },
+        {
+          "static": true,
+          "title": "Tehillim",
+          "text": "Day 1 of the month — kapitlach 1–9"
+        },
+        {
+          "static": true,
+          "title": "Tanya",
+          "text": "The day’s portion of the annual cycle"
+        },
+        {
+          "static": true,
+          "title": "Sefer Hamitzvos",
+          "text": "The Rambam’s mitzvah for the day"
+        }
+      ]
+    },
+    {
+      "type": "html",
+      "html": "<div style=\"margin-top:22px\"><div class=\"note\"><b>Awaiting issue</b>No issue in the library (#660–681) carries this yet — it fills in as soon as one does.</div></div>"
+    }
+  ],
+  "title": "Daily Chitas <span class=\"secemb\"><img class=\"emb-img\" alt=\"\" src=\"/resources/assets/img/ded66c99b232c389.png\"></span>",
+  "type": "hub"
+}

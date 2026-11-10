@@ -1,0 +1,48 @@
+{
+  "id": "yt08578shoftimpdf",
+  "branch": "campaign",
+  "parent": "cYomTov",
+  "crumbLabel": "Fly With Me",
+  "template": "article",
+  "title": "Meeting the King!",
+  "article": {
+    "kick": "Yom Tov · Elul",
+    "chips": [
+      "Elul"
+    ],
+    "pages": [
+      "yt08578shoftimpdf",
+      "yt08578shoftimpdf_p2"
+    ],
+    "pdf": "yomtov/08%20578%20Shoftim.pdf",
+    "sichos": [
+      {
+        "label": "Sicha 1",
+        "href": "sichos/DRRTK%20vol%202%20-%20p%2017-19.pdf"
+      },
+      {
+        "label": "Sicha 2",
+        "href": "sichos/DRRTK%20vol%202%20-%20p%2020-22.pdf"
+      },
+      {
+        "label": "Sicha 3",
+        "href": "sichos/DRRTK%20vol%202%20-%20p%2028-29.pdf"
+      },
+      {
+        "label": "Sicha 4",
+        "href": "sichos/TRSTC%20vol.%202%2C%20p.%2070-73.pdf"
+      },
+      {
+        "label": "Sicha 5",
+        "href": "sichos/TRSTC%20vol.%202%2C%20p.%2074-76.pdf"
+      },
+      {
+        "label": "Sicha 6",
+        "href": "sichos/TRSTC%20vol.%202%2C%20p.%2084-85.pdf"
+      }
+    ],
+    "body": "<p>We remain His dear child, at every time and _________.</p>",
+    "source": "Source: Yom Tov Campaign · Sichos - Poems - Fly With Me"
+  },
+  "type": "fly-with-me"
+}

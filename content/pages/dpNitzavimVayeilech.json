@@ -1,0 +1,123 @@
+{
+  "id": "dpNitzavimVayeilech",
+  "branch": "date",
+  "parent": "dParsha",
+  "crumbLabel": "נִצָּבִים־וַיֵּלֶךְ",
+  "template": "hub",
+  "blocks": [
+    {
+      "type": "heading",
+      "eyebrow": "Parsha",
+      "title": "נִצָּבִים־וַיֵּלֶךְ",
+      "heb": true
+    },
+    {
+      "type": "hachayolbar",
+      "href": "pdfs/660.pdf",
+      "info": "Hachayol #660 · Parshas Nitzavim-Vayelech · 22 Elul 5787",
+      "action": "Printable PDF ↗"
+    },
+    {
+      "type": "cards",
+      "items": [
+        {
+          "page": "i660orders",
+          "color": "purple",
+          "img": "i660orders",
+          "imgZoom": true,
+          "kick": "Hiskashrus · Sichos",
+          "ribbon": "Orders from Our General",
+          "ribbonColor": "red",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Share a sicha of the Rebbe"
+        },
+        {
+          "page": "i660rebbe",
+          "color": "purple",
+          "img": "i660rebbe",
+          "imgZoom": true,
+          "kick": "Hiskashrus · Rebbe Story",
+          "ribbon": "Rebbe Story",
+          "ribbonColor": "orange",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Share a story of the Rebbe at your Shabbos table"
+        },
+        {
+          "page": "i660niggun",
+          "color": "teal",
+          "img": "i660niggun",
+          "imgZoom": true,
+          "kick": "Niggunim",
+          "ribbon": "Niggun of the Week",
+          "ribbonColor": "teal",
+          "icon": "/resources/assets/img/aaa22b79c109253d.png",
+          "mission": "Share this week's niggun at your Shabbos table"
+        },
+        {
+          "page": "i660frames",
+          "color": "gold",
+          "img": "i660frames",
+          "imgZoom": true,
+          "kick": "Yoma Depagra · Comics",
+          "ribbon": "Chassidishe Frames",
+          "ribbonColor": "cyan",
+          "icon": "/resources/assets/img/7b5f36a5d9119965.png",
+          "mission": "Read this week's Chassidishe Frames"
+        },
+        {
+          "page": "i660squad",
+          "color": "green",
+          "img": "i660squad",
+          "imgZoom": true,
+          "kick": "Campaign · VeHolachta Bidrochov",
+          "ribbon": "Squad Drills",
+          "ribbonColor": "gold",
+          "icon": "/resources/assets/img/03f3974e50e8e5fd.png",
+          "mission": "Worked on this week's middah with your squad"
+        },
+        {
+          "page": "i660mivtzoim",
+          "color": "red",
+          "img": "i660mivtzoim",
+          "imgZoom": true,
+          "kick": "Campaign · Mivtzoim",
+          "ribbon": "Mivtzoim Mania",
+          "ribbonColor": "blue",
+          "icon": "/resources/assets/img/f56bf2c628dcc0ad.png",
+          "mission": "Went out on mivtzoim and reported back"
+        },
+        {
+          "extraClass": "tp-lb",
+          "attrs": {
+            "data-lb": "i660sect06_p1,i660sect06_p2"
+          },
+          "color": "red",
+          "img": "i660sect06_p1",
+          "imgZoom": false,
+          "kick": "Mivtzoim - Mivtza Lulav",
+          "ribbon": "Mivtzoim Feature",
+          "ribbonColor": "red",
+          "icon": "/resources/assets/img/f56bf2c628dcc0ad.png",
+          "missionLabel": "In this issue",
+          "mission": "Esrog Agents - The story of the Yanover Esrogim Part 2 · pp. 14-15"
+        },
+        {
+          "extraClass": "tp-lb",
+          "attrs": {
+            "data-lb": "i660sect07_p1"
+          },
+          "color": "gold",
+          "img": "i660sect07_p1",
+          "imgZoom": false,
+          "kick": "Rally - Elul",
+          "ribbon": "אבינו מלכנו",
+          "ribbonColor": "gold",
+          "missionLabel": "In this issue",
+          "mission": "The Pledge of Allegiance · pp. 16"
+        }
+      ]
+    }
+  ],
+  "title": "נִצָּבִים־וַיֵּלֶךְ",
+  "type": "parsha-week"
+}

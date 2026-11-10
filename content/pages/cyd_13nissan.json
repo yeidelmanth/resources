@@ -1,0 +1,38 @@
+{
+  "id": "cyd_13nissan",
+  "branch": "campaign",
+  "parent": "cYomaDepagra",
+  "crumbLabel": "13 Nissan 5626",
+  "template": "hub",
+  "blocks": [
+    {
+      "type": "heading",
+      "eyebrow": "Campaign · Yoma Depagra",
+      "title": "13 Nissan 5626",
+      "text": "Histalkus of the Tzemach Tzedek"
+    },
+    {
+      "type": "tabs",
+      "items": [
+        {
+          "panel": "cyd_13nissan-timeline",
+          "label": "Timeline · Building Blocks",
+          "on": true
+        }
+      ]
+    },
+    {
+      "type": "gallery",
+      "panel": "cyd_13nissan-timeline",
+      "images": [
+        {
+          "img": "ydt13nissan",
+          "alt": "Histalkus of the Tzemach Tzedek"
+        }
+      ],
+      "pdf": "yomadepagra/timeline/14-648-Tzav.pdf"
+    }
+  ],
+  "title": "13 Nissan 5626",
+  "type": "yd-campaign-date"
+}

@@ -1,0 +1,51 @@
+{
+  "id": "i680niggun",
+  "branch": "date",
+  "parent": "dpBeshalach",
+  "crumbLabel": "Niggun of the Week",
+  "altParent": "cNiggunim",
+  "altBranch": "campaign",
+  "template": "article",
+  "title": "זאל שוין זיין די גאולה",
+  "article": {
+    "titleHeb": true,
+    "hebbig": "זאל שוין זיין",
+    "chips": [
+      "Parshas Beshalach"
+    ],
+    "media": [
+      {
+        "href": "audio/87%20%D7%96%D7%90%D7%9C%20%D7%A9%D7%95%D7%99%D7%9F%20%D7%96%D7%99%D7%99%D7%9F%20%D7%93%D7%99%20%D7%92%D7%90%D7%95%D7%9C%D7%94%20%28Childrens%20Choir%29.mp3",
+        "label": "🎧 Words · Music — Childrens Choir"
+      },
+      {
+        "href": "audio/87%20%D7%96%D7%90%D7%9C%20%D7%A9%D7%95%D7%99%D7%9F%20%D7%96%D7%99%D7%99%D7%9F%20%D7%93%D7%99%20%D7%92%D7%90%D7%95%D7%9C%D7%94%20%28Rebbe%20Singing%20-%20JEM%29.mp3",
+        "label": "🎧 No Words · No Music — Rebbe Singing"
+      },
+      {
+        "href": "audio/87%20%D7%96%D7%90%D7%9C%20%D7%A9%D7%95%D7%99%D7%9F%20%D7%96%D7%99%D7%99%D7%9F%20%D7%93%D7%99%20%D7%92%D7%90%D7%95%D7%9C%D7%94%20%28Zalman%20Goldstein%29.mp3",
+        "label": "🎧 No Words · Music — Zalman Goldstein"
+      },
+      {
+        "href": "audio/87%20%D7%96%D7%90%D7%9C%20%D7%A9%D7%95%D7%99%D7%9F%20%D7%96%D7%99%D7%99%D7%9F%20%D7%93%D7%99%20%D7%92%D7%90%D7%95%D7%9C%D7%94%20%28Velner%29.mp3",
+        "label": "🎧 No Words · Music — Velner"
+      },
+      {
+        "href": "video/87%20%D7%96%D7%90%D7%9C%20%D7%A9%D7%95%D7%99%D7%9F%20%D7%96%D7%99%D7%99%D7%9F%20%D7%93%D7%99%20%D7%92%D7%90%D7%95%D7%9C%D7%94%20%28Chassidim%20Sinigng%20-%20My%20Maor%29.mp4",
+        "label": "🎥 Words · No Music — Chassidim Singing My Maor"
+      },
+      {
+        "href": "video/87%20%D7%96%D7%90%D7%9C%20%D7%A9%D7%95%D7%99%D7%9F%20%D7%96%D7%99%D7%99%D7%9F%20%D7%93%D7%99%20%D7%92%D7%90%D7%95%D7%9C%D7%94%20%28Chassidim%20Singing%20-%20JEM%29.mp4",
+        "label": "🎥 Words · No Music — Chassidim Singing 2"
+      }
+    ],
+    "pages": [
+      "i680niggun"
+    ],
+    "pdf": "pdfs/680.pdf",
+    "olderPdfs": "680",
+    "body": "<div class=\"nigfacts\" style=\"--fb:#C0E0C8;--fbr:#6EBD82;--ftx:#285232\"><div class=\"nigfact\" style=\"--fc:#930d1e\"><img class=\"fe fe-img\" alt=\"\" src=\"/resources/assets/img/75570d1082f1c751.png\"><span class=\"ft\">These words were added to an old Chassidishe niggun that had no words</span></div><div class=\"nigfact\" style=\"--fc:#930d1e\"><img class=\"fe fe-img\" alt=\"\" src=\"/resources/assets/img/75570d1082f1c751.png\"><span class=\"ft\">Chassidim, brimming with confidence from the Rebbe’s declaration that Moshiach is really coming now, changed the lyrics from — \" may the Geula already be here,\" to \"\" — \" ’ the Geula is soon coming!</span></div></div><h3>The Geula is coming NOW!</h3><p>What are you doing?\"</p><p>\"Making a bracha on your cookies?\" grins Esther Miriam.</p><p>Esther Miriam watches and sighs. \"Little kids can say that! But I’m eleven. I’ve been waiting much longer and the Geula still hasn’t come.\"</p><p>\"Sure!\" says Sara. \"And thinking about what to do is also positive. Good thoughts lead to good deeds,\" she adds, pulling the chocolate crinkle cookies from the oven.</p><p>\"So what?\" says fourteen-year-old Sara. \"If the Rebbe says Geula is coming, it’s coming! Anyway, we can’t just wait; we have to do something. Freidel makes farbrengens, Yossi, Yochi, and Shneur play and sing, and I’m baking cookies for the farbrengen.</p><p>\"I’ve got a great idea!\" says Esther Miriam. \"I’ll do some mivtzoyim soon!\"</p><p>\"Be quick!\" urges Sara. \"The Geula is already coming!\"</p>",
+    "source": "Source: Parshas Beshalach · 14 Shvat 5787"
+  },
+  "type": "niggun-of-the-week"
+}

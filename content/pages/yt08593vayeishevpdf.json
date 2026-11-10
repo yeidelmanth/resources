@@ -1,0 +1,56 @@
+{
+  "id": "yt08593vayeishevpdf",
+  "branch": "campaign",
+  "parent": "cYomTov",
+  "crumbLabel": "Fly With Me",
+  "template": "article",
+  "title": "Our Battle Today",
+  "article": {
+    "kick": "Yom Tov · Channukah",
+    "chips": [
+      "Channukah"
+    ],
+    "pages": [
+      "yt08593vayeishevpdf",
+      "yt08593vayeishevpdf_p2"
+    ],
+    "pdf": "yomtov/08%20593%20Vayeishev.pdf",
+    "sichos": [
+      {
+        "label": "Sicha 1",
+        "href": "sichos/DRRTK%20vol%202%20-%20p%20185-187.pdf"
+      },
+      {
+        "label": "Sicha 2",
+        "href": "sichos/DRRTK%20vol%202%20-%20p%20188-191.pdf"
+      },
+      {
+        "label": "Sicha 3",
+        "href": "sichos/DRRTK%20vol%202%20-%20p%20199-200.pdf"
+      },
+      {
+        "label": "Sicha 4",
+        "href": "sichos/DRRTK%20vol%202%20-%20p%20238.pdf"
+      },
+      {
+        "label": "Sicha 5",
+        "href": "sichos/TRSTC%20vol.%202%2C%20p.%20284-287.pdf"
+      },
+      {
+        "label": "Sicha 6",
+        "href": "sichos/TRSTC%20vol.%202%2C%20p.%20288-292.pdf"
+      },
+      {
+        "label": "Sicha 7",
+        "href": "sichos/TRSTC%20vol.%202%2C%20p.%20303-305.pdf"
+      },
+      {
+        "label": "Sicha 8",
+        "href": "sichos/TRSTC%20vol.%202%2C%20p.%20360-361.pdf"
+      }
+    ],
+    "body": "<p>מעֶן דאַרְף זיִך צּוהעֶרְן וואָס דיִ ליִכְטְלעֶך דעֶרְציֵילְן</p>",
+    "source": "Source: Yom Tov Campaign · Sichos - Poems - Fly With Me"
+  },
+  "type": "fly-with-me"
+}

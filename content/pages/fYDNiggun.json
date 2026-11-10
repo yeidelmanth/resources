@@ -1,0 +1,19 @@
+{
+  "id": "fYDNiggun",
+  "branch": "campaign",
+  "parent": "cYomaDepagra",
+  "crumbLabel": "YD Niggunim",
+  "template": "article",
+  "title": "The niggun for the date",
+  "article": {
+    "kick": "Campaign · Yoma Depagra · Didan Notzach",
+    "chips": [
+      "Yoma Depagra · Didan Notzach"
+    ],
+    "body": "<p>Every Yoma Depagra carries its melody. It opens the rally run-of-show, so the platoon hears it before they hear anything else.</p>",
+    "mission": "Sing it at the rally",
+    "source": "Source: Sample content — layout only, no source issue held yet",
+    "sample": true
+  },
+  "type": "yd-niggunim"
+}

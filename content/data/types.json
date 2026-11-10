@@ -1,0 +1,539 @@
+{
+  "orders-from-our-general": {
+    "label": "Orders from Our General",
+    "template": "article",
+    "group": "Articles",
+    "defaults": {
+      "kick": "Hiskashrus · Sichos",
+      "ribbon": "Orders from Our General",
+      "ribbonColor": "red",
+      "mission": "Share a sicha of the Rebbe"
+    },
+    "newPage": {
+      "branch": "date",
+      "altParent": "cHiskashrus"
+    },
+    "count": 22
+  },
+  "rebbe-story": {
+    "label": "Rebbe Story",
+    "template": "article",
+    "group": "Articles",
+    "defaults": {
+      "kick": "Hiskashrus · Rebbe Story",
+      "ribbon": "Rebbe Story",
+      "ribbonColor": "orange",
+      "mission": "Share a story of the Rebbe at your Shabbos table"
+    },
+    "newPage": {
+      "branch": "date",
+      "altParent": "cHiskashrus"
+    },
+    "count": 22
+  },
+  "niggun-of-the-week": {
+    "label": "Niggun of the Week",
+    "template": "article",
+    "group": "Articles",
+    "defaults": {
+      "kick": "Niggunim",
+      "ribbon": "Niggun of the Week",
+      "ribbonColor": "teal",
+      "mission": "Share this week's niggun at your Shabbos table"
+    },
+    "newPage": {
+      "branch": "date",
+      "altParent": "cNiggunim"
+    },
+    "count": 30
+  },
+  "chassidishe-frames": {
+    "label": "Chassidishe Frames",
+    "template": "article",
+    "group": "Articles",
+    "defaults": {
+      "kick": "Yoma Depagra · Comics",
+      "ribbon": "Chassidishe Frames",
+      "ribbonColor": "cyan",
+      "mission": "Read this week's Chassidishe Frames"
+    },
+    "newPage": {
+      "branch": "date",
+      "altParent": "cYomaDepagra"
+    },
+    "count": 12
+  },
+  "squad-drills": {
+    "label": "Squad Drills",
+    "template": "article",
+    "group": "Articles",
+    "defaults": {
+      "kick": "Campaign · VeHolachta Bidrochov",
+      "ribbon": "Squad Drills",
+      "ribbonColor": "gold",
+      "mission": "Worked on this week's middah with your squad"
+    },
+    "newPage": {
+      "branch": "date",
+      "altParent": "cVeholachta"
+    },
+    "count": 21
+  },
+  "mivtzoim-mania": {
+    "label": "Mivtzoim Mania",
+    "template": "article",
+    "group": "Articles",
+    "defaults": {
+      "ribbon": "Mivtzoim Mania",
+      "ribbonColor": "blue",
+      "mission": "Went out on mivtzoim and reported back"
+    },
+    "newPage": {
+      "branch": "date",
+      "parent": "cMivtzoim"
+    },
+    "count": 34
+  },
+  "roots": {
+    "label": "Roots",
+    "template": "article",
+    "group": "Articles",
+    "defaults": {
+      "kick": "Hiskashrus · Roots",
+      "ribbon": "Roots",
+      "ribbonColor": "green",
+      "mission": "Share a story of our roots"
+    },
+    "newPage": {
+      "branch": "date",
+      "altParent": "cHiskashrus"
+    },
+    "count": 17
+  },
+  "yd-stories": {
+    "label": "YD Stories",
+    "template": "article",
+    "group": "Articles",
+    "defaults": {
+      "ribbon": "YD Stories",
+      "ribbonColor": "gold"
+    },
+    "newPage": {
+      "branch": "campaign"
+    },
+    "count": 1
+  },
+  "yd-niggunim": {
+    "label": "YD Niggunim",
+    "template": "article",
+    "group": "Articles",
+    "defaults": {
+      "ribbon": "YD Niggunim",
+      "ribbonColor": "gold"
+    },
+    "newPage": {
+      "branch": "campaign"
+    },
+    "count": 1
+  },
+  "mivtzoim": {
+    "label": "Mivtzoim",
+    "template": "article",
+    "group": "Articles",
+    "defaults": {
+      "ribbon": "Mivtzoim",
+      "ribbonColor": "green"
+    },
+    "newPage": {
+      "branch": "campaign"
+    },
+    "count": 1
+  },
+  "minhagim": {
+    "label": "Minhagim",
+    "template": "article",
+    "group": "Articles",
+    "defaults": {
+      "ribbon": "Minhagim",
+      "ribbonColor": "blue"
+    },
+    "newPage": {
+      "branch": "campaign"
+    },
+    "count": 1
+  },
+  "pirkei-avos": {
+    "label": "Pirkei Avos",
+    "template": "article",
+    "group": "Articles",
+    "defaults": {
+      "ribbon": "Pirkei Avos",
+      "ribbonColor": "blue"
+    },
+    "newPage": {
+      "branch": "campaign"
+    },
+    "count": 1
+  },
+  "mivtzoim-memoirs": {
+    "label": "Mivtzoim Memoirs",
+    "template": "article",
+    "group": "Articles",
+    "defaults": {
+      "ribbon": "Mivtzoim Memoirs",
+      "ribbonColor": "blue",
+      "mission": "Went out on mivtzoim and reported back"
+    },
+    "newPage": {
+      "branch": "campaign",
+      "parent": "cMivtzoim"
+    },
+    "count": 12
+  },
+  "celebrate-like-a-chayol": {
+    "label": "Celebrate Like A Chayol",
+    "template": "article",
+    "group": "Articles",
+    "defaults": {
+      "ribbon": "Celebrate Like A Chayol",
+      "ribbonColor": "teal",
+      "mission": "Lived this Yom Tov like a chayol"
+    },
+    "newPage": {
+      "branch": "campaign",
+      "parent": "cYomTov"
+    },
+    "count": 16
+  },
+  "fly-with-me": {
+    "label": "Fly With Me",
+    "template": "article",
+    "group": "Articles",
+    "defaults": {
+      "ribbon": "Fly With Me",
+      "ribbonColor": "cyan",
+      "mission": "Lived this Yom Tov like a chayol"
+    },
+    "newPage": {
+      "branch": "campaign",
+      "parent": "cYomTov"
+    },
+    "count": 17
+  },
+  "yom-tov-seasons": {
+    "label": "Yom Tov Seasons",
+    "template": "article",
+    "group": "Articles",
+    "defaults": {
+      "ribbon": "Yom Tov Seasons",
+      "ribbonColor": "green",
+      "mission": "Lived this Yom Tov like a chayol"
+    },
+    "newPage": {
+      "branch": "campaign",
+      "parent": "cYomTov"
+    },
+    "count": 8
+  },
+  "estys-entries": {
+    "label": "Esty's Entries",
+    "template": "article",
+    "group": "Articles",
+    "defaults": {
+      "ribbon": "Esty's Entries",
+      "ribbonColor": "orange",
+      "mission": "Lived this Yom Tov like a chayol"
+    },
+    "newPage": {
+      "branch": "campaign",
+      "parent": "cYomTov"
+    },
+    "count": 16
+  },
+  "senders-adventures": {
+    "label": "Sender's Adventures",
+    "template": "article",
+    "group": "Articles",
+    "defaults": {
+      "ribbon": "Sender's Adventures",
+      "ribbonColor": "gold",
+      "mission": "Lived this Yom Tov like a chayol"
+    },
+    "newPage": {
+      "branch": "campaign",
+      "parent": "cYomTov"
+    },
+    "count": 9
+  },
+  "a-tale-in-time": {
+    "label": "A Tale in Time",
+    "template": "article",
+    "group": "Articles",
+    "defaults": {
+      "ribbon": "A Tale in Time",
+      "ribbonColor": "purple",
+      "mission": "Lived this Yom Tov like a chayol"
+    },
+    "newPage": {
+      "branch": "campaign",
+      "parent": "cYomTov"
+    },
+    "count": 8
+  },
+  "rebbe-will-find-a-way": {
+    "label": "Rebbe Story (The Rebbe Will Find A Way)",
+    "template": "article",
+    "group": "Articles",
+    "defaults": {
+      "kick": "Hiskashrus · The Rebbe Will Find A Way",
+      "ribbon": "Rebbe Story",
+      "ribbonColor": "purple",
+      "mission": "Strengthened your connection to the Rebbe"
+    },
+    "newPage": {
+      "branch": "campaign",
+      "parent": "cHiskashrus"
+    },
+    "count": 118
+  },
+  "roots-stories-of-our-lives": {
+    "label": "Roots — Stories of our Lives",
+    "template": "article",
+    "group": "Articles",
+    "defaults": {
+      "kick": "Hiskashrus · Roots — Stories of our Lives",
+      "ribbon": "Roots",
+      "ribbonColor": "gold",
+      "mission": "Strengthened your connection to the Rebbe"
+    },
+    "newPage": {
+      "branch": "campaign",
+      "parent": "cHiskashrus"
+    },
+    "count": 96
+  },
+  "parsha-podcast-1": {
+    "label": "The Parsha Podcast 1",
+    "template": "article",
+    "group": "Articles",
+    "defaults": {
+      "kick": "Hiskashrus · The Parsha Podcast 1",
+      "ribbon": "Parsha Podcast",
+      "ribbonColor": "cyan",
+      "mission": "Strengthened your connection to the Rebbe"
+    },
+    "newPage": {
+      "branch": "campaign",
+      "parent": "cHiskashrus"
+    },
+    "count": 41
+  },
+  "parsha-podcast-2": {
+    "label": "The Parsha Podcast 2",
+    "template": "article",
+    "group": "Articles",
+    "defaults": {
+      "kick": "Hiskashrus · The Parsha Podcast 2",
+      "ribbon": "Parsha Podcast",
+      "ribbonColor": "teal",
+      "mission": "Strengthened your connection to the Rebbe"
+    },
+    "newPage": {
+      "branch": "campaign",
+      "parent": "cHiskashrus"
+    },
+    "count": 41
+  },
+  "home": {
+    "label": "Home page",
+    "template": "hub",
+    "group": "Section pages",
+    "count": 1
+  },
+  "parsha-week": {
+    "label": "Parsha week",
+    "template": "hub",
+    "group": "Section pages",
+    "count": 51,
+    "newPage": {
+      "branch": "date",
+      "parent": "dParsha"
+    },
+    "blocks": [
+      {
+        "type": "heading",
+        "eyebrow": "Parsha",
+        "title": "",
+        "heb": true
+      },
+      {
+        "type": "hachayolbar"
+      },
+      {
+        "type": "cards",
+        "items": []
+      }
+    ]
+  },
+  "month": {
+    "label": "Hebrew month",
+    "template": "hub",
+    "group": "Section pages",
+    "count": 13,
+    "newPage": {
+      "branch": "date",
+      "parent": "dMonth"
+    },
+    "blocks": [
+      {
+        "type": "heading",
+        "eyebrow": "Month",
+        "title": "",
+        "heb": true
+      },
+      {
+        "type": "html",
+        "html": ""
+      },
+      {
+        "type": "html",
+        "html": ""
+      },
+      {
+        "type": "html",
+        "html": ""
+      },
+      {
+        "type": "html",
+        "html": ""
+      },
+      {
+        "type": "html",
+        "html": ""
+      }
+    ]
+  },
+  "yd-date": {
+    "label": "Yoma Depagra date (Date branch)",
+    "template": "hub",
+    "group": "Section pages",
+    "count": 16,
+    "newPage": {
+      "branch": "date",
+      "parent": "dYD"
+    },
+    "blocks": [
+      {
+        "type": "heading",
+        "eyebrow": "Yoma Depagra",
+        "title": "",
+        "text": "The Rebbe’s wedding"
+      },
+      {
+        "type": "cards",
+        "items": []
+      }
+    ]
+  },
+  "yt-date": {
+    "label": "Yom Tov (Date branch)",
+    "template": "hub",
+    "group": "Section pages",
+    "count": 12,
+    "newPage": {
+      "branch": "date",
+      "parent": "dYT"
+    },
+    "blocks": [
+      {
+        "type": "heading",
+        "eyebrow": "Yom Tov",
+        "title": "",
+        "text": "1–2 Tishrei"
+      },
+      {
+        "type": "hachayolbar"
+      },
+      {
+        "type": "note"
+      },
+      {
+        "type": "cards",
+        "items": []
+      }
+    ]
+  },
+  "yd-campaign-date": {
+    "label": "Yoma Depagra date (Campaign)",
+    "template": "hub",
+    "group": "Section pages",
+    "count": 28,
+    "newPage": {
+      "branch": "campaign",
+      "parent": "cYomaDepagra"
+    },
+    "blocks": [
+      {
+        "type": "heading",
+        "eyebrow": "Campaign · Yoma Depagra",
+        "title": "",
+        "text": "Tomchei Temimim Established"
+      },
+      {
+        "type": "tabs",
+        "items": []
+      },
+      {
+        "type": "gallery"
+      }
+    ]
+  },
+  "series": {
+    "label": "Story series",
+    "template": "hub",
+    "group": "Section pages",
+    "count": 5,
+    "newPage": {
+      "branch": "campaign",
+      "parent": "cHiskashrus"
+    },
+    "blocks": [
+      {
+        "type": "heading",
+        "eyebrow": "Hiskashrus",
+        "title": "",
+        "text": "True stories of the Rebbe’s brachos, filed by what the Yid turned to the Rebbe for."
+      },
+      {
+        "type": "filters",
+        "mode": "hk",
+        "items": []
+      },
+      {
+        "type": "cards",
+        "items": []
+      }
+    ]
+  },
+  "hub": {
+    "label": "Section page (general)",
+    "template": "hub",
+    "group": "Section pages",
+    "count": 20,
+    "newPage": {
+      "branch": "rally",
+      "parent": "home"
+    },
+    "blocks": [
+      {
+        "type": "heading",
+        "eyebrow": "Browse",
+        "title": ""
+      },
+      {
+        "type": "dates",
+        "items": []
+      }
+    ]
+  }
+}

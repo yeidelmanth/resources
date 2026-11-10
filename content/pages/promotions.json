@@ -1,0 +1,21 @@
+{
+  "id": "promotions",
+  "branch": "promotions",
+  "parent": "home",
+  "crumbLabel": "Promotions",
+  "template": "hub",
+  "blocks": [
+    {
+      "type": "heading",
+      "eyebrow": "Browse",
+      "title": "Promotions",
+      "text": "Where soldiers move up. Every promotion among your soldiers this Hebrew month."
+    },
+    {
+      "type": "html",
+      "html": "<div class=\"pgrid wide\"><div><div class=\"sh\" id=\"promoMonth\">This month · אֱלוּל</div><table class=\"tbl\"><thead><tr><th data-sort=\"sort_name\" scope=\"col\">Soldier<span class=\"so\"></span></th><th data-sort=\"was_ord\" scope=\"col\">Was<span class=\"so\"></span></th><th data-sort=\"now_ord\" scope=\"col\">Now<span class=\"so\"></span></th><th data-sort=\"when_jd\" scope=\"col\">When<span class=\"so\"></span></th></tr></thead><tbody id=\"promoRows\"><tr><td colspan=\"4\">Loading this month’s promotions…</td></tr></tbody></table><p style=\"margin-top:14px;color:var(--muted)\">Nothing here is redesigned: mission points → medals by category → ranks, exactly as today. The commander’s point cards feed the same ladder.</p></div><div><div class=\"sh\">The ladder</div><div class=\"ladder\"><div class=\"r top\"><div class=\"i\">—</div><b>Commander-in-Chief — the Rebbe</b><span></span></div><div class=\"r cmd\"><div class=\"i\">—</div><b>General of the Armies — the Director</b><span class=\"pill\">conferred by</span></div><div class=\"r cmd\"><div class=\"i\">—</div><b>Marshal General</b><span class=\"pill\">commander</span></div><div class=\"r cmd\"><div class=\"i\">—</div><b>Grand Marshal</b><span class=\"pill\">commander</span></div><div class=\"r cmd\"><div class=\"i\">—</div><b>Field Marshal</b><span class=\"pill\">commander</span></div><div class=\"div\">The children’s ladder — 13 ranks</div><div class=\"r\"><div class=\"i\">13</div><b>4★ General</b><span></span></div><div class=\"r\"><div class=\"i\">12</div><b>3★ General</b><span></span></div><div class=\"r\"><div class=\"i\">11</div><b>2★ General</b><span></span></div><div class=\"r\"><div class=\"i\">10</div><b>1★ General</b><span></span></div><div class=\"r\"><div class=\"i\">9</div><b>General</b><span></span></div><div class=\"r\"><div class=\"i\">8</div><b>Colonel</b><span></span></div><div class=\"r\"><div class=\"i\">7</div><b>Major</b><span></span></div><div class=\"r\"><div class=\"i\">6</div><b>Captain</b><span></span></div><div class=\"r\"><div class=\"i\">5</div><b>First Lieutenant</b><span></span></div><div class=\"r\"><div class=\"i\">4</div><b>Second Lieutenant</b><span></span></div><div class=\"r\"><div class=\"i\">3</div><b>Sergeant Major</b><span></span></div><div class=\"r\"><div class=\"i\">2</div><b>Sergeant</b><span></span></div><div class=\"r\"><div class=\"i\">1</div><b>Private</b><span></span></div></div></div></div>"
+    }
+  ],
+  "title": "Promotions",
+  "type": "hub"
+}

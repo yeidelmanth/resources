@@ -1,0 +1,47 @@
+{
+  "id": "i668niggun",
+  "branch": "date",
+  "parent": "dpVayeira",
+  "crumbLabel": "Niggun of the Week",
+  "altParent": "cNiggunim",
+  "altBranch": "campaign",
+  "template": "article",
+  "title": "הושיעה",
+  "article": {
+    "titleHeb": true,
+    "hebbig": "הושיעה את עמך",
+    "chips": [
+      "Parshas Vayeira"
+    ],
+    "media": [
+      {
+        "href": "audio/56%20%D7%94%D7%95%D7%A9%D7%99%D7%A2%D7%94%20%D7%90%D7%AA%20%D7%A2%D7%9E%D7%9A%20%28Nichoach%29.mp3",
+        "label": "🎧 Words · Music — Nichoach"
+      },
+      {
+        "href": "audio/56%20%D7%94%D7%95%D7%A9%D7%99%D7%A2%D7%94%20%D7%90%D7%AA%20%D7%A2%D7%9E%D7%9A%20%28L%27Chaim%20Tish%29.mp3",
+        "label": "🎧 Words · Music — L'Chaim Tish"
+      },
+      {
+        "href": "audio/56%20%D7%94%D7%95%D7%A9%D7%99%D7%A2%D7%94%20%D7%90%D7%AA%20%D7%A2%D7%9E%D7%9A%20%28Rebbe%2C%20Chassidim%20Singing%20-%20JEM%29.mp3",
+        "label": "🎧 Words · No Music — Rebbe &amp; Chassidim Singing"
+      },
+      {
+        "href": "video/56%20%D7%94%D7%95%D7%A9%D7%99%D7%A2%D7%94%20%D7%90%D7%AA%20%D7%A2%D7%9E%D7%9A%20%28Chassidim%20Singing%20-%20JEM%29.mp4",
+        "label": "🎥 Words · No Music — Chassidim Singing"
+      },
+      {
+        "href": "video/56%20%D7%94%D7%95%D7%A9%D7%99%D7%A2%D7%94%20%D7%90%D7%AA%20%D7%A2%D7%9E%D7%9A%20%28Chassidim%20Singing%20-%20My%20Maor%29.mp4",
+        "label": "🎥 Words · No Music — Chassidim Singing My Maor"
+      }
+    ],
+    "pages": [
+      "i668niggun"
+    ],
+    "pdf": "pdfs/668.pdf",
+    "olderPdfs": "668",
+    "body": "<div class=\"nigfacts\" style=\"--fb:#F8E0A8;--fbr:#F8BD33;--ftx:#5B491E\"><div class=\"nigfact\" style=\"--fc:#5B491E\"><img class=\"fe fe-img\" alt=\"\" src=\"/resources/assets/img/a5b672aa1dfbe68b.png\"><span class=\"ft\">Made popular by Rabbi Avraham Twerski of Pittsburgh, PA.</span></div><div class=\"nigfact\" style=\"--fc:#5B491E\"><img class=\"fe fe-img\" alt=\"\" src=\"/resources/assets/img/75570d1082f1c751.png\"><span class=\"ft\">One Tishrei, when the Rebbe asked guests from Eretz Yisroel to sing a “song from their land,” Rabbi Lieder from Kfar Chabad sang this niggun. For many years afterward, it was often sung for the liberation of Russian Jews from Communism.</span></div><div class=\"nigfact\" style=\"--fc:#5B491E\"><img class=\"fe fe-img\" alt=\"\" src=\"/resources/assets/img/09171c7832fadd54.png\"><span class=\"ft\">At the children’s rally held on Beis Elul תשל״ז‎ (1977), the Rebbe requested that all the chayolim sing this niggun together!</span></div></div><h3>Forever Lifted</h3><p>It’s Chaya’s first year as a teacher.</p><p>She is teaching second grade, and she loves her students. But her job is not what she expected!</p><p>She knew she’d teach them Chumash, Rashi, Halacha—even Tanya. She wasn’t prepared to teach them about life!</p><p>But one boy told her that someone at home wasn’t well, and another asked how to help out a friend with kriah, and a third whispered to her during recess that he wished he could stop fighting with his older brother.</p><p>She had to help.</p><p>She starts to sing faster and faster. As a teacher, she’s also a shlucha of the Rebbe! She thinks about how Hashem guides the Yidden, and how Moshiach is so close.</p><p>Chaya is thankful that she has parents and mashpiim to guide her—and in dealing with her little boys, her brother Mendel too. But sometimes, there is so much to think about that she needs to find a quiet place to sing.</p><p>Even if things are challenging now, Hashem will take care of His nation and lift them up— always and forever!</p><p>\"Hoshiah es amecha...\" Chaya</p><p>begins slowly and softly.</p><p>Hashem does save His</p><p>people. He will help her help</p>",
+    "source": "Source: Parshas Vayeira · 19 Cheshvan 5787"
+  },
+  "type": "niggun-of-the-week"
+}

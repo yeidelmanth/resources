@@ -1,0 +1,48 @@
+{
+  "id": "yt08616bamidbarpdf",
+  "branch": "campaign",
+  "parent": "cYomTov",
+  "crumbLabel": "Fly With Me",
+  "template": "article",
+  "title": "Power of Anochi",
+  "article": {
+    "kick": "Yom Tov · Shavuos",
+    "chips": [
+      "Shavuos"
+    ],
+    "pages": [
+      "yt08616bamidbarpdf",
+      "yt08616bamidbarpdf_p2"
+    ],
+    "pdf": "yomtov/08%20616%20Bamidbar.pdf",
+    "sichos": [
+      {
+        "label": "Sicha 1",
+        "href": "sichos/DRRTK%20vol%203%20-%20p%20261-263.pdf"
+      },
+      {
+        "label": "Sicha 2",
+        "href": "sichos/DRRTK%20vol%203%20-%20p%20264-265.pdf"
+      },
+      {
+        "label": "Sicha 3",
+        "href": "sichos/DRRTK%20vol%203%20-%20p%20266-267.pdf"
+      },
+      {
+        "label": "Sicha 4",
+        "href": "sichos/TRSTC%20vol.%203%2C%20p.%20374-377.pdf"
+      },
+      {
+        "label": "Sicha 5",
+        "href": "sichos/TRSTC%20vol.%203%2C%20p.%20378-379.pdf"
+      },
+      {
+        "label": "Sicha 6",
+        "href": "sichos/TRSTC%20vol.%203%2C%20p.%20381-382.pdf"
+      }
+    ],
+    "body": "<p>The Yetzer Hara himself can give up the _________ !</p><p>For each and every action of a Yid should be done,</p><p>With the knowledge that “Anochi!” is always our ________ .</p>",
+    "source": "Source: Yom Tov Campaign · Sichos - Poems - Fly With Me"
+  },
+  "type": "fly-with-me"
+}

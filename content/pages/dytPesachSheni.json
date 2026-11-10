@@ -1,0 +1,70 @@
+{
+  "id": "dytPesachSheni",
+  "branch": "date",
+  "parent": "dYT",
+  "crumbLabel": "Pesach Sheni",
+  "template": "hub",
+  "blocks": [
+    {
+      "type": "heading",
+      "eyebrow": "Yom Tov",
+      "title": "Pesach Sheni",
+      "text": "14 Iyar"
+    },
+    {
+      "type": "cards",
+      "items": [
+        {
+          "variant": "empty",
+          "ribbon": "Minhagim",
+          "ribbonColor": "blue",
+          "kick": "Yom Tov",
+          "heading": "Minhagim",
+          "text": "The customs of the yom tov.",
+          "textStyle": "color:var(--muted);font-size:15px",
+          "pill": "Awaiting issue",
+          "go": "Empty",
+          "goStyle": "color:var(--muted)"
+        },
+        {
+          "variant": "empty",
+          "ribbon": "Pirkei Avos",
+          "ribbonColor": "blue",
+          "kick": "Yom Tov",
+          "heading": "Pirkei Avos",
+          "text": "Ethics of the Fathers — the learning track.",
+          "textStyle": "color:var(--muted);font-size:15px",
+          "pill": "Awaiting issue",
+          "go": "Empty",
+          "goStyle": "color:var(--muted)"
+        },
+        {
+          "variant": "empty",
+          "ribbon": "Niggunim of the Calendar",
+          "ribbonColor": "teal",
+          "kick": "Niggunim",
+          "heading": "Niggunim of the Calendar",
+          "text": "Melodies tied to the yom tov.",
+          "textStyle": "color:var(--muted);font-size:15px",
+          "pill": "Awaiting issue",
+          "go": "Empty",
+          "goStyle": "color:var(--muted)"
+        },
+        {
+          "variant": "empty",
+          "ribbon": "Yoma Depagra package",
+          "ribbonColor": "gold",
+          "kick": "Yom Tov",
+          "heading": "Yoma Depagra package",
+          "text": "Comics, stories, timeline and game where the date carries them.",
+          "textStyle": "color:var(--muted);font-size:15px",
+          "pill": "Awaiting issue",
+          "go": "Empty",
+          "goStyle": "color:var(--muted)"
+        }
+      ]
+    }
+  ],
+  "title": "Pesach Sheni",
+  "type": "yt-date"
+}

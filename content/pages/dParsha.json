@@ -1,0 +1,401 @@
+{
+  "id": "dParsha",
+  "branch": "date",
+  "parent": "date",
+  "crumbLabel": "Parsha",
+  "template": "hub",
+  "blocks": [
+    {
+      "type": "heading",
+      "eyebrow": "Date · lens 2",
+      "title": "Parsha",
+      "text": "All 54 parshiyos. The main filing lens — most of the weekly library sits here."
+    },
+    {
+      "type": "html",
+      "html": "<div class=\"chumnav\"><button class=\"chumjump\" data-cj=\"chum-Bereishis\">בְּרֵאשִׁית</button><button class=\"chumjump\" data-cj=\"chum-Shemos\">שְׁמוֹת</button><button class=\"chumjump\" data-cj=\"chum-Vayikra\">וַיִּקְרָא</button><button class=\"chumjump\" data-cj=\"chum-Bamidbar\">בְּמִדְבַּר</button><button class=\"chumjump\" data-cj=\"chum-Devarim\">דְּבָרִים</button></div>"
+    },
+    {
+      "type": "label",
+      "text": "בְּרֵאשִׁית",
+      "heb": true,
+      "attrs": {
+        "id": "chum-Bereishis"
+      }
+    },
+    {
+      "type": "links",
+      "rtl": true,
+      "items": [
+        {
+          "page": "dpBereishis",
+          "extraClass": "rtl",
+          "title": "בְּרֵאשִׁית",
+          "text": "6 features"
+        },
+        {
+          "page": "dpNoach",
+          "extraClass": "rtl",
+          "title": "נֹחַ",
+          "text": "6 features"
+        },
+        {
+          "page": "dpLechLecha",
+          "extraClass": "rtl",
+          "title": "לֶךְ לְךָ",
+          "text": "6 features"
+        },
+        {
+          "page": "dpVayeira",
+          "extraClass": "rtl",
+          "title": "וַיֵּרָא",
+          "text": "6 features"
+        },
+        {
+          "page": "dpChayeiSara",
+          "extraClass": "rtl",
+          "title": "חַיֵּי שָׂרָה",
+          "text": "7 features"
+        },
+        {
+          "page": "dpToldos",
+          "extraClass": "rtl",
+          "title": "תּוֹלְדוֹת",
+          "text": "7 features"
+        },
+        {
+          "page": "dpVayeitzei",
+          "extraClass": "rtl",
+          "title": "וַיֵּצֵא",
+          "text": "7 features"
+        },
+        {
+          "page": "dpVayishlach",
+          "extraClass": "rtl",
+          "title": "וַיִּשְׁלַח",
+          "text": "8 features"
+        },
+        {
+          "page": "dpVayeishev",
+          "extraClass": "rtl",
+          "title": "וַיֵּשֶׁב",
+          "text": "8 features"
+        },
+        {
+          "page": "dpMikeitz",
+          "extraClass": "rtl",
+          "title": "מִקֵּץ",
+          "text": "8 features"
+        },
+        {
+          "page": "dpVayigash",
+          "extraClass": "rtl",
+          "title": "וַיִּגַּשׁ",
+          "text": "8 features"
+        },
+        {
+          "page": "dpVayechi",
+          "extraClass": "rtl",
+          "title": "וַיְחִי",
+          "text": "8 features"
+        }
+      ]
+    },
+    {
+      "type": "label",
+      "text": "שְׁמוֹת",
+      "heb": true,
+      "spaced": true,
+      "attrs": {
+        "id": "chum-Shemos"
+      }
+    },
+    {
+      "type": "links",
+      "rtl": true,
+      "items": [
+        {
+          "page": "dpShemos",
+          "extraClass": "rtl",
+          "title": "שְׁמוֹת",
+          "text": "8 features"
+        },
+        {
+          "page": "dpVaeira",
+          "extraClass": "rtl",
+          "title": "וָאֵרָא",
+          "text": "6 features"
+        },
+        {
+          "page": "dpBo",
+          "extraClass": "rtl",
+          "title": "בֹּא",
+          "text": "8 features"
+        },
+        {
+          "page": "dpBeshalach",
+          "extraClass": "rtl",
+          "title": "בְּשַׁלַּח",
+          "text": "8 features"
+        },
+        {
+          "page": "dpYisro",
+          "extraClass": "rtl",
+          "title": "יִתְרוֹ",
+          "text": "8 features"
+        },
+        {
+          "page": "dpMishpatim",
+          "extraClass": "rtl",
+          "title": "מִשְׁפָּטִים",
+          "text": ""
+        },
+        {
+          "page": "dpTerumah",
+          "extraClass": "rtl",
+          "title": "תְּרוּמָה",
+          "text": ""
+        },
+        {
+          "page": "dpTetzaveh",
+          "extraClass": "rtl",
+          "title": "תְּצַוֶּה",
+          "text": ""
+        },
+        {
+          "page": "dpKiSisa",
+          "extraClass": "rtl",
+          "title": "כִּי תִשָּׂא",
+          "text": ""
+        },
+        {
+          "page": "dpVayakhel",
+          "extraClass": "rtl",
+          "title": "וַיַּקְהֵל",
+          "text": ""
+        },
+        {
+          "page": "dpPekudei",
+          "extraClass": "rtl",
+          "title": "פְקוּדֵי",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "label",
+      "text": "וַיִּקְרָא",
+      "heb": true,
+      "spaced": true,
+      "attrs": {
+        "id": "chum-Vayikra"
+      }
+    },
+    {
+      "type": "links",
+      "rtl": true,
+      "items": [
+        {
+          "page": "dpVayikra",
+          "extraClass": "rtl",
+          "title": "וַיִּקְרָא",
+          "text": ""
+        },
+        {
+          "page": "dpTzav",
+          "extraClass": "rtl",
+          "title": "צַו",
+          "text": ""
+        },
+        {
+          "page": "dpShemini",
+          "extraClass": "rtl",
+          "title": "שְׁמִינִי",
+          "text": ""
+        },
+        {
+          "page": "dpTazria",
+          "extraClass": "rtl",
+          "title": "תַזְרִיעַ",
+          "text": ""
+        },
+        {
+          "page": "dpMetzora",
+          "extraClass": "rtl",
+          "title": "מְצֹרָע",
+          "text": ""
+        },
+        {
+          "page": "dpAchareiMos",
+          "extraClass": "rtl",
+          "title": "אַחֲרֵי מוֹת",
+          "text": ""
+        },
+        {
+          "page": "dpKedoshim",
+          "extraClass": "rtl",
+          "title": "קְדוֹשִׁים",
+          "text": ""
+        },
+        {
+          "page": "dpEmor",
+          "extraClass": "rtl",
+          "title": "אֱמוֹר",
+          "text": ""
+        },
+        {
+          "page": "dpBehar",
+          "extraClass": "rtl",
+          "title": "בְּהַר",
+          "text": ""
+        },
+        {
+          "page": "dpBechukosai",
+          "extraClass": "rtl",
+          "title": "בְּחֻקֹּתַי",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "label",
+      "text": "בְּמִדְבַּר",
+      "heb": true,
+      "spaced": true,
+      "attrs": {
+        "id": "chum-Bamidbar"
+      }
+    },
+    {
+      "type": "links",
+      "rtl": true,
+      "items": [
+        {
+          "page": "dpBamidbar",
+          "extraClass": "rtl",
+          "title": "בְּמִדְבַּר",
+          "text": ""
+        },
+        {
+          "page": "dpNasso",
+          "extraClass": "rtl",
+          "title": "נָשֹׂא",
+          "text": ""
+        },
+        {
+          "page": "dpBehaaloscha",
+          "extraClass": "rtl",
+          "title": "בְּהַעֲלֹתְךָ",
+          "text": ""
+        },
+        {
+          "page": "dpShelach",
+          "extraClass": "rtl",
+          "title": "שְׁלַח",
+          "text": ""
+        },
+        {
+          "page": "dpKorach",
+          "extraClass": "rtl",
+          "title": "קֹרַח",
+          "text": ""
+        },
+        {
+          "page": "dpChukasBalak",
+          "extraClass": "rtl",
+          "title": "חֻקַּת־בָּלָק",
+          "text": ""
+        },
+        {
+          "page": "dpPinchas",
+          "extraClass": "rtl",
+          "title": "פִּינְחָס",
+          "text": ""
+        },
+        {
+          "page": "dpMatosMasei",
+          "extraClass": "rtl",
+          "title": "מַטּוֹת־מַסְעֵי",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "label",
+      "text": "דְּבָרִים",
+      "heb": true,
+      "spaced": true,
+      "attrs": {
+        "id": "chum-Devarim"
+      }
+    },
+    {
+      "type": "links",
+      "rtl": true,
+      "items": [
+        {
+          "page": "dpDevarim",
+          "extraClass": "rtl",
+          "title": "דְּבָרִים",
+          "text": ""
+        },
+        {
+          "page": "dpVaeschanan",
+          "extraClass": "rtl",
+          "title": "וָאֶתְחַנַּן",
+          "text": ""
+        },
+        {
+          "page": "dpEikev",
+          "extraClass": "rtl",
+          "title": "עֵקֶב",
+          "text": ""
+        },
+        {
+          "page": "dpReeh",
+          "extraClass": "rtl",
+          "title": "רְאֵה",
+          "text": ""
+        },
+        {
+          "page": "dpShoftim",
+          "extraClass": "rtl",
+          "title": "שׁוֹפְטִים",
+          "text": ""
+        },
+        {
+          "page": "dpKiSeitzei",
+          "extraClass": "rtl",
+          "title": "כִּי תֵצֵא",
+          "text": ""
+        },
+        {
+          "page": "dpKiSavo",
+          "extraClass": "rtl",
+          "title": "כִּי תָבוֹא",
+          "text": ""
+        },
+        {
+          "page": "dpNitzavimVayeilech",
+          "extraClass": "rtl",
+          "title": "נִצָּבִים־וַיֵּלֶךְ",
+          "text": "8 features"
+        },
+        {
+          "page": "dpHaazinu",
+          "extraClass": "rtl",
+          "title": "הַאֲזִינוּ",
+          "text": "8 features"
+        },
+        {
+          "page": "dpVZosHaBracha",
+          "extraClass": "rtl",
+          "title": "וְזֹאת הַבְּרָכָה",
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "title": "Parsha",
+  "type": "hub"
+}

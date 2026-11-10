@@ -1,0 +1,40 @@
+{
+  "id": "yt12610pesachpdf",
+  "branch": "campaign",
+  "parent": "cYomTov",
+  "crumbLabel": "Fly With Me",
+  "template": "article",
+  "title": "Counting On Us",
+  "article": {
+    "kick": "Yom Tov · Sefiras Haomer",
+    "chips": [
+      "Sefiras Haomer"
+    ],
+    "pages": [
+      "yt12610pesachpdf",
+      "yt12610pesachpdf_p2"
+    ],
+    "pdf": "yomtov/12%20610%20Pesach.pdf",
+    "sichos": [
+      {
+        "label": "Sicha 1",
+        "href": "sichos/DRRTK%20vol%203%20-%20p%2097-99.pdf"
+      },
+      {
+        "label": "Sicha 2",
+        "href": "sichos/DRRTK%20vol%203%20-%20p%20115-116.pdf"
+      },
+      {
+        "label": "Sicha 3",
+        "href": "sichos/TRSTC%20vol.%203%2C%20p.%20166-169.pdf"
+      },
+      {
+        "label": "Sicha 4",
+        "href": "sichos/TRSTC%20vol.%203%2C%20p.%20190-192.pdf"
+      }
+    ],
+    "body": "<p>What happened in Mitzrayim and Har Sinai we recall.</p><p>A strong connection to children these events all share.</p><p>And looking back, we’ll see how it’s a lesson for us ___________ .</p><p>The children in Mitzrayim kept their bitachon strong,</p><p>Despite the harsh decrees that were targeted at them.</p><p>They learned and kept the mitzvos; they knew it wouldn’t be long!</p><p>And they were first, by Kri’as Yam Suf, to point and see ___________ .</p><p>“ּבָנֵינּו עֲרֵבִים ּבַעֲדֵנּו!” the Yidden said,</p><p>Today, towards our own Geulah we look straight ahead,</p><p>When counting Sefiras Haomer, we say “Day one, day two,”—</p><p>Holding on to what was done, and adding more and more.</p><p>Building on the levels that we’ve already reached ___________ . 4</p>",
+    "source": "Source: Yom Tov Campaign · Sichos - Poems - Fly With Me"
+  },
+  "type": "fly-with-me"
+}

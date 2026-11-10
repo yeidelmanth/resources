@@ -1,0 +1,54 @@
+{
+  "id": "cyd_1kislev",
+  "branch": "campaign",
+  "parent": "cYomaDepagra",
+  "crumbLabel": "1 Kislev 5738",
+  "template": "hub",
+  "blocks": [
+    {
+      "type": "heading",
+      "eyebrow": "Campaign · Yoma Depagra",
+      "title": "1 Kislev 5738",
+      "text": "The Rebbe Returns Home"
+    },
+    {
+      "type": "tabs",
+      "items": [
+        {
+          "panel": "cyd_1kislev-comic",
+          "label": "Comic Story · Chassidishe Frames",
+          "on": true
+        },
+        {
+          "panel": "cyd_1kislev-timeline",
+          "label": "Timeline · Building Blocks"
+        }
+      ]
+    },
+    {
+      "type": "gallery",
+      "panel": "cyd_1kislev-comic",
+      "images": [
+        {
+          "img": "ydc1kislev",
+          "alt": "Half Hakafos"
+        }
+      ],
+      "pdf": "yomadepagra/comic/08-669-Chayei-Sara.pdf"
+    },
+    {
+      "type": "gallery",
+      "panel": "cyd_1kislev-timeline",
+      "hidden": true,
+      "images": [
+        {
+          "img": "ydt1kislev",
+          "alt": "The Rebbe Returns Home"
+        }
+      ],
+      "pdf": "yomadepagra/timeline/08-629-Chayei-Sara.pdf"
+    }
+  ],
+  "title": "1 Kislev 5738",
+  "type": "yd-campaign-date"
+}

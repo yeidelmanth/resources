@@ -1,0 +1,44 @@
+{
+  "id": "i679orders",
+  "branch": "date",
+  "parent": "dpBo",
+  "crumbLabel": "Orders from Our General",
+  "altParent": "cHiskashrus",
+  "altBranch": "campaign",
+  "template": "article",
+  "title": "Why Are Children So Important For Geulah?",
+  "article": {
+    "chips": [
+      "Parshas Bo"
+    ],
+    "pages": [
+      "i679orders",
+      "i679orders_p2"
+    ],
+    "pdf": "pdfs/679.pdf",
+    "body": "<p class=\"lead\">It’s Yud-Daled Nissan in Mitzrayim, and the Yidden are doing what Hashem has asked:</p><p>preparing a lamb for the Karban Pesach. Its blood is painted on the doorposts, and its meat is roasted for a festive meal. Hashem promised that in the z’chus of this mitzvah, He will “jump over” their houses, so that no first- borns will die during the final makka. Hashem will also “jump over” all difficulties that stand in the way of freedom; the Karban Pesach will help bring the Geulah immediately.</p><p>This karban also came with one important detail: Eating the Karban Pesach was not just for adults. The children, too, must take part.</p><p>But usually mitzvos are commanded to adults above bar and bas mitzvah. So why did the children get an equal share in the mitzvah of Karban Pesach?</p><p>The children of Mitzrayim were the first to recognize Hashem during Krias Yam Suf. Born and raised in Golus, these children kept Hashem’s mitzvos and learned Torah in a better and stronger way than the adults.</p><p>That’s why the children were included in the mitzvah of Karban Pesach: it was their preparation for Geulah, too!</p><p>A lamb for each household.</p><p><span class=\"mc\">We chayolim also have a very special role in bringing the Geulah Shleima. Just like the children in Mitzrayim took the lead in doing everything Hashem had told them, so too, it is us children who follow Hashem’s commands with even more chayus and boldness than the adults. We soldiers of Tzivos Hashem will bring Moshiach!</span></p><p>Why did children take part in the Karban Pesach?</p><p>So they could help the adults finish the mitzvah.</p><p>Because children have a special power to bring Geulah.</p><p>What midda (or middos) do children have that help them keep Torah and mitzvos better than adults?</p><p>What are some ways we can prepare for the Geulah in our times?</p><p>How can your excitement for mitzvos help influence the rest of your family?</p><p>Can you use your special power as a chayol to jump over any obstacles that stand in the way of Moshiach? Here’s how to play:</p><p>• Place two belts (socks also work) a few feet apart.</p><p>• Players form a line starting at the first belt.</p><p>• Run and jump over the second belt, taking turns.</p><p><span class=\"mc\">• In each round, however many steps the first person takes in between the belts is the amount of steps everyone else can take.</span></p><p>• Before you jump, say an obstacle that you want to overcome. For example: “forgetting to prepare negel vasser.”</p><p>• The last person in line stops where their jump lands. Move the belt there. Now the game gets harder.</p><p>• Keep playing, with the game getting harder and harder, until there is one winner—the person who jumped over all the obstacles!</p><p>At Kriyas Yam Suf, kids were the ones who spotted Hashem first.</p><p>Play with an adult and see who can find the word</p><p>“Hashem” before the other. There’s</p><p>to circle the word Hashem, and not to strike</p>",
+    "related": {
+      "heading": "More from the General",
+      "items": [
+        {
+          "icon": "📖",
+          "title": "The Rebbe Speaks to Children",
+          "sub": "The sicha, adapted for children · PDF"
+        },
+        {
+          "icon": "🎧",
+          "title": "Audio recording",
+          "sub": "Listen to the sicha"
+        },
+        {
+          "icon": "🎥",
+          "title": "Video recording",
+          "sub": "Watch the sicha"
+        }
+      ],
+      "note": "Links go live when the files are hosted."
+    },
+    "source": "Source: Parshas Bo · 7 Shvat 5787"
+  },
+  "type": "orders-from-our-general"
+}

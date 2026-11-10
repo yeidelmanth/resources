@@ -1,0 +1,47 @@
+{
+  "id": "cHiskashrus",
+  "branch": "campaign",
+  "parent": "campaign",
+  "crumbLabel": "Hiskashrus",
+  "template": "hub",
+  "blocks": [
+    {
+      "type": "heading",
+      "eyebrow": "Campaign",
+      "title": "Hiskashrus",
+      "text": "Connection to the Rebbe — the richest branch. Pick a series to open it."
+    },
+    {
+      "type": "links",
+      "items": [
+        {
+          "page": "hkT0",
+          "title": "The Rebbe Will Find A Way",
+          "text": "True stories of the Rebbe’s brachos, filed by what the Yid turned to the Rebbe for."
+        },
+        {
+          "page": "hkT1",
+          "title": "Roots — Stories of our Lives",
+          "text": "Our history, one chapter a week."
+        },
+        {
+          "page": "hkT2",
+          "title": "The Parsha Podcast 1",
+          "text": "The first Parsha Podcast cycle — a sicha for every parsha."
+        },
+        {
+          "page": "hkT3",
+          "title": "The Parsha Podcast 2",
+          "text": "The second Parsha Podcast cycle — a sicha for every parsha."
+        },
+        {
+          "page": "hkT4",
+          "title": "Orders from our General",
+          "text": "The Rebbe’s orders to his chayolim, week by week."
+        }
+      ]
+    }
+  ],
+  "title": "Hiskashrus",
+  "type": "hub"
+}

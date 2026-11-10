@@ -1,0 +1,21 @@
+{
+  "id": "i480niggun",
+  "branch": "campaign",
+  "parent": "cNiggunim",
+  "crumbLabel": "Niggun of the Week",
+  "template": "article",
+  "title": "וַיְהִי בִּימֵי אֲחַשְׁוֵרוֹשׁ",
+  "article": {
+    "titleHeb": true,
+    "subtitle": "Vayehi Bimei Achashverosh",
+    "chips": [],
+    "pages": [
+      "i480niggun"
+    ],
+    "pdf": "niggunim/03-480-Pekudei.pdf",
+    "body": "<p>A niggun featured in the “Niggun of the Week”. Open the printable page below for the full story, words and meaning.</p>",
+    "mission": "Learn this niggun",
+    "source": "Source: "
+  },
+  "type": "niggun-of-the-week"
+}

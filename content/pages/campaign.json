@@ -1,0 +1,77 @@
+{
+  "id": "campaign",
+  "branch": "campaign",
+  "parent": "home",
+  "crumbLabel": "Campaign",
+  "template": "hub",
+  "blocks": [
+    {
+      "type": "heading",
+      "eyebrow": "Browse",
+      "title": "Campaign"
+    },
+    {
+      "type": "branches",
+      "items": [
+        {
+          "page": "cHiskashrus",
+          "color": "purple",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "title": "Hiskashrus",
+          "text": "Connection to the Rebbe. The richest branch."
+        },
+        {
+          "page": "cBiurTefillah",
+          "color": "blue",
+          "icon": "/resources/assets/img/77adee974ab16829.png",
+          "title": "Biur Tefillah",
+          "text": "The tefillah curriculum — a book for every grade, Pre-1A through 7."
+        },
+        {
+          "page": "cYomaDepagra",
+          "color": "gold",
+          "icon": "/resources/assets/img/7b5f36a5d9119965.png",
+          "title": "Yoma Depagra",
+          "text": "Celebrating special dates on the Chassidishe Calendar."
+        },
+        {
+          "page": "cMivtzoim",
+          "color": "red",
+          "icon": "/resources/assets/img/f56bf2c628dcc0ad.png",
+          "title": "Mivtzoim",
+          "text": "Going out to do mitzvos on others — tefillin, candles, mezuzah."
+        },
+        {
+          "page": "cNiggunim",
+          "color": "teal",
+          "icon": "/resources/assets/img/aaa22b79c109253d.png",
+          "title": "Niggunim",
+          "text": "The melody library — six collections."
+        },
+        {
+          "page": "cVeholachta",
+          "color": "green",
+          "icon": "/resources/assets/img/03f3974e50e8e5fd.png",
+          "title": "VeHolachta Bidrochov",
+          "text": "Learning From our Avos and Imahos."
+        },
+        {
+          "page": "cCheshbon",
+          "color": "navy",
+          "icon": "/resources/assets/img/fee4ab53e04d5091.png",
+          "title": "Cheshbon Hanefesh",
+          "text": "Spiritual self-accounting."
+        },
+        {
+          "page": "cYomTov",
+          "color": "cyan",
+          "icon": "/resources/assets/img/7b5f36a5d9119965.png",
+          "title": "Yom Tov",
+          "text": "Holidays as a learning track."
+        }
+      ]
+    }
+  ],
+  "title": "Campaign",
+  "type": "hub"
+}

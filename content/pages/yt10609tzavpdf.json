@@ -1,0 +1,56 @@
+{
+  "id": "yt10609tzavpdf",
+  "branch": "campaign",
+  "parent": "cYomTov",
+  "crumbLabel": "Fly With Me",
+  "template": "article",
+  "title": "Ma Nishtana",
+  "article": {
+    "kick": "Yom Tov · Pesach",
+    "chips": [
+      "Pesach"
+    ],
+    "pages": [
+      "yt10609tzavpdf",
+      "yt10609tzavpdf_p2"
+    ],
+    "pdf": "yomtov/10%20609%20Tzav.pdf",
+    "sichos": [
+      {
+        "label": "Sicha 1",
+        "href": "sichos/DRRTK%20vol%203%20-%20p%2019-20.pdf"
+      },
+      {
+        "label": "Sicha 2",
+        "href": "sichos/DRRTK%20vol%203%20-%20p%2046-47.pdf"
+      },
+      {
+        "label": "Sicha 3",
+        "href": "sichos/DRRTK%20vol%203%20-%20p%2048-49.pdf"
+      },
+      {
+        "label": "Sicha 4",
+        "href": "sichos/DRRTK%20vol%203%20-%20p%2050-52.pdf"
+      },
+      {
+        "label": "Sicha 5",
+        "href": "sichos/TRSTC%20vol.%203%2C%20p.%2067-68.pdf"
+      },
+      {
+        "label": "Sicha 6",
+        "href": "sichos/TRSTC%20vol.%203%2C%20p.%2098-99.pdf"
+      },
+      {
+        "label": "Sicha 7",
+        "href": "sichos/TRSTC%20vol.%203%2C%20p.%20101-102.pdf"
+      },
+      {
+        "label": "Sicha 8",
+        "href": "sichos/TRSTC%20vol.%203%2C%20p.%20104-107.pdf"
+      }
+    ],
+    "body": "<p>As our parents answer our questions—all ________.</p><p>Not only on Pesach, but all through the ____________.</p><p>Why’s tonight different? Why’s a Yid different too?</p><p>These important questions are at the seder’s heart.</p>",
+    "source": "Source: Yom Tov Campaign · Sichos - Poems - Fly With Me"
+  },
+  "type": "fly-with-me"
+}

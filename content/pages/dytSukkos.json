@@ -1,0 +1,131 @@
+{
+  "id": "dytSukkos",
+  "branch": "date",
+  "parent": "dYT",
+  "crumbLabel": "Sukkos",
+  "template": "hub",
+  "blocks": [
+    {
+      "type": "heading",
+      "eyebrow": "Yom Tov",
+      "title": "Sukkos",
+      "text": "15–21 Tishrei"
+    },
+    {
+      "type": "hachayolbar",
+      "href": "pdfs/663.pdf",
+      "info": "Hachayol #663 · Sukkos · 14 Tishrei 5787",
+      "action": "Printable PDF ↗"
+    },
+    {
+      "type": "note",
+      "html": "<b>Issue loaded</b>This yom tov’s Hachayol issue is filed here. Text is machine-read from the scanned magazine — proofread against the PDF before print."
+    },
+    {
+      "type": "cards",
+      "items": [
+        {
+          "page": "i663orders",
+          "color": "purple",
+          "img": "i663orders",
+          "imgZoom": true,
+          "kick": "Hiskashrus · Sichos",
+          "ribbon": "Orders from Our General",
+          "ribbonColor": "red",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Share a sicha of the Rebbe"
+        },
+        {
+          "page": "i663rebbe",
+          "color": "purple",
+          "img": "i663rebbe",
+          "imgZoom": true,
+          "kick": "Hiskashrus · Rebbe Story",
+          "ribbon": "Rebbe Story",
+          "ribbonColor": "orange",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Share a story of the Rebbe at your Shabbos table"
+        },
+        {
+          "page": "i663niggun",
+          "color": "teal",
+          "img": "i663niggun",
+          "imgZoom": true,
+          "kick": "Niggunim",
+          "ribbon": "Niggun of the Week",
+          "ribbonColor": "teal",
+          "icon": "/resources/assets/img/aaa22b79c109253d.png",
+          "mission": "Share this week's niggun at your Shabbos table"
+        },
+        {
+          "page": "i663squad",
+          "color": "green",
+          "img": "i663squad",
+          "imgZoom": true,
+          "kick": "Campaign · VeHolachta Bidrochov",
+          "ribbon": "Squad Drills",
+          "ribbonColor": "gold",
+          "icon": "/resources/assets/img/03f3974e50e8e5fd.png",
+          "mission": "Worked on this week's middah with your squad"
+        },
+        {
+          "page": "i663mivtzoim",
+          "color": "red",
+          "img": "i663mivtzoim",
+          "imgZoom": true,
+          "kick": "Campaign · Mivtzoim",
+          "ribbon": "Mivtzoim Mania",
+          "ribbonColor": "blue",
+          "icon": "/resources/assets/img/f56bf2c628dcc0ad.png",
+          "mission": "Went out on mivtzoim and reported back"
+        },
+        {
+          "extraClass": "tp-lb",
+          "attrs": {
+            "data-lb": "i663sect04_p1,i663sect04_p2"
+          },
+          "color": "cyan",
+          "img": "i663sect04_p1",
+          "imgZoom": false,
+          "kick": "Yom Tov - Sicha",
+          "ribbon": "Yom Tov Living",
+          "ribbonColor": "cyan",
+          "icon": "/resources/assets/img/7b5f36a5d9119965.png",
+          "missionLabel": "In this issue",
+          "mission": "Holy Guests · pp. 8-9"
+        },
+        {
+          "extraClass": "tp-lb",
+          "attrs": {
+            "data-lb": "i663sect05_p1,i663sect05_p2"
+          },
+          "color": "cyan",
+          "img": "i663sect05_p1",
+          "imgZoom": false,
+          "kick": "Yom Tov - Story",
+          "ribbon": "A Tale in Time",
+          "ribbonColor": "cyan",
+          "icon": "/resources/assets/img/7b5f36a5d9119965.png",
+          "missionLabel": "In this issue",
+          "mission": "A  Mitzvah's Reward · pp. 10-11"
+        },
+        {
+          "extraClass": "tp-lb",
+          "attrs": {
+            "data-lb": "i663sect07_p1"
+          },
+          "color": "gold",
+          "img": "i663sect07_p1",
+          "imgZoom": false,
+          "kick": "Motivation",
+          "ribbon": "Auction Ad",
+          "ribbonColor": "gold",
+          "missionLabel": "In this issue",
+          "mission": "Annual Auction · pp. 16"
+        }
+      ]
+    }
+  ],
+  "title": "Sukkos",
+  "type": "yt-date"
+}

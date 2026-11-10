@@ -1,0 +1,128 @@
+{
+  "id": "dpHaazinu",
+  "branch": "date",
+  "parent": "dParsha",
+  "crumbLabel": "הַאֲזִינוּ",
+  "template": "hub",
+  "blocks": [
+    {
+      "type": "heading",
+      "eyebrow": "Parsha",
+      "title": "הַאֲזִינוּ",
+      "heb": true
+    },
+    {
+      "type": "hachayolbar",
+      "href": "pdfs/662.pdf",
+      "info": "Hachayol #662 · Parshas Haazinu · 7 Tishrei 5787",
+      "action": "Printable PDF ↗"
+    },
+    {
+      "type": "cards",
+      "items": [
+        {
+          "page": "i662orders",
+          "color": "purple",
+          "img": "i662orders",
+          "imgZoom": true,
+          "kick": "Hiskashrus · Sichos",
+          "ribbon": "Orders from Our General",
+          "ribbonColor": "red",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Share a sicha of the Rebbe"
+        },
+        {
+          "page": "i662rebbe",
+          "color": "purple",
+          "img": "i662rebbe",
+          "imgZoom": true,
+          "kick": "Hiskashrus · Rebbe Story",
+          "ribbon": "Rebbe Story",
+          "ribbonColor": "orange",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Share a story of the Rebbe at your Shabbos table"
+        },
+        {
+          "page": "i662niggun",
+          "color": "teal",
+          "img": "i662niggun",
+          "imgZoom": true,
+          "kick": "Niggunim",
+          "ribbon": "Niggun of the Week",
+          "ribbonColor": "teal",
+          "icon": "/resources/assets/img/aaa22b79c109253d.png",
+          "mission": "Share this week's niggun at your Shabbos table"
+        },
+        {
+          "page": "i662frames",
+          "color": "gold",
+          "img": "i662frames",
+          "imgZoom": true,
+          "kick": "Yoma Depagra · Comics",
+          "ribbon": "Chassidishe Frames",
+          "ribbonColor": "cyan",
+          "icon": "/resources/assets/img/7b5f36a5d9119965.png",
+          "mission": "Read this week's Chassidishe Frames"
+        },
+        {
+          "page": "i662squad",
+          "color": "green",
+          "img": "i662squad",
+          "imgZoom": true,
+          "kick": "Campaign · VeHolachta Bidrochov",
+          "ribbon": "Squad Drills",
+          "ribbonColor": "gold",
+          "icon": "/resources/assets/img/03f3974e50e8e5fd.png",
+          "mission": "Worked on this week's middah with your squad"
+        },
+        {
+          "extraClass": "tp-lb",
+          "attrs": {
+            "data-lb": "i662sect05_p1,i662sect05_p2"
+          },
+          "color": "cyan",
+          "img": "i662sect05_p1",
+          "imgZoom": false,
+          "kick": "Yom Tov - Sicha",
+          "ribbon": "Yom Tov Living",
+          "ribbonColor": "cyan",
+          "icon": "/resources/assets/img/7b5f36a5d9119965.png",
+          "missionLabel": "In this issue",
+          "mission": "This is the Time · pp. 8-9"
+        },
+        {
+          "extraClass": "tp-lb",
+          "attrs": {
+            "data-lb": "i662sect06_p1,i662sect06_p2"
+          },
+          "color": "cyan",
+          "img": "i662sect06_p1",
+          "imgZoom": false,
+          "kick": "Yom Tov - Story",
+          "ribbon": "A Tale in Time",
+          "ribbonColor": "cyan",
+          "icon": "/resources/assets/img/7b5f36a5d9119965.png",
+          "missionLabel": "In this issue",
+          "mission": "The Most Special Kapparos · pp. 10-11"
+        },
+        {
+          "extraClass": "tp-lb",
+          "attrs": {
+            "data-lb": "i662sect07_p1"
+          },
+          "color": "navy",
+          "img": "i662sect07_p1",
+          "imgZoom": false,
+          "kick": "Sefer Hamitzvos",
+          "ribbon": "Chidon",
+          "ribbonColor": "navy",
+          "icon": "/resources/assets/img/643b909aafb826b2.png",
+          "missionLabel": "In this issue",
+          "mission": "Chidon Enrollment · pp. 16"
+        }
+      ]
+    }
+  ],
+  "title": "הַאֲזִינוּ",
+  "type": "parsha-week"
+}

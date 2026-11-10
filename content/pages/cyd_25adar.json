@@ -1,0 +1,38 @@
+{
+  "id": "cyd_25adar",
+  "branch": "campaign",
+  "parent": "cYomaDepagra",
+  "crumbLabel": "25 Adar 5661",
+  "template": "hub",
+  "blocks": [
+    {
+      "type": "heading",
+      "eyebrow": "Campaign · Yoma Depagra",
+      "title": "25 Adar 5661",
+      "text": "Birthday of Rebbetzin Chaya Mushka"
+    },
+    {
+      "type": "tabs",
+      "items": [
+        {
+          "panel": "cyd_25adar-timeline",
+          "label": "Timeline · Building Blocks",
+          "on": true
+        }
+      ]
+    },
+    {
+      "type": "gallery",
+      "panel": "cyd_25adar-timeline",
+      "images": [
+        {
+          "img": "ydt25adar",
+          "alt": "Birthday of Rebbetzin Chaya Mushka"
+        }
+      ],
+      "pdf": "yomadepagra/timeline/08-646-Vayakhel.pdf"
+    }
+  ],
+  "title": "25 Adar 5661",
+  "type": "yd-campaign-date"
+}

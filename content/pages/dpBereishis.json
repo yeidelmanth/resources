@@ -1,0 +1,94 @@
+{
+  "id": "dpBereishis",
+  "branch": "date",
+  "parent": "dParsha",
+  "crumbLabel": "בְּרֵאשִׁית",
+  "template": "hub",
+  "blocks": [
+    {
+      "type": "heading",
+      "eyebrow": "Parsha",
+      "title": "בְּרֵאשִׁית",
+      "heb": true
+    },
+    {
+      "type": "hachayolbar",
+      "href": "pdfs/665.pdf",
+      "info": "Hachayol #665 · Parshas Bereishis · 28 Tishrei 5787",
+      "action": "Printable PDF ↗"
+    },
+    {
+      "type": "cards",
+      "items": [
+        {
+          "page": "i665orders",
+          "color": "purple",
+          "img": "i665orders",
+          "imgZoom": true,
+          "kick": "Hiskashrus · Sichos",
+          "ribbon": "Orders from Our General",
+          "ribbonColor": "red",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Share a sicha of the Rebbe"
+        },
+        {
+          "page": "i665rebbe",
+          "color": "purple",
+          "img": "i665rebbe",
+          "imgZoom": true,
+          "kick": "Hiskashrus · Rebbe Story",
+          "ribbon": "Rebbe Story",
+          "ribbonColor": "orange",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Share a story of the Rebbe at your Shabbos table"
+        },
+        {
+          "page": "i665roots",
+          "color": "purple",
+          "img": "i665roots",
+          "imgZoom": true,
+          "kick": "Hiskashrus · Roots",
+          "ribbon": "Roots",
+          "ribbonColor": "green",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Share a story of our roots"
+        },
+        {
+          "page": "i665niggun",
+          "color": "teal",
+          "img": "i665niggun",
+          "imgZoom": true,
+          "kick": "Niggunim",
+          "ribbon": "Niggun of the Week",
+          "ribbonColor": "teal",
+          "icon": "/resources/assets/img/aaa22b79c109253d.png",
+          "mission": "Share this week's niggun at your Shabbos table"
+        },
+        {
+          "page": "i665squad",
+          "color": "green",
+          "img": "i665squad",
+          "imgZoom": true,
+          "kick": "Campaign · VeHolachta Bidrochov",
+          "ribbon": "Squad Drills",
+          "ribbonColor": "gold",
+          "icon": "/resources/assets/img/03f3974e50e8e5fd.png",
+          "mission": "Worked on this week's middah with your squad"
+        },
+        {
+          "extraClass": "sect-wait",
+          "color": "gold",
+          "kick": "Motivation",
+          "ribbon": "Auction Ad",
+          "ribbonColor": "gold",
+          "missionLabel": "In this issue",
+          "mission": "Annual Auction · pp. 16",
+          "go": "Pages coming soon",
+          "goStyle": "color:var(--muted)"
+        }
+      ]
+    }
+  ],
+  "title": "בְּרֵאשִׁית",
+  "type": "parsha-week"
+}

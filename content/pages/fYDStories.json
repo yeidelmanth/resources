@@ -1,0 +1,19 @@
+{
+  "id": "fYDStories",
+  "branch": "campaign",
+  "parent": "cYomaDepagra",
+  "crumbLabel": "YD Stories",
+  "template": "article",
+  "title": "Stories of the date",
+  "article": {
+    "kick": "Campaign · Yoma Depagra · Didan Notzach",
+    "chips": [
+      "Yoma Depagra · Didan Notzach"
+    ],
+    "body": "<p>Short stories tied to Didan Notzach — chassidim who were there, what the farbrengen was like, what the Rebbe said afterwards. Sits beside the comic so a commander can pick the length he has time for.</p>",
+    "mission": "Tell one of them at the rally",
+    "source": "Source: Sample content — layout only, no source issue held yet",
+    "sample": true
+  },
+  "type": "yd-stories"
+}

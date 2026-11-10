@@ -1,0 +1,127 @@
+{
+  "id": "dpBeshalach",
+  "branch": "date",
+  "parent": "dParsha",
+  "crumbLabel": "בְּשַׁלַּח",
+  "template": "hub",
+  "blocks": [
+    {
+      "type": "heading",
+      "eyebrow": "Parsha",
+      "title": "בְּשַׁלַּח",
+      "heb": true
+    },
+    {
+      "type": "hachayolbar",
+      "href": "pdfs/680.pdf",
+      "info": "Hachayol #680 · Parshas Beshalach · 14 Shvat 5787",
+      "action": "Printable PDF ↗"
+    },
+    {
+      "type": "cards",
+      "items": [
+        {
+          "page": "i680orders",
+          "color": "purple",
+          "img": "i680orders",
+          "imgZoom": true,
+          "kick": "Hiskashrus · Sichos",
+          "ribbon": "Orders from Our General",
+          "ribbonColor": "red",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Share a sicha of the Rebbe"
+        },
+        {
+          "page": "i680rebbe",
+          "color": "purple",
+          "img": "i680rebbe",
+          "imgZoom": true,
+          "kick": "Hiskashrus · Rebbe Story",
+          "ribbon": "Rebbe Story",
+          "ribbonColor": "orange",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Share a story of the Rebbe at your Shabbos table"
+        },
+        {
+          "page": "i680roots",
+          "color": "purple",
+          "img": "i680roots",
+          "imgZoom": true,
+          "kick": "Hiskashrus · Roots",
+          "ribbon": "Roots",
+          "ribbonColor": "green",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Share a story of our roots"
+        },
+        {
+          "page": "i680niggun",
+          "color": "teal",
+          "img": "i680niggun",
+          "imgZoom": true,
+          "kick": "Niggunim",
+          "ribbon": "Niggun of the Week",
+          "ribbonColor": "teal",
+          "icon": "/resources/assets/img/aaa22b79c109253d.png",
+          "mission": "Share this week's niggun at your Shabbos table"
+        },
+        {
+          "page": "i680squad",
+          "color": "green",
+          "img": "i680squad",
+          "imgZoom": true,
+          "kick": "Campaign · VeHolachta Bidrochov",
+          "ribbon": "Squad Drills",
+          "ribbonColor": "gold",
+          "icon": "/resources/assets/img/03f3974e50e8e5fd.png",
+          "mission": "Worked on this week's middah with your squad"
+        },
+        {
+          "extraClass": "tp-lb",
+          "attrs": {
+            "data-lb": "i680sect05_p1,i680sect05_p2"
+          },
+          "color": "cyan",
+          "img": "i680sect05_p1",
+          "imgZoom": false,
+          "kick": "Yom Tov - Sicha",
+          "ribbon": "Yom Tov Living",
+          "ribbonColor": "cyan",
+          "icon": "/resources/assets/img/7b5f36a5d9119965.png",
+          "missionLabel": "In this issue",
+          "mission": "Fruitful Living · pp. 8-9"
+        },
+        {
+          "extraClass": "tp-lb",
+          "attrs": {
+            "data-lb": "i680sect06_p1,i680sect06_p2"
+          },
+          "color": "cyan",
+          "img": "i680sect06_p1",
+          "imgZoom": false,
+          "kick": "Yom Tov - Story",
+          "ribbon": "A Tale in Time",
+          "ribbonColor": "cyan",
+          "icon": "/resources/assets/img/7b5f36a5d9119965.png",
+          "missionLabel": "In this issue",
+          "mission": "The Secret Inside the Trees · pp. 10-11"
+        },
+        {
+          "extraClass": "tp-lb",
+          "attrs": {
+            "data-lb": "i680sect07_p1"
+          },
+          "color": "gold",
+          "img": "i680sect07_p1",
+          "imgZoom": false,
+          "kick": "Motivation",
+          "ribbon": "Auction Ad",
+          "ribbonColor": "gold",
+          "missionLabel": "In this issue",
+          "mission": "Annual Auction · pp. 16"
+        }
+      ]
+    }
+  ],
+  "title": "בְּשַׁלַּח",
+  "type": "parsha-week"
+}

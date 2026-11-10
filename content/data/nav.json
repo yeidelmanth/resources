@@ -1,0 +1,30 @@
+[
+  {
+    "id": "date",
+    "label": "Date"
+  },
+  {
+    "id": "campaign",
+    "label": "Campaign"
+  },
+  {
+    "id": "rally",
+    "label": "TH Rally"
+  },
+  {
+    "id": "promotions",
+    "label": "Promotions"
+  },
+  {
+    "id": "marking",
+    "label": "Mission Marking"
+  },
+  {
+    "id": "chitas",
+    "label": "Daily Chitas"
+  },
+  {
+    "id": "calendar",
+    "label": "Calendar"
+  }
+]

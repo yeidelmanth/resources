@@ -1,0 +1,162 @@
+{
+  "id": "cYomaDepagra",
+  "branch": "campaign",
+  "parent": "campaign",
+  "crumbLabel": "Yoma Depagra",
+  "template": "hub",
+  "blocks": [
+    {
+      "type": "heading",
+      "eyebrow": "Campaign",
+      "title": "Yoma Depagra",
+      "text": "Special dates on the Chassidishe calendar — pick one to open it."
+    },
+    {
+      "type": "links",
+      "items": [
+        {
+          "page": "cyd_15elul",
+          "title": "15 Elul 5657",
+          "text": "Tomchei Temimim Established"
+        },
+        {
+          "page": "cyd_18elul",
+          "title": "18 Elul 5505",
+          "text": "Birthday of the Baal Shem Tov &amp; the Alter Rebbe"
+        },
+        {
+          "page": "cyd_29elul",
+          "title": "29 Elul 5549",
+          "text": "Birthday of the Tzemach Tzedek"
+        },
+        {
+          "page": "cyd_6tishrei",
+          "title": "6 Tishrei 5725",
+          "text": "Yartzeit of Rebbetzin Chana"
+        },
+        {
+          "page": "cyd_13tishrei",
+          "title": "13 Tishrei 5643",
+          "text": "Histalkus of the Rebbe Maharash"
+        },
+        {
+          "page": "cyd_20cheshvan",
+          "title": "20 Cheshvan 5621",
+          "text": "Birthday of the Rebbe Rashab"
+        },
+        {
+          "page": "cyd_1kislev",
+          "title": "1 Kislev 5738",
+          "text": "The Rebbe Returns Home"
+        },
+        {
+          "page": "cyd_9kislev",
+          "title": "9 Kislev 5534-5588",
+          "text": "Mitteler Rebbe’s Birth, Histalkus &amp; Chag Hageulah"
+        },
+        {
+          "page": "cyd_14kislev",
+          "title": "14 Kislev 5689",
+          "text": "The Chasuna of Our Rebbe &amp; Rebbetzin"
+        },
+        {
+          "page": "cyd_1920kislev",
+          "title": "19-20 Kislev 5559",
+          "text": "Alter Rebbe’s Chag Hageulah"
+        },
+        {
+          "page": "cyd_5teves",
+          "title": "5 Teves 5747",
+          "text": "Didan Notzach"
+        },
+        {
+          "page": "cyd_24teves",
+          "title": "24 Teves 5573",
+          "text": "Histalkus of the Alter Rebbe"
+        },
+        {
+          "page": "cyd_10shvat",
+          "title": "10 Shvat 5710",
+          "text": "Histalkus of the Frierdiker Rebbe"
+        },
+        {
+          "page": "cyd_10shvat-2",
+          "title": "10 Shvat 5711",
+          "text": "Start of the Rebbe’s Nesius"
+        },
+        {
+          "page": "cyd_13shvat",
+          "title": "13 Shvat 5702",
+          "text": "Yartzeit of Rebbetzin Shterna Sarah"
+        },
+        {
+          "page": "cyd_22shvat",
+          "title": "22 Shvat 5748",
+          "text": "Yartzeit of Rebbetzin Chaya Mushka"
+        },
+        {
+          "page": "cyd_9adar",
+          "title": "9 Adar 5700",
+          "text": "The Frierdiker Rebbe Arrived in America"
+        },
+        {
+          "page": "cyd_25adar",
+          "title": "25 Adar 5661",
+          "text": "Birthday of Rebbetzin Chaya Mushka"
+        },
+        {
+          "page": "cyd_27adar",
+          "title": "27 Adar 5752",
+          "text": "Light Even in Darkness"
+        },
+        {
+          "page": "cyd_2nissan",
+          "title": "2 Nissan 5680",
+          "text": "Histalkus of the Rebbe Rashab"
+        },
+        {
+          "page": "cyd_11nissan",
+          "title": "11 Nissan 5662",
+          "text": "Birthday of the Rebbe"
+        },
+        {
+          "page": "cyd_13nissan",
+          "title": "13 Nissan 5626",
+          "text": "Histalkus of the Tzemach Tzedek"
+        },
+        {
+          "page": "cyd_18nissan",
+          "title": "18 Nissan 5638",
+          "text": "Birthday of Reb Levik"
+        },
+        {
+          "page": "cyd_28nissan",
+          "title": "28 Nissan 5751",
+          "text": "Tut Altz Vos Ir Kent"
+        },
+        {
+          "page": "cyd_2iyar",
+          "title": "2 Iyar 5594",
+          "text": "Birthday of the Rebbe Maharash"
+        },
+        {
+          "page": "cyd_6sivan",
+          "title": "6 Sivan 5520",
+          "text": "Histalkus of the Baal Shem Tov"
+        },
+        {
+          "page": "cyd_15sivan",
+          "title": "15 Sivan 5687",
+          "text": "Arrest of the Frierdiker Rebbe"
+        },
+        {
+          "page": "cyd_28sivan",
+          "title": "28 Sivan 5701",
+          "text": "The Rebbe &amp; Rebbetzin Arrive in the USA"
+        }
+      ]
+    }
+  ],
+  "title": "Yoma Depagra",
+  "type": "hub"
+}

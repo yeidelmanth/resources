@@ -1,0 +1,19 @@
+{
+  "id": "fMinhagim",
+  "branch": "campaign",
+  "parent": "cYomTov",
+  "crumbLabel": "Minhagim",
+  "template": "article",
+  "title": "Chanukah — the customs",
+  "article": {
+    "kick": "Campaign · Yom Tov",
+    "chips": [
+      "Yom Tov · Chanukah"
+    ],
+    "body": "<p>The customs of the yom tov, gathered so a commander can answer a question in the room without leaving the site.</p>",
+    "mission": "Teach one minhag your platoon didn't know",
+    "source": "Source: Sample content — layout only, no source issue held yet",
+    "sample": true
+  },
+  "type": "minhagim"
+}

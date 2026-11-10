@@ -1,0 +1,352 @@
+{
+  "id": "hkT4",
+  "branch": "campaign",
+  "parent": "cHiskashrus",
+  "crumbLabel": "Orders from our General",
+  "template": "hub",
+  "blocks": [
+    {
+      "type": "heading",
+      "eyebrow": "Hiskashrus",
+      "title": "Orders from our General",
+      "text": "The Rebbe’s orders to his chayolim, week by week."
+    },
+    {
+      "type": "cards",
+      "items": [
+        {
+          "page": "i660orders",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "nitzavim-vayeilech"
+          },
+          "color": "purple",
+          "img": "i660orders",
+          "imgZoom": true,
+          "kick": "Hiskashrus · Sichos",
+          "ribbon": "Orders from Our General",
+          "ribbonColor": "red",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Share a sicha of the Rebbe"
+        },
+        {
+          "page": "i661orders",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "rosh-hashana"
+          },
+          "color": "purple",
+          "img": "i661orders",
+          "imgZoom": true,
+          "kick": "Hiskashrus · Sichos",
+          "ribbon": "Orders from Our General",
+          "ribbonColor": "red",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Share a sicha of the Rebbe"
+        },
+        {
+          "page": "i662orders",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "haazinu"
+          },
+          "color": "purple",
+          "img": "i662orders",
+          "imgZoom": true,
+          "kick": "Hiskashrus · Sichos",
+          "ribbon": "Orders from Our General",
+          "ribbonColor": "red",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Share a sicha of the Rebbe"
+        },
+        {
+          "page": "i663orders",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "sukkos"
+          },
+          "color": "purple",
+          "img": "i663orders",
+          "imgZoom": true,
+          "kick": "Hiskashrus · Sichos",
+          "ribbon": "Orders from Our General",
+          "ribbonColor": "red",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Share a sicha of the Rebbe"
+        },
+        {
+          "page": "i664orders",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "shmini-atzeres"
+          },
+          "color": "purple",
+          "img": "i664orders",
+          "imgZoom": true,
+          "kick": "Hiskashrus · Sichos",
+          "ribbon": "Orders from Our General",
+          "ribbonColor": "red",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Share a sicha of the Rebbe"
+        },
+        {
+          "page": "i665orders",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "bereishis"
+          },
+          "color": "purple",
+          "img": "i665orders",
+          "imgZoom": true,
+          "kick": "Hiskashrus · Sichos",
+          "ribbon": "Orders from Our General",
+          "ribbonColor": "red",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Share a sicha of the Rebbe"
+        },
+        {
+          "page": "i666orders",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "noach"
+          },
+          "color": "purple",
+          "img": "i666orders",
+          "imgZoom": true,
+          "kick": "Hiskashrus · Sichos",
+          "ribbon": "Orders from Our General",
+          "ribbonColor": "red",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Share a sicha of the Rebbe"
+        },
+        {
+          "page": "i667orders",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "lech-lecha"
+          },
+          "color": "purple",
+          "img": "i667orders",
+          "imgZoom": true,
+          "kick": "Hiskashrus · Sichos",
+          "ribbon": "Orders from Our General",
+          "ribbonColor": "red",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Share a sicha of the Rebbe"
+        },
+        {
+          "page": "i668orders",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "vayeira"
+          },
+          "color": "purple",
+          "img": "i668orders",
+          "imgZoom": true,
+          "kick": "Hiskashrus · Sichos",
+          "ribbon": "Orders from Our General",
+          "ribbonColor": "red",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Share a sicha of the Rebbe"
+        },
+        {
+          "page": "i669orders",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "chayei-sara"
+          },
+          "color": "purple",
+          "img": "i669orders",
+          "imgZoom": true,
+          "kick": "Hiskashrus · Sichos",
+          "ribbon": "Orders from Our General",
+          "ribbonColor": "red",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Share a sicha of the Rebbe"
+        },
+        {
+          "page": "i670orders",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "toldos"
+          },
+          "color": "purple",
+          "img": "i670orders",
+          "imgZoom": true,
+          "kick": "Hiskashrus · Sichos",
+          "ribbon": "Orders from Our General",
+          "ribbonColor": "red",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Share a sicha of the Rebbe"
+        },
+        {
+          "page": "i671orders",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "vayeitzei"
+          },
+          "color": "purple",
+          "img": "i671orders",
+          "imgZoom": true,
+          "kick": "Hiskashrus · Sichos",
+          "ribbon": "Orders from Our General",
+          "ribbonColor": "red",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Share a sicha of the Rebbe"
+        },
+        {
+          "page": "i672orders",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "vayishlach"
+          },
+          "color": "purple",
+          "img": "i672orders",
+          "imgZoom": true,
+          "kick": "Hiskashrus · Sichos",
+          "ribbon": "Orders from Our General",
+          "ribbonColor": "red",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Share a sicha of the Rebbe"
+        },
+        {
+          "page": "i673orders",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "vayeishev"
+          },
+          "color": "purple",
+          "img": "i673orders",
+          "imgZoom": true,
+          "kick": "Hiskashrus · Sichos",
+          "ribbon": "Orders from Our General",
+          "ribbonColor": "red",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Share a sicha of the Rebbe"
+        },
+        {
+          "page": "i674orders",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "mikeitz"
+          },
+          "color": "purple",
+          "img": "i674orders",
+          "imgZoom": true,
+          "kick": "Hiskashrus · Sichos",
+          "ribbon": "Orders from Our General",
+          "ribbonColor": "red",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Share a sicha of the Rebbe"
+        },
+        {
+          "page": "i675orders",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "vayigash"
+          },
+          "color": "purple",
+          "img": "i675orders",
+          "imgZoom": true,
+          "kick": "Hiskashrus · Sichos",
+          "ribbon": "Orders from Our General",
+          "ribbonColor": "red",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Share a sicha of the Rebbe"
+        },
+        {
+          "page": "i676orders",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "vayechi"
+          },
+          "color": "purple",
+          "img": "i676orders",
+          "imgZoom": true,
+          "kick": "Hiskashrus · Sichos",
+          "ribbon": "Orders from Our General",
+          "ribbonColor": "red",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Share a sicha of the Rebbe"
+        },
+        {
+          "page": "i677orders",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "shemos"
+          },
+          "color": "purple",
+          "img": "i677orders",
+          "imgZoom": true,
+          "kick": "Hiskashrus · Sichos",
+          "ribbon": "Orders from Our General",
+          "ribbonColor": "red",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Share a sicha of the Rebbe"
+        },
+        {
+          "page": "i678orders",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "vaeira"
+          },
+          "color": "purple",
+          "img": "i678orders",
+          "imgZoom": true,
+          "kick": "Hiskashrus · Sichos",
+          "ribbon": "Orders from Our General",
+          "ribbonColor": "red",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Share a sicha of the Rebbe"
+        },
+        {
+          "page": "i679orders",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "bo"
+          },
+          "color": "purple",
+          "img": "i679orders",
+          "imgZoom": true,
+          "kick": "Hiskashrus · Sichos",
+          "ribbon": "Orders from Our General",
+          "ribbonColor": "red",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Share a sicha of the Rebbe"
+        },
+        {
+          "page": "i680orders",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "beshalach"
+          },
+          "color": "purple",
+          "img": "i680orders",
+          "imgZoom": true,
+          "kick": "Hiskashrus · Sichos",
+          "ribbon": "Orders from Our General",
+          "ribbonColor": "red",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Share a sicha of the Rebbe"
+        },
+        {
+          "page": "i681orders",
+          "extraClass": "hkcard",
+          "attrs": {
+            "data-hk": "yisro"
+          },
+          "color": "purple",
+          "img": "i681orders",
+          "imgZoom": true,
+          "kick": "Hiskashrus · Sichos",
+          "ribbon": "Orders from Our General",
+          "ribbonColor": "red",
+          "icon": "/resources/assets/img/8261c76a3a66a922.png",
+          "mission": "Share a sicha of the Rebbe"
+        }
+      ]
+    }
+  ],
+  "title": "Orders from our General",
+  "type": "series"
+}

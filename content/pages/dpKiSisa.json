@@ -1,0 +1,21 @@
+{
+  "id": "dpKiSisa",
+  "branch": "date",
+  "parent": "dParsha",
+  "crumbLabel": "כִּי תִשָּׂא",
+  "template": "hub",
+  "blocks": [
+    {
+      "type": "heading",
+      "eyebrow": "Parsha",
+      "title": "כִּי תִשָּׂא",
+      "heb": true
+    },
+    {
+      "type": "note",
+      "html": "<b>Awaiting issue</b>No Hachayol issue for this week is in the library yet — its cards appear as soon as one is added."
+    }
+  ],
+  "title": "כִּי תִשָּׂא",
+  "type": "parsha-week"
+}

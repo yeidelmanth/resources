@@ -1,0 +1,44 @@
+{
+  "id": "i670orders",
+  "branch": "date",
+  "parent": "dpToldos",
+  "crumbLabel": "Orders from Our General",
+  "altParent": "cHiskashrus",
+  "altBranch": "campaign",
+  "template": "article",
+  "title": "What is the Power of Yiddishe Children?",
+  "article": {
+    "chips": [
+      "Parshas Toldos"
+    ],
+    "pages": [
+      "i670orders",
+      "i670orders_p2"
+    ],
+    "pdf": "pdfs/670.pdf",
+    "body": "<p class=\"lead\">Do you know the answer to the title’s question?</p><p>It’s part of Yitzchak Avinu's bracha to his son, Yaakov: The voices of Yiddishe children’s Torah and tefilla can defeat the \"hands of Eisav.\" This means that our learning and davening have the power to overcome our enemies!</p><p>In the times of the Churban Beis Hamikdash, the children knew that Torah was their best protection. When the Romans surrounded Yerushalayim, they said, \"If our enemies come to</p><p>What were these \"michtavin\"? They were the pointers the children used to keep their place while learning Torah. The Yiddishe children of that time knew how great the z’chus of their learning was. They knew that with its power, they could defeat anyone who wanted to destroy Bnei Yisroel!</p><p>And these were not older children above Bar Mitzvah; they didn’t need michtavin in order to follow along. It was the younger children who were ready to fight the enemy with the power of Torah. And</p><p>What gives a Yiddishe child real strength?</p><p>Being loud, brave, and having big muscles.</p><p>Using his/her voice to learn Torah and daven.</p><p>The voice is the voice of Yaakov, and the hands are the hands of Eisav.</p><p><span class=\"mc\">We chayolim of today can do the same. By raising our voices as we daven and learn Torah, we can get rid of this Galus!</span></p><p>When we stand strong with our \"Kol Yaakov\", everyone will recognize that we Yidden are the highest respect for us, and in the end, our enemies will help us leave Galus with great honor.</p><p>All of this can happen right</p><p>Why is it important to point inside the sefer while learning or davening?</p><p>Can you imagine why it was the young children who fought off their enemies?</p><p>How often do you learn Torah on your own and during your free time?</p><p>When you daven with chayus, you’ll bring Moshiach! Go around the table and each person gets a chance to hum a tune from davening while everyone else has</p><p>There’s power...and then there’s</p><p>Find your way through maze by following the true sources of</p><p><span class=\"mc\">Jewish kids used their michtavin, their pointers, as weapons against their enemies. Can you help this chayol use the pointer to keep their place?</span></p>",
+    "related": {
+      "heading": "More from the General",
+      "items": [
+        {
+          "icon": "📖",
+          "title": "The Rebbe Speaks to Children",
+          "sub": "The sicha, adapted for children · PDF"
+        },
+        {
+          "icon": "🎧",
+          "title": "Audio recording",
+          "sub": "Listen to the sicha"
+        },
+        {
+          "icon": "🎥",
+          "title": "Video recording",
+          "sub": "Watch the sicha"
+        }
+      ],
+      "note": "Links go live when the files are hosted."
+    },
+    "source": "Source: Parshas Toldos · 3 Kislev 5787"
+  },
+  "type": "orders-from-our-general"
+}
