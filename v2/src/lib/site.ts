@@ -38,15 +38,23 @@ async function load() {
   const features = inOrder(await getCollection("features"), "./content/features.yml");
   const campaigns = inOrder(await getCollection("campaigns"), "./content/campaigns.yml");
 
+  // a spread whose issue has no file yet still gets an issue page (number only)
+  for (const s of spreads) {
+    const no = s.data.issue;
+    if (no != null && !issues.some((i) => i.data.number === no)) issues.push({ id: String(no), collection: "issues", data: { number: no } } as Issue);
+  }
   const issueByNo = new Map(issues.map((i) => [i.data.number, i]));
   const featureById = new Map(features.map((f) => [f.id, f]));
   const campaignById = new Map(campaigns.map((c) => [c.id, c]));
   for (const s of spreads) {
     if (!featureById.has(s.data.feature)) throw new Error(`content/spreads/${s.id}.md: feature "${s.data.feature}" is not in content/features.yml`);
-    if (s.data.issue != null && !issueByNo.has(s.data.issue)) throw new Error(`content/spreads/${s.id}.md: issue ${s.data.issue} has no file content/issues/${s.data.issue}.yml`);
   }
-  for (const c of campaigns) for (const sec of c.data.sections) for (const e of sec.entries) for (const f of e.show.features)
-    if (!featureById.has(f)) throw new Error(`content/campaigns.yml: ${c.id} › ${e.id} shows feature "${f}", which is not in content/features.yml`);
+  // a feature deleted from features.yml is skipped in the campaign list (with a note in the build log)
+  for (const c of campaigns) for (const sec of c.data.sections) for (const e of sec.entries) {
+    const gone = e.show.features.filter((f) => !featureById.has(f));
+    if (gone.length) console.warn(`content/campaigns.yml: ${c.id} › ${e.id} lists ${gone.join(", ")}, which is not in content/features.yml; skipped`);
+    e.show.features = e.show.features.filter((f) => featureById.has(f));
+  }
 
   const yearOf = (s: Spread) => (s.data.issue != null ? issueByNo.get(s.data.issue)?.data.year : undefined);
   const byIssue = (a: Spread, b: Spread) => (a.data.issue ?? 1e9) - (b.data.issue ?? 1e9) || plain(a.data.title).localeCompare(plain(b.data.title));

@@ -25,7 +25,7 @@ const groups = years.length > 1 ? years.sort((a, b) => b - a).map((y) => [y ? `Y
   </div>
   {list.length === 0 && (
     <div class="note">
-      <b>No spreads yet.</b> Add a spread with <code>feature: {e.show.features[0]}</code>{e.show.year && <> in an issue from year {e.show.year}</>}{e.show.tag && <> and the tag <code>{e.show.tag}</code></>}, and it appears here.
+      <b>No spreads yet.</b> Add a spread with <code>feature: {e.show.features[0] ?? "<feature id>"}</code>{e.show.year && <> in an issue from year {e.show.year}</>}{e.show.tag && <> and the tag <code>{e.show.tag}</code></>}, and it appears here.
     </div>
   )}
   {groups.map(([label, ss]) => (

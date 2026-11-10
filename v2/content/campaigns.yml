@@ -203,7 +203,6 @@
           show:
             features:
               - roots-stories-of-our-lives
-              - roots
             year: 5785
         - id: roots-book-2
           title: Book 2 - 5786
@@ -211,7 +210,6 @@
           show:
             features:
               - roots-stories-of-our-lives
-              - roots
             year: 5786
         - id: roots-book-3
           title: Book 3 - 5787
@@ -219,7 +217,6 @@
           show:
             features:
               - roots-stories-of-our-lives
-              - roots
             year: 5787
         - id: roots-book-4
           title: Book 4 - 5788
@@ -227,7 +224,6 @@
           show:
             features:
               - roots-stories-of-our-lives
-              - roots
             year: 5788
         - id: roots-book-5
           title: Book 5 - 5789
@@ -235,7 +231,6 @@
           show:
             features:
               - roots-stories-of-our-lives
-              - roots
             year: 5789
         - id: roots-book-6
           title: Book 6 - 5790
@@ -243,7 +238,6 @@
           show:
             features:
               - roots-stories-of-our-lives
-              - roots
             year: 5790
     - name: The Rebbe Will Find a Way
       entries:
