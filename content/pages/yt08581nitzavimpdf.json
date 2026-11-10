@@ -44,5 +44,9 @@
     "body": "<p>To help others learn to accept ____________ , too.</p>",
     "source": "Source: Yom Tov Campaign · Sichos - Poems - Fly With Me"
   },
-  "type": "fly-with-me"
+  "type": "fly-with-me",
+  "issue": 581,
+  "features": [
+    "fly-with-me"
+  ]
 }

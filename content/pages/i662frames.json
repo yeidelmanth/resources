@@ -36,5 +36,9 @@
       }
     ]
   },
-  "type": "chassidishe-frames"
+  "type": "chassidishe-frames",
+  "issue": 662,
+  "features": [
+    "chassidishe-frames-5787"
+  ]
 }

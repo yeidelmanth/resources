@@ -40,5 +40,9 @@
     },
     "source": "Source: Parshas Vayeishev · 24 Kislev 5787"
   },
-  "type": "orders-from-our-general"
+  "type": "orders-from-our-general",
+  "issue": 673,
+  "features": [
+    "orders-from-our-general"
+  ]
 }

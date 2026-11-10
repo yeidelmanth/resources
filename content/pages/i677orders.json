@@ -40,5 +40,9 @@
     },
     "source": "Source: Parshas Shemos · 22 Teves 5787"
   },
-  "type": "orders-from-our-general"
+  "type": "orders-from-our-general",
+  "issue": 677,
+  "features": [
+    "orders-from-our-general"
+  ]
 }

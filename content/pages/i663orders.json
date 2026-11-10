@@ -40,5 +40,9 @@
     },
     "source": "Source: Sukkos · 14 Tishrei 5787"
   },
-  "type": "orders-from-our-general"
+  "type": "orders-from-our-general",
+  "issue": 663,
+  "features": [
+    "orders-from-our-general"
+  ]
 }

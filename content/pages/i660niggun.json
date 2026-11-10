@@ -51,5 +51,10 @@
       }
     ]
   },
-  "type": "niggun-of-the-week"
+  "type": "niggun-of-the-week",
+  "issue": 660,
+  "features": [
+    "nigunei-hashona",
+    "rebbes-niggunim"
+  ]
 }

@@ -40,5 +40,9 @@
     },
     "source": "Source: Parshas Vayishlach · 17 Kislev 5787"
   },
-  "type": "orders-from-our-general"
+  "type": "orders-from-our-general",
+  "issue": 672,
+  "features": [
+    "orders-from-our-general"
+  ]
 }

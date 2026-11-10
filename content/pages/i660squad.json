@@ -36,5 +36,9 @@
       }
     ]
   },
-  "type": "squad-drills"
+  "type": "squad-drills",
+  "issue": 660,
+  "features": [
+    "squad-drills-5787"
+  ]
 }

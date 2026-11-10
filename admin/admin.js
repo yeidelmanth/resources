@@ -58,8 +58,8 @@ function assetUrl(u) {
 ctx.assetUrl = assetUrl;
 
 async function loadAll() {
-  const [index, types, images, settings, nav] = await Promise.all([api("index"), api("data/types"), api("data/images"), api("data/settings"), api("data/nav")]);
-  Object.assign(S, { index, types, images, settings, nav });
+  const [index, types, images, settings, nav, site] = await Promise.all([api("index"), api("data/types"), api("data/images"), api("data/settings"), api("data/nav"), fetch("/content/site.json").then((r) => r.json())]);
+  Object.assign(S, { index, types, images, settings, nav, shells: site.shells, featureTitles: site.featureTitles });
   Object.assign(ctx, { index, types, images, nav });
   refreshPageList();
 }
@@ -346,7 +346,7 @@ function sendPreview() {
   const lookup = (id) => (id === p.id ? p : S.index[id]);
   let html;
   try {
-    html = renderPage(resolvePage(p, S.types), lookup);
+    html = renderPage(resolvePage(p, S.types), lookup, { shells: S.shells, featureTitles: S.featureTitles });
   } catch (e) {
     html = `<div class="note"><b>Preview error</b>${String(e.message)}</div>`;
   }

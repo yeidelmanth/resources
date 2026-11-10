@@ -44,6 +44,35 @@ By default the server only listens on this computer. To use it from other machin
 - **Every save keeps the previous version.** Use *Versions* on a page to bring an older one back. Deleting a page warns you if other pages still link to it.
 - **Publish** writes the static site. Saving alone only updates the editor and preview.
 
+## Weekly Hachayol: features, shells and issues
+
+The **Weekly Hachayol** tab is built from three things:
+
+- **`content/data/campaign-index.json`**: campaign → section → feature, following the Weekly Hachayol campaign list. Each feature has an `id`, a `title`, an optional `grade` and `part`, and a `shell`, which is the page type its spreads use. `{"ref": "fly-with-me"}` lists a feature defined elsewhere, so Yom Tov Sichos appears under both Yom Tov and Hiskashrus.
+- **`content/shells/<type>.html`**: one shell per feature type. The shell is the layout, and every spread of that type is the same shell with its own contents poured in. Edit a shell on GitHub to change how all of that feature's spreads look. Types without a file use `_default.html`. Placeholders:
+  - `{{title}}`, `{{kick}}`, `{{ribbon}}`, `{{ribbonColor}}`, `{{body}}`, `{{chips}}`, `{{mission}}`, `{{source}}`, `{{pdf}}`, `{{issue}}`, `{{id}}`, `{{type}}`
+  - Ready-made blocks: `{{pages}}` (page scans), `{{buttons}}`, `{{media}}`, `{{sichos}}`, `{{related}}`, `{{missionBox}}`, `{{issueChip}}`, `{{features}}`, `{{hebbig}}`, `{{subtitle}}`
+  - `{{#pdf}}…{{/pdf}}` keeps the part between only when the value is filled in, and `{{^pdf}}…{{/pdf}}` keeps it only when the value is empty.
+  - A shell may hold its own `<style>`. Scope it with a class you add to the shell's outer element, so it only affects that feature.
+  - The full list is `SHELL_SLOTS` in `public/js/render.js`.
+- **Two fields on each spread**: `"issue": 668` (the Hachayol number) and `"features": ["roots-book-3"]`. Both are in the editor under *Weekly Hachayol*.
+
+The build makes these pages by itself:
+
+| Page | id |
+|---|---|
+| Weekly Hachayol | `wh` |
+| A campaign | `wh-c-<campaign>` |
+| A feature with all its spreads | `wh-f-<feature>` |
+| Grade list / one grade | `wh-grades`, `wh-g-<n>` |
+| Every Hachayol issue / one issue | `hachayol`, `h<number>` |
+
+To hand-design one of them, put a page with the same id in `content/pages/`, or open it in the editor and save. A real page always replaces the generated one, but it then stops updating itself when spreads are added.
+
+**Adding a spread:** create a page of the feature's type and fill in its issue number and feature id. It then appears on the feature page, the issue page and the grade page.
+
+**Shared shells:** features that are one series split by grade or year (Roots Book 1–6, The Rebbe Will Find a Way 5782–5787, Squad Drills, Chassidishe Frames, the Niggunim collections) share their series' shell. To give one its own look, add a new type in *Page types*, copy the shell file to the new type's name, set the feature's `shell` to it, and change those spreads' type.
+
 ## Files: mixed storage
 
 - **Existing files stay where they are.** The paths in pages (`pdfs/665.pdf`, `sichos/…`, `hisk/…`, `audio/…`, `/resources/assets/img/…`) still point at the original server.

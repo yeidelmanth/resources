@@ -39,5 +39,9 @@
     },
     "source": "Source: Parshas Vayeira · 19 Cheshvan 5787"
   },
-  "type": "orders-from-our-general"
+  "type": "orders-from-our-general",
+  "issue": 668,
+  "features": [
+    "orders-from-our-general"
+  ]
 }

@@ -55,41 +55,99 @@ function crumbInner(page, lookup, alt) {
 }
 
 // ---------- article (item) pages ----------
+//
+// Every spread is drawn with its feature's *shell*: an HTML template kept in
+// content/shells/<type>.html. The shell is the layout; the spread's JSON is the
+// contents poured into it. Placeholders:
+//
+//   {{name}}               the value of a slot (already safe HTML)
+//   {{#name}}…{{/name}}    the part between is kept only if the slot has a value
+//   {{^name}}…{{/name}}    the part between is kept only if the slot is empty
+//
+// Line breaks between tags or placeholders in a shell are ignored, so shells can be laid out
+// readably. A type with no shell file uses DEFAULT_SHELL below.
 
-function renderArticle(p) {
+export const SHELL_SLOTS = {
+  id: "page id", type: "page type (feature shell)", title: "title", titleClass: ' class="heb" when the title is Hebrew',
+  kick: "kicker line", ribbon: "ribbon label", ribbonColor: "ribbon colour name", hebbig: "large Hebrew line (block)",
+  subtitle: "subtitle (block)", chips: "tag chips", issue: "Hachayol issue number", issueChip: "Hachayol issue chip linking to the issue page",
+  issueLink: "page id of the issue page", features: "links to the spread's feature pages", media: "audio/video chips (block)",
+  pages: "page-scan images row (block)", pdf: "PDF address", buttons: "Full Screen / Print PDF / Older PDFs buttons (block)",
+  sichos: "sichos row (block)", leadStyle: "style attribute for the lead colour", body: "text", related: "related links box",
+  mission: "mission text", missionColor: "mission colour (CSS)", missionBox: "the whole mission box", source: "source line text",
+  sampleClass: '" sample" when marked as sample content',
+};
+
+export const DEFAULT_SHELL = `<div class="item">
+  <div class="kick" style="margin-bottom:8px">{{kick}}</div>
+  <div class="rw"><span class="ribbon c-{{ribbonColor}} big">{{ribbon}}</span></div>
+  <div class="titlerow">{{hebbig}}<h1{{titleClass}}>{{title}}</h1>{{subtitle}}</div>
+  <div class="metarow"><div class="meta">{{chips}}{{issueChip}}{{features}}</div>{{media}}</div>
+  {{pages}}
+  {{buttons}}
+  {{sichos}}
+  <div class="prose"{{leadStyle}}>{{body}}</div>
+  {{related}}
+  {{missionBox}}
+  <div class="srcline{{sampleClass}}">{{source}}</div>
+</div>
+`;
+
+/** Fill a shell template with slot values. */
+export function fillShell(tpl, slots) {
+  const t = String(tpl).replace(/(>|\}\})[ \t]*\r?\n\s*(?=<|\{\{)/g, "$1").replace(/^\s+|\s+$/g, "");
+  const val = (k) => (slots[k] == null ? "" : String(slots[k]));
+  const sec = (src) =>
+    src.replace(/\{\{([#^])\s*([\w-]+)\s*\}\}([\s\S]*?)\{\{\/\s*\2\s*\}\}/g, (_, m, k, inner) => ((m === "#") === (val(k) !== "") ? sec(inner) : ""));
+  return sec(t).replace(/\{\{\s*([\w-]+)\s*\}\}/g, (_, k) => val(k));
+}
+
+/** Pick the shell for a page: its own type's file, else the default. */
+export function shellFor(page, shells) {
+  return (shells && (shells[page.type] ?? shells._default)) || DEFAULT_SHELL;
+}
+
+export function articleSlots(p, featureTitles = {}) {
   const a = p.article || {};
-  let s = `<div class="item">`;
-  s += `<div class="kick" style="margin-bottom:8px">${h(a.kick)}</div>`;
-  s += `<div class="rw"><span class="ribbon c-${att(a.ribbonColor)} big">${h(a.ribbon)}</span></div>`;
-  s += `<div class="titlerow">${has(a.hebbig) ? `<div class="hebbig" style="color:var(--muted);font-size:26px">${h(a.hebbig)}</div>` : ""}<h1${a.titleHeb ? ' class="heb"' : ""}>${h(p.title)}</h1>${has(a.subtitle) ? `<div class="sub">${h(a.subtitle)}</div>` : ""}</div>`;
-  s += `<div class="metarow"><div class="meta">${(a.chips || []).map((c) => `<span class="chip">${h(c)}</span>`).join("")}</div>`;
-  if (has(a.media)) s += `<div class="mediachips">${a.media.map((m) => `<a class="mediachip" href="${att(m.href)}" target="_blank" rel="noopener">${h(m.label)}</a>`).join("")}</div>`;
-  s += `</div>`;
   const pages = a.pages || [];
-  if (pages.length) {
-    s += `<div class="pagerow">${pages
-      .map((k, i) => `<figure class="pageimg"><img class="zoom" data-img="${att(k)}" alt="${att(a.altBase ?? stripTags(p.title))} — page ${i + 1}" loading="lazy"></figure>`)
-      .join("")}</div>`;
-  }
+  let buttons = "";
   if (pages.length || has(a.pdf) || has(a.olderPdfs)) {
-    s += `<div class="imgbtns">`;
-    if (pages.length) s += `<button class="imgbtn" data-full="${att(pages.join(","))}">Full Screen</button>`;
-    if (has(a.pdf)) s += `<a class="imgbtn" href="${att(a.pdf)}" target="_blank" rel="noopener">${h(a.pdfLabel ?? "Print PDF")}</a>`;
-    if (has(a.olderPdfs)) s += `<button class="imgbtn" data-older="${att(a.olderPdfs)}">Older PDFs</button>`;
-    s += `</div>`;
-  }
-  if (has(a.sichos)) {
-    s += `<div class="sichrow"><div class="sichlab">${h(a.sichosLabel ?? "Sichos this piece is built on")}</div><div class="imgbtns">${a.sichos
-      .map((x) => `<a class="imgbtn" href="${att(x.href)}" target="_blank" rel="noopener">${h(x.label)}</a>`)
-      .join("")}</div></div>`;
+    buttons += `<div class="imgbtns">`;
+    if (pages.length) buttons += `<button class="imgbtn" data-full="${att(pages.join(","))}">Full Screen</button>`;
+    if (has(a.pdf)) buttons += `<a class="imgbtn" href="${att(a.pdf)}" target="_blank" rel="noopener">${h(a.pdfLabel ?? "Print PDF")}</a>`;
+    if (has(a.olderPdfs)) buttons += `<button class="imgbtn" data-older="${att(a.olderPdfs)}">Older PDFs</button>`;
+    buttons += `</div>`;
   }
   const lead = a.leadColor ?? a.ribbonColor;
-  s += `<div class="prose"${lead ? ` style="--lead:${att(cssColor(lead))}"` : ""}>${h(a.body)}</div>`;
-  if (a.related) s += renderRelated(a.related);
-  s += `<div class="mission2" style="--c:${att(cssColor(a.missionColor ?? a.ribbonColor))}"><div class="m2-head"><span class="m2-emb"><span class="emb-img m2ck"></span></span><div><div class="m2-lab">Mission</div><div class="m2-text">${h(a.mission)}</div></div></div><div class="m2-foot"><span class="m2-hisk">${HISK_SVG}</span><button class="m2-mark" data-go="marking">Mark Missions →</button></div></div>`;
-  s += `<div class="srcline${a.sample ? " sample" : ""}">${h(a.source)}</div>`;
-  s += `</div>`;
-  return s;
+  const missionColor = cssColor(a.missionColor ?? a.ribbonColor);
+  const issue = has(p.issue) ? String(p.issue) : "";
+  return {
+    id: att(p.id), type: att(p.type), title: h(p.title), titleClass: a.titleHeb ? ' class="heb"' : "",
+    kick: h(a.kick), ribbon: h(a.ribbon), ribbonColor: att(a.ribbonColor),
+    hebbig: has(a.hebbig) ? `<div class="hebbig" style="color:var(--muted);font-size:26px">${h(a.hebbig)}</div>` : "",
+    subtitle: has(a.subtitle) ? `<div class="sub">${h(a.subtitle)}</div>` : "",
+    chips: (a.chips || []).map((c) => `<span class="chip">${h(c)}</span>`).join(""),
+    issue: att(issue), issueLink: issue ? `h${att(issue)}` : "",
+    issueChip: issue ? `<button class="chip chip-issue" data-go="h${att(issue)}" title="All spreads from this Hachayol">Hachayol #${att(issue)}</button>` : "",
+    features: (p.features || []).map((f) => `<button class="chip chip-feature" data-go="wh-f-${att(f)}">${h(featureTitles[f] ?? f)}</button>`).join(""),
+    media: has(a.media) ? `<div class="mediachips">${a.media.map((m) => `<a class="mediachip" href="${att(m.href)}" target="_blank" rel="noopener">${h(m.label)}</a>`).join("")}</div>` : "",
+    pages: pages.length
+      ? `<div class="pagerow">${pages.map((k, i) => `<figure class="pageimg"><img class="zoom" data-img="${att(k)}" alt="${att(a.altBase ?? stripTags(p.title))} — page ${i + 1}" loading="lazy"></figure>`).join("")}</div>`
+      : "",
+    pdf: att(a.pdf || ""), buttons,
+    sichos: has(a.sichos)
+      ? `<div class="sichrow"><div class="sichlab">${h(a.sichosLabel ?? "Sichos this piece is built on")}</div><div class="imgbtns">${a.sichos.map((x) => `<a class="imgbtn" href="${att(x.href)}" target="_blank" rel="noopener">${h(x.label)}</a>`).join("")}</div></div>`
+      : "",
+    leadStyle: lead ? ` style="--lead:${att(cssColor(lead))}"` : "",
+    body: h(a.body), related: a.related ? renderRelated(a.related) : "",
+    mission: h(a.mission), missionColor: att(missionColor),
+    missionBox: `<div class="mission2" style="--c:${att(missionColor)}"><div class="m2-head"><span class="m2-emb"><span class="emb-img m2ck"></span></span><div><div class="m2-lab">Mission</div><div class="m2-text">${h(a.mission)}</div></div></div><div class="m2-foot"><span class="m2-hisk">${HISK_SVG}</span><button class="m2-mark" data-go="marking">Mark Missions →</button></div></div>`,
+    source: h(a.source), sampleClass: a.sample ? " sample" : "",
+  };
+}
+
+function renderArticle(p, opts) {
+  return fillShell(shellFor(p, opts.shells), articleSlots(p, opts.featureTitles));
 }
 
 function renderRelated(r) {
@@ -209,13 +267,14 @@ export function resolvePage(page, types) {
 
 /**
  * page: page JSON. lookup(id): summary of another page (crumbLabel, parent, title).
+ * opts.shells: {type: shell HTML} from content/shells/; opts.featureTitles: {feature id: title}.
  * Returns the <section class="page"> HTML the runtime injects.
  */
-export function renderPage(page, lookup) {
+export function renderPage(page, lookup, opts = {}) {
   const crumb = page.id === "home" ? "" : crumbInner(page, lookup, false);
   let s = `<section class="page" data-page="${att(page.id)}"><div class="crumb"><div class="wrap">${crumb}</div></div>`;
   if (page.template === "article") {
-    s += `<div class="sec"><div class="wrap">${renderArticle(page)}</div></div>`;
+    s += `<div class="sec"><div class="wrap">${renderArticle(page, opts)}</div></div>`;
   } else if (page.sections) {
     // free layout (home): each section is raw HTML or a .sec with blocks
     for (const sec of page.sections) {

@@ -40,5 +40,9 @@
     },
     "source": "Source: Parshas Mikeitz · 1 Teves 5787"
   },
-  "type": "orders-from-our-general"
+  "type": "orders-from-our-general",
+  "issue": 674,
+  "features": [
+    "orders-from-our-general"
+  ]
 }

@@ -1,0 +1,497 @@
+{
+  "_about": "The Weekly Hachayol campaign index. Campaign → section → feature. Each feature's 'shell' is the page type whose shell file (content/shells/<shell>.html) every spread of that feature is drawn with. A spread joins a feature by listing the feature id in its \"features\" field, and joins a Hachayol issue through its \"issue\" field. Features with {\"ref\": id} reuse a feature defined elsewhere.",
+  "campaigns": [
+    {
+      "id": "niggunim",
+      "name": "Niggunim",
+      "color": "teal",
+      "sections": [
+        {
+          "name": "Niggunim",
+          "features": [
+            {
+              "id": "niggunim-rallies",
+              "title": "Rallies",
+              "grade": "1st Grade",
+              "shell": "niggunim-rallies"
+            },
+            {
+              "id": "nigunei-hashona",
+              "title": "Nigunei Hashona",
+              "grade": "2nd Grade",
+              "shell": "niggun-of-the-week"
+            },
+            {
+              "id": "rebbes-niggunim",
+              "title": "The Rebbe’s Niggunim",
+              "grade": "3rd Grade",
+              "shell": "niggun-of-the-week"
+            },
+            {
+              "id": "niggun-mechuvonim",
+              "title": "Niggun Mechuvonim",
+              "grade": "4th Grade",
+              "shell": "niggun-mechuvonim"
+            },
+            {
+              "id": "niggunim-shonos",
+              "title": "Niggunim Shonos",
+              "grade": "5th Grade",
+              "shell": "niggun-of-the-week"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "yom-tov",
+      "name": "Yom Tov",
+      "color": "cyan",
+      "sections": [
+        {
+          "name": "Sichos",
+          "features": [
+            {
+              "id": "fly-with-me",
+              "title": "Fly With Me",
+              "grade": "1st Grade",
+              "shell": "fly-with-me"
+            },
+            {
+              "id": "yom-tov-living",
+              "title": "Yom Tov Living",
+              "grade": "2nd Grade",
+              "shell": "yom-tov-living"
+            },
+            {
+              "id": "senders-adventures",
+              "title": "Sender’s Adventures",
+              "grade": "3rd Grade",
+              "shell": "senders-adventures"
+            },
+            {
+              "id": "estys-entries",
+              "title": "Esty’s Entries",
+              "grade": "4th Grade",
+              "shell": "estys-entries"
+            }
+          ]
+        },
+        {
+          "name": "Stories",
+          "features": [
+            {
+              "id": "yom-tov-with-the-rebbe",
+              "title": "Yom Tov with the Rebbe",
+              "shell": "yom-tov-with-the-rebbe"
+            },
+            {
+              "id": "a-tale-in-time",
+              "title": "A Tale in Time",
+              "shell": "a-tale-in-time"
+            }
+          ]
+        },
+        {
+          "name": "Minhagim",
+          "features": [
+            {
+              "id": "celebrate-like-a-chayol",
+              "title": "Celebrate Like a Chayol",
+              "shell": "celebrate-like-a-chayol"
+            }
+          ]
+        },
+        {
+          "name": "Game",
+          "features": [
+            {
+              "id": "yom-tov-game",
+              "title": "Yom Tov Game",
+              "shell": "yom-tov-game"
+            }
+          ]
+        },
+        {
+          "name": "Pirkei Avos",
+          "features": [
+            {
+              "id": "pirkei-avos-full-art",
+              "title": "Full Art",
+              "shell": "pirkei-avos-full-art"
+            },
+            {
+              "id": "pirkei-avos-stories",
+              "title": "Stories",
+              "shell": "pirkei-avos-stories"
+            },
+            {
+              "id": "mishnah-biyun",
+              "title": "Mishnah B'Iyun",
+              "shell": "mishnah-biyun"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hiskashrus",
+      "name": "Hiskashrus",
+      "color": "purple",
+      "sections": [
+        {
+          "name": "Parsha Sichos",
+          "features": [
+            {
+              "id": "parsha-podcast-1",
+              "title": "Parsha Podcast 1",
+              "part": "First Sichos",
+              "shell": "parsha-podcast-1"
+            },
+            {
+              "id": "parsha-podcast-2",
+              "title": "Parsha Podcast 2",
+              "part": "Second Sichos",
+              "shell": "parsha-podcast-2"
+            },
+            {
+              "id": "parshafier-1",
+              "title": "Parshafier 1",
+              "part": "First Sichos",
+              "shell": "parshafier-1"
+            },
+            {
+              "id": "parshafier-2",
+              "title": "Parshafier 2",
+              "part": "Second Sichos",
+              "shell": "parshafier-2"
+            },
+            {
+              "id": "orders-from-our-general",
+              "title": "Orders from Our General",
+              "part": "Third Sichos",
+              "shell": "orders-from-our-general"
+            }
+          ]
+        },
+        {
+          "name": "Yom Tov Sichos",
+          "features": [
+            {
+              "ref": "fly-with-me"
+            },
+            {
+              "ref": "yom-tov-living"
+            },
+            {
+              "ref": "senders-adventures"
+            },
+            {
+              "ref": "estys-entries"
+            }
+          ]
+        },
+        {
+          "name": "Maseh Rav",
+          "features": [
+            {
+              "id": "maseh-rav-comics",
+              "title": "Comics",
+              "shell": "maseh-rav-comics"
+            }
+          ]
+        },
+        {
+          "name": "Roots",
+          "features": [
+            {
+              "id": "roots-book-1",
+              "title": "Book 1 - 5785",
+              "grade": "2nd Grade",
+              "shell": "roots-stories-of-our-lives"
+            },
+            {
+              "id": "roots-book-2",
+              "title": "Book 2 - 5786",
+              "grade": "3rd Grade",
+              "shell": "roots-stories-of-our-lives"
+            },
+            {
+              "id": "roots-book-3",
+              "title": "Book 3 - 5787",
+              "grade": "4th Grade",
+              "shell": "roots-stories-of-our-lives"
+            },
+            {
+              "id": "roots-book-4",
+              "title": "Book 4 - 5788",
+              "grade": "5th Grade",
+              "shell": "roots-stories-of-our-lives"
+            },
+            {
+              "id": "roots-book-5",
+              "title": "Book 5 - 5789",
+              "grade": "6th Grade",
+              "shell": "roots-stories-of-our-lives"
+            },
+            {
+              "id": "roots-book-6",
+              "title": "Book 6 - 5790",
+              "grade": "7th Grade",
+              "shell": "roots-stories-of-our-lives"
+            }
+          ]
+        },
+        {
+          "name": "The Rebbe Will Find a Way",
+          "features": [
+            {
+              "id": "rwfaw-5782",
+              "title": "5782",
+              "grade": "1st Grade",
+              "shell": "rebbe-will-find-a-way"
+            },
+            {
+              "id": "rwfaw-5783",
+              "title": "5783",
+              "grade": "2nd Grade",
+              "shell": "rebbe-will-find-a-way"
+            },
+            {
+              "id": "rwfaw-5784",
+              "title": "5784",
+              "grade": "3rd Grade",
+              "shell": "rebbe-will-find-a-way"
+            },
+            {
+              "id": "rwfaw-5785",
+              "title": "5785",
+              "grade": "4th Grade",
+              "shell": "rebbe-will-find-a-way"
+            },
+            {
+              "id": "rwfaw-5786",
+              "title": "5786",
+              "grade": "5th Grade",
+              "shell": "rebbe-will-find-a-way"
+            },
+            {
+              "id": "rwfaw-5787",
+              "title": "5787",
+              "grade": "6th Grade",
+              "shell": "rebbe-will-find-a-way"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mivtzoim",
+      "name": "Mivtzoim",
+      "color": "red",
+      "sections": [
+        {
+          "name": "Mivtzoim Mania",
+          "features": [
+            {
+              "id": "mivtzoim-mania-story-1",
+              "title": "Story 1",
+              "grade": "3rd Grade",
+              "shell": "mivtzoim-mania"
+            },
+            {
+              "id": "mivtzoim-mania-story-2",
+              "title": "Story 2",
+              "grade": "4th Grade",
+              "shell": "mivtzoim-mania"
+            },
+            {
+              "id": "mivtzoim-mania-fiction",
+              "title": "Fiction Story",
+              "grade": "5th Grade",
+              "shell": "mivtzoim-mania"
+            }
+          ]
+        },
+        {
+          "name": "Mivtzoim Memoirs",
+          "features": [
+            {
+              "id": "mivtzoim-memoirs",
+              "title": "How It All Began",
+              "grade": "6th Grade",
+              "shell": "mivtzoim-memoirs"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "yama-depagra",
+      "name": "Yama Depagra",
+      "color": "gold",
+      "sections": [
+        {
+          "name": "YD Articles",
+          "features": [
+            {
+              "id": "yd-about-the-day",
+              "title": "About the Day",
+              "shell": "yd-about-the-day"
+            }
+          ]
+        },
+        {
+          "name": "YD Timelines",
+          "features": [
+            {
+              "id": "yd-timeline-shine",
+              "title": "Timeline - Shine",
+              "shell": "yd-timeline-shine"
+            },
+            {
+              "id": "yd-building-blocks",
+              "title": "Building Blocks",
+              "shell": "yd-building-blocks"
+            }
+          ]
+        },
+        {
+          "name": "YD Comics",
+          "features": [
+            {
+              "id": "chassidishe-frames-5787",
+              "title": "Chassidishe Frames 5787",
+              "shell": "chassidishe-frames"
+            },
+            {
+              "id": "chassidishe-frames-5788",
+              "title": "Chassidishe Frames 5788",
+              "shell": "chassidishe-frames"
+            },
+            {
+              "id": "chassidishe-frames-5789",
+              "title": "Chassidishe Frames 5789",
+              "shell": "chassidishe-frames"
+            },
+            {
+              "id": "chassidishe-frames-5790",
+              "title": "Chassidishe Frames 5790",
+              "shell": "chassidishe-frames"
+            }
+          ]
+        },
+        {
+          "name": "YD Niggunim",
+          "features": [
+            {
+              "id": "yd-soul-expression",
+              "title": "Soul Expression",
+              "shell": "yd-niggunim"
+            }
+          ]
+        },
+        {
+          "name": "YD Game",
+          "features": [
+            {
+              "id": "yd-game",
+              "title": "YD Game",
+              "shell": "yd-game"
+            }
+          ]
+        },
+        {
+          "name": "YD Pisgam",
+          "features": [
+            {
+              "id": "yd-words-of-life",
+              "title": "Words of Life",
+              "shell": "yd-words-of-life"
+            }
+          ]
+        },
+        {
+          "name": "Videos",
+          "features": [
+            {
+              "id": "yd-videos",
+              "title": "Videos",
+              "shell": "yd-videos"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cheshbon-hanefesh",
+      "name": "Cheshbon Hanefesh",
+      "color": "navy",
+      "sections": [
+        {
+          "name": "Charge It!",
+          "features": [
+            {
+              "id": "charge-it-cheshbon",
+              "title": "Charge It!",
+              "shell": "charge-it-cheshbon"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "brias-haguf",
+      "name": "Brias Haguf",
+      "color": "green",
+      "sections": [
+        {
+          "name": "Charge It!",
+          "features": [
+            {
+              "id": "charge-it-brias-haguf",
+              "title": "Charge It!",
+              "shell": "charge-it-brias-haguf"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vehalachta-bedrachav",
+      "name": "Vehalachta Bedrachav",
+      "color": "orange",
+      "sections": [
+        {
+          "name": "Squad Drills",
+          "features": [
+            {
+              "id": "squad-drills-5784",
+              "title": "5784",
+              "grade": "3rd Grade",
+              "shell": "squad-drills"
+            },
+            {
+              "id": "squad-drills-5785",
+              "title": "5785",
+              "grade": "4th Grade",
+              "shell": "squad-drills"
+            },
+            {
+              "id": "squad-drills-5786",
+              "title": "5786",
+              "grade": "5th Grade",
+              "shell": "squad-drills"
+            },
+            {
+              "id": "squad-drills-5787",
+              "title": "5787",
+              "grade": "6th Grade",
+              "shell": "squad-drills"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

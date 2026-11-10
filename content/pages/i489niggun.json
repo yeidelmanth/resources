@@ -17,5 +17,9 @@
     "mission": "Learn this niggun",
     "source": "Source: "
   },
-  "type": "niggun-of-the-week"
+  "type": "niggun-of-the-week",
+  "issue": 489,
+  "features": [
+    "niggunim-shonos"
+  ]
 }

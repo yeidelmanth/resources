@@ -40,5 +40,9 @@
     },
     "source": "Source: Parshas Vayechi · 15 Teves 5787"
   },
-  "type": "orders-from-our-general"
+  "type": "orders-from-our-general",
+  "issue": 676,
+  "features": [
+    "orders-from-our-general"
+  ]
 }

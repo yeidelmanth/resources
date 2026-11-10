@@ -36,5 +36,9 @@
     "body": "",
     "source": "Source: Yom Tov Campaign · Sichos - Poems - Fly With Me"
   },
-  "type": "fly-with-me"
+  "type": "fly-with-me",
+  "issue": 600,
+  "features": [
+    "fly-with-me"
+  ]
 }

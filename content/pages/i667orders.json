@@ -40,5 +40,9 @@
     },
     "source": "Source: Parshas Lech Lecha · 12 Cheshvan 5787"
   },
-  "type": "orders-from-our-general"
+  "type": "orders-from-our-general",
+  "issue": 667,
+  "features": [
+    "orders-from-our-general"
+  ]
 }

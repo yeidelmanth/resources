@@ -40,5 +40,9 @@
     },
     "source": "Source: Parshas Noach · 5 Cheshvan 5787"
   },
-  "type": "orders-from-our-general"
+  "type": "orders-from-our-general",
+  "issue": 666,
+  "features": [
+    "orders-from-our-general"
+  ]
 }

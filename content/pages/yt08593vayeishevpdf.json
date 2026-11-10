@@ -52,5 +52,9 @@
     "body": "<p>מעֶן דאַרְף זיִך צּוהעֶרְן וואָס דיִ ליִכְטְלעֶך דעֶרְציֵילְן</p>",
     "source": "Source: Yom Tov Campaign · Sichos - Poems - Fly With Me"
   },
-  "type": "fly-with-me"
+  "type": "fly-with-me",
+  "issue": 593,
+  "features": [
+    "fly-with-me"
+  ]
 }

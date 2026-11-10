@@ -47,6 +47,9 @@ app.use((req, res, next) => {
 // ---------- helpers ----------
 const ID_RE = /^[A-Za-z0-9][A-Za-z0-9_ -]{0,80}$/;
 const pageFile = (id) => path.join(PAGES, `${id}.json`);
+// pages the build makes itself (Weekly Hachayol index, features, grades, Hachayol issues)
+const generatedPage = (id) => { const g = buildSite(CONTENT, { includeDrafts: true }).pages[id]; return g?.generated ? g : null; };
+const pageExists = (id) => fs.existsSync(pageFile(id)) || !!generatedPage(id);
 const dataFile = (name) => path.join(CONTENT, "data", `${name}.json`);
 const writeJson = (f, v) => {
   fs.mkdirSync(path.dirname(f), { recursive: true });
@@ -69,8 +72,8 @@ function validatePage(p, id) {
   if (p.id !== id) return "Page id does not match the address";
   if (!ID_RE.test(id)) return "Page id may use letters, numbers, spaces, - and _ only";
   if (!["article", "hub"].includes(p.template)) return "Unknown template";
-  if (p.parent && p.parent !== "home" && !fs.existsSync(pageFile(p.parent))) return `Parent page "${p.parent}" does not exist`;
-  if (p.altParent && !fs.existsSync(pageFile(p.altParent))) return `Campaign parent "${p.altParent}" does not exist`;
+  if (p.parent && p.parent !== "home" && !pageExists(p.parent)) return `Parent page "${p.parent}" does not exist`;
+  if (p.altParent && !pageExists(p.altParent)) return `Campaign parent "${p.altParent}" does not exist`;
   return null;
 }
 
@@ -98,15 +101,19 @@ app.get("/api/index", (req, res) => {
 });
 app.get("/api/pages/:id", (req, res) => {
   const f = pageFile(req.params.id);
-  if (!fs.existsSync(f)) return bad(res, "Not found", 404);
-  res.json(readJson(f));
+  if (fs.existsSync(f)) return res.json(readJson(f));
+  // a generated page opens as a starting point; saving it makes it a real page that replaces the generated one
+  const g = generatedPage(req.params.id);
+  g ? res.json(g) : bad(res, "Not found", 404);
 });
 app.put("/api/pages/:id", (req, res) => {
   const id = req.params.id, p = req.body;
   const err = validatePage(p, id);
   if (err) return bad(res, err);
-  if (!fs.existsSync(pageFile(id))) return bad(res, "Page does not exist; create it first", 404);
-  keepHistory("pages", id, pageFile(id));
+  const isNew = !fs.existsSync(pageFile(id));
+  if (isNew && !generatedPage(id)) return bad(res, "Page does not exist; create it first", 404);
+  delete p.generated;
+  if (!isNew) keepHistory("pages", id, pageFile(id));
   writeJson(pageFile(id), p);
   const types = readJson(dataFile("types"));
   res.json({ ok: true, index: indexEntry(p, types) });
@@ -231,7 +238,10 @@ app.get("/content/site.json", (req, res) => {
 });
 app.get("/content/pages/:file", (req, res) => {
   const f = path.join(PAGES, path.basename(req.params.file));
-  fs.existsSync(f) ? res.sendFile(f) : bad(res, "Not found", 404);
+  if (fs.existsSync(f)) return res.sendFile(f);
+  // index, campaign, feature, grade and Hachayol issue pages are made by the build
+  const g = generatedPage(path.basename(req.params.file).replace(/\.json$/, ""));
+  g ? res.json(g) : bad(res, "Not found", 404);
 });
 app.use("/uploads", express.static(UPLOADS));
 app.use("/admin", express.static(path.join(ROOT, "admin")));

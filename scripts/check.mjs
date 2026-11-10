@@ -16,7 +16,7 @@ const problems = [];
 const html = {};
 for (const p of Object.values(pages)) {
   try {
-    html[p.id] = renderPage(resolvePage(p, site.types), lookup);
+    html[p.id] = renderPage(resolvePage(p, site.types), lookup, { shells: site.shells, featureTitles: site.featureTitles });
   } catch (e) {
     problems.push(`${p.id}: does not render (${e.message})`);
     continue;
@@ -39,7 +39,9 @@ const oi = process.argv.indexOf("--original");
 if (oi > 0) {
   const { canon } = await import("./lib/dom.mjs");
   const orig = JSON.parse(fs.readFileSync(process.argv[oi + 1], "utf8"));
-  const changed = Object.keys(orig.pages).filter((id) => !html[id] || canon(html[id]) !== canon(orig.pages[id]));
+  // the Hachayol issue and feature chips are new, so leave them out of the comparison
+  const bare = (id) => { const p = { ...pages[id] }; delete p.issue; delete p.features; return renderPage(resolvePage(p, site.types), lookup, { shells: site.shells, featureTitles: site.featureTitles }); };
+  const changed = Object.keys(orig.pages).filter((id) => !pages[id] || canon(bare(id)) !== canon(orig.pages[id]));
   console.log(`Compared with the original site: ${Object.keys(orig.pages).length - changed.length} identical, ${changed.length} changed${changed.length ? ": " + changed.slice(0, 30).join(" ") : ""}`);
 }
 process.exitCode = uniq.some((x) => !x.includes("draft")) ? 1 : 0;

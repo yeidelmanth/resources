@@ -40,5 +40,9 @@
     },
     "source": "Source: Parshas Vayeitzei · 10 Kislev 5787"
   },
-  "type": "orders-from-our-general"
+  "type": "orders-from-our-general",
+  "issue": 671,
+  "features": [
+    "orders-from-our-general"
+  ]
 }

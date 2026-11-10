@@ -19,6 +19,12 @@ export const pageFields = [
   },
   { key: "draft", label: "Draft — hidden from the published site", kind: "bool" },
   {
+    kind: "group", label: "Weekly Hachayol", when: (o) => o.template === "article", of: [
+      { key: "issue", label: "Hachayol issue number", kind: "number", help: "Groups this spread with the rest of its issue on the Hachayol issue page (e.g. 668)." },
+      { key: "features", label: "Features", kind: "strings", addLabel: "Add feature id", help: "Feature ids from content/data/campaign-index.json, e.g. <code>roots-book-3</code>. The spread is listed on each feature's page. Its look comes from its page type's shell, content/shells/&lt;type&gt;.html." },
+    ],
+  },
+  {
     kind: "group", label: "Where it sits", of: [
       { key: "branch", label: "Branch", kind: "select", options: branchOptions, help: "Which top-menu tab lights up." },
       { key: "parent", label: "Parent page", kind: "page", help: "The Back button and breadcrumb trail come from this." },

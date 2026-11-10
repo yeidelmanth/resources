@@ -19,5 +19,9 @@
     "body": "<p><span class=\"mc\" style=\"color:#b24a34\">My Story 2 by JEM</span></p><p><span class=\"mc\">6 Tishrei missions</span></p>",
     "source": "Source: Rosh Hashana · 29 Elul 5787"
   },
-  "type": "chassidishe-frames"
+  "type": "chassidishe-frames",
+  "issue": 661,
+  "features": [
+    "chassidishe-frames-5787"
+  ]
 }

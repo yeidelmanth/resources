@@ -40,5 +40,9 @@
     },
     "source": "Source: Parshas Yisro · 21 Shvat 5787"
   },
-  "type": "orders-from-our-general"
+  "type": "orders-from-our-general",
+  "issue": 681,
+  "features": [
+    "orders-from-our-general"
+  ]
 }

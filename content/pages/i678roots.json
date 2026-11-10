@@ -36,5 +36,9 @@
       }
     ]
   },
-  "type": "roots"
+  "type": "roots",
+  "issue": 678,
+  "features": [
+    "roots-book-3"
+  ]
 }

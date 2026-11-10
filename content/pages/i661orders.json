@@ -37,5 +37,9 @@
     },
     "source": "Source: Rosh Hashana · 29 Elul 5787"
   },
-  "type": "orders-from-our-general"
+  "type": "orders-from-our-general",
+  "issue": 661,
+  "features": [
+    "orders-from-our-general"
+  ]
 }

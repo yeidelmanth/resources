@@ -344,6 +344,291 @@
     },
     "count": 41
   },
+  "niggunim-rallies": {
+    "label": "Rallies",
+    "template": "article",
+    "group": "Articles",
+    "defaults": {
+      "kick": "Niggunim · Niggunim",
+      "ribbon": "Rallies",
+      "ribbonColor": "teal"
+    },
+    "newPage": {
+      "branch": "campaign",
+      "parent": "cNiggunim"
+    },
+    "count": 0
+  },
+  "niggun-mechuvonim": {
+    "label": "Niggun Mechuvonim",
+    "template": "article",
+    "group": "Articles",
+    "defaults": {
+      "kick": "Niggunim · Niggunim",
+      "ribbon": "Niggun Mechuvonim",
+      "ribbonColor": "teal"
+    },
+    "newPage": {
+      "branch": "campaign",
+      "parent": "cNiggunim"
+    },
+    "count": 0
+  },
+  "yom-tov-living": {
+    "label": "Yom Tov Living",
+    "template": "article",
+    "group": "Articles",
+    "defaults": {
+      "kick": "Yom Tov · Sichos",
+      "ribbon": "Yom Tov Living",
+      "ribbonColor": "cyan"
+    },
+    "newPage": {
+      "branch": "campaign",
+      "parent": "cYomTov"
+    },
+    "count": 0
+  },
+  "yom-tov-with-the-rebbe": {
+    "label": "Yom Tov with the Rebbe",
+    "template": "article",
+    "group": "Articles",
+    "defaults": {
+      "kick": "Yom Tov · Stories",
+      "ribbon": "Yom Tov with the Rebbe",
+      "ribbonColor": "cyan"
+    },
+    "newPage": {
+      "branch": "campaign",
+      "parent": "cYomTov"
+    },
+    "count": 0
+  },
+  "yom-tov-game": {
+    "label": "Yom Tov Game",
+    "template": "article",
+    "group": "Articles",
+    "defaults": {
+      "kick": "Yom Tov · Game",
+      "ribbon": "Yom Tov Game",
+      "ribbonColor": "cyan"
+    },
+    "newPage": {
+      "branch": "campaign",
+      "parent": "cYomTov"
+    },
+    "count": 0
+  },
+  "pirkei-avos-full-art": {
+    "label": "Full Art",
+    "template": "article",
+    "group": "Articles",
+    "defaults": {
+      "kick": "Yom Tov · Pirkei Avos",
+      "ribbon": "Full Art",
+      "ribbonColor": "cyan"
+    },
+    "newPage": {
+      "branch": "campaign",
+      "parent": "cYomTov"
+    },
+    "count": 0
+  },
+  "pirkei-avos-stories": {
+    "label": "Pirkei Avos Stories",
+    "template": "article",
+    "group": "Articles",
+    "defaults": {
+      "kick": "Yom Tov · Pirkei Avos",
+      "ribbon": "Stories",
+      "ribbonColor": "cyan"
+    },
+    "newPage": {
+      "branch": "campaign",
+      "parent": "cYomTov"
+    },
+    "count": 0
+  },
+  "mishnah-biyun": {
+    "label": "Mishnah B'Iyun",
+    "template": "article",
+    "group": "Articles",
+    "defaults": {
+      "kick": "Yom Tov · Pirkei Avos",
+      "ribbon": "Mishnah B'Iyun",
+      "ribbonColor": "cyan"
+    },
+    "newPage": {
+      "branch": "campaign",
+      "parent": "cYomTov"
+    },
+    "count": 0
+  },
+  "parshafier-1": {
+    "label": "Parshafier 1",
+    "template": "article",
+    "group": "Articles",
+    "defaults": {
+      "kick": "Hiskashrus · Parsha Sichos",
+      "ribbon": "Parshafier 1",
+      "ribbonColor": "purple"
+    },
+    "newPage": {
+      "branch": "campaign",
+      "parent": "cHiskashrus"
+    },
+    "count": 0
+  },
+  "parshafier-2": {
+    "label": "Parshafier 2",
+    "template": "article",
+    "group": "Articles",
+    "defaults": {
+      "kick": "Hiskashrus · Parsha Sichos",
+      "ribbon": "Parshafier 2",
+      "ribbonColor": "purple"
+    },
+    "newPage": {
+      "branch": "campaign",
+      "parent": "cHiskashrus"
+    },
+    "count": 0
+  },
+  "maseh-rav-comics": {
+    "label": "Maseh Rav Comics",
+    "template": "article",
+    "group": "Articles",
+    "defaults": {
+      "kick": "Hiskashrus · Maseh Rav",
+      "ribbon": "Comics",
+      "ribbonColor": "purple"
+    },
+    "newPage": {
+      "branch": "campaign",
+      "parent": "cHiskashrus"
+    },
+    "count": 0
+  },
+  "yd-about-the-day": {
+    "label": "About the Day",
+    "template": "article",
+    "group": "Articles",
+    "defaults": {
+      "kick": "Yama Depagra · YD Articles",
+      "ribbon": "About the Day",
+      "ribbonColor": "gold"
+    },
+    "newPage": {
+      "branch": "campaign",
+      "parent": "cYomaDepagra"
+    },
+    "count": 0
+  },
+  "yd-timeline-shine": {
+    "label": "Timeline - Shine",
+    "template": "article",
+    "group": "Articles",
+    "defaults": {
+      "kick": "Yama Depagra · YD Timelines",
+      "ribbon": "Timeline - Shine",
+      "ribbonColor": "gold"
+    },
+    "newPage": {
+      "branch": "campaign",
+      "parent": "cYomaDepagra"
+    },
+    "count": 0
+  },
+  "yd-building-blocks": {
+    "label": "Building Blocks",
+    "template": "article",
+    "group": "Articles",
+    "defaults": {
+      "kick": "Yama Depagra · YD Timelines",
+      "ribbon": "Building Blocks",
+      "ribbonColor": "gold"
+    },
+    "newPage": {
+      "branch": "campaign",
+      "parent": "cYomaDepagra"
+    },
+    "count": 0
+  },
+  "yd-game": {
+    "label": "YD Game",
+    "template": "article",
+    "group": "Articles",
+    "defaults": {
+      "kick": "Yama Depagra · YD Game",
+      "ribbon": "YD Game",
+      "ribbonColor": "gold"
+    },
+    "newPage": {
+      "branch": "campaign",
+      "parent": "cYomaDepagra"
+    },
+    "count": 0
+  },
+  "yd-words-of-life": {
+    "label": "Words of Life",
+    "template": "article",
+    "group": "Articles",
+    "defaults": {
+      "kick": "Yama Depagra · YD Pisgam",
+      "ribbon": "Words of Life",
+      "ribbonColor": "gold"
+    },
+    "newPage": {
+      "branch": "campaign",
+      "parent": "cYomaDepagra"
+    },
+    "count": 0
+  },
+  "yd-videos": {
+    "label": "Yama Depagra Videos",
+    "template": "article",
+    "group": "Articles",
+    "defaults": {
+      "kick": "Yama Depagra · Videos",
+      "ribbon": "Videos",
+      "ribbonColor": "gold"
+    },
+    "newPage": {
+      "branch": "campaign",
+      "parent": "cYomaDepagra"
+    },
+    "count": 0
+  },
+  "charge-it-cheshbon": {
+    "label": "Charge It! (Cheshbon Hanefesh)",
+    "template": "article",
+    "group": "Articles",
+    "defaults": {
+      "kick": "Cheshbon Hanefesh · Charge It!",
+      "ribbon": "Charge It!",
+      "ribbonColor": "navy"
+    },
+    "newPage": {
+      "branch": "campaign",
+      "parent": "cCheshbon"
+    },
+    "count": 0
+  },
+  "charge-it-brias-haguf": {
+    "label": "Charge It! (Brias Haguf)",
+    "template": "article",
+    "group": "Articles",
+    "defaults": {
+      "kick": "Brias Haguf · Charge It!",
+      "ribbon": "Charge It!",
+      "ribbonColor": "green"
+    },
+    "newPage": {
+      "branch": "wh",
+      "parent": "wh-c-brias-haguf"
+    },
+    "count": 0
+  },
   "home": {
     "label": "Home page",
     "template": "hub",

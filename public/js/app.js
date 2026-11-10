@@ -266,7 +266,7 @@ async function route() {
     app.innerHTML = `<section class="page on"><div class="sec"><div class="wrap"><div class="empty"><h3>Page not found</h3><p>This page could not be loaded.</p></div></div></div></section>`;
     return;
   }
-  app.innerHTML = renderPage(resolvePage(page, SITE.types), lookup).replace('class="page"', 'class="page on"');
+  app.innerHTML = renderPage(resolvePage(page, SITE.types), lookup, { shells: SITE.shells, featureTitles: SITE.featureTitles }).replace('class="page"', 'class="page on"');
   const root = app.firstElementChild;
   fillImages(root);
   applyWeek(root);

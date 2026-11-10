@@ -8,6 +8,10 @@
     "label": "Campaign"
   },
   {
+    "id": "wh",
+    "label": "Weekly Hachayol"
+  },
+  {
     "id": "rally",
     "label": "TH Rally"
   },

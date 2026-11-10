@@ -20,5 +20,9 @@
     "body": "<p><span class=\"mc\" style=\"color:#b24a34\">Reshimas Devarim,</span></p><p><span class=\"mc\">9-10 Kislev missions</span></p>",
     "source": "Source: Parshas Toldos · 3 Kislev 5787"
   },
-  "type": "chassidishe-frames"
+  "type": "chassidishe-frames",
+  "issue": 670,
+  "features": [
+    "chassidishe-frames-5787"
+  ]
 }

@@ -57,5 +57,9 @@
       }
     ]
   },
-  "type": "orders-from-our-general"
+  "type": "orders-from-our-general",
+  "issue": 662,
+  "features": [
+    "orders-from-our-general"
+  ]
 }
