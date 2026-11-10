@@ -7,6 +7,7 @@ const years = [...new Set(S.issues.map((i) => i.data.year ?? 0))].sort((a, b) =>
 <Base title="Hachayol issues" crumbs={[["Hachayol issues"]]}>
   <h1 class="pg">Hachayol issues</h1>
   <p class="lede">{count(S.issues.length, "issue")}, newest first. Each issue page shows every spread printed in it.</p>
+  {S.issues.length === 0 && <div class="note"><b>No issues yet.</b> Each issue is a file in <code>v2/content/issues/</code>, e.g. <code>682.yml</code>.</div>}
   {years.map((y) => (
     <section>
       <h2 class="sh">{y ? `Year ${y}` : "Year not marked"}</h2>

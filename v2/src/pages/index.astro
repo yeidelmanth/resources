@@ -24,13 +24,14 @@ const campCount = (id: string) => S.spreads.filter((s) => S.feat(s).data.campaig
   </div>
 
   <h2 class="sh">Latest Hachayol issues</h2>
+  {latest.length === 0 && <div class="note"><b>No issues yet.</b> Add an issue and its spreads in the editor (see v2/README.md), and the newest issues show here.</div>}
   {latest.map((i) => (
     <div class="issue-strip">
       <a class="ih" href={url(`issues/${i.data.number}/`)}><b>Hachayol #{i.data.number}</b><span>{S.issueLabel(i)}</span></a>
       <div class="cards">{S.spreadsInIssue(i.data.number).slice(0, 6).map((s) => <SpreadCard spread={s} show="feature" />)}</div>
     </div>
   ))}
-  <p><a class="more" href={url("issues/")}>All {S.issues.length} issues →</a></p>
+  {latest.length > 0 && <p><a class="more" href={url("issues/")}>All {S.issues.length} issues →</a></p>}
 
   <h2 class="sh">Other ways in</h2>
   <div class="links">

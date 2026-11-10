@@ -14,6 +14,7 @@ const weeks = [...S.weeks.entries()].sort((a, b) => pos(a[0]) - pos(b[0]) || a[0
 <Base title="By week" crumbs={[["By week"]]}>
   <h1 class="pg">By week</h1>
   <p class="lede">Every parsha and Yom Tov that has a Hachayol issue, in order.</p>
+  {weeks.length === 0 && <div class="note"><b>Nothing here yet.</b> Weeks come from the <code>week:</code> of each issue.</div>}
   <div class="weeks">
     {weeks.map(([w, is]) => (
       <div class="wk">
